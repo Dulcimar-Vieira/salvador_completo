@@ -3,10 +3,10 @@ name: Processar Feed XML
 on:
   schedule:
     - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:  # Permite rodar manualmente
+  workflow_dispatch:  # Permite execução manual
 
 permissions:
-  contents: write  # Permite fazer commit e push no repositório
+  contents: write
 
 jobs:
   process-feed:
@@ -16,8 +16,8 @@ jobs:
       - name: Checkout do Repositório
         uses: actions/checkout@v4
 
-      - name: Configurar Cache do pip
-        uses: actions/cache@v4
+      - name: Configurar cache do pip
+        uses: actions/cache@v3
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -25,12 +25,18 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Instalar Dependências
-        run: pip install -r requirements.txt
+        run: |
+          pip install -r requirements.txt
 
       - name: Garantir pasta json_parts existe
         run: |
           mkdir -p json_parts
           touch json_parts/.gitkeep
+
+      - name: Limpar arquivos antigos
+        run: |
+          rm -f json_parts/*.json
+          rm -f merged.json
 
       - name: Baixar e Processar Feed XML
         run: |
@@ -42,7 +48,7 @@ jobs:
 
       - name: Verificar arquivos antes do commit
         run: |
-          ls -lh json_parts/ || echo "A pasta json_parts está vazia!"
+          ls -lh json_parts/ || echo "json_parts está vazia!"
           ls -lh merged.json || echo "merged.json não foi gerado!"
 
       - name: Configurar Git
@@ -52,7 +58,6 @@ jobs:
 
       - name: Commit e Push dos Arquivos JSON
         run: |
-          cd $GITHUB_WORKSPACE
           git add -f json_parts/
           git add -f merged.json
           git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
