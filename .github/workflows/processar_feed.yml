@@ -62,6 +62,19 @@ jobs:
           git add -f merged.json
           git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Commit e Push dos Arquivos JSON (forçar envio do merged.json)
+        run: |
+          cd $GITHUB_WORKSPACE
+          git add -f json_parts/
+          git add -f merged.json
+          timestamp=$(date)
+          git commit -m "Atualização automática dos arquivos JSON - $timestamp" || echo "Nada para commitar"
+          git push origin HEAD || echo "Nenhuma alteração para enviar"        
 
       - name: Verificar arquivos após o commit
         run: |
