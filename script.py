@@ -23,16 +23,10 @@ if response.status_code == 200:
         jobs = []
         for event, elem in ET.iterparse(f, events=("end",)):
             if elem.tag == "job":
-                title = elem.findtext("title", "").strip()
-
-                # 🔍 Filtrar apenas vagas de Jovem Aprendiz      
+                title = elem.findtext("title", "").strip()     
                     location_elem = elem.find("locations/location")
-                    if location_elem is not None:
-                        city = location_elem.findtext("city", "").strip()
-                        state = location_elem.findtext("state", "").strip()
-                    else:
-                        city = ""
-                        state = ""
+                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
+                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
 
                     job_data = {
                         "title": title,
