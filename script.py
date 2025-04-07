@@ -26,7 +26,7 @@ if response.status_code == 200:
                 title = elem.findtext("title", "").strip()
 
                 # 🔍 Filtrar apenas vagas de Jovem Aprendiz
-                if "jovem aprendiz" in title.lower() or "aprendiz" in title.lower():
+                if " " in title.lower() or " " in title.lower():
                     location_elem = elem.find("locations/location")
                     if location_elem is not None:
                         city = location_elem.findtext("city", "").strip()
