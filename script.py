@@ -25,8 +25,7 @@ if response.status_code == 200:
             if elem.tag == "job":
                 title = elem.findtext("title", "").strip()
 
-                # 🔍 Filtrar apenas vagas de Jovem Aprendiz
-                if " " in title.lower() or " " in title.lower():
+                # 🔍 Filtrar apenas vagas de Jovem Aprendiz      
                     location_elem = elem.find("locations/location")
                     if location_elem is not None:
                         city = location_elem.findtext("city", "").strip()
