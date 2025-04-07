@@ -3,10 +3,10 @@ name: Processar Feed XML
 on:
   schedule:
     - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:  # Permite execução manual
+  workflow_dispatch:  # Permite rodar manualmente
 
 permissions:
-  contents: write
+  contents: write  # Permite fazer commit e push no repositório
 
 jobs:
   process-feed:
@@ -16,40 +16,20 @@ jobs:
       - name: Checkout do Repositório
         uses: actions/checkout@v4
 
-      - name: Configurar cache do pip
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
       - name: Instalar Dependências
-        run: |
-          pip install -r requirements.txt
+        run: pip install requests
 
       - name: Garantir pasta json_parts existe
         run: |
           mkdir -p json_parts
           touch json_parts/.gitkeep
 
-      - name: Limpar arquivos antigos
-        run: |
-          rm -f json_parts/*.json
-          rm -f merged.json
-
       - name: Baixar e Processar Feed XML
         run: |
           python script.py || { echo "Erro ao executar script.py"; exit 1; }
 
-      - name: Mesclar arquivos JSON em merged.json
-        run: |
-          python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
-
-      - name: Verificar arquivos antes do commit
-        run: |
-          ls -lh json_parts/ || echo "json_parts está vazia!"
-          ls -lh merged.json || echo "merged.json não foi gerado!"
+      - name: Verificar arquivos JSON antes do commit
+        run: ls -lh json_parts/ || echo "A pasta está vazia ou não existe!"
 
       - name: Configurar Git
         run: |
@@ -58,25 +38,10 @@ jobs:
 
       - name: Commit e Push dos Arquivos JSON
         run: |
-          git add -f json_parts/
-          git add -f merged.json
-          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
-          git push || echo "Nenhuma alteração para enviar"
-      - name: Configurar Git
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-
-      - name: Commit e Push dos Arquivos JSON (forçar envio do merged.json)
-        run: |
           cd $GITHUB_WORKSPACE
           git add -f json_parts/
-          git add -f merged.json
-          timestamp=$(date)
-          git commit -m "Atualização automática dos arquivos JSON - $timestamp" || echo "Nada para commitar"
-          git push origin HEAD || echo "Nenhuma alteração para enviar"        
+          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
+          git push || echo "Nenhuma alteração para enviar"
 
-      - name: Verificar arquivos após o commit
-        run: |
-          ls -lh json_parts/
-          ls -lh merged.json
+      - name: Verificar arquivos JSON depois do commit
+        run: ls -lh json_parts/ || echo "A pasta está vazia ou não existe!"
