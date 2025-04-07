@@ -25,28 +25,26 @@ if response.status_code == 200:
             if elem.tag == "job":
                 title = elem.findtext("title", "").strip()
 
-                # 🔍 Filtrar apenas vagas de Jovem Aprendiz
-                if "jovem aprendiz" in title.lower() or "aprendiz" in title.lower():
-                    location_elem = elem.find("locations/location")
-                    if location_elem is not None:
-                        city = location_elem.findtext("city", "").strip()
-                        state = location_elem.findtext("state", "").strip()
-                    else:
-                        city = ""
-                        state = ""
+                # Pegando cidade e estado
+                location_elem = elem.find("locations/location")
+                if location_elem is not None:
+                    city = location_elem.findtext("city", "").strip()
+                    state = location_elem.findtext("state", "").strip()
+                else:
+                    city = ""
+                    state = ""
 
-                    job_data = {
-                        "title": title,
-                        "description": elem.findtext("description", "").strip(),
-                        "company": elem.findtext("company/name", "").strip(),
-                        "city": city,
-                        "state": state,
-                        "url": elem.findtext("urlDeeplink", "").strip(),
-                        "tipo": elem.findtext("jobType", "").strip(),
-                    }
+                job_data = {
+                    "title": title,
+                    "description": elem.findtext("description", "").strip(),
+                    "company": elem.findtext("company/name", "").strip(),
+                    "city": city,
+                    "state": state,
+                    "url": elem.findtext("urlDeeplink", "").strip(),
+                    "tipo": elem.findtext("jobType", "").strip(),
+                }
 
-                    jobs.append(job_data)
-
+                jobs.append(job_data)
                 elem.clear()
 
                 # Salvar em arquivos de 1000 registros
