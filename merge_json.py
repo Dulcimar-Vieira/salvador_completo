@@ -1,39 +1,28 @@
-import json
 import os
+import json
 
-pasta = 'json_parts'
-arquivos = sorted([
-    f for f in os.listdir(pasta)
-    if f.startswith('part_') and f.endswith('.json')
-])
+# Pasta onde estão os arquivos
+json_folder = "json_parts"
+merged_file = "merged.json"
 
-print(f"🔍 Arquivos encontrados: {arquivos}")
+# Lista para armazenar todos os dados
+all_jobs = []
 
-dados_totais = []
-erros = 0
+# Pegar e ordenar os arquivos JSON
+json_files = sorted(
+    [f for f in os.listdir(json_folder) if f.endswith(".json")],
+    key=lambda x: int(x.split("_")[1].split(".")[0])
+)
 
-for arquivo in arquivos:
-    caminho_completo = os.path.join(pasta, arquivo)
-    try:
-        with open(caminho_completo, 'r', encoding='utf-8') as f:
-            dados = json.load(f)
-            if isinstance(dados, list):
-                dados_totais.extend(dados)
-            else:
-                print(f"⚠️ {arquivo} não contém uma lista.")
-    except Exception as e:
-        erros += 1
-        print(f"❌ Erro ao processar {arquivo}: {e}")
+# Carregar cada arquivo e juntar os dados
+for filename in json_files:
+    file_path = os.path.join(json_folder, filename)
+    with open(file_path, "r", encoding="utf-8") as f:
+        jobs = json.load(f)
+        all_jobs.extend(jobs)
 
-if dados_totais:
-    with open('merged.json', 'w', encoding='utf-8') as f:
-        json.dump(dados_totais, f, ensure_ascii=False, indent=2)
-    print(f"✅ Arquivo 'merged.json' gerado com {len(dados_totais)} registros.")
-else:
-    print("⚠️ Nenhum dado válido encontrado para gerar o 'merged.json'.")
+# Salvar tudo em um único arquivo
+with open(merged_file, "w", encoding="utf-8") as f:
+    json.dump(all_jobs, f, ensure_ascii=False, indent=2)
 
-if erros > 0:
-    print(f"⚠️ {erros} arquivo(s) com erro foram ignorados.")
-    print(f"Total de arquivos mesclados: {len(json_files)}")
-print(f"Total de vagas finais: {len(all_jobs)}")
-print(f"✅ merged.json criado com sucesso!")
+print(f"Arquivo mesclado criado: {merged_file}")
