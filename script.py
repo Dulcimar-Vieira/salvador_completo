@@ -15,6 +15,15 @@ os.makedirs(json_folder, exist_ok=True)
 # Contador de arquivos
 file_count = 1
 
+# Cidades desejadas (em minúsculo para comparação segura)
+cidades_desejadas = [
+    "lauro de freitas",
+    "salvador",
+    "simões filho",
+    "camaçari",
+    "feira de santana"
+]
+
 # Baixar o feed XML comprimido
 response = requests.get(feed_url, stream=True)
 
@@ -35,17 +44,19 @@ if response.status_code == 200:
                         city = ""
                         state = ""
 
-                    job_data = {
-                        "title": title,
-                        "description": elem.findtext("description", "").strip(),
-                        "company": elem.findtext("company/name", "").strip(),
-                        "city": city,
-                        "state": state,
-                        "url": elem.findtext("urlDeeplink", "").strip(),
-                        "tipo": elem.findtext("jobType", "").strip(),
-                    }
+                    # Filtrar por cidade
+                    if city.lower() in cidades_desejadas:
+                        job_data = {
+                            "title": title,
+                            "description": elem.findtext("description", "").strip(),
+                            "company": elem.findtext("company/name", "").strip(),
+                            "city": city,
+                            "state": state,
+                            "url": elem.findtext("urlDeeplink", "").strip(),
+                            "tipo": elem.findtext("jobType", "").strip(),
+                        }
 
-                    jobs.append(job_data)
+                        jobs.append(job_data)
 
                 elem.clear()
 
