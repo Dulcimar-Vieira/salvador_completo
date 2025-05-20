@@ -1,4 +1,3 @@
-# script.py
 import requests
 import gzip
 import xml.etree.ElementTree as ET
@@ -37,24 +36,21 @@ if response.status_code == 200:
         jobs = []
         for event, elem in ET.iterparse(f, events=("end",)):
             if elem.tag == "job":
-                title = elem.findtext("title", "").strip()
+                location_elem = elem.find("locations/location")
+                city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
+                state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
 
-                if "jovem aprendiz" in title.lower() or "aprendiz" in title.lower():
-                    location_elem = elem.find("locations/location")
-                    city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
-                    state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
-
-                    if city.lower() in cidades_desejadas:
-                        job_data = {
-                            "title": title,
-                            "description": elem.findtext("description", "").strip(),
-                            "company": elem.findtext("company/name", "").strip(),
-                            "city": city,
-                            "state": state,
-                            "url": elem.findtext("urlDeeplink", "").strip(),
-                            "tipo": elem.findtext("jobType", "").strip(),
-                        }
-                        jobs.append(job_data)
+                if city.lower() in cidades_desejadas:
+                    job_data = {
+                        "title": elem.findtext("title", "").strip(),
+                        "description": elem.findtext("description", "").strip(),
+                        "company": elem.findtext("company/name", "").strip(),
+                        "city": city,
+                        "state": state,
+                        "url": elem.findtext("urlDeeplink", "").strip(),
+                        "tipo": elem.findtext("jobType", "").strip(),
+                    }
+                    jobs.append(job_data)
 
                 elem.clear()
 
