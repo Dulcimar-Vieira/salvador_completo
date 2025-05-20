@@ -1,3 +1,4 @@
+# .github/workflows/processar_feed.yml
 name: Processar Feed XML
 
 on:
@@ -6,7 +7,7 @@ on:
   workflow_dispatch:  # Permite rodar manualmente
 
 permissions:
-  contents: write  # Permite fazer commit e push no repositório
+  contents: write
 
 jobs:
   process-feed:
@@ -17,25 +18,29 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar Dependências
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
       - name: Garantir pasta json_parts existe
         run: |
           mkdir -p json_parts
           touch json_parts/.gitkeep
 
-      - name: Baixar e Processar Feed XML
+      - name: Executar script.py
         run: |
           python script.py || { echo "Erro ao executar script.py"; exit 1; }
 
-      - name: Mesclar arquivos JSON em merged.json
+      - name: Executar merge_json.py
         run: |
           python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
 
-      - name: Verificar arquivos antes do commit
+      - name: Verificar arquivos gerados
         run: |
-          ls -lh json_parts/ || echo "A pasta json_parts está vazia!"
-          ls -lh merged.json || echo "merged.json não foi gerado!"
+          echo "📁 Conteúdo da pasta json_parts:"
+          ls -lh json_parts/
+          echo "📄 merged.json:"
+          ls -lh merged.json || echo "merged.json não encontrado"
 
       - name: Configurar Git
         run: |
@@ -44,13 +49,7 @@ jobs:
 
       - name: Commit e Push dos Arquivos JSON
         run: |
-          cd $GITHUB_WORKSPACE
           git add -f json_parts/
           git add -f merged.json
           git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
-
-      - name: Verificar arquivos após o commit
-        run: |
-          ls -lh json_parts/
-          ls -lh merged.json
