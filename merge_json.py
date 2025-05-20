@@ -1,16 +1,15 @@
+# merge_json.py
 import os
 import json
 from datetime import datetime
 
-# Caminhos
-pasta = 'json_parts'
-arquivo_saida = 'merged.json'
+pasta = "json_parts"
+arquivo_saida = "merged.json"
 
-# Coletar arquivos válidos
 arquivos = sorted([
     f for f in os.listdir(pasta)
-    if f.startswith('part_') and f.endswith('.json')
-], key=lambda x: int(x.split('_')[1].split('.')[0]))
+    if f.startswith("part_") and f.endswith(".json")
+], key=lambda x: int(x.split("_")[1].split(".")[0]))
 
 print(f"🔍 {len(arquivos)} arquivos encontrados em '{pasta}'.")
 
@@ -20,7 +19,7 @@ erros = 0
 for arquivo in arquivos:
     caminho = os.path.join(pasta, arquivo)
     try:
-        with open(caminho, 'r', encoding='utf-8') as f:
+        with open(caminho, "r", encoding="utf-8") as f:
             dados = json.load(f)
             if isinstance(dados, list):
                 dados_totais.extend(dados)
@@ -37,7 +36,7 @@ if dados_totais:
         "total_vagas": len(dados_totais),
         "vagas": dados_totais
     }
-    with open(arquivo_saida, 'w', encoding='utf-8') as f:
+    with open(arquivo_saida, "w", encoding="utf-8") as f:
         json.dump(resultado, f, ensure_ascii=False, indent=2)
     tamanho_mb = os.path.getsize(arquivo_saida) / (1024 * 1024)
     print(f"✅ '{arquivo_saida}' gerado com {len(dados_totais)} vagas.")
