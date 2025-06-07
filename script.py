@@ -40,11 +40,21 @@ if response.status_code == 200:
                 city = location_elem.findtext("city", "").strip() if location_elem is not None else ""
                 state = location_elem.findtext("state", "").strip() if location_elem is not None else ""
 
+                # Ignorar se cidade ou estado estiverem vazios
+                if not city or not state:
+                    elem.clear()
+                    continue
+
+                # Verifica se a cidade está na lista desejada
                 if city.lower() in cidades_desejadas:
+                    company = elem.findtext("company/name", "").strip()
+                    if not company:
+                        company = "Confidencial"
+
                     job_data = {
                         "title": elem.findtext("title", "").strip(),
                         "description": elem.findtext("description", "").strip(),
-                        "company": elem.findtext("company/name", "").strip(),
+                        "company": company,
                         "city": city,
                         "state": state,
                         "url": elem.findtext("urlDeeplink", "").strip(),
