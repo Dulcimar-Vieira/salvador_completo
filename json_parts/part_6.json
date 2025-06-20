@@ -1,86 +1,5 @@
 [
   {
-    "title": "Certified Google Cloud Platform Engineer",
-    "description": "Mandatory Qualification:<br />Implementation experience with identity management and networking segmentation in GCP across multiple VPC networks and multiple projects.Work closely with Architect, Security/application team and provision GCP resources via terraformRespond to technical issues in a professional and timely manner.Offer guidance in infrastructure movement techniques, including bulk application transfers into the cloud.Identify the top cloud architecture solutions to successfully meet the needs of the company.Support cross-functional teams with establishing technical strategy and architecture at an enterprise level.Support scalable networking design including high availability, redundancy, fail-over and load balancing. Basic Qualifications:<br />3+ years of GCP experience on provisioning resources via TerraformGoogle Cloud Professional Certified.Strong expertise in GCP services (i.E. Cloud Services Platform, Google Kubernetes Engine, Compute Engine, Google Cloud Load Balancing, Storage, Security, Monitoring, etc.).Knowledge of Security, Identity and Access Management (IAM), Key Management, Access Controls and Security Protocols, Network routing, Firewalls, ACL's, cloud IaaS components on GCP",
-    "company": "Donyati",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396633__1953?utm_source=1953&utm_medium=feed&keyword=Certified-Google-Cloud&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor Fullstack Sênior Nodejs + Reactjs",
-    "description": "RequisitosObrigatório:<br />NodeJS utilizando NestJSReactJS utilizando Next.JSTestes Unitários usando JestEscrita de query SQL (MySQL e/ou PostgreSQLDesejável:<br />Conhecimentos Google Cloud (Cloud Run, PubSub, etc)Conhecimentos em PHPBoas praticas de desenvolvimento (SOLID, Design Patterns, etc)Inglês (leitura e escrita)Conhecimentos na área da saúdeIdiomas RequeridosInglês avançado 31-50%Tempo de ProjetoTemporário:<br /> 6 meses podendo renovarModelo de contratação:<br /> CLT + Benefícios ou PJTipo de Alocação:<br /> RemotaHorário de Trabalho:<br /> Seg à Sex - horário comercialA Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. Independentemente da sua, etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecerOs Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!!Quer saber mais? Acesse:<br />Https:<br />// a Softtek:<br /> Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore.Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite @Softtek no Twitter e seja nosso fã no Facebook  se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018.Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para  úvidas também podem ser enviadas ao e-mail   e",
-    "company": "Softtek",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396634__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor(A) Java/Aws",
-    "description": "Estamos em busca de uma pessoa para atuar com Desenvolvimento Java e com bons conhecimentos em AWS e seus serviços, para atuar em um dos nossos clientes do ramo bancário!Responsabilidades e atribuições:<br />Desenvolvimento de soluções robustas e escaláveis em ambientes bancários.Manutenção e evolução de sistemas legados em Java, além de migração para arquiteturas modernas (microserviços).Implementação de testes unitários e regressivos para garantir a qualidade do código.Aplicação de práticas de observabilidade para monitoramento de sistemas.Identificação e tratamento de vulnerabilidades de segurança.Colaboração com equipes multidisciplinares para aprimorar continuamente os processos e produtos.Requisitos e qualificações:<br />Experiência sólida em Java (versões 8, 17, 21).Conhecimento e experiência com AWS.Ter noções de DevOps.Foco em qualidade:<br /> testes unitários, testes regressivos, Sonar e tratamento de vulnerabilidades de segurança.Conhecimento em observabilidade.Experiência com DDD (Domain-Driven Design).Conhecimento em Spring.Capacidade crítica para identificar e implementar melhorias.Familiaridade com JSP e monolitos em Java.Experiência com microserviços, BFF (Backend for Frontend), Lambda, SQS e Kafka.Diferenciais:<br />Experiência prévia em projetos no setor bancário.Capacidade de trabalho em ambientes remotos.Informações adicionais:<br />Contratação CLTAtuação remotaBenefícios:<br />  Vale Alimentação ou Vale Refeição; <br />     Desconto em cursos,universidades e instituições de idiomas; <br />   Academia Stefanini - plataforma com cursos online, gratuitos, atualizados e com certificado; <br />   Mentoring;<br />  Clube de vantagens para consultas e exames; <br />   Assistência Médica;<br />",
-    "company": "Stefanini Brasil",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396635__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Aws&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Software Quality Assurance Tester",
-    "description": "About PrivacyHawkPrivacyHawk is a venture-backed startup dedicated to empowering users by making it easy to opt-out, unsubscribe, and delete personal data from thousands of companies. We are passionate advocates for user privacy and believe everyone deserves control over their digital footprint. If you're excited about privacy tech and eager to join an innovative startup from the ground up, PrivacyHawk is the place for you.Learn more about us at PrivacyHawk.Com or follow @privacyhawk on Instagram and Facebook.About the RoleAs a Software Quality Assurance Tester at PrivacyHawk, you'll ensure our software meets high-quality standards by thoroughly testing and evaluating product functionality. You'll collaborate closely with our engineering team to identify and resolve issues, contributing directly to product excellence and user satisfaction.Responsibilities:<br />Review & Analysis:<br /> Examine and understand system specifications.Test Planning:<br /> Work with QA Engineers to develop comprehensive test strategies and plans.Test Execution:<br /> Execute manual or automated test cases, analyze outcomes, and document results.Quality Evaluation:<br /> Assess product code against defined specifications and standards.Issue Documentation:<br /> Clearly log and document bugs, defects, and testing phases.Bug Reporting:<br /> Communicate effectively with developers to report issues and verify resolutions.Post-release Testing:<br /> Conduct testing following software releases and updates.Cross-functional Collaboration:<br /> Coordinate with developers, product managers, and customer support teams to maintain software quality.Technical Support:<br /> Provide support and troubleshoot technical issues for users.Pull Request QA:<br /> Perform quality assurance on code pull requests prior to deployment.Qualifications:<br />Must-Have:<br />Proven experience as a QA Tester or in a similar role.Experience with QA methodologies and project management.Familiarity with Agile frameworks and regression testing.Strong documentation and troubleshooting skills.Excellent communication and interpersonal abilities.Detail-oriented mindset with strong analytical and problem-solving skills.Organized, proactive, and collaborative working style.Preferred:<br />Bachelor's degree (BSc/BA) in Computer Science, Engineering, or related fields.Working experience with test management software such as qTest or Zephyr.Basic proficiency with SQL databases.Benefits:<br />Competitive Compensation:<br /> Highly competitive salary plus generous performance bonuses.Healthcare Stipend:<br /> To cover insurance/medical costsUnlimited PTO:<br /> Flexible time-off policy to maintain work-life balance.Stock Options:<br /> Opportunity to gain meaningful equity in our rapidly growing startup.Fully Remote:<br /> Flexible remote work environment.Career Growth:<br /> Direct mentorship and significant opportunities for professional development.",
-    "company": "PrivacyHawk",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396636__1953?utm_source=1953&utm_medium=feed&keyword=Software-Quality-Assurance&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor (A) Flutter (Sênior)",
-    "description": "Na CWI prezamos pela diversidade das relações, projetos e vivências. A valorização do indivíduo e o respeito são a base da nossa empresa, que figura entre as mais importantes do ramo de tecnologia no país. Quer fazer parte? Vem pra CWI! #vemsercwiser",
-    "company": "CWI Software",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396637__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Flutter&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor De Mainframe",
-    "description": "A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 17 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga:<br /> Desenvolvedor de Mainframe O que oferecemos a você:<br />- Assistência médica sem desconto para titulares- Assistência odontológica sem desconto para titulares- Cartão flex tanto para alimentação quanto refeição- Auxílio home office para vaga remota- Vale transporte para posições presenciais ou híbridas- Auxílio creche- Seguro de vida- Desconto em terapia:<br /> plataforma de apoio psicossocial- Parceria com instituições de ensino- Parceria com escolas de idiomas- Programa de subsídio para aulas de inglês- Programa de indicações:<br /> prêmio para indicações bem-sucedidas- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, Learning e Udemy, que possui mais de 80.000 cursos disponíveis- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!O que esperar desta posição:<br />Atuação em projeto de desenvolvimento e melhorias em sistemas bancários.Participação de projetos em metodologia Ágil; <br /> O que esperamos de você:<br />Experiência com On-line:<br /> Cobol CICS, Natural; <br /> Experiência comBatch:<br /> JCL, Cobol Batch, Syncsort; <br /> Procedures;<br />Experiência com VSAM; <br /> Experiência comROSCOE, ENDEVOR, SQL-DB2, JCL, SORT; <br /> Experiência comBanco dedados (DB2 - visão programador).O que fazer em seguida:<br />Caso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo. Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail",
-    "company": "Getronics",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396638__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-De-Mainframe&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor .Net Sênior",
-    "description": "Desenvolvedor .NET Sênior Job Description A Genesis Consulting tem oportunidade imediata para Desenvolvedores .NET experientes com verdadeira paixão por crescimento profissional e entrega de valor através da tecnologia. Nossos clientes são alguns dos principais líderes mundiais em diferentes indústrias e o candidato fará parte de projetos desafiadores para construir e apoiar soluções técnicas para suas necessidades. Perfil técnico:<br /> Sólidos conhecimentos em C#, .NET 3.5, .NET Core, .NET 6 ou superior Conhecimentos em Oracle PL/SQL e Entity Framework Bons conhecimentos em WebAPI, RestFul, Json, Angular Bons conhecimentos em Microsserviços, Mensageria, Containers, Cloud Conceitos de SOLID, TDD e BDD Atuação:<br /> Atuar em time Scrum com foco principal em desenvolvimento C# .Net; <br /> Entender as necessidades do cliente; <br /> Auxiliar na definição dos requisitos para criação e manutenção de sistemas/produtos; <br /> Participar ativamente do desenho das soluções Atuação em um dos maiores players do mercado nacional Regime de contratação:<br /> CLT Full + Pacote de Benefícios",
-    "company": "Genesis Consulting Partners, LLC",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396639__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Net-S%C3%AAnior&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor (A) Pleno",
-    "description": "O Magalu é uma das maiores empresas de varejo do Brasil, reconhecida por sua inovação e presença digital. O time de tecnologia do Magalu é formado por profissionais inovadores e apaixonados por transformar o varejo digital. Com foco em soluções ágeis e escaláveis, desenvolvem projetos que impactam milhões de clientes. Em um ambiente colaborativo, buscam constantemente a excelência em tecnologia e inovação. Como será o seu dia a diaCodificar; <br /> Escrever testes unitários, realizar testes integrados e funcionais; <br /> Realizar merge request;<br /> Revisão de código; <br /> Construir/Revisar documentos técnicos; <br /> Realizar atualizações no ambiente de produção; <br /> Acompanhar indicadoresde saúde de aplicações; <br /> Experiência em:<br /> HTML/CSS; <br /> ReactJS;<br /> Hooks;<br /> Gerenciamento de estados; <br /> Jest;<br /> Javascript;<br /> Clean Code; <br /> Git, Gitlab;<br /> Responsividade; <br /> Compatibilidade cross-browserExperiência em CI/CD será um diferencialBenefícios que oferecemos:<br />VR/VA, Vale Transporte, Assistência Médica e Odontológica e Auxílio Creche.Gympass para bem-estar e saúde.Bolsa de estudo com até 50% de desconto.Descontos especiais nas empresas do Grupo Magalu (Magalu, Netshoes, Época Cosméticos, Estante Virtual, Kabum entre outras).Auxílio CrecheModelo de TrabalhoAdotamos o modelo 100% remoto, proporcionando flexibilidade, enquanto mantém a interação virtual com a equipe para garantir uma colaboração eficaz e um ambiente de crescimento contínuo. ‘’Se você busca um ambiente de crescimento e desafios, Vem ser feliz’’!",
-    "company": "Luizalabs",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396640__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Backend Engineer – Node.Js (React Knowledge Preferred)",
-    "description": "Muito prazer, somos a Zallpy! Somos muito mais que uma empresa de tecnologia; <br /> somos uma comunidade diversa, plural e talentosa. Nosso propósito é liderar a transformação digital, com excelência e agilidade, promovendo crescimento mútuo e genuíno em relações éticas e duradouras. Flexibilidade é uma de nossas marcas registradas, atuamos em diferentes modelos e formatos de equipe, mantendo nossa cultura leve, colaborativa e integrada, proporcionando equidade de oportunidades em um espaço onde todos se sintam seguros e ouvidos.Principais Atividades:<br /> Desenvolver soluções técnicas que atendam os requisitos apresentados utilizando as tecnologias envolvidas no projeto; <br /> Atuação em estrutura detimes ágeis baseados na metodologia Ágil e com intensa troca de informações; <br /> Participação nas cerimônias para definição do backlog do produto para as Sprints, bem como Dailies, Reviews, Retros; <br /> Manter seu quadro de tarefas atualizado sobre o que está em pendente, em andamento e possíveis bloqueios; <br /> Utilizar as ferramentasde comunicação da empresa para manter-se atualizado sobre possíveis agendas e alinhamentos com o time; <br /> Realizar entregas de código coberto com testes unitários e de integração; <br /> Submissão de Pull Requests para revisão por parte do time; <br /> Requisitos:<br />Formação Superior em Tecnologia e similares (Em andamento ou completo); <br /> Experiência no Gerenciamento de Versões com Git, Git Flow; <br /> Experiência comDocker;<br /> Experiência no desenvolvimento de aplicações WEB utilizando React.JS; <br /> Experiência comcomponentização no front-end; <br /> Experiência comestilização de componentes utilizando styled-components; <br /> Experiência de testes unitários e de integração no front-end e back-end utilizando Jest; <br /> Experiência no desenvolvimento de aplicações utilizando NodeJS / Typescript; <br /> Experiência no desenvolvimento de aplicações com alto volume de dados e processamento assincrono; <br /> Experiência no desenvolvimento de aplicações API REST; <br /> Experiência no desenvolvimento de aplicações utilizando GraphQL; <br /> Experiência no desenvolvimento de aplicações utilizando MongoDB; <br /> Experiência na criação/manutenção de pipelines de CI/CD; <br /> Experiência em orquestração de contêineres com Kubernetes; <br /> Diferencias:<br />Ter atuado com serviços Cloud básicos (EC2, S3, RDS); <br /> Ter conhecimentos avançados de Design Patterns:<br /> SOLID, Clean Code, etc.Experiência com criação/gerenciamento de Serviços Cloud (AWS, Azure); <br /> Experiência comInfraestrutura como Código (IaaC) com Terraform, Consul, AWS, Azure ou similares; <br /> Modalidade de contratação:<br /> CLT.O que oferecemos:<br />   Vale Alimentação/Refeição:<br /> Utilizamos o cartão multibenefício EVA, em formato crédito, para proporcionar flexibilidade nas suas compras diárias.  Plano de Saúde Unimed:<br /> Sem coparticipação ou carência para o titular. Dependentes como filhos, cônjuges ou enteados podem ser incluídos com coparticipação.  Plano de Saúde Bradesco:<br /> Sem coparticipação tanto para titular quanto dependentes.",
-    "company": "Zallpy Digital",
-    "city": "Salvador",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___102_24396641__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "Desenvolvimento Java - Pleno - Id 120393",
     "description": "Sobre a vagaCom mais de 35 anos de mercado e localizada em 16 países, a GFT emprega mais de 10.000 pessoas ao redor do mundo sendo 3.000 pessoas no Brasil.Aqui, a diversidade, a igualdade e a inclusão estão no centro e garantir um ambiente de trabalho seguro para todas as pessoas faz parte de quem somos.Promovemos uma cultura de desenvolvimento e crescimento pautadas no nosso pilar de Continuous Scaled Learning porque acreditamos o uso inteligente da tecnologia é a chave para o sucesso nesse mundo digital.O que estamos buscando?Desenvolvimento Fulltack Java/Angular AWS - PlenoRequisitos:<br />Profissional com conhecimento em desenvolvimento Back End (60% demanda) e Front End (40% demanda), responsável por criar e/ou manter funcionalidades e telas da aplicação que tratam as regras negócio. Entre as suas principais atribuições temos o desenvolvimento, manutenção e testes de APIs para integração com outros sistemas e AI, com domínio de Java e Angular, com conhecimento em Cloud AWS.Necessário:<br /> Linguagem JAVA / Spring Boot Linguagem Python Linguagem Angular Desenvolvimento de API´s; <br /> Desenvolvimento Integração de telas com Back End Arquitetura de Micro serviços; <br /> Arquitetura de Micro Frontends; <br /> Conhecimento em AWS (SQS, S3, EC2, Lambda, Kafka), para integração com backend.Atuação 100% remoto.Descrição comportamental:<br /> Procuramos uma pessoa que:<br />Goste de trabalhar em equipe e seja colaborativa em suas atribuições; <br /> Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento; <br /> Transforme ideias em soluções criativas e busque qualidade em toda sua rotina; <br /> Tenha habilidades de resolução de problemas; <br /> Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo; <br /> Tenha interesseem lidarcom situações adversas e inovadoras no âmbito tecnológico.O que oferecemos:<br />Cartão multi-benefícios – você escolhe como e onde utilizar; <br /> Bolsas de Estudospara cursos de Graduação, Pós, MBA e Idiomas; <br /> Programas de incentivo à Certificações; <br /> Horário de trabalho flexível; <br /> Plano personalizado de carreira e possibilidade de carreira internacional; <br /> Salários competitivos;<br /> Avaliação de desempenho anual com possibilidade de bonificação; <br /> Gympass;<br />Previdência Privada; <br /> Auxílio-Creche;<br />Assistência Médica; <br /> Assistência Odontológica; <br /> Seguro de Vida.Big enough to deliver – small enough to care.#VempraGFT#VamosVoarJuntos#ProudToBeGFT",
     "company": "GFT Technologies",
@@ -2462,7 +2381,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163306__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Pricing&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163306__1953_eff596642e4595b831fff0f7ce4edf86?utm_source=1953&utm_medium=feed&keyword=Analista-de-Pricing&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2498,7 +2417,7 @@
     "company": "Trinnus RH",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163448__1953_8b5f3015c8e9241c4fff782a36561efd?utm_source=1953&utm_medium=feed&keyword=Professor-n%C3%ADvel-i&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163448__1953_1c073ca33baad062af7bcf80c242e05b?utm_source=1953&utm_medium=feed&keyword=Professor-n%C3%ADvel-i&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -2534,7 +2453,7 @@
     "company": "SIC GESTÃO RH",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163915__1953_ef46f3651da317e116f3e62de890b488?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-armazenamento&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5163915__1953_7d24f4c40fb4910890c70bec37e7960c?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-armazenamento&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -2570,7 +2489,7 @@
     "company": "Stefanini Group",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5164594__1953_cdc4c8b695d258b223e6cb0b81d42542?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-abap-s%C3%AAnior&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5164594__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-abap-s%C3%AAnior&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2606,7 +2525,7 @@
     "company": "Grupo NewChase",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165008__1953_1d758390799b48d6c155ac6df8d6fc5d?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-acess%C3%B3rios&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165008__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-acess%C3%B3rios&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2615,7 +2534,7 @@
     "company": "Grupo NewChase",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165009__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-cons%C3%B3rcio&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165009__1953_45a7a2e041a0c769c7240088335765f3?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-cons%C3%B3rcio&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2624,7 +2543,7 @@
     "company": "Grupo Vamos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165032__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-regional-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165032__1953_8be2c0913a2576b2c84ad8a838949f1a?utm_source=1953&utm_medium=feed&keyword=Gerente-regional-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2651,7 +2570,7 @@
     "company": "Facell",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165184__1953_214d72653d4d622a38ce1e4d251d2604?utm_source=1953&utm_medium=feed&keyword=Gerente-geral&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165184__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-geral&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2669,7 +2588,7 @@
     "company": "Votorantim Cimentos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165520__1953_f6e33be56e09d5414a1e9eb8df8ff3ad?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nica-mec%C3%A2nico-especialista-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165520__1953?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nica-mec%C3%A2nico-especialista-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2723,7 +2642,7 @@
     "company": "Farmácias Pague Menos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165949__1953_cd425128afd712e5de7b1b0a0f60f25a?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5165949__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2768,7 +2687,7 @@
     "company": "Empresa varejista no ramo de cosmeticos contrata!",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166046__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166046__1953_112e7aeb2231da65014c8bc572713c93?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2813,7 +2732,7 @@
     "company": "Grupo Ramiro Campelo",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166149__1953_f8b9421acabad2ef595d3fdd2f634c81?utm_source=1953&utm_medium=feed&keyword=Agente-adm-caixa&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166149__1953?utm_source=1953&utm_medium=feed&keyword=Agente-adm-caixa&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2822,7 +2741,7 @@
     "company": "Grupo Itadil",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166320__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-meio&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166320__1953_7469756d2b3dc479ee9a7ae744cc5d34?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-meio&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -2840,7 +2759,7 @@
     "company": "Santa Casa da Bahia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166353__1953_b5de1a85b3b350ab76c65f6071bde511?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-suprimentos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166353__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-suprimentos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2849,7 +2768,7 @@
     "company": "Organização Silveira de Contabilidade",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166461__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Cont%C3%A1bil&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166461__1953_fb92c4bc6ed9eaa948c6bc615e064dd4?utm_source=1953&utm_medium=feed&keyword=Assistente-Cont%C3%A1bil&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2867,7 +2786,7 @@
     "company": "SolMirandaRh",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166529__1953_bae2d5665422046f52f7b7757597fe1a?utm_source=1953&utm_medium=feed&keyword=Analista-financeiro&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5166529__1953?utm_source=1953&utm_medium=feed&keyword=Analista-financeiro&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -2921,7 +2840,7 @@
     "company": "Fundação José Silveira",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167040__1953_5389adebc31f27520c774fdb7fe3ea16?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-uti&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167040__1953_9a416da85121ac918ad238213aa6fd11?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-uti&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2957,7 +2876,7 @@
     "company": "Mosello",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167317__1953_3dab0e9917f9bda3b4452ef79e5cac81?utm_source=1953&utm_medium=feed&keyword=Vaga-advogado-contencioso&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167317__1953?utm_source=1953&utm_medium=feed&keyword=Vaga-advogado-contencioso&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -2984,7 +2903,7 @@
     "company": "Falqon",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167396__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167396__1953_16283da78a7c96aa05e74f94bef29256?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3002,7 +2921,7 @@
     "company": "GVC",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167417__1953_acc8d9e5aa5a9f48a8a05a9de114ce50?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Compras&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167417__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Compras&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3020,7 +2939,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167505__1953?utm_source=1953&utm_medium=feed&keyword=Vaga-para-analista&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167505__1953_ae33cc39e9d2712ad6bee42fc21397b0?utm_source=1953&utm_medium=feed&keyword=Vaga-para-analista&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3065,7 +2984,7 @@
     "company": "G.M.ADMINISTRACAO E SERVICOS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167972__1953_fd63c0e9c08912c38d93f40be7674437?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-futebol&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5167972__1953?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-futebol&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3128,7 +3047,7 @@
     "company": "Grupo DPSP – Drogarias Pacheco São Paulo",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168457__1953_f52325d5559a57f518b2221e45663425?utm_source=1953&utm_medium=feed&keyword=Atendente-de-drogaria&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168457__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-de-drogaria&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -3164,7 +3083,7 @@
     "company": "Kofre Representação e Comércio de Telecomunicações LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168554__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-sac&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168554__1953_b5a4425895c19ab33fa168b127a880e1?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-sac&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3182,7 +3101,7 @@
     "company": "Proradis",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168712__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-seguran%C3%A7a&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168712__1953_d27d4a54f6e14d9220c56b8f2974fc0c?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-seguran%C3%A7a&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -3200,7 +3119,7 @@
     "company": "Trinnus RH",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168801__1953_ef971c12fbef5bf7aa00cc0c55c1dcdd?utm_source=1953&utm_medium=feed&keyword=Analista-de-processos&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168801__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-processos&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -3218,7 +3137,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168803__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-especializado-ii&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168803__1953_83a2dba3ea97bb2572a8242ad8775a41?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-especializado-ii&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3227,7 +3146,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168810__1953_862c11b80323f85449ef6c6111be3721?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-educa%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168810__1953?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-educa%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3245,7 +3164,7 @@
     "company": "Falqon",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168824__1953_440824a5e2bf78e77cfa508c31c8f366?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-crm&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5168824__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-crm&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3290,7 +3209,7 @@
     "company": "SLG - Sales Leaders Group",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169121__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-comercial&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169121__1953_a0589a099a9274f2d4c2c866af9fa08a?utm_source=1953&utm_medium=feed&keyword=Consultor-comercial&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3353,7 +3272,7 @@
     "company": "SANTA CASA DE MISERICORDIA DE RUY BARBOSA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169886__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169886__1953_1100bf3a18738399122633513f093824?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3398,7 +3317,7 @@
     "company": "Veneza",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169981__1953_6cb88508ebe1d532149fa52017d2c9b0?utm_source=1953&utm_medium=feed&keyword=Consultor-t%C3%A9cnico-ii&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5169981__1953_28582c78706322c700d76f3ca2b5baf5?utm_source=1953&utm_medium=feed&keyword=Consultor-t%C3%A9cnico-ii&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3443,7 +3362,7 @@
     "company": "Vedacit",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5170719__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5170719__1953_48537fd49e7b7e51fe36019a7eed8f68?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3479,7 +3398,7 @@
     "company": "Santa Casa da Bahia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171003__1953_b74d9429d19bc9f064596428dd057ba6?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistemas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171003__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistemas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3488,7 +3407,7 @@
     "company": "Santa Casa da Bahia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171004__1953_732604e09cc5169917be001dca38a845?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Recep%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171004__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Recep%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3551,7 +3470,7 @@
     "company": "Grupo NewChase",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171430__1953?utm_source=1953&utm_medium=feed&keyword=Monitor-de-relacionamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171430__1953_e590dc46d6d471d556b7bd066e353410?utm_source=1953&utm_medium=feed&keyword=Monitor-de-relacionamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3605,7 +3524,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171488__1953_e26f459e9a548bb098d5543ad83ac107?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-design&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171488__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-design&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3614,7 +3533,7 @@
     "company": "KPMG Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171539__1953_18463b9eddd86a09d820f1a2d4b537b3?utm_source=1953&utm_medium=feed&keyword=Consultor-de-valuation&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5171539__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-valuation&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3650,7 +3569,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172082__1953_b0118a243752bf5140960c08a7e22d3b?utm_source=1953&utm_medium=feed&keyword=Analista-de-planejamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172082__1953_881b7b88222c6c0ae46692b75ae1b827?utm_source=1953&utm_medium=feed&keyword=Analista-de-planejamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3659,7 +3578,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172083__1953_5a0a21974ddd15ca91282c90da4309bc?utm_source=1953&utm_medium=feed&keyword=Analista-de-custos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172083__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-custos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3686,7 +3605,7 @@
     "company": "O Varejão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172171__1953_4ebbf4ed254f265384f64171060f0c17?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172171__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -3713,7 +3632,7 @@
     "company": "Mosello",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172183__1953_44b836c8cd91711cba1058baf2f04687?utm_source=1953&utm_medium=feed&keyword=Vaga-para-analytics&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172183__1953?utm_source=1953&utm_medium=feed&keyword=Vaga-para-analytics&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3722,7 +3641,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172197__1953_bda88d838740484d857f451e44bd7db5?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172197__1953_9dfa68799c067ef936177589bc8df22d?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3758,7 +3677,7 @@
     "company": "SIC GESTÃO RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172728__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-Comercial&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172728__1953_edb2b8bd2256daa78ca4a936a438b052?utm_source=1953&utm_medium=feed&keyword=Supervisor-Comercial&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3776,7 +3695,7 @@
     "company": "Trinnus RH",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172785__1953_bb3f77c94c00a9c2fe2213f7aa260921?utm_source=1953&utm_medium=feed&keyword=Instrutor-ii&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172785__1953?utm_source=1953&utm_medium=feed&keyword=Instrutor-ii&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -3785,7 +3704,7 @@
     "company": "UZE PROMOTORA DE VENDAS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172963__1953_264ebe157a6a3bff1c82f91f7c7619af?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5172963__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3857,7 +3776,7 @@
     "company": "Arttha Gestão & RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5173683__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5173683__1953_c51fe72b3e98452906bd5e90385b0d88?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3875,7 +3794,7 @@
     "company": "SIC GESTÃO RH",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174062__1953_988bb3486e9d52c16d5bc72dbcb13ee8?utm_source=1953&utm_medium=feed&keyword=Motorista-categoria-b&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174062__1953_817b2eecf18e3edc510461e93cd7f265?utm_source=1953&utm_medium=feed&keyword=Motorista-categoria-b&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -3884,7 +3803,7 @@
     "company": "ITS TELECOMUNICACOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174220__1953_ab21d657fd632560ba12648f47a6a75d?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-i&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174220__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-i&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3893,7 +3812,7 @@
     "company": "ITS TELECOMUNICACOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174221__1953_ebe3230347d1f647db56add928480c29?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-i&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174221__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-i&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -3911,7 +3830,7 @@
     "company": "W P S PINGO DISTRIBUIDORA LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174228__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174228__1953_f785ec0400cd4cd57e12b9e6f9ff146f?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -3929,7 +3848,7 @@
     "company": "IMPERIAL DISTRIBUIDORA DE EQUIPAMENTOS DE SEGURANCA LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174421__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5174421__1953_807ca9172e0f9cf4dc0b674ab0c8be98?utm_source=1953&utm_medium=feed&keyword=Assistente-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4019,7 +3938,7 @@
     "company": "dnata Brasil- Vagas Disponíveis",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176093__1953?utm_source=1953&utm_medium=feed&keyword=Ssa-agente-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176093__1953_13193e6f143a5fbcca0b37d67cd3212e?utm_source=1953&utm_medium=feed&keyword=Ssa-agente-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4028,7 +3947,7 @@
     "company": "dnata Brasil- Vagas Disponíveis",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176094__1953?utm_source=1953&utm_medium=feed&keyword=Ssa-auxiliar-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176094__1953_548fcf3997ebfebaea4a89fda3c1f6a9?utm_source=1953&utm_medium=feed&keyword=Ssa-auxiliar-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4046,7 +3965,7 @@
     "company": "dnata Brasil- Vagas Disponíveis",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176096__1953_c962cd14d4a12a6ef2958303745510d0?utm_source=1953&utm_medium=feed&keyword=Ssa-banco-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176096__1953?utm_source=1953&utm_medium=feed&keyword=Ssa-banco-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4073,7 +3992,7 @@
     "company": "dnata Brasil- Vagas Disponíveis",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176099__1953_0798d0d0d1b8d1a63fb9eaad70dbd26e?utm_source=1953&utm_medium=feed&keyword=Ssa-manuten%C3%A7%C3%A3o-gse&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176099__1953_26c90f95104b6c58f4f7c23fb43f9458?utm_source=1953&utm_medium=feed&keyword=Ssa-manuten%C3%A7%C3%A3o-gse&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4082,7 +4001,7 @@
     "company": "dnata Brasil- Vagas Disponíveis",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176100__1953?utm_source=1953&utm_medium=feed&keyword=Ssa-operador-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176100__1953_4c57147d22c9af95b58c1027ecca0641?utm_source=1953&utm_medium=feed&keyword=Ssa-operador-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4100,7 +4019,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176204__1953_1414ddd04faace6bce63dd82a96723cf?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-pe%C3%A7as&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176204__1953_f2f375a87d77d27e88513a99be9803ce?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-pe%C3%A7as&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4109,7 +4028,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176205__1953_d2fb42e24f79ecf3fa2d5cb4d2d86002?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176205__1953_a2f464760825c22d8102d6671cefdb65?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4118,7 +4037,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176206__1953_96fe7b95f2c08c369df15354e480cc07?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176206__1953_f125ed39a59b2e17de8aa7886fe83d79?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4181,7 +4100,7 @@
     "company": "Pif Paf Alimentos Administrativo",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176609__1953_0b6c46bcf4cf3d76a62e6aabc53b7a52?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176609__1953_26c1d91057c24dcd151c029be3d94bd6?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4235,7 +4154,7 @@
     "company": "Connect RH",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176964__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-cl%C3%ADnica&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5176964__1953_8ea5b2f72629bed9c8d806160a576bfc?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-cl%C3%ADnica&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -4298,7 +4217,7 @@
     "company": "Inovar Telecom",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178087__1953_3ee192528dc4c9c33a7f0a5926d46f28?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-infra&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178087__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-infra&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4307,7 +4226,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178139__1953_3d7a9cab5ffcfa6cb7cce212d7310a36?utm_source=1953&utm_medium=feed&keyword=Especialista-em-marketing&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178139__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-em-marketing&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4334,7 +4253,7 @@
     "company": "MOTOPEL MOTOS E PECAS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178539__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178539__1953_644ff32817cc7adcb63e22739768a74f?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4361,7 +4280,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178899__1953_13fff3b9a9030f28110352f60ef58942?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-apura%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178899__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-apura%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4397,7 +4316,7 @@
     "company": "Atakadão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178939__1953_eaa1212ff46f9ab5bcf4707ba270c324?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178939__1953?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4406,7 +4325,7 @@
     "company": "Atakadão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178940__1953?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178940__1953_3792126db6b42a3d7e26d0cee32dcd20?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4424,7 +4343,7 @@
     "company": "Atakadão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178942__1953?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178942__1953_3841c4777fbaba49fa702e5297ee22e6?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4451,7 +4370,7 @@
     "company": "Atakadão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178945__1953?utm_source=1953&utm_medium=feed&keyword=A%C3%A7ougueiro-feira&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178945__1953_a6ba83dfe00ba382a898caf9ae1833ec?utm_source=1953&utm_medium=feed&keyword=A%C3%A7ougueiro-feira&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4487,7 +4406,7 @@
     "company": "Atakadão",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178949__1953_a8fb4736ee2c32d58cfdce88d4a2e612?utm_source=1953&utm_medium=feed&keyword=Conferente-de-notas&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5178949__1953?utm_source=1953&utm_medium=feed&keyword=Conferente-de-notas&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4523,7 +4442,7 @@
     "company": "MULTICOM ATACADO E VAREJO S/A",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179026__1953_c4d036562a7cdd7709eaece31fff35ac?utm_source=1953&utm_medium=feed&keyword=Analista-de-compras&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179026__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-compras&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4541,7 +4460,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179193__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-infraestrutura&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179193__1953_bb490432b6d220a0d33a1f123daa4619?utm_source=1953&utm_medium=feed&keyword=Analista-de-infraestrutura&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4577,7 +4496,7 @@
     "company": "Unidas",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179643__1953_2c42e0a2a3b8f96151e3067af6300c0f?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179643__1953_6d66056ebad4c706b295da0f271854c5?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-ve%C3%ADculos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4586,7 +4505,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179722__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh-dp&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5179722__1953_a05a97483250a257f53a60b59ab19b5f?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh-dp&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4631,7 +4550,7 @@
     "company": "Labchecap - Laboratorios De Analises Clinicas Ltda.",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180128__1953_8dc056447523b9596bd205d3267f8881?utm_source=1953&utm_medium=feed&keyword=Analista-clinico-pleno&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180128__1953?utm_source=1953&utm_medium=feed&keyword=Analista-clinico-pleno&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -4676,7 +4595,7 @@
     "company": "Ambev",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180327__1953_fde5b458a5957aa3930d5419088d3b0f?utm_source=1953&utm_medium=feed&keyword=Conferente-de-armaz%C3%A9m&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180327__1953?utm_source=1953&utm_medium=feed&keyword=Conferente-de-armaz%C3%A9m&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4685,7 +4604,7 @@
     "company": "Ambev",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180329__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-externo&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180329__1953_05fb2e95c129cdbf8a7639bc7a262c3b?utm_source=1953&utm_medium=feed&keyword=Vendedor-externo&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4757,7 +4676,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180744__1953_8d25d8fbbeb9198b26758c7346ba3367?utm_source=1953&utm_medium=feed&keyword=Asg-auxiliar&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5180744__1953?utm_source=1953&utm_medium=feed&keyword=Asg-auxiliar&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4784,7 +4703,7 @@
     "company": "Alvoar Lácteos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181176__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-varejo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181176__1953_261bf82c967df397283405d4142683fb?utm_source=1953&utm_medium=feed&keyword=Vendedor-varejo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4793,7 +4712,7 @@
     "company": "JOSE CARLOS CARNEIRO LIMA & CIA LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181337__1953_e5b9a92d7fbd548aefc7ededa1fbb7cc?utm_source=1953&utm_medium=feed&keyword=Analista-Cl%C3%ADnico&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181337__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Cl%C3%ADnico&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4820,7 +4739,7 @@
     "company": "Fundação José Silveira",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181518__1953_e2f11b5b249ed97c4f41afb247300e3d?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-Centro-Cir%C3%BArgico&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5181518__1953_7aec929df253440f6dfde79de31c859f?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-Centro-Cir%C3%BArgico&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4847,7 +4766,7 @@
     "company": "dealerhunter",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182073__1953_aa11427da7b4511d28ddc2ec81696877?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-cons%C3%B3rcio&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182073__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-cons%C3%B3rcio&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -4910,7 +4829,7 @@
     "company": "Alvoar Lácteos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182621__1953?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-trade&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182621__1953_159900d55eb33808e71fde5ddd67917d?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-trade&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4919,7 +4838,7 @@
     "company": "Alvoar Lácteos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182622__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-adm-comercial-salvador&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182622__1953_874d002c2b002de52cf65138914fae55?utm_source=1953&utm_medium=feed&keyword=Aprendiz-adm-comercial-salvador&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -4973,7 +4892,7 @@
     "company": "Connect RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182883__1953_c9b65c6499d1fee6d716b479db595275?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Comercial&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5182883__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Comercial&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5000,7 +4919,7 @@
     "company": "N.D ARAUJO E CIA LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183159__1953_7d7560a84cba5172313ad91203dc9040?utm_source=1953&utm_medium=feed&keyword=Vendedor-projetista-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183159__1953_691f9abc62c8201a73bc8387f194d3e1?utm_source=1953&utm_medium=feed&keyword=Vendedor-projetista-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5081,7 +5000,7 @@
     "company": "Macêdo RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183563__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-de-p%C3%B3s&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183563__1953_178e76a38bfd7da0ce96627b46ab536f?utm_source=1953&utm_medium=feed&keyword=Atendente-de-p%C3%B3s&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5108,7 +5027,7 @@
     "company": "SOFTWELL SOLUTIONS EM INFORMATICA S/A",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183781__1953_29b85ae7daf21d8ac4df7cdb5cb6514b?utm_source=1953&utm_medium=feed&keyword=Analista-de-Inova%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183781__1953_8660c595188f16339967e2dd25cbfbd3?utm_source=1953&utm_medium=feed&keyword=Analista-de-Inova%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5126,7 +5045,7 @@
     "company": "Farmácias Pague Menos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183875__1953_4b5a36d95823b139807b23a16a339e84?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5183875__1953_065b3854cd491d7514fdec611e6fb129?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5135,7 +5054,7 @@
     "company": "Cubos Academy",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5184026__1953_7c9962dfe7cfc94010c0a9c0b08ad658?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5184026__1953_96e4f5398453216fcd5077ece2fbed30?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5162,7 +5081,7 @@
     "company": "BRANEF TECNOLOGIA DA INFORMACAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5184308__1953?utm_source=1953&utm_medium=feed&keyword=Ui-ux&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5184308__1953_84e265a494afe1e20ee3aa5c73ec10f5?utm_source=1953&utm_medium=feed&keyword=Ui-ux&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5207,7 +5126,7 @@
     "company": "C&A Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5185168__1953_6ad75596f5afb567c357525c169273fc?utm_source=1953&utm_medium=feed&keyword=Inspetor-de-preven%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5185168__1953_07a6dd7ac8fcc7e2ca9f4f98b89995a3?utm_source=1953&utm_medium=feed&keyword=Inspetor-de-preven%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5252,7 +5171,7 @@
     "company": "Vem pra Rede UniFTC",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5185588__1953_1bced497c3d62641e994e3f4db5b6a07?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-m%C3%ADdias&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5185588__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-m%C3%ADdias&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5297,7 +5216,7 @@
     "company": "Timenow",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186418__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-projetos&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186418__1953_da904e0c2ddc332260b1a6d4bfcf316f?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-projetos&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -5315,7 +5234,7 @@
     "company": "SolMirandaRh",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186707__1953_ab24e3453563de286b1c42cdaade56b7?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186707__1953?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -5324,7 +5243,7 @@
     "company": "Clima Rio",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186740__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-log%C3%ADstica&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186740__1953_c8c9e9ebcb7e323c21f301f9b3aa3fd5?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-log%C3%ADstica&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5342,7 +5261,7 @@
     "company": "Monte Rodovias",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186867__1953_84bee7ffd72228d47d09181a4396e35b?utm_source=1953&utm_medium=feed&keyword=Designer-social-media&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5186867__1953_a0e3e4cfe2d9c3653d51b836cd9ec724?utm_source=1953&utm_medium=feed&keyword=Designer-social-media&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5387,7 +5306,7 @@
     "company": "Labchecap - Laboratorios De Analises Clinicas Ltda.",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187432__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-almoxarifado&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187432__1953_4bf37705d0e52d8850ef9afa29656c1c?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-almoxarifado&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -5423,7 +5342,7 @@
     "company": "Miskoh",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187565__1953_214ba78f601c90fe638fd89fbf8236fb?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-barman&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187565__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-barman&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5432,7 +5351,7 @@
     "company": "Miskoh",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187566__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Cozinha&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187566__1953_098e861a20a216c53bec922ada7d6e6a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Cozinha&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5486,7 +5405,7 @@
     "company": "Miskoh",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187572__1953?utm_source=1953&utm_medium=feed&keyword=Gar%C3%A7om&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187572__1953_4e23ae62d3300bdbbc397a592d6c2886?utm_source=1953&utm_medium=feed&keyword=Gar%C3%A7om&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5513,7 +5432,7 @@
     "company": "Miskoh",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187575__1953_5f070158e16f9ec2076abbfdc71e45dd?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187575__1953?utm_source=1953&utm_medium=feed&keyword=Recepcionista&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5558,7 +5477,7 @@
     "company": "TEL Contact Center",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187997__1953_de43a5a1ba81301f539025b4307243bf?utm_source=1953&utm_medium=feed&keyword=Analista-de-planejamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5187997__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-planejamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5567,7 +5486,7 @@
     "company": "Brivia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5188031__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Estrat%C3%A9gia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5188031__1953_4800805add2dbf3004d48d6fe42717ec?utm_source=1953&utm_medium=feed&keyword=Analista-de-Estrat%C3%A9gia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5576,7 +5495,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5188153__1953_eedfbc1e96b21fcb93d2084634780ddf?utm_source=1953&utm_medium=feed&keyword=Gerente-de-obras&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5188153__1953_0323d95b2f87e584cda6c4d35347ad27?utm_source=1953&utm_medium=feed&keyword=Gerente-de-obras&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5639,7 +5558,7 @@
     "company": "CEMITERIO PARQUE DE SALVADOR S.A.",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189148__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-acolhimento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189148__1953_cac16c76339a2b0b9e0c25b7c4103956?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-acolhimento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5693,7 +5612,7 @@
     "company": "Farmácias Pague Menos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189538__1953_5030ed89dd7a6b767bd40b1e90210f0a?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189538__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5702,7 +5621,7 @@
     "company": "Farmácias Pague Menos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189540__1953_0525c16a1684e48f6281b9a70c6ab39f?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5189540__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-operadora-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5747,7 +5666,7 @@
     "company": "Obras Sociais Irmã Dulce",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190072__1953?utm_source=1953&utm_medium=feed&keyword=Copeiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190072__1953_a4d304387c7021173cc17d6bb75e7703?utm_source=1953&utm_medium=feed&keyword=Copeiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5756,7 +5675,7 @@
     "company": "QCA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190149__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-jur%C3%ADdico&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190149__1953_d976421c8d3aadfd3b0284160b1220c6?utm_source=1953&utm_medium=feed&keyword=Assistente-jur%C3%ADdico&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5774,7 +5693,7 @@
     "company": "Pan American Silver Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190742__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-tribut%C3%A1rio&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190742__1953_6c66db631bc99eea0a86d795f55f8170?utm_source=1953&utm_medium=feed&keyword=Especialista-de-tribut%C3%A1rio&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5792,7 +5711,7 @@
     "company": "Fundação José Silveira",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190823__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-radiologia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190823__1953_98faef3b51dd12ccc67616a62d9aabcc?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-radiologia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5810,7 +5729,7 @@
     "company": "Freitas",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190975__1953?utm_source=1953&utm_medium=feed&keyword=Operador-comercial-ii&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5190975__1953_1a46976f05caea046ac7d5cd2cf8d76a?utm_source=1953&utm_medium=feed&keyword=Operador-comercial-ii&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -5828,7 +5747,7 @@
     "company": "Hubnexxo Soluções Empresariais",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191006__1953_beb13fa560557595e9e86de61fa55f7e?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Atendimento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191006__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-de-Atendimento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5909,7 +5828,7 @@
     "company": "VX Case",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191774__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-t%C3%A9cnico-em&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191774__1953_fabc0ed06dfcce725646c9d248b8e91f?utm_source=1953&utm_medium=feed&keyword=Auxiliar-t%C3%A9cnico-em&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5927,7 +5846,7 @@
     "company": "Leve Mobilidade",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191848__1953_6cb0b553df1263a91a9403c27110e866?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191848__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5936,7 +5855,7 @@
     "company": "Soservi-sociedade de Servicos Gerais LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191937__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-carga&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5191937__1953_b2f2afdca9526bf7552157f8bbb0d46d?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-carga&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -5954,7 +5873,7 @@
     "company": "ADN PROJETOS EM TECNOLOGIA DA INFORMACAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192142__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-gente-gest%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192142__1953_358bca0a46dd5006826a4d9f8eee3d5d?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-gente-gest%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6008,7 +5927,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192442__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-iii&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192442__1953_9bba4cb9b297050fe0b08ebfdc358a7c?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-iii&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6035,7 +5954,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192449__1953_1b344ebe42025011a6bd89106dd93787?utm_source=1953&utm_medium=feed&keyword=Professor-n%C3%ADvel-i&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192449__1953?utm_source=1953&utm_medium=feed&keyword=Professor-n%C3%ADvel-i&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6053,7 +5972,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192451__1953?utm_source=1953&utm_medium=feed&keyword=Sesc-assistente&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192451__1953_7e3b34de9e4cdec3f13f8f0a04c4b8bf?utm_source=1953&utm_medium=feed&keyword=Sesc-assistente&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6071,7 +5990,7 @@
     "company": "ASA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192501__1953?utm_source=1953&utm_medium=feed&keyword=Asa-recife&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192501__1953_2205c781765df0b18e0da7cd602f3a3f?utm_source=1953&utm_medium=feed&keyword=Asa-recife&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -6089,7 +6008,7 @@
     "company": "Holiste",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192721__1953_9770b8caa8fc1b2859630aabafd2c961?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Servi%C3%A7os&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192721__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Servi%C3%A7os&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6116,7 +6035,7 @@
     "company": "RODRIGUES INDUSTRIA E COMERCIO DE COLCHOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192989__1953_426f688b88bea97848f4fd815652317f?utm_source=1953&utm_medium=feed&keyword=Vendedor-boca&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5192989__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-boca&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6134,7 +6053,7 @@
     "company": "FARMÁCIAS PREÇO POPULAR",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193289__1953_dab17861a027669df15bfbdfbc008d46?utm_source=1953&utm_medium=feed&keyword=Operador-de-Caixa&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193289__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-Caixa&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6161,7 +6080,7 @@
     "company": "HIPER FARMA LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193422__1953_3d139d174f0aee1d7d923e823e00456f?utm_source=1953&utm_medium=feed&keyword=Operador-de-caixa&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193422__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-caixa&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -6170,7 +6089,7 @@
     "company": "Confidencial",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193587__1953_b290581c2f2d1b93a0ccc84878f91acd?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-educa%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193587__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-educa%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6188,7 +6107,7 @@
     "company": "CLINICA SENHOR DO BONFIM LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193760__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Sistemas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5193760__1953_b76fa0ae14b198fd4b24f67e00c9e99b?utm_source=1953&utm_medium=feed&keyword=Analista-de-Sistemas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6233,7 +6152,7 @@
     "company": "Grupo NewChase",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194021__1953_634431922e2c373faae9343c7e53b845?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194021__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6269,7 +6188,7 @@
     "company": "Carreiras Dutyfree Avolta",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194152__1953_f9f787b20bace5272cfcba07ba9977ec?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194152__1953?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6296,7 +6215,7 @@
     "company": "Grupo Autoglass Lojas e Centros de Distribuição",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194778__1953_fc9a7c9f5a5922112908f464ec8f12ab?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5194778__1953_9c43a7cd804e286d5134d60a824a2e60?utm_source=1953&utm_medium=feed&keyword=Vendedor-interno&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6368,7 +6287,7 @@
     "company": "Solar Coca-Cola",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5195960__1953?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5195960__1953_6978358fc44737b2a34871f5beb51ad7?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6440,7 +6359,7 @@
     "company": "Lavamax Studio Car",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196326__1953_fa01beaa68bac3ecd0a8bfba9551c885?utm_source=1953&utm_medium=feed&keyword=Gerente-Geral&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196326__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-Geral&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6476,7 +6395,7 @@
     "company": "NOVA CORRENTE EMPREENDIMENTOS E MANUTENCAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196492__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196492__1953_3a0aff922cbec0e2b49b9e57c7e24d50?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6503,7 +6422,7 @@
     "company": "Grupo RCS",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196544__1953_03cdca06cd89b16bd9c6808d1e22122f?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-manute%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196544__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-manute%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6521,7 +6440,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196588__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196588__1953_bbc40945b9b9ba87d95a057580ce4f62?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6530,7 +6449,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196589__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196589__1953_10a4da8480fa7995efe99d8ceef125b3?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6557,7 +6476,7 @@
     "company": "GRAFICO EMPREENDIMENTOS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196847__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Pessoal&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5196847__1953_13f891cce55e49903b6c9557154605ba?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Pessoal&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6575,7 +6494,7 @@
     "company": "ESPRO",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197027__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197027__1953_b143ba07a76c1848b9b8e16b3deb7520?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -6593,7 +6512,7 @@
     "company": "INOVARTEL SERVICOS DE TELECOMUNICACOES EIRELI",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197138__1953_d73ba487c86cf58dd0cdfe803aa5819b?utm_source=1953&utm_medium=feed&keyword=Analista-administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197138__1953?utm_source=1953&utm_medium=feed&keyword=Analista-administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6602,7 +6521,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197322__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-rh&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197322__1953_4c8bd7d21f019ea5ab686ff1cbfd96f4?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-rh&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6647,7 +6566,7 @@
     "company": "Barra Grande",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197749__1953?utm_source=1953&utm_medium=feed&keyword=Gestor-Comercial&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197749__1953_8ac8ff353414e64a98ce7e01284be5e1?utm_source=1953&utm_medium=feed&keyword=Gestor-Comercial&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -6674,7 +6593,7 @@
     "company": "RODRIGUES INDUSTRIA E COMERCIO DE COLCHOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197949__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5197949__1953_41321bdf6a3121107ad634d86d6e6937?utm_source=1953&utm_medium=feed&keyword=Gerente-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6701,7 +6620,7 @@
     "company": "T&D SUSTENTAVEL COMERCIO E INSTALACOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198358__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198358__1953_d1138712fba13b2673139319200e7a68?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6710,7 +6629,7 @@
     "company": "Confidencial",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198387__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-atendimento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198387__1953_d44d6a6e3bbdc6fb29ebd8915b020237?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-atendimento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6728,7 +6647,7 @@
     "company": "Amcham Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198480__1953?utm_source=1953&utm_medium=feed&keyword=Analista-comercial-s%C3%AAnior&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198480__1953_7125c0dffffe8d03bd2b8abffdc6cae1?utm_source=1953&utm_medium=feed&keyword=Analista-comercial-s%C3%AAnior&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6755,7 +6674,7 @@
     "company": "Orguel",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198752__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198752__1953_a1d9ffa7da60bc5ad797591a49517ea3?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6764,7 +6683,7 @@
     "company": "TIM Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198820__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5198820__1953_e10fdfcbe2ee0aa4362022ff59b2cf0f?utm_source=1953&utm_medium=feed&keyword=Consultor-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6800,7 +6719,7 @@
     "company": "Atento Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199341__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-relacionamento-cliente&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199341__1953_00f65e3b620e375eb9cb3549f3d0d0a3?utm_source=1953&utm_medium=feed&keyword=Especialista-relacionamento-cliente&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6827,7 +6746,7 @@
     "company": "QCA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199660__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-direito&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199660__1953_9b84a2ec6f4fbc56153a89ab7f78a81b?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-direito&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6845,7 +6764,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199733__1953?utm_source=1953&utm_medium=feed&keyword=Eletricista-i-tempor%C3%A1rio&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199733__1953_8ce4f507e31f8d6e5b33f0b6f2602729?utm_source=1953&utm_medium=feed&keyword=Eletricista-i-tempor%C3%A1rio&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6944,7 +6863,7 @@
     "company": "Grupo NewChase",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199914__1953_383baaa9ee4818d58cecaf904f23e2ee?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-mec%C3%A2nico-seminovos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5199914__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-mec%C3%A2nico-seminovos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6971,7 +6890,7 @@
     "company": "SolMirandaRh",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200191__1953_8efaa5bbadd179e9317ee8c909c71f24?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-condominial&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200191__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-condominial&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -6980,7 +6899,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200254__1953_46b1b4710ce6fee683a5ded46f91c91a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200254__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7007,7 +6926,7 @@
     "company": "R2T TELECOMUNICACOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200406__1953_d0c6e20542eaa1600db6280af13b93a7?utm_source=1953&utm_medium=feed&keyword=Projetista-n&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200406__1953_786d30387852b0a8ea6e5ae11f999f4c?utm_source=1953&utm_medium=feed&keyword=Projetista-n&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7061,7 +6980,7 @@
     "company": "RODRIGUES INDUSTRIA E COMERCIO DE COLCHOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200934__1953_5b23833856c5f718b70ad053d7b06246?utm_source=1953&utm_medium=feed&keyword=Operador-de&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200934__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7070,7 +6989,7 @@
     "company": "RODRIGUES INDUSTRIA E COMERCIO DE COLCHOES LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200937__1953_13a93044622e75df99e6dd8dbc7c85b0?utm_source=1953&utm_medium=feed&keyword=Gerente-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5200937__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7115,7 +7034,7 @@
     "company": "Grupo Ramiro Campelo",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201056__1953_60de60ea1d2d0600438c9538a18eb616?utm_source=1953&utm_medium=feed&keyword=Analista-comercial-jr&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201056__1953?utm_source=1953&utm_medium=feed&keyword=Analista-comercial-jr&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7133,7 +7052,7 @@
     "company": "VIVA Arte Fotografia",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201442__1953_b095f491a774556a77dca82d459d8df0?utm_source=1953&utm_medium=feed&keyword=Gerente-de-vendas&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201442__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-vendas&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -7142,7 +7061,7 @@
     "company": "TRI-HAIR INDUSTRIA DE COSMETICOS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201496__1953_551a0c79c71a67681812bb2eb405648c?utm_source=1953&utm_medium=feed&keyword=Comprador&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201496__1953?utm_source=1953&utm_medium=feed&keyword=Comprador&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7160,7 +7079,7 @@
     "company": "Alvoar Lácteos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201690__1953_4f1c35f22706bbc836dab66586ed91e8?utm_source=1953&utm_medium=feed&keyword=Vendedor-key-account&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201690__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-key-account&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7178,7 +7097,7 @@
     "company": "Compos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201987__1953_a04fa1113b5c0a1af7888d87a35505fa?utm_source=1953&utm_medium=feed&keyword=Analista-de-infraestrutura&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5201987__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-infraestrutura&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7214,7 +7133,7 @@
     "company": "MULTICOM ATACADO E VAREJO S/A",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202224__1953_13ac784429567952aa8682fc9ee63443?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-para-manuten%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202224__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-para-manuten%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7241,7 +7160,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202254__1953?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202254__1953_181d59a9adf6b0c9fbf5284175043597?utm_source=1953&utm_medium=feed&keyword=Encarregado-de-opera%C3%A7%C3%B5es&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7250,7 +7169,7 @@
     "company": "Grupo Caffeine Army",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202514__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-seo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5202514__1953_5a952a0b33e0b9eeacd77c7c7eb8fa42?utm_source=1953&utm_medium=feed&keyword=Analista-de-seo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7304,7 +7223,7 @@
     "company": "MOURA DUBEUX",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203298__1953_f0e45e8d919930e46df213b065c73356?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-engenharia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203298__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-engenharia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7313,7 +7232,7 @@
     "company": "Confidencial",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203369__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-administrativo-ensino&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203369__1953_110cb8cc817e73174c56408a89bbaa8c?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-administrativo-ensino&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7322,7 +7241,7 @@
     "company": "Cogna Educação",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203505__1953_609957bee9c4c2ed563bdb971cb44db7?utm_source=1953&utm_medium=feed&keyword=Professor-a-odontologia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203505__1953?utm_source=1953&utm_medium=feed&keyword=Professor-a-odontologia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7331,7 +7250,7 @@
     "company": "Assaí Atacadista - O atacadista com 50 anos de tradição! #VemserAssaí",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203610__1953_d60194bb9975bfe7619ed1150fc025a6?utm_source=1953&utm_medium=feed&keyword=Operador-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203610__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7340,7 +7259,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203683__1953_7b2ffd9ba1f35c9a2b45f4cb9343c638?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-armaz%C3%A9m&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203683__1953_19dd8d13dae673e7356e4e46ea847d03?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-armaz%C3%A9m&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7349,7 +7268,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203684__1953_11c1efe04e7ea3c892c2b79e2e7c14b9?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-tempor%C3%A1rio&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203684__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo-tempor%C3%A1rio&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7358,7 +7277,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203687__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-empilhadeira&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203687__1953_b218e46c900cb4e969fcc09e498d8fe4?utm_source=1953&utm_medium=feed&keyword=Operador-de-empilhadeira&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7367,7 +7286,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203688__1953_dd7f17a88a7076e0f0507b6666a90a01?utm_source=1953&utm_medium=feed&keyword=Operador-de-empilhadeira&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203688__1953_80373ed0523de2883f38c27bf44eeb3f?utm_source=1953&utm_medium=feed&keyword=Operador-de-empilhadeira&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7385,7 +7304,7 @@
     "company": "Wilson Sons",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203690__1953?utm_source=1953&utm_medium=feed&keyword=Conferente-de-armaz%C3%A9ns&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203690__1953_a8c977fd6a450e7c0b879ee5be7da8f4?utm_source=1953&utm_medium=feed&keyword=Conferente-de-armaz%C3%A9ns&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7403,7 +7322,7 @@
     "company": "Jadlog Logística SA",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203857__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-geral-salvador&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5203857__1953_a385be201c25a01ce8e9691818515e39?utm_source=1953&utm_medium=feed&keyword=Ajudante-geral-salvador&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -7430,7 +7349,7 @@
     "company": "RD Saúde - Farmácias",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204055__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-farm%C3%A1cia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204055__1953_f4f28ba69f91814a79315b3f591a1d55?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-farm%C3%A1cia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7439,7 +7358,7 @@
     "company": "Grupo Indiana",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204346__1953_04224247ff1590a0bd635922577099b0?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-acess%C3%B3rios&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204346__1953_fb12db627aeb74af176697304173ff1a?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-acess%C3%B3rios&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -7448,7 +7367,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204347__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204347__1953_ae35fde7c59e89394cab7860f9de5959?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7502,7 +7421,7 @@
     "company": "OH BOY! SACADA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204834__1953_76f5d31ecc920b6dd25619ac624c9da9?utm_source=1953&utm_medium=feed&keyword=Oh-boy&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5204834__1953?utm_source=1953&utm_medium=feed&keyword=Oh-boy&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7529,7 +7448,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205518__1953_d56829781227a3566474ed2d2e0d3bae?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-jur%C3%ADdico&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205518__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-jur%C3%ADdico&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7538,7 +7457,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205560__1953?utm_source=1953&utm_medium=feed&keyword=Vaga-para-assistente&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205560__1953_83d801202802be10abed9f5d550a6725?utm_source=1953&utm_medium=feed&keyword=Vaga-para-assistente&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7556,7 +7475,7 @@
     "company": "Empresa Confidencial",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205771__1953?utm_source=1953&utm_medium=feed&keyword=Estoquista-de-oficina&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5205771__1953_b4a1baf4e22eb727c4c8dcf8c7a12b54?utm_source=1953&utm_medium=feed&keyword=Estoquista-de-oficina&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7574,7 +7493,7 @@
     "company": "SIC GESTÃO RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206007__1953_056df972d66abc4ab7d6ff0e8798f2d7?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-recursos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206007__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-em-recursos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7619,7 +7538,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206641__1953_32ec492a4485481dfdd8952bef06aec4?utm_source=1953&utm_medium=feed&keyword=Fiscal-de-preven%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206641__1953?utm_source=1953&utm_medium=feed&keyword=Fiscal-de-preven%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7637,7 +7556,7 @@
     "company": "Infotec Brasil",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206805__1953_e778ef58477b779454e358b9b5f3f740?utm_source=1953&utm_medium=feed&keyword=Especialista-em-contrata%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5206805__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-em-contrata%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7646,7 +7565,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207212__1953_0200bd42a857db38aa60c9b6f4d74934?utm_source=1953&utm_medium=feed&keyword=Cozinheiro-paralela&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207212__1953_fb3f6cab143a13b9ef16ecbb12159c4f?utm_source=1953&utm_medium=feed&keyword=Cozinheiro-paralela&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7655,7 +7574,7 @@
     "company": "CSC SERVICOS EMPRESARIAIS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207361__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207361__1953_b4a7669e9a25f45b95fcec39f294d44a?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Opera%C3%A7%C3%B5es&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7664,7 +7583,7 @@
     "company": "CSC SERVICOS EMPRESARIAIS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207371__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-loja&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207371__1953_ce81f74a1cededa35799a71e7702728e?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-loja&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7682,7 +7601,7 @@
     "company": "CSC SERVICOS EMPRESARIAIS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207393__1953_061613e53b33169b40bbb4447ad6445d?utm_source=1953&utm_medium=feed&keyword=Executivo-de-contas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207393__1953_2305ba4f08e046f53618181cea7d79b8?utm_source=1953&utm_medium=feed&keyword=Executivo-de-contas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7709,7 +7628,7 @@
     "company": "HEALTH BRASIL COMERCIO ATACADISTA DE MEDICAMENTOS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207546__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207546__1953_ea98b035f4eca95aa63713f606116b13?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Departamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7727,7 +7646,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207741__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-neg%C3%B3cios&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207741__1953_b40d57203470b86ed31af430c8c58565?utm_source=1953&utm_medium=feed&keyword=Analista-de-neg%C3%B3cios&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7754,7 +7673,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207744__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-c%C3%ADvel&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207744__1953_d69f30675b75309d207d9daf1d836c04?utm_source=1953&utm_medium=feed&keyword=Advogado-c%C3%ADvel&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7763,7 +7682,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207745__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-c%C3%ADvel&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5207745__1953_30a92e958e4cfc5b33f43708fe526c5a?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-c%C3%ADvel&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7772,7 +7691,7 @@
     "company": "JSG-DISTRIBUIDORA DE BEBIDAS LTDA (SCHINCARIOL)",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208109__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-financeiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208109__1953_9cb1bd8a4d7011ffc6d61d8a74c670ea?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-financeiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7781,7 +7700,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208124__1953_ca72126d2332143425ce5ab1785f518c?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208124__1953?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7799,7 +7718,7 @@
     "company": "DIEFRA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208186__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-civil&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208186__1953_e634e38d49b001566c06339927478b37?utm_source=1953&utm_medium=feed&keyword=Engenheiro-civil&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7817,7 +7736,7 @@
     "company": "CABRAL & SOUSA LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208268__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-rca&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208268__1953_b2afc2bbb6721d4d965eb200fdbf290f?utm_source=1953&utm_medium=feed&keyword=Vendedor-rca&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7835,7 +7754,7 @@
     "company": "HEALTH BRASIL COMERCIO ATACADISTA DE MEDICAMENTOS LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208436__1953?utm_source=1953&utm_medium=feed&keyword=Demonstradora-de-merchandising&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208436__1953_4703b5d200d6dd866497b60659b2c7c8?utm_source=1953&utm_medium=feed&keyword=Demonstradora-de-merchandising&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7871,7 +7790,7 @@
     "company": "ESPAÇOLASER - GRUPO SAFIRA LASER",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208975__1953_502fd134b33b5f229369f2b284f7678e?utm_source=1953&utm_medium=feed&keyword=Consultora-de-agendamentos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5208975__1953?utm_source=1953&utm_medium=feed&keyword=Consultora-de-agendamentos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7889,7 +7808,7 @@
     "company": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209101__1953_ba8de3ecef7ae4c7b0ba0eda2c91f26f?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-comercial-de&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209101__1953_f6c3f4f8e8da3756e23823d0876e8248?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-comercial-de&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -7898,7 +7817,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209122__1953_085237b08987de01072e5d3eb03aa278?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209122__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7907,7 +7826,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209123__1953_169e3c1b0493b0ee7bee325500db8041?utm_source=1953&utm_medium=feed&keyword=Operador-de-perec%C3%ADveis&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209123__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-perec%C3%ADveis&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7934,7 +7853,7 @@
     "company": "CAMMINARE GESTAO E TREINAMENTO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209365__1953_b4b2b64151702a10ead767f122014358?utm_source=1953&utm_medium=feed&keyword=Analista-de-instala%C3%A7%C3%B5es&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209365__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-instala%C3%A7%C3%B5es&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7943,7 +7862,7 @@
     "company": "NEW ARRIVAL IMPORTACAO & EXPORTACAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209372__1953_36025d1f517f7b635963b18b3b4eb9bf?utm_source=1953&utm_medium=feed&keyword=Assistente-faturamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209372__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-faturamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7979,7 +7898,7 @@
     "company": "Hubnexxo Soluções Empresariais",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209592__1953_33509553d16479680ee17b3ec4d1dc85?utm_source=1953&utm_medium=feed&keyword=Analista-de-departamento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209592__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-departamento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -7988,7 +7907,7 @@
     "company": "Integra RH Consultoria",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209750__1953_26041cc0107300808f54d0c991639110?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209750__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8006,7 +7925,7 @@
     "company": "Self Carreiras",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209868__1953_8a999f952ab2b59761f2537498572759?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Financeiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209868__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Financeiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8024,7 +7943,7 @@
     "company": "G.M.ADMINISTRACAO E SERVICOS LTDA",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209940__1953?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-muscula%C3%A7%C3%A3o&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209940__1953_c5110f29c393221cd8dcbd5f98d5336e?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-muscula%C3%A7%C3%A3o&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -8033,7 +7952,7 @@
     "company": "G.M.ADMINISTRACAO E SERVICOS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209943__1953_42a09e05f51d0faf09ac4ca47c8d77fa?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-muscula%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209943__1953?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-muscula%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8042,7 +7961,7 @@
     "company": "G.M.ADMINISTRACAO E SERVICOS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209946__1953_23dc695c1ad4eb3c36cf527a5cc27974?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-de-educa%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5209946__1953_55f344d66e7b083e7a64dc5e05f2c23c?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-de-educa%C3%A7%C3%A3o&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8060,7 +7979,7 @@
     "company": "SUDOESTE INFORMATICA E CONSULTORIA LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210068__1953_f71b3d84e2ca863b0472ae0accaf728f?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Marketing&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210068__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-Marketing&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8087,7 +8006,7 @@
     "company": "MOURA DUBEUX",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210586__1953_dd9fd8a71471beb797d76eaa7a6d46f5?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-engenharia&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210586__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-de-engenharia&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8096,7 +8015,7 @@
     "company": "LINKS NEGÓCIOS",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210767__1953_f4c89b5d4233aae4781341ef873cdd98?utm_source=1953&utm_medium=feed&keyword=Auxiliar-atendimento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210767__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-atendimento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8105,7 +8024,7 @@
     "company": "LINKS NEGÓCIOS",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210768__1953_993bfa559110b3049f7ad562caf467b3?utm_source=1953&utm_medium=feed&keyword=Assistente-financeiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5210768__1953_988c12f1e94b623d21be37625a9b4173?utm_source=1953&utm_medium=feed&keyword=Assistente-financeiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8168,7 +8087,7 @@
     "company": "Farmácias Pague Menos",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5211501__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-de-farm%C3%A1cia&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5211501__1953_f3810ea74c3f19dfca63116ca85a5318?utm_source=1953&utm_medium=feed&keyword=Atendente-de-farm%C3%A1cia&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8213,7 +8132,7 @@
     "company": "DesenvolveR - Treinamento & Consultoria",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5212302__1953_17164a3b2f0fb6f9f47abec4ebe7f7ba?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5212302__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8223,15 +8142,6 @@
     "city": "SALVADOR",
     "state": "BA",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5212354__1953?utm_source=1953&utm_medium=feed&keyword=Analista-controladoria-pleno&location=SALVADOR&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Atendente de loja (comercial) (43)",
-    "description": "Atendente de Loja (Balcão)Responsabilidades:<ul><li>Atender clientes de forma cortês e eficiente; </li><li>Realizar vendas de produtos ou serviços da empresa; </li><li>Esclarecer dúvidas e fornecer informações sobre os produtos/serviços oferecidos; </li><li>Manter o ambiente de trabalho limpo e organizado; </li><li>Registrar as vendas e atualizar o sistema com as informações necessárias; </li><li>Contribuir para o alcance das metas de vendas estabelecidas; </li> </ul>Requisitos:<ul><li>Experiência prévia em atendimento ao cliente; </li><li>Ensino médio completo; </li><li>Habilidade de comunicação e negociação; </li><li>Conhecimento básico de informática; </li><li>Capacidade de trabalhar em equipe; </li><li>Organização e proatividade; </li><li>Disponibilidade para horários flexíveis, incluindo finais de semana; </li> </ul>Benefícios:<ul><li>Vale alimentaçãoefeição; </li><li>Vale transporte; </li><li>Totalpass; </li><li>Dayoff no aniversário; </li><li>Premiação por atingimento de metas. </li> </ul>",
-    "company": "FOCO ALUGUEL DE CARROS S/A",
-    "city": "LAURO DE FREITAS",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5212365__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-de-loja&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -8249,7 +8159,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213092__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213092__1953_e28225fd34c1951d06fc8fab3e33f36e?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8258,7 +8168,7 @@
     "company": "Veneza",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213264__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-t%C3%A9cnico-852&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213264__1953_9fd9b72436f82ca110ed4cfd2779d3a7?utm_source=1953&utm_medium=feed&keyword=Consultor-t%C3%A9cnico-852&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8276,7 +8186,7 @@
     "company": "Grupo Indiana",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213404__1953_1cd040a4a3154a4163d18a3fc02f6f41?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213404__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8285,7 +8195,7 @@
     "company": "CL JOIAS",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213461__1953_1bbac6d71812b52b1ee3dbfcb89cc218?utm_source=1953&utm_medium=feed&keyword=Subgerente-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213461__1953?utm_source=1953&utm_medium=feed&keyword=Subgerente-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8294,7 +8204,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213564__1953_7f0c3d3a1090f0ccdde616cd157cabc1?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213564__1953?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8312,7 +8222,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213566__1953?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213566__1953_17b33372a66c4c330866f07a1ac19ecd?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-dep%C3%B3sito&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8321,7 +8231,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213567__1953_aeb4d603de545dc1bd7438da2ef13524?utm_source=1953&utm_medium=feed&keyword=Operador-de-pereciveis&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213567__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-pereciveis&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8348,7 +8258,7 @@
     "company": "JOTA FABRICACAO DE GELADOS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213955__1953?utm_source=1953&utm_medium=feed&keyword=Atendente&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5213955__1953_bc6c4b344537212f9c86823e5790059b?utm_source=1953&utm_medium=feed&keyword=Atendente&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8447,7 +8357,7 @@
     "company": "ZOOM education for life",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215244__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-pedag%C3%B3gico&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215244__1953_b0c0837e8b84690348918296233b376c?utm_source=1953&utm_medium=feed&keyword=Consultor-pedag%C3%B3gico&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8456,7 +8366,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215307__1953?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-ssa&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215307__1953_2f096d6cca5c3704ac9dcb173fe51aae?utm_source=1953&utm_medium=feed&keyword=Advogado-analista-ssa&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8465,7 +8375,7 @@
     "company": "Pessoa e Pessoa Advogados",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215310__1953?utm_source=1953&utm_medium=feed&keyword=Estagio-jur%C3%ADdico-ssa&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215310__1953_7c4997ddb3562069ab332f4a72579fa4?utm_source=1953&utm_medium=feed&keyword=Estagio-jur%C3%ADdico-ssa&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8474,7 +8384,7 @@
     "company": "DNA Genética",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215330__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-contas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215330__1953_c9d5665f951231216d69a5823e00e340?utm_source=1953&utm_medium=feed&keyword=Analista-de-contas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8483,7 +8393,7 @@
     "company": "Grupo Ramiro Campelo",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215337__1953_8dce97f7d3773f2d1eec81f3150108e5?utm_source=1953&utm_medium=feed&keyword=Subgerente-lojas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215337__1953?utm_source=1953&utm_medium=feed&keyword=Subgerente-lojas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8528,7 +8438,7 @@
     "company": "Assaí Atacadista - O atacadista com 50 anos de tradição! #VemserAssaí",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215835__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-loja&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215835__1953_6b60b7b58118117a6f3fdeeecf04e5d8?utm_source=1953&utm_medium=feed&keyword=Operador-de-loja&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8537,7 +8447,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215848__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-i&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215848__1953_ccdb700461060bce23500006cd0bd3f2?utm_source=1953&utm_medium=feed&keyword=Especialista-i&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8546,7 +8456,7 @@
     "company": "Grupo Ramiro Campelo",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215956__1953?utm_source=1953&utm_medium=feed&keyword=Agente-administrativo-caixa&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5215956__1953_f65477ea699c907d7117aae2bf4c80fd?utm_source=1953&utm_medium=feed&keyword=Agente-administrativo-caixa&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8600,7 +8510,7 @@
     "company": "CEMITERIO PARQUE DE SALVADOR S.A.",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216327__1953?utm_source=1953&utm_medium=feed&keyword=Encarregada-de-vendas&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216327__1953_e90fd6c76481c98c626926b2543ebe30?utm_source=1953&utm_medium=feed&keyword=Encarregada-de-vendas&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8609,7 +8519,7 @@
     "company": "Labchecap - Laboratorios De Analises Clinicas Ltda.",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216396__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-da-central&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216396__1953_56b89a1ca1443322dce78f987b265314?utm_source=1953&utm_medium=feed&keyword=Atendente-da-central&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8636,7 +8546,7 @@
     "company": "NOVA CORRENTE EMPREENDIMENTOS E MANUTENCAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216523__1953?utm_source=1953&utm_medium=feed&keyword=Oficial-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216523__1953_374e6efa11fc47ac7bf6af95e5e5732e?utm_source=1953&utm_medium=feed&keyword=Oficial-de-manuten%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8663,7 +8573,7 @@
     "company": "Soleste Energia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216788__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Comercial&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216788__1953_0ced89e0f869e0778336640210606256?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Comercial&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8699,7 +8609,7 @@
     "company": "GOL D. SOLUCOES FINANCEIRAS LTDA",
     "city": "LAURO DE FREITAS",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216896__1953_40c8c7471bd8fd5e2565e0a394d1c459?utm_source=1953&utm_medium=feed&keyword=Lauro-de-freitas&location=LAURO-DE-FREITAS&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5216896__1953?utm_source=1953&utm_medium=feed&keyword=Lauro-de-freitas&location=LAURO-DE-FREITAS&geoID=4835",
     "tipo": ""
   },
   {
@@ -8717,7 +8627,7 @@
     "company": "ZUKKIN BRASIL INTELIGENCIA DE MERCADO LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217045__1953?utm_source=1953&utm_medium=feed&keyword=Pesquisador-de-campo&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217045__1953_c686e257ada2f70ce53344c9c0dcc85b?utm_source=1953&utm_medium=feed&keyword=Pesquisador-de-campo&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8726,7 +8636,7 @@
     "company": "Lever Distribuidora de Alimentos",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217132__1953_dfaabb90a7521a7f612d0ce30e9903d6?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217132__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8735,7 +8645,7 @@
     "company": "INOVARTEL SERVICOS DE TELECOMUNICACOES EIRELI",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217399__1953_5cf4c361ba0682a68a2a16b54dc9804a?utm_source=1953&utm_medium=feed&keyword=Oficial-de-rede&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217399__1953?utm_source=1953&utm_medium=feed&keyword=Oficial-de-rede&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8744,7 +8654,7 @@
     "company": "INOVARTEL SERVICOS DE TELECOMUNICACOES EIRELI",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217401__1953_c18bb9fb059904f91d67cd9b1ec5231d?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217401__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-servi%C3%A7os&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8771,7 +8681,7 @@
     "company": "INOVARTEL SERVICOS DE TELECOMUNICACOES EIRELI",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217404__1953_76a3237f4090f2da8f14c93673964ae7?utm_source=1953&utm_medium=feed&keyword=Coordenador-operacional-telecom&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217404__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-operacional-telecom&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8780,7 +8690,7 @@
     "company": "Wish Bahia",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217668__1953_68c8185e7799640ec1042ee88e5e319d?utm_source=1953&utm_medium=feed&keyword=Governanta&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217668__1953?utm_source=1953&utm_medium=feed&keyword=Governanta&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8807,7 +8717,7 @@
     "company": "Atakadão",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217789__1953_94f6547376f3b8d760937fee7233862a?utm_source=1953&utm_medium=feed&keyword=Operador-de-perec%C3%ADveis&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217789__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-perec%C3%ADveis&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8834,7 +8744,7 @@
     "company": "VIA SUL AUTO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217833__1953?utm_source=1953&utm_medium=feed&keyword=Instalador-de-Acess%C3%B3rios&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5217833__1953_bcce4f6e755933d5e1eae55b3b8bd2ce?utm_source=1953&utm_medium=feed&keyword=Instalador-de-Acess%C3%B3rios&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8843,7 +8753,7 @@
     "company": "Trinnus RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218114__1953_f2f3d818d261b139f87c161333b2eff8?utm_source=1953&utm_medium=feed&keyword=Sesc-serralheiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218114__1953?utm_source=1953&utm_medium=feed&keyword=Sesc-serralheiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8861,7 +8771,7 @@
     "company": "Macêdo RH",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218347__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-adm-financeiro&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218347__1953_a3c7973c608a2cad829b015675be6d53?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-adm-financeiro&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8888,7 +8798,7 @@
     "company": "JOSE CARLOS CARNEIRO LIMA & CIA LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218630__1953_991832eb2fc66d699f54a2aacf579e87?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-em-atendimento&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218630__1953?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-em-atendimento&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8915,7 +8825,7 @@
     "company": "JMN NANTES SERVICOS FINANCEIROS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218753__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-de&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218753__1953_94ba18da6ed6d8bb0076a35a39044c26?utm_source=1953&utm_medium=feed&keyword=Assistente-comercial-de&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8933,7 +8843,7 @@
     "company": "NOVA CORRENTE EMPREENDIMENTOS E MANUTENCAO LTDA",
     "city": "SALVADOR",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218835__1953_f73ebe4a464b42bb6ab9ac19b5525986?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5218835__1953_59f0805e1bfcaabc2d9a9cd6b3c99a21?utm_source=1953&utm_medium=feed&keyword=Analista-de-rh&location=SALVADOR&geoID=7530",
     "tipo": ""
   },
   {
@@ -8969,7 +8879,7 @@
     "company": "JOTA FABRICACAO DE GELADOS LTDA",
     "city": "FEIRA DE SANTANA",
     "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219218__1953_62633ce016f55095438978dd251955ef?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Cozinha&location=FEIRA-DE-SANTANA&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219218__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Cozinha&location=FEIRA-DE-SANTANA&geoID=3145",
     "tipo": ""
   },
   {
@@ -8997,6 +8907,96 @@
     "city": "LAURO DE FREITAS",
     "state": "BA",
     "url": "https://br.whatjobs.com/coopob__cpl___1139_5219392__1953?utm_source=1953&utm_medium=feed&keyword=T%C3%A9cnico-de-manuten%C3%A7%C3%A3o&location=LAURO-DE-FREITAS&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Estágio administrativo - ensino tecnico/superior (4387)",
+    "description": "Empresa: Administração de Condomínio Local: Buraquinho Bolsa-auxilio: R$ 706,00 + VT <br>(4387) Estagiaria - MenvieVagas",
+    "company": "Confidencial",
+    "city": "LAURO DE FREITAS",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219394__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-administrativo&location=LAURO-DE-FREITAS&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Conferente de carga e descarga (1)",
+    "description": "1. Receber e conferir mercadorias recebidas dos fornecedores.2. Verificar se a quantidade e qualidade dos materiais estão de acordo com o pedido realizado.3. Registrar todas as entradas e saídas de produtos no sistema de gestão de estoque da empresa.4. Organizar e armazenar os produtos de forma adequada nos locais designados.5. Realizar inventários periódicos para garantir a acuracidade do estoque.6. Embalar mercadorias para expedição de pedidos para clientes.7. Atender eventuais solicitações de reposição de produtos nos pontos de venda.8. Auxiliar na organização e limpeza do armazém.9. Colaborar com a equipe de logística para garantir a eficiência e integridade das operações.10. Reportar ao supervisor qualquer irregularidade encontrada durante o processo de conferência.",
+    "company": "GRUPO FARRAPOS",
+    "city": "FEIRA DE SANTANA",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219420__1953?utm_source=1953&utm_medium=feed&keyword=Conferente-de-carga&location=FEIRA-DE-SANTANA&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Auxiliar de carga e descarga (12)",
+    "description": "<p>1. Realizar a carga e descarga de mercadorias dos veículos de forma segura e eficiente.2. Organizar as mercadorias nos depósitos ou armazéns de acordo com as especificações.3. Auxiliar na conferência dos produtos recebidos e expedidos.4. Separar as mercadorias conforme as solicitações e pedidos dos clientes.5. Utilizar equipamentos de movimentação de cargas, como paleteiras.6. Manter o ambiente de trabalho limpo e organizado.7. Verificar e reportar possíveis danos nas mercadorias durante o processo de carga e descarga.8. Seguir as normas de segurança e procedimentos da empresa.9. Colaborar com a equipe no cumprimento das metas e prazos estabelecidos.10. Participar de treinamentos e capacitações oferecidos pela empresa. </p>",
+    "company": "GRUPO FARRAPOS",
+    "city": "FEIRA DE SANTANA",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219421__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-carga&location=FEIRA-DE-SANTANA&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Fonoaudiologo(a) salvador",
+    "description": "<ul><li>Escolaridade: Superior completo em  Fonoaudiologia; </li><li>Experiência anterior na função; </li> </ul><p>Executar atividades e avaliações relacionadas a saúde do trabalhador baseado em exposição e riscos auditivos em sua área de atuação, </p><p>Realizar diagnósticos e prognósticos baseados em exames realizados, </p><p>Realizar exames de audiometria e emitir laudo no sistema. </p><p>Estabelecer diagnóstico de Fonoaudiologia e monitorar o desempenho do cliente/paciente. </p>",
+    "company": "Grupo SH Brasil",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219655__1953_7c9626e97a409bd6235322a6c89527cd?utm_source=1953&utm_medium=feed&keyword=Fonoaudiologo-salvador&location=SALVADOR&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Especialista relacionamento cliente i - sac com vendas (telefonia) - unidade cabula (1)",
+    "description": "<ul><li>Ter no mínimo 18 anos; </li><li>Formação acadêmica: Ensino Médio completo; </li><li>Boa fluência verbal e poder de persuasão; </li><li>Habilidade de negociação/argumentação; </li><li>Conhecimentos básicos em informática; </li><li>Experiência com Atendimento ao Cliente/Vendas/SAC será um diferencial; </li><li>Obrigatório possuir computador ou notebook com internet para realizar o treinamento Online; </li><li>Preferencialmente residir próximo a Unidade Atento Cabula. </li> </ul><ul><li>O operador precisará identificar a necessidade do cliente e trazer uma solução prática e objetiva, conforme procedimento do produto e/ou serviço; </li><li>Vendas de produtos e serviços; </li><li>Em cada atendimento prestado, poderá tratar diferentes tipos de situações indicadas pelo cliente. </li> </ul>",
+    "company": "Atento Brasil",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219780__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-relacionamento-cliente&location=SALVADOR&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Operador de estoque - pcd - cassange/ba",
+    "description": "<ul><li>Exclusivo para Pessoas com Deficiência; </li><li>Ensino médio completo; </li><li>Disposição e vontade de trabalhar; </li><li>Disponibilidade para trabalho aos sábados. </li><li>Não é necessário experiência, fornecemos treinamento e capacitação. </li> </ul><p><br></p><p>Valorizamos se você tiver: </p><ul><li>Habilidade no manuseio e caixas/ produtos frágeis; </li><li>Experiência na área logística; </li><li>Facilidade em propor melhorias nos processos. </li> </ul><ul><li>Separar e alocar mercadorias recebidas em prateleiras ou áreas específicas: Receber, verificar e organizar produtos no estoque de acordo com o sistema de organização da empresa, garantindo fácil acesso e organização. </li> </ul><p><br></p><ul><li>Carregar e descarregar mercadorias dos caminhões/carretas: Responsável por carregar e descarregar produtos dos veículos de transporte, manuseando as mercadorias com cuidado para evitar danos e seguindo procedimentos de segurança. </li> </ul><p><br></p><ul><li>Embalar mercadorias para transporte: Embalar adequadamente as mercadorias para envio, utilizando materiais de embalagem específicos e técnicas que assegurem a proteção durante o transporte. </li> </ul><p><br></p><ul><li>Efetuar e manter a limpeza e organização do estoque ou expedição: Manter o espaço de trabalho limpo e organizado, realizando tarefas de limpeza regulares e organizando o estoque para maximizar a eficiência e minimizar os riscos de acidentes. </li> </ul>",
+    "company": "Grupo Autoglass Lojas e Centros de Distribuição",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219894__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-estoque&location=SALVADOR&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Vendedor de consórcio l indiana",
+    "description": "<p><br></p><ul><li>Ensino Médio completo </li><li>Experiência anterior com vendas </li><li>Facilidade com mídias digitais </li><li>Desejável CNH categoria  </li> </ul><p> Diferenciais </p><ul><li>Experiência com venda de consórcios </li><li>Conhecimento nos sistemas Syonet e DealerNet </li> </ul><p><br></p><p><br></p><ul><li>Prospectar clientes e acompanhar leads e negociações em andamento </li><li>Realizar a venda de consórcios, alinhada às metas da área </li><li>Elaborar propostas e conduzir o processo de venda conforme as normas internas </li><li>Garantir o cumprimento dos acordos firmados com os clientes </li><li>Organizar e acompanhar processos administrativos relacionados às vendas. </li> </ul>",
+    "company": "Grupo Indiana",
+    "city": "FEIRA DE SANTANA",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219898__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-cons%C3%B3rcio&location=FEIRA-DE-SANTANA&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Vendedor (a) de loja - shopping barra salvador i vaga afirmativa para pessoas com deficiência",
+    "description": "<p  >-         Ensino médio completo. </p><p  >-         Experiência prévia em atendimento ao cliente será considerada um diferencial. </p><p  >-         Habilidade para trabalhar em equipe e em um ambiente dinâmico de varejo. </p><p  >-         Capacidade de comunicação eficaz e proatividade no atendimento aos clientes. </p><p  >-         Disponibilidade para horários flexíveis, incluindo finais de semana e feriados. </p><p><br></p><p  >-         Atendimento ao Cliente: Atender e entender as necessidades dos clientes de forma empática e proativa. </p><p  >-         Orientação Técnica: Oferecer orientação técnica sobre produtos eletrônicos para ajudar o cliente a fazer a melhor escolha. </p><p  >-         Demonstração de Produtos: Demonstrar produtos de forma eficaz e envolvente. </p><p  >-         Vendas Adicionais: Realizar vendas adicionais e promover serviços complementares. </p><p  >-         Organização da Loja: Manter a organização da loja e a apresentação visual dos produtos. </p><p><br></p>",
+    "company": "Fast Shop S/A",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219962__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor-de&location=SALVADOR&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Assistente de rh",
+    "description": "<ul><li>Cursando ou com graduação completa em Gestão de Recursos Humanos, Administração ou Psicologia; </li><li>Experiência nos subsistemas de RH (R&S e DP) </li><li>Pacote Office (Excel, Word, PowerPoint)  nível intermediário a avançado (principalmente Excel para controle de planilhas e indicadores). </li><li>Sistema de ponto eletrônico; </li><li>Organização e atenção a detalhes; </li> </ul><p><br></p><ul><li  >Acompanhamento e tratamento diário do ponto eletrônico e manual dos colaboradores, apurando faltas, atrasos, serviços extraordinários, ausências médicas ou legais, alterações de horário e local de trabalho, conforme definição das lideranças; </li><li  >Recebimento de atestados, comprovantes e outros documentos comprobatórios das ocorrências do ponto, alimentando planilha de indicador do absenteísmo; </li><li  >Apoio nos processos de contratação conforme check list e integração dos admitidos, cadastrando os novos colaboradores no ponto eletrônico e prestando todas as orientações necessárias; </li><li  >Apoio nos processos de desligamento conforme check list; </li><li  >Administração de benefícios (vale-transporte, vale-alimentação e convênios). </li><li  >Atender as áreas e funcionários, orientando-lhes sobre os benefícios, esclarecendo dúvidas sobre o pagamento de salários e outros eventos da folha de pagamento e as políticas internas, visando a sua correta aplicação; </li><li  >Realizar controle e entrega dos uniformes aos funcionários, mantendo estoque disponível, colhendo assinatura dos funcionários nas respectivas fichas para controle; </li><li  >Apoio nas ações de endomarketing da empresa; </li><li  >Envio de malotes entre unidades. </li> </ul><p  ><br></p>",
+    "company": "DNA Genética",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5219999__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-de-rh&location=SALVADOR&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Copeiro - (nutrição clinica)/ hospital municipal de salvador",
+    "description": "<p><br></p><ul><li>Ensino Médio Completo; </li><li>Experiência mínima de seis meses atuando como copeira hospitalar; </li><li>Desejável curso de copeira dietista. </li> </ul><ul><li>Realizar o preparo de refeições dos pacientes, sempre de acordo com orientações de nutricionistas e seguindo boas práticas de manipulação de alimentos; </li><li>Realizar a montagem de pratos conforme quantias e proporções indicadas para o paciente; </li><li>Atualizar a composição e preparação do cardápio do dia para os pacientes; </li><li>Realizar o preparo de lanches, bem como de sucos e cafés; </li><li>Realizar a montagem de bandejas, cuidando para que se faça uma boa apresentação dos alimentos; </li><li>Realizar o transporte de carrinhos de refeições; </li><li>Realizar a distribuição das refeições para os pacientes indicados pelo nutricionista; </li><li>Realizar o recolhimento de pratos, copos, talheres e eventuais resíduos de alimentos e bebidas. </li> </ul>",
+    "company": "Santa Casa da Bahia",
+    "city": "SALVADOR",
+    "state": "BA",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_5220147__1953?utm_source=1953&utm_medium=feed&keyword=Copeiro-nutri%C3%A7%C3%A3o&location=SALVADOR&geoID=7530",
     "tipo": ""
   }
 ]
