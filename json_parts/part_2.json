@@ -1,131 +1,5 @@
 [
   {
-    "title": "Cientista de Dados",
-    "description": "<p>Somos a PetroReconcavo, uma empresa produtora de petróleo e gás natural, especializada na operação de campos maduros em bacias terrestres.<br>Trabalhamos para sermos a mais segura, eficiente e lucrativa operadora Independente de Óleo e Gás, e o nosso objetivo é liderar a transformação da Indústria Onshore no Brasil.<br>Acreditamos na diversidade e atuamos para construir um ambiente colaborativo, inclusivo e respeitoso.<br>Nos orgulhamos em impactar positivamente as regiões onde atuamos, e convidamos você a fazer parte do nosso time!<br>Posição em aberto: <strong>Cientista de Dados<br></strong><strong>Responsabilidades e atribuições<br></strong><strong>Responsabilidades e Atribuições<br></strong><ul><li>Desenvolver, treinar, avaliar e ajustar modelos preditivos (classificação, regressão, clusterização, recomendação ou séries temporais) que tragam impacto mensurável ao produto. </li><li>Desenvolver análises e implantar de soluções baseadas em dados para geração de valor </li><li>Traduzir desafios de negócio em problemas analíticos e formular hipóteses que possam ser testadas com modelos estatísticos, machine learning ou AI. </li><li>Implementar experimentos controlados (A/B, multivariados) e interpretar resultados para recomendar ações de otimização contínua. </li><li>Colaborar com engenharia para colocar modelos em produção, monitorar performance e iterar conforme feedback do negócio. </li><li>Documentar métodos, métricas e decisões técnicas, compartilhando boas práticas e mentorando analistas ou cientistas juniores quando necessário. </li><li>Sugerir melhorias em pipelines de dados, padrões de versionamento de modelos e práticas de governança, garantindo escalabilidade e reprodutibilidade das soluções.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><strong>Requisitos e Qualificações:<br></strong><ul><li>Superior completo.<br><br></li> </ul><strong>Conhecimento específicos e Experiências prévias:<br></strong><ul><li>Domínio de Python (pandas, scikit-learn, notebooks) e SQL para manipulação de grandes volumes de dados </li><li>Estatística e probabilidade (testes de hipótese, intervalos de confiança, regressão, inferência bayesiana) </li><li>Machine Learning e AI aplicada (árvores, random forest, XGBoost, redes neurais, embeddings, etc.) </li><li>Conhecimento de infraestrutura analítica (Databricks, BigQuery, GCP,, Azure) </li><li>Conhecimento de estruturas de dados em nuvem (data lakes/warehouses) e pipelines de treinamento/inferência automatizados </li><li>Habilidade de storytelling com dados, comunicação escrita e verbal clara para públicos técnicos e executivos </li><li>Questiona premissas, busca hipóteses alternativas e aprofunda-se até a causa raiz dos problemas.<br><br></li> </ul><strong>Habilidades e Competências Desejadas:<br></strong><ul><li>Certificações reconhecidas em ML/Cloud: AWS Certified ML – Specialty (MLS-C01) ou TensorFlow Developer Certificate </li><li>Vivência com sistemas de recomendação, ranking ou personalização em tempo real </li><li>Experiência com frameworks de governança e observabilidade (monitoramento de drift, fairness, lineage) </li><li>Uso de arquiteturas modernas (Feature Stores, MLFlow, Kubeflow, SageMaker) </li><li>Projetos usando Transformers (BERT, GPT, Llama-2) em linguagem natural ou visão computacional<br><br></li> </ul><strong>Informações adicionais<br></strong>O que temos para você:<br><ul><li>Plano de saúde para você e seus dependentes legais (os filhos solteiros possuem cobertura estendida até 29 anos) </li><li>Plano odontológico para você e seus dependentes (filhos, solteiros e estudando, até 24 anos ) </li><li>Vale Refeição ou Refeitório </li><li>Vale Alimentação </li><li>Auxílio Creche </li><li>Vale Cultura </li><li>Vale transporte ou transporte fornecido pela empresa </li><li>Atendimento médico 24h por videochamada, extensivo a dependentes </li><li>Auxílio Educação conforme política da empresa </li><li>Plataforma de desenvolvimento e treinamentos </li><li>Parcerias com instituições para cursos de Idiomas, Graduação e Pós Graduação </li><li>Seguro de Vida e Auxílio Funeral sem desconto </li><li>Empréstimo Consignado Licença maternidade de 180 dias e paternidade de 20 dias. </li><li>Aplicativo com descontos em aproximadamente 30 mil estabelecimentos (NewValue) </li><li>Participação de lucros e resultados (PLR) </li><li>Vacina da gripe para os colaboradores </li><li>Programa de Saúde e bem-estar ( orientação psicológica, nutricional - entre outros) </li><li>Acesso ao Wellhub (Gympass); </li><li>Venha fazer parte desse time que só cresce! #IssoéPetroReconcavo </li> </ul> </p> </ul><h3>Especialista II ( Modelagem e Simulação Computacional) RP1223760 </h3> #J-18808-Ljbffr",
-    "company": "Petroreconcavo",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4261453__1953?utm_source=1953&utm_medium=feed&keyword=Cientista-de-Dados&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "AUXILIAR DE REGULAÇÃO - UPA VALÉRIA Salvador - BA",
-    "description": "<h3>Job description </h3><p>A S3 Gestão em Saúde está em busca de novos talentos para atuar como <strong>AUXILIAR DE REGULAÇÃO </strong>.  </p><br><h3>Main responsibilities </h3><ul><li>Atualização dos pacientes no sistema (SUREM) </li><li>Realizar contato com outras unidades de saúde; </li><li>Elaboração de planilhas; </li><li>Comunicação com equipe multiprofissional; </li><li>Gestão de leitos. </li> </ul><br><h3>Requirements and skills </h3><p><strong>Obrigatório: </strong> </p><ul><li>Ensino Médio completo; </li><li>Experiência mínima de 6 meses na função. </li> </ul><p><strong>Desejável: </strong> </p><ul><li>Curso técnico em áreas da saúde; </li><li>Conhecimento em sistemas de regulação médica. </li> </ul><br><h3>Additional information </h3><p>Salário: R$ 1.518,00 + R$ 303,00 Insalubridade </p><br>#J-18808-Ljbffr",
-    "company": "S3 Gestão em Saúde",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4261977__1953?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-DE-REGULA%C3%87%C3%83O&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Auxiliar de Professor - Infantil - Salvador/BA",
-    "description": "<p>Join to apply for the <strong>Auxiliar de Professor - Infantil - Salvador/BA </strong> role at <strong>Gurilândia International School </strong> </p><p>14 hours ago Be among the first 25 applicants </p><p>Join to apply for the <strong>Auxiliar de Professor - Infantil - Salvador/BA </strong> role at <strong>Gurilândia International School </strong> </p><p>O Inspired é o maior grupo internacional de educação básica premium, com um portfólio de 119 escolas espalhadas pelos 6 continentes e que utilizam as melhores práticas educacionais de cada canto do mundo, garantindo uma experiência de aprendizado de qualidade máxima para mais de 90.000 alunos do Infantil ao Ensino Médio.<br/><br/>Nossas escolas Inspired estão em 27 países e cada uma é pensada individualmente de acordo com o contexto local e é ancorada na cultura vibrante na qual se encontra. Coletivamente, elas compõem uma comunidade que nutre o desenvolvimento acadêmico e pessoal dos alunos num ambiente de aprendizagem progressivo, dinâmico e inovador.<br/><br/>Se juntando ao nosso time de mais de 13.000 colaboradores, você poderá trabalhar em instalações de última geração ao lado de educadores e líderes renomados do setor em alguns dos lugares mais desejados do mundo. Investimos fortemente nas nossas equipes e assim cada um consegue aproveitar desenvolvimento profissional, oportunidades de carreira excepcionais e mobilidade em todo o nosso grupo.<br/><br/><strong>SOBRE A VAGA </strong><br/><br/>A Gurilândia e Land School são escolas Inspired no Brasil. O amor e o acolhimento são marcas da escola, semeadas pela Tia Vera desde a sua fundação e a Gurilândia e a Land School se baseiam em quatro pilares - Tradição, Inovação, Excelência Acadêmica e Mentalidade Internacional. Há 60 anos estamos educando gerações em Salvador, e preparando os nossos alunos para os desafios de hoje com uma educação que alia vanguarda e tradição.<br/><br/>Nossa missão é formar uma nova geração de agentes de transformação que sejam capazes de alcançar realização pessoal e profissional com ética e responsabilidade social. Para isso, contamos com um time de profissionais inquietos, com brilho nos olhos, que superam desafios diariamente com otimismo e acreditando no legado que estamos construindo.<br/><br/>Se você se identifica com essa missão e quer fazer parte do time, não deixe de se candidatar!<br/><br/>Nesse papel você irá cuidar das crianças, dos espaços e materiais, e também auxiliar o(a) Professor(a) em suas atribuições e rotina.<br/><br/><strong>RESPONSABILIDADES </strong><br/><br/><strong>O que você fará: </strong> </p><ul><li>Acolher e acompanhar a rotina das crianças; </li><li>Observar crianças e interagir em atividades do dia a dia; </li><li>Zelar pela boa organização do espaço; </li><li>Orientar as crianças a manterem uma relação respeitosa e colaborativa entre elas; </li><li>Participar de reuniões pedagógicas e eventos realizados na escola; </li><li>Salvaguardar nossas crianças e jovens. </li> </ul><p><em>Por mais que nos esforcemos para incluir todas as principais responsabilidades e atribuições desta posição, pode ser que nem toda atividade pertinente à função tenha sido identificada. Dessa forma, a lista acima não é restritiva e pode ser estendida ou alterada para incluir outras tarefas que se aplicam ao cargo. </em> </p><p><strong>REQUISITOS </strong> </p><p><strong>O que você precisa ter: </strong> </p><ul><li>Graduação em andamento ou completa em Pedagogia ou Psicologia; </li><li>Boa compreensão do ambiente escolar; </li><li>Inglês avançado ou fluente. </li> </ul><p><strong>Nossos auxiliares de professor devem ser capazes de/devem ter: </strong> </p><ul><li>Paixão pela profissão; </li><li>Adaptar seu estilo de apoio ao ensino incorporando feedbacks; </li><li>Estar sempre em busca de melhorias; </li><li>Atitude positiva frente a mudanças; </li><li>Preocupação e atenção genuína pelos níveis mais altos de bem-estar dos alunos. </li> </ul><p><strong>Será um diferencial se você tiver: </strong> </p><ul><li>Experiência em escolas bilíngues ou internacionais; </li><li>Experiência no segmento da vaga. </li> </ul><p><strong>DECLARAÇÃO DE SALVAGUARDA </strong> </p><p>O Inspired se compromete em salvaguardar e promover o bem-estar das crianças e jovens e, se você se juntar ao nosso time, esperaremos o mesmo de você, assim como que se comprometa a realizar os treinamentos de safeguarding que consideramos pertinentes à sua função. A proteção do bem-estar dos nossos alunos é de responsabilidade de todos os colaboradores e os mesmos devem se comportar de maneira a refletir os princípios e valores da organização. Qualquer candidato pode ser submetido aos procedimentos apropriados de verificação. </p><p>Visit our careers site for more information;  </p><h3>Seniority level </h3><ul><li>Entry level </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Education and Training </li><li>Education Administration Programs </li> </ul><p>Referrals increase your chances of interviewing at Gurilândia International School by 2x </p><p>Get notified about new Teaching Aide jobs in <strong>Salvador, Bahia, Brazil </strong>. </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
-    "company": "Gurilândia International School",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262006__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Professor&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Pessoa Consultora de Vendas | Salvador/BA",
-    "description": "<h3>Pessoa Consultora de Vendas | Salvador/BA </h3><p>Join to apply for the <strong>Pessoa Consultora de Vendas | Salvador/BA </strong> role at <strong>Grupo Boticário </strong> </p><h3>Pessoa Consultora de Vendas | Salvador/BA </h3><p>Join to apply for the <strong>Pessoa Consultora de Vendas | Salvador/BA </strong> role at <strong>Grupo Boticário </strong> </p><p><strong>SOBRE O GRUPO BOTICÁRIO<br></strong>Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras. </p><p><strong>Job Description<br></strong><strong>SOBRE O GRUPO BOTICÁRIO<br></strong>Um dos maiores grupos de beleza do mundo, o Grupo Boticário é uma empresa brasileira presente em mais de 40 países. É dono das marcas O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuar com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers e sua divisão para o mercado B2B. Essa interação entre diferentes marcas, ativos, plataformas, rede de franqueados, representantes, distribuidores, varejistas, sellers e fornecedores formam o ecossistema de beleza do Grupo Boticário que oferece, ainda, soluções digitais de gestão de negócio para o varejo brasileiro por meio das suas marcas Mooz, Casa Magalhães e GAVB. São mais de 19 mil colaboradores diretos, com mais de 4 mil lojas em 1.780 cidades brasileiras.<br>Vem fazer beleza com a gente!<br><strong>CONHEÇA O VAREJO DO GRUPO BOTICÁRIO<br></strong>Somos um time de especialistas em varejo no Grupo Boticário e GENTE é o nosso negócio! É a conexão das nossas histórias, nossas essências, nossas pessoas, que movidas pela paixão de fazer acontecer criam experiências INCRÍVEIS para nossos clientes e revendedores. Assim, é o varejo do GB, estamos presentes em 15 estados brasileiros e somos mais de 3.400 pessoas transformando vidas através da beleza.<br>Responsibilities and assignments<br><br><ul><li>Tudo começa com um atendimento encantador: você será responsável por demonstrar, experimentar e vender nossos produtos; </li><li>Auxiliar na abertura e fechamento da loja; </li><li>Se você gosta de fazer beleza, seu dia-a-dia terá contato intenso com entendimento e reposição de mercadoria nas prateleiras e realizar montagem de kits; </li><li>Operacionalização do caixa com foco no encantamento, aumentando valor de vendas e pedidos; </li><li>Organizar, limpar e manter o layout da Loja;<br><br></li> </ul><strong>Requirements And Qualifications<br><br></strong><ul><li>Disponibilidade para trabalhar no Salvador Norte Shopping de segunda a quinta das 14h às 22h, sexta e sábado das 13h às 22h e domingo das 14h às 21h; </li><li>Ensino Médio Completo; </li><li>Experiência na área comercial; </li><li>Desejável experiência em lojas de varejo; </li><li>Conhecimento do pacote office.<br><br></li> </ul>Additional information<br>NOSSOS BENEFÍCIOS<br>Já falamos que o Grupo Boticário é o <strong>melhor </strong> e <strong>maior </strong> ecossistema de beleza, né?<br>E quando falamos dos Benefícios, nos preocupamos com as nossas pessoas e por isso, oferecemos um pacote de benefícios<strong>*  </strong>que permite uma vida mais equilibrada e completa:<br><br><ul><li>Aqui, sua Saúde é prioridade </li><li>Plano de saúde (extensível ao dependentes legais) </li><li>Plano odontológico </li><li>Vale saúde para familiares </li><li>Sessões de psicoterapia gratuitas (extensível ao dependentes legais) </li><li>Telemedicina e 2ª opinião médica </li><li>Vacina da gripe e HPV gratuitas </li><li>Programas de cuidado com a saúde </li><li>Para cuidar da sua Alimentação </li><li>Vale refeição com bônus no Natal </li><li>Garantindo Bem-Estar e Qualidade de Vida em todos os aspectos da vida </li><li>Plano de academias e estúdios de atividade física </li><li>Plano de saúde para pets </li><li>Day off de aniversário </li><li>Desconto de até 40% em nossos produtos </li><li>Associação para colaboradores (convênios e parcerias, loja multimarcas, academias total pass, cursos e muito mais!) </li><li>Programa de viagens e hospedagens </li><li>Para a Família, nosso bem mais precioso </li><li>Auxílio material escolar </li><li>Orientação jurídica, psicológica e social </li><li>Apoio para pais atípicos </li><li>Licença parental estendida (180 dias para mães e 120 dias para pais) </li><li>Mobilidade para sua jornada presencial </li><li>Vale Transporte </li><li>Seguridade para proteção e tranquilidade financeira </li><li>Seguro de Vida </li><li>Apoio ao falecimento de pais </li><li>Previdência Privada </li><li>Empréstimos consignados </li><li>Os pacotes de benefícios são configurados conforme regras de elegibilidade.<br><br></li> </ul>Process stages<br><br><ul><li>Step 1: Registration1Registration </li><li>Step 2: Triagem2Triagem </li><li>Step 3: Entrevista Recrutamento e Seleção3Entrevista Recrutamento e Seleção </li><li>Step 4: Entrevista com Liderança4Entrevista com Liderança </li><li>Step 5: Carta Oferta5Carta Oferta </li><li>Step 6: Processo Admissional6Processo Admissional </li><li>Step 7: Hiring7Hiring<br><br></li> </ul>Grupo Boticário<br>De uma pequena farmácia de manipulação a maior franquia de cosméticos do planeta.<br>Somos um Grupo com 15 marcas que está presente em mais de 40 países, com mais de 4.000 lojas físicas, líder de e-commerce de beleza no Brasil e mais de 19.000 colaboradores diretos.<br>Temos um ecossistema próprio de beleza, que vai da indústria ao ponto de venda, da logística ao varejo, do laboratório ao coração das consumidoras e das nossas inovações até a palma da sua mão.<br>Acreditamos que o futuro mais bonito é aquele que construímos juntos, por isso, até 2030 temos compromissos ambiciosos voltados para o impacto positivo em dimensões humanas, ambientais e em nossos processos produtivos.<br>Reinventamos a beleza por meio da tecnologia, inovação diversidade e sustentabilidade com: O Boticário, Eudora, Quem Disse, Berenice?, Vult, O.U.i, Dr. JONES, Tô.que.tô, TRUSS, e do marketplace Beleza na Web, além de atuarmos com produtos licenciados como Australian Gold, Bio Oil, Nuxe, e Pampers.<br>Vem fazer beleza com a gente! </p><h3>Consultor de Vendas / Agente de Viagens (Salvador Shopping) </h3><h3>Consultor de Vendas | Presencial | Lauro de Freitas(BA) </h3><h3>Consultor(a) de vendas Carmen Steffens Salvador - BA </h3><h3>Consultor(a) de vendas Carmen Steffens Salvador Norte Shopping - BA </h3><h3>Consultor(a) de Vendas Técnicas (Segmento Industrial) SSA/BA </h3><h3>Consultor(a) de Vendas I - Loja Salvador Norte Shopping - Salvador / BA </h3><h3>Consultor(a) de vendas - Grupo Carmen Steffens Teixeira de Freitas - BA </h3><h3>Consultor de Vendas - Salvador/BA - Itapuã </h3><h3>Consultor(a) de Vendas I - Loja Salvador Shopping - Salvador / BA </h3><h3>Consultor de Vendas BA - Lauro de Freitas </h3><p>Lauro de Freitas, Bahia, Brazil 2 months ago </p><p>Simões Filho, Bahia, Brazil R$2,000.00-R$5,000.00 5 days ago </p><h3>Consultor(a) de vendas Carmen Steffens Jequié - BA </h3> #J-18808-Ljbffr",
-    "company": "Boticário Group",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262051__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Consultora-de&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz(Administrativo)",
-    "description": "<p>O Grupo 3corações é construído por pessoas, antes de tudo, apaixonadas pelo que fazem. Temos orgulho de crescer pela força do trabalho e seguir, cada vez mais longe, sem esquecer a nossa essência e os nossos valores. </p><p>No grupo 3corações, você tem oportunidade de se desenvolver e construir sua carreira profissional com o apoio, a dignidade e com o respeito de todos. </p><p>Buscamos pessoas que queiram arregaçar as mangas e trabalhar de forma colaborativa, independentemente da identidade de gênero, da orientação sexual, da cor da pele, da idade, da religião, da etnia ou do tipo de deficiência. </p><p>Vem tomar um café com a gente e descobrir como é apaixonante fazer parte da maior empresa de café do Brasil. </p><p>**Responsabilidades e atribuições**<br>– Atuar no atendimento presencial, com desenvolvimento de uma demanda administrativa, emissão de carta de pedidos, organização de documentos, formação de matrículas.<br>– Auxiliar na Manutenção e Atualização dos cadastros dos clientes, envolvendo os setores de cadastro, cobrança, faturamento, contas a pagar e contas a receber;<br>– Realizar preenchimento de planilhas de controle, criar indicadores e gráficos para apresentação de resultados;<br>– Atender e orientar os clientes quanto ao uso correto dos produtos e serviços;<br>– Manter organizado e limpo o setor. </p><p>**Requisitos e qualificações**<br>Escolaridade: Ensino médio completo ou cursando </p><p>**Informações adicionais** Benefícios**<br>– Plano de Saúde compartilhado;<br>– Plano odontológico;<br>– Transporte;<br>– Refeição;<br>– Pack mensal de Produtos da marca;<br>– Seguro de Vida;<br>– Desconto em Produtos da marca;<br>– Gympass. </p><p>O Grupo **_3corações_** é uma empresa de **gente apaixonada **pelo que faz. Crescemos pela** força do nosso trabalho**, valorizando nossas origens e nossa essência para irmos cada vez mais longe. Somos um povo** inovador e empreendedor**, que **cuida **dos colaboradores e proporciona **experiências prazerosas** para todos com quem nos relacionamos. </p><p>Nossa história começou em 1959, no interior do Rio Grande do Norte. Com nosso **jeito de ser**, **inovador e empreendedor**, nos tornamos **líder nacional** no segmento de café torrado e moído e cappuccino e vice-líder em café solúvel. Em 2013, lançamos a solução de máquinas multibebidas TRES, com mais de 30 sabores de bebidas em cápsulas, e, em 2020, a partir da _joint venture _com a Positive Company, entramos para o mercado plant based, oferecendo aos nossos consumidores produtos 100% naturais, de origem vegetal. Também integram o nosso portfólio itens como café solúvel, cappuccino pronto para beber, achocolatado, café com leite, refrescos, derivados de milho, filtros para café e porta-filtros. </p><p>Somos mais de 8 mil corações apaixonados pelo que fazem, **e**mpenhados em construir um país e um mundo melhores**. **Respeitamos e damos valor a todas as pessoas e culturas e acreditamos que a diversidade enriquece nosso ambiente de trabalho**. Buscamos pessoas que querem arregaçar as mangas e trabalhar de forma colaborativa. </p><p>Venha para **_3corações_** e junte seu coração aos nossos! </p> #J-18808-Ljbffr",
-    "company": "3corações",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262095__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-Administrativo&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Pessoa Coordenadora de Operações",
-    "description": "<p>ALLOS é uma marca com uma forte herança. São cerca de 50 anos de experiência, transformando o mercado no Brasil. Somos referência em excelência e inovação, com a qualidade e confiança que faz parte da nossa história. </p><p>A nova marca surgiu pronta para o futuro, a partir da fusão entre a Aliansce Sonae e a brMalls, em 2023. Mas, essa trajetória começou bem antes. </p><p>Tudo começou com a Aliansce, que inaugurou o primeiro shopping da região Nordeste e o segundo do Brasil em 1975. Em 2019, a fusão entre a Aliansce e a Sonae Sierra deu origem à Aliansce Sonae, tornando-se líder na administração de shoppings no Brasil, com 32 empreendimentos. Em 2006, surge a brMalls resultando em um portfólio de 30 ativos presentes nas cinco regiões do país. </p><p>E assim, em 2023, a ALLOS surge com o encontro de duas potências nacionais do segmento, unindo forças para se tornar a mais inovadora plataforma de entretenimento, lifestyle, serviços e compras. </p><p>Nossa história continua e estamos prontos para criar momentos que transformam e impactam a vida das pessoas, gerando conexões e oportunidades. </p><h3>Responsabilidades </h3><ul><li>Fazer a gestão de toda a equipe de segurança e time orgânico (supervisores cftv e bombeiros civis); </li><li>Assegurar toda a estratégia da segurança patrimonial do shopping; </li><li>Fazer a gestão da brigada de incêndio (fiscalização de lojas, áreas técnicas e mall, atendimento a clientes, etc); </li><li>Garantir o registro e análise das ocorrências e situações de risco; </li><li>Gerir os contratos das empresas terceirizadas (segurança, brigada de incêndio, etc); </li><li>Garantir a realização dos treinamentos das equipes de vigilantes e brigada de incêndio junto às equipes terceirizadas quanto a gestão de crise e plano de emergência; </li><li>Controlar as documentações legais e licenças de responsabilidade da área de segurança e brigada de incêndio (AVCB); </li><li>Garantir bom relacionamento com órgãos de segurança pública, polícia militar, civil, bombeiros; </li><li>Gestão dos indicadores da área: vistorias nas lojas de alimentação, programa de excelência e auditoria anual de segurança; </li><li>Gestão orçamentária de toda equipe de segurança e brigada; </li><li>Gestão das não conformidades relacionadas a segurança das lojas, eventos e quiosques; </li><li>Controle de ponto de toda equipe orgânica de segurança e brigada. </li> </ul><h3>Requisitos </h3><ul><li>Desejável Experiência em Shopping Center; </li><li>Experiência em segurança patrimonial; </li><li>Vivência com gestão de equipe orgânica e terceiros; </li><li>Conhecimentos da legislação de segurança patrimonial e brigada; </li><li>Conhecimento Intermediário do Pacote Office. </li> </ul><h3>O Que Temos Para Você </h3><ul><li>Vale Refeição/Alimentação; </li><li>Plano de Saúde; </li><li>Seguro de vida; </li><li>Wellhub; </li><li>Acolhe (serviço de apoio psicossocial); </li> </ul><p><strong>Local de trabalho: </strong> Shopping da Bahia </p><h3>Processo Seletivo </h3><ul><li>Step 2: Entrevista Atração e Seleção </li><li>Step 3: Entrevista Gestão </li><li>Step 4: Etapa Flexível </li> </ul><p>Existimos para conectar as pessoas com o que importa, servindo e encantando todos os dias e criando momentos que transformam. </p> #J-18808-Ljbffr",
-    "company": "ALLOS",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262256__1953_894b22407a6d5ba93e0287bc0e8a56d4?utm_source=1953&utm_medium=feed&keyword=Pessoa-Coordenadora-de&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de Talentos - Exclusivo Pcd - Rede D'or",
-    "description": "<p>Join to apply for the <strong>Banco de Talentos - Exclusivo Pcd - Rede D'Or </strong> role at <strong>Rede D'Or São Luiz </strong>. </p><p><strong>Descrição </strong>: Vagas disponíveis para todas as áreas: </p><ul><li>Exemplo: técnico em enfermagem (necessário certificado); auxiliar administrativo, recepção, enfermeiro (necessário certificado) e demais cargos. </li> </ul><p><strong>Requisitos </strong>: </p><ul><li>Ensino Médio Completo; </li><li>Conhecimento em informática; </li><li>Laudo PCD atualizado. </li> </ul><p><strong>Atividades </strong>: </p><ul><li>Organização do ambiente de trabalho conforme as boas práticas, normas, rotinas e procedimento do setor; </li><li>Comprometimento em ofertar a melhor experiência no cuidado à família; </li><li>Contribuir com orçamento na área, informando sobre possíveis desperdícios dentro da unidade; </li><li>Manter comunicação com os processos de apoio para prover a unidade de recursos para o andamento do serviço; </li><li>Entre outras atividades. </li> </ul><p><strong>Outras Informações </strong>: </p><ul><li>Local de trabalho: Hospitais Rede D'Or - Bahia; </li><li>Escala de trabalho: horários diversos; </li><li>Disponibilidade para treinamento. </li> </ul><p>Observação: As últimas linhas com títulos de vagas parecem ser anúncios de outras oportunidades e podem ser removidas para maior foco nesta vaga específica. </p> #J-18808-Ljbffr",
-    "company": "Rede D'Or São Luiz",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262318__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Atendente Júnior - Salvador",
-    "description": "<p>Na Logos, acreditamos que cada interação com nossos clientes é uma oportunidade de criar experiências excepcionais. Estamos à procura de atendentes apaixonados e dedicados para se juntarem à nossa equipe.<br>A Logos Serviços se destaca no mercado por oferecer soluções inovadoras e personalizadas em gestão de atendimentol. Com uma trajetória de sucesso e crescimento constante, nos orgulhamos de nossa cultura organizacional que valoriza o respeito ao próximo, a inovação e o comprometimento. Nossa equipe é composta por profissionais altamente qualificados e motivados, que buscam constantemente superar os desafios e contribuir para o desenvolvimento sustentável da empresa e da sociedade.<br>Na Logos Serviços, acreditamos que o sucesso de nossa organização se deve ao talento e à dedicação de nossa equipe. Fomentamos um ambiente de trabalho que incentiva a criatividade, a colaboração e o crescimento profissional. Trabalhamos para criar um espaço onde todos possam compartilhar suas ideias e perspectivas. O desenvolvimento contínuo dos nossos colaboradores é uma prioridade, assim como o bem-estar e a satisfação no trabalho.<br><strong>Responsabilidades e atribuições<br></strong><ul><li>Realizar atendimento presencial aos clientes. </li><li>Receber e atender clientes de forma cortês e amigável. </li><li>Emitir solicitações de serviços. </li><li>Fornecer informações precisas sobre produtos, serviços e políticas da empresa. </li><li>Resolver problemas e reclamações dos clientes de maneira eficiente e satisfatória. </li><li>Registrar reclamações, sugestões e elogios dos clientes. </li><li>Registrar e atualizar dados dos clientes no sistema. </li><li>Manter a área de atendimento limpa e organizada. </li><li>Trabalhar em equipe com outros atendentes para garantir um serviço de qualidade.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><ul><li>Ensino médio completo; </li><li>Maior de 18 anos; </li><li>Pacote office; </li><li>Informática básica; </li><li>Língua portuguesa; </li><li>Boa digitação.<br><br></li> </ul><strong>Informações adicionais<br></strong><ul><li>Assistência médica </li><li>Assistência odontológica </li><li>Totalpass </li><li>Creditas </li><li>Convênio com Sesc </li><li>Vale alimentação </li><li>Convênio com Universidades </li> </ul> </p> </ul>Lauro de Freitas, Bahia, Brazil 4 months ago<p>Lauro de Freitas, Bahia, Brazil 8 months ago </p><h3>Atendente Comercial Júnior - Monte Gordo </h3><p>Lauro de Freitas, Bahia, Brazil 4 months ago </p> #J-18808-Ljbffr",
-    "company": "Logos Ma",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4262835__1953?utm_source=1953&utm_medium=feed&keyword=Atendente-J%C3%BAnior&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Consultor(a) de Vendas de Peças Jr - New Holland - Salvador",
-    "description": "<h3>Consultor(a) de Vendas de Peças Jr - New Holland - Salvador </h3><p>Prospectar clientes via telefone, prestando consultoria na área de vendas de peças, estabelecendo e mantendo relacionamentos, propondo as melhores opções possíveis para suprir as demandas. </p><h3>Responsabilidades e atribuições </h3><ul><li>Solicitar via e-mail as compras de peças visando atender os clientes; </li><li>Consultar os catálogos (físicos e eletrônicos) e identificar as peças que atendem às necessidades dos clientes; </li><li>Acessar sistema da fábrica para verificar a disponibilidade de peças para venda; </li><li>Realizar contato telefônico com os clientes da sua carteira com o objetivo de oferecer promoções e identificar novas oportunidades de vendas; </li><li>Emitir notas fiscais das vendas concretizadas; </li><li>Realizar outras tarefas afins, conforme necessidade do setor; </li><li>Prestar atendimento telefônico aos clientes para identificar a demanda de venda; </li><li>Receber demandas por e-mail e repassar orçamentos via e-mail e telefone. </li> </ul><h3>Requisitos e qualificações </h3><ul><li>Experiência com vendas de peças; </li><li>Ensino médio completo. </li> </ul><h3>Informações adicionais </h3><p>Confira todos os benefícios disponíveis para nossos colaboradores na nossa página de carreira na Gupy! </p> #J-18808-Ljbffr",
-    "company": "Grupo Bamaq",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4263104__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Separador",
-    "description": "<strong>VISÃO GERAL<br></strong>Fazer separação das mercadorias que são solicitadas pelos clientes através do Ecommerce/Delivery.<br><strong>PRINCIPAIS ATRIBUIÇÕES<br></strong>Atendimento ao cliente por ligação e whatsapp<br>Separação dos produtos<br>Conferência das mercadorias separadas de acordo com a solicitação<br>Suporte as áreas de loja<br>Ajudar na limpeza de caixas de separação dos produtos/pedidos e freezer<br>Ajudar na organização das entregas<br><strong>REQUISITOS DO CARGO<br></strong>Ensino Médio completo<br>Mínimo 1 ano de experiência na função<br><strong>CONHECIMENTOS<br></strong>Sistemas Socin e Intergrall<br><strong>COMPETÊNCIAS<br></strong>Adaptabilidade<br>Atenção ao cliente<br>Comunicação<br>Dinamismo<br>Efetividade<br>Flexibilidade<br>Organização<br>Planejamento<br>Proatividade<br>Trabalho em equipe<br><strong>BENEFÍCIOS<br></strong>Refeitório no local de trabalho<br>Plano de saúde<br>Plano odontológico<br><strong>ASPECTOS IMPORTANTES<br></strong>Escala 6X1<br>Necessário ter disponibilidade de horário<br>Necessário ter disponibilidade para trabalhar em qualquer loja do grupo #J-18808-Ljbffr",
-    "company": "Grupo RedeMix Supermercados",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4263290__1953?utm_source=1953&utm_medium=feed&keyword=Separador&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Auxiliar de Farmácia - UPA Santo Antônio",
-    "description": "<p>A OSID – Obras Sociais Irmã Dulce é uma das maiores instituições filantrópicas do país, com cerca de 5,6 milhões de procedimentos ambulatoriais por ano, na Bahia, a usuários do Sistema Único de Saúde (SUS), idosos, pessoas com deficiência e com deformidades craniofaciais, pessoas em situação de rua, usuários de substâncias psicoativas e crianças e adolescentes em situação de risco social.<br>A entidade conta com um perfil de serviços único no Brasil, distribuídos em 21 núcleos que prestam assistência à população de baixa renda nas áreas de Saúde, Assistência Social, Pesquisa Científica, Ensino em Saúde, Educação e na preservação e difusão da história de sua fundadora, Santa Dulce dos Pobres.<br><strong>Responsabilidades e atribuições<br></strong> </p><ul><li>Atuar sob supervisão direta do farmacêutico, no recebimento, triagem, armazenamento e dispensação de medicamentos e produtos de saúde; </li><li>Realizar conferência da prescrição de medicamentos para posterior dispensação; </li><li>Realizar a dispensação de medicamentos e produtos de saúde para pacientes e diferentes setores do hospital; </li><li>Realizar o controle de estoque de medicamentos e produtos de saúde, verificando o nível, repondo quando necessário e registrando entradas e saídas; </li><li>Auxiliar em tarefas administrativas da farmácia, como preenchimento de formulários, registro de dados em sistemas de informação e organização de documentos; </li><li>Oferecer suporte aos profissionais de saúde, esclarecendo dúvidas a respeito da dispensação de medicamentos e produtos de saúde que fazem parte da padronização da instituição; </li><li>Fracionar/unitarizar medicamentos, sólidos orais e injetáveis; </li><li>Distribuir medicamentos e produtos de saúde entre farmácias satélites quando necessário; </li><li>Analisar e receber estorno diariamente de medicamentos e produtos de saúde oriundos das unidades de internação; </li><li>Registrar e controlar temperatura diária do ambiente e das geladeiras e freezers; </li><li>Efetuar baixas contábeis nas prescrições médicas e solicitações do sistema informatizado para os setores e pacientes solicitantes; </li><li>Auxiliar na realização de inventários periódicos de medicamentos e produtos de saúde estocados; </li><li>Controlar medicamentos e produtos para a saúde segregando do estoque produtos vencidos e identificando (com etiqueta prioridade) produtos com vencimento próximo; </li><li>Higienizar e manter a organização diária das prateleiras, caixas plásticas, pallets, carrinhos, armários, e estações de trabalho; </li><li>Confeccionar e dispensar os Kits procedimentos (óbito, acesso central, sonda vesical, hemodiálise, etc); </li><li>Participar do gerenciamento de resíduos de serviços de saúde.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><ul><li>Ensino médio completo; </li><li>Conhecimento de informática (Libre Office Writer, Libre Office Calc, SoulMV Hospitalar); </li><li>6 (seis) meses de experiência em cargos similares.<br><br></li> </ul><strong>Informações adicionais<br></strong><ul><li>Plano de saúde; </li><li>Assistência odontológica; </li><li>Vale transporte; </li><li>Alimentação no refeitório da empresa. </li><li>Seguro de Vida </li> </ul> #J-18808-Ljbffr",
-    "company": "Obras Sociais Irmã Dulce",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4263370__1953_488420c86e387d8660e65e8041413f6d?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Farm%C3%A1cia&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "PROFESSOR AUXILIAR I - PSICOFISIOLOGIA, PSICODIAGNOSTICO -  PSICOLOGIA - ESTÁCIO - GILBERTO GIL",
-    "description": "<p>Join to apply for the <strong>PROFESSOR AUXILIAR I - PSICOFISIOLOGIA, PSICODIAGNOSTICO - PSICOLOGIA - ESTÁCIO - GILBERTO GIL </strong> role at <strong>Estácio </strong> </p><p>1 day ago Be among the first 25 applicants </p><p>Join to apply for the <strong>PROFESSOR AUXILIAR I - PSICOFISIOLOGIA, PSICODIAGNOSTICO - PSICOLOGIA - ESTÁCIO - GILBERTO GIL </strong> role at <strong>Estácio </strong> </p><p><strong>VENHA TRANSFORMAR VIDAS. INCLUSIVE A SUA.<br></strong><strong>A ESTÁCIO  </strong>é uma marca de ensino que atua na formação e transformação de vidas por meio da educação. Afinal, quando se promove acesso ao ensino de qualidade, é possível impactar toda a sociedade.<br>Por aqui, nossos colaboradores encontram um ambiente acolhedor e com muito espaço para desenvolvimento. Traga seu talento e comprometimento e venha fazer parte desse time!<br><strong>Responsabilidades e atribuições<br></strong><strong>Os principais desafios como PROFESSOR AUXILIAR DE PSICOLOGIA – ESTÁCIO:<br></strong><ul><li>Atuar como agente principal de efetivação da proposta pedagógica de nossas Instituições de Ensino, facilitando o processo de aprendizagem e cumprindo todo o programa da disciplina, o número de aulas previsto, despertando o interesse permanente dos alunos para o estudo, a reflexão e a busca de novos conhecimentos; </li><li>Fazer uso devido do material didático disponível, bem como deve estimular uso do material bibliográfico da disciplina, através da consulta a livros e periódicos existentes na biblioteca, contribuindo para um aprendizado crítico e reflexivo; </li><li>Cumprir os prazos estabelecidos no calendário acadêmico, bem como com as demandas solicitadas por seu respectivo coordenador de curso; </li><li>Registrar, por meio de caderneta eletrônica, a frequência, o conteúdo das aulas, os resultados das atividades acadêmicas dos alunos e demais informações referentes aos componentes curriculares em prazo definido no calendário acadêmico; </li><li>Contribuir para a realização de ações preparatórias para o ENADE; </li><li>Orientar os alunos nos trabalhos de conclusão de curso; </li><li>Utilizar metodologias ativas e sala de aula invertida para ministrar as aulas.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><strong>Buscamos um profissional com:<br></strong><ul><li>Titulação: Doutorado. </li><li>Mandatório Bacharelado/Especialização: Psicologia </li><li>Capacidade de comunicação, relacionamento com o aluno, adaptação e flexibilidade; </li><li>Atualização e domínio de conhecimentos teóricos e práticos referentes ao tema; </li><li>Domínio da ferramenta Microsoft Teams; </li><li>É indispensável que o candidato tenha currículo Lattes atualizado, este é um dos critérios de eliminação.<br><br></li> </ul><strong>Observação: A sua alocação preferencial será na unidade que você será contratado e sua disponibilidade de horas deverá se manter nessa unidade.<br></strong><strong>Informações adicionais<br></strong>Acreditamos na excelência do nosso ensino e, por isso, valorizamos os egressos das nossas instituições em nossos processos seletivos.<br>???? Mais inclusão: essa vaga também é destinada a pessoas com deficiência (PCDs)<br><strong>DIVERSIDADE: A ESTÁCIO valoriza a diversidade e as informações adicionais prestadas nos campos de diversidade são muito importantes para nós, por isso pedimos para que não deixe de responder. </strong> </p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Not Applicable </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Other </li><li><h3>Industries </h3>Education Administration Programs </li> </ul><p>Referrals increase your chances of interviewing at Estácio by 2x </p><p>Get notified about new Teaching Assistant jobs in <strong>Salvador, Bahia, Brazil </strong>. </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
-    "company": "Estácio",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4263379__1953_4518bb846e4f768172fff1c9df92b9d3?utm_source=1953&utm_medium=feed&keyword=PROFESSOR-AUXILIAR-I&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Operador de Telemarketing |  Salvador/BA",
-    "description": "<p>Para fazer parte do nosso time de operadores de telemarketing nós buscamos alguém com talento para falar com pessoas, que curte projetos sociais, é comunicativo e tem facilidade com a tecnologia. Se identificou? Então essa vaga é para você!<br>No nosso <em>call center </em>, procuramos pessoas comprometidas em encantar nossos doadores e possíveis doadores para colaborarem com nossos trabalhos sociais que são oferecidos gratuitamente à população em situação de risco pessoal e social.<br><strong>Responsabilidades e atribuições<br></strong><strong>Como operador de telemarketing você vai:<br></strong><ul><li>Entrar em contato com os nossos doadores e possíveis doadores, por meio de um contato telefônico, com o objetivo de encantá-lo e conquistar as doações para as nossas ações sociais; </li><li>Realizar atendimento personalizado com cada doador; </li><li>Prestar informações necessárias sobre o nosso trabalho social; </li><li>Utilizar sistema para o registro das ações.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><strong>O que você precisa ter para entrar para o nosso time:<br></strong><ul><li>Ter no mínimo 18 anos de idade; </li><li>Ensino médio cursando ou completo; </li><li>Habilidade com tecnologia; </li><li>Boa comunicação.<br><br></li> </ul><strong>Você vai se destacar se tiver experiência em:<br></strong><ul><li>Prospecção e fidelização de clientes; </li><li>Gestão e planejamento de vendas; </li><li>Esclarecer dúvidas de clientes.<br><br></li> </ul><strong>Informações adicionais<br></strong><strong>Benefícios:<br></strong><ul><li>Vale transporte; </li><li>Refeição no local (lanche); </li><li>Seguro de vida; </li><li>Plano Odontológico; </li><li>Convênio com o SESC; </li><li>Descontos em academias e práticas esportivas (Wellhub); </li><li>Parcerias educacionais com descontos em cursos e faculdades; </li><li>Programa de capacitação e treinamento. </li> </ul> </p> </ul><p>Referrals increase your chances of interviewing at LBV - Legião da Boa Vontade by 2x </p><h3>Líder de Atendimento - Recepção Emergência - Hospital Aliança </h3><h3>Recepcionista - Ambulatório - Oncologia D'Or (Salvador) </h3><h3>Auxiliar Administrativo - Emergência/UTI - Hospital Aeroporto </h3><h3>Auxiliar Administrativo | Cresol União dos Vales - Regional Nordeste (Exclusiva PCD) </h3><p>Lauro de Freitas, Bahia, Brazil 13 hours ago </p><p>Lauro de Freitas, Bahia, Brazil 1 day ago </p><p>Camaçari, Bahia, Brazil R$759.00-R$759.00 1 day ago </p><h3>Smart Fit - Recepcionistas - Pessoas com Deficiências (PCD) - Salvador (405692) </h3> #J-18808-Ljbffr",
-    "company": "Legião da Boa Vontade",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4263907__1953_fffa2a115abc451636bf1e60bee25612?utm_source=1953&utm_medium=feed&keyword=Operador-de-Telemarketing&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Consultor Técnico de Funilaria - Salvador/BA",
-    "description": "<h3>Job description </h3><p>Somos um grupo multimarcas que atua na comercialização de veículos novos, seminovos, acessórios, consórcios, frota, seguros e pós-vendas realizado na nossa rede de concessionárias além do serviço de locação (mobilidade). </p><p>Buscamos um <strong>Consultor Técnico de Funilaria  </strong>para<strong> Realizar o atendimento aos clientes/seguradoras da Concessionária do grupo GNC assegurando a qualidade em todo o processo garantindo a máxima rentabilidade para o departamento com menor custo de reparo. </strong> </p><p>Se você é uma pessoa ágil, que encanta o cliente e preza pela excelência em resultados, venha fazer parte do nosso<strong><em>time </em> </strong>! </p><p><strong><em>Nós somos o Grupo NewChase e crescemos juntos! </em> </strong> </p><br><h3>Main responsibilities </h3><ul><li>Realizar o atendimento aos clientes/seguradoras da Concessionária do grupo GNC que estão em busca de serviços de funilaria e pintura, através de uma abordagem empática e cordial pessoalmente ou por telefone, assegurando a excelência no atendimento e a satisfação dos clientes. </li><li>Elaborar orçamentos de funilaria e pintura para veículos sinistrados, através da análise das avarias encontradas e inserção das referencias de peças e serviços nos sistemas de gestão corporativos (APOLLO), a fim de assegurar o maior aproveitamento do orçamento e garantir retorno financeiro para empresa. </li><li>Realizar a venda de serviços e peças de funilaria e pintura para clientes ou companhias de seguros, cujos veículos necessitem de reparos, através de atendimento ao cliente ou peritos das seguradoras que venham até a loja realizar o serviço, com a finalidade de garantir o atingimento das metas e a sustentabilidade do setor. </li><li>Receber e acompanhar os veículos que chegam à concessionária para execução de serviços de funilaria e pintura, através de preenchimento de check list de recebimento de veículos, acompanhando o progresso do serviço na oficina e mantendo o cliente constantemente informado sobre a evolução do reparo e prazo de entrega, a fim de garantir a excelência no atendimento e total satisfação do cliente. </li><li>Atender os peritos das seguradoras e ajustar os valores de peças e serviços destinados à aprovação das seguradoras, através da formulação de orçamentos no sistema corporativo (APOLLO), com o propósito de garantir maior rentabilidade para o setor de funilaria e pintura. </li><li>Realizar os cursos presenciais e via WEB da montadora (Chevrolet), através do cronograma de cursos enviado pela Diretoria de Recursos Humanos, a fim de garantir a aprovação e manutenção do índice definido pela montadora. </li><li>Observar as práticas da concorrência quanto a preços, ofertas, etc., buscando apresentar sugestões para o incremento das vendas. </li><li>Manter-se informado quanto às políticas internas de vendas do Grupo e dos concorrentes, a fim de atuar proativamente na negociação junto ao cliente. </li><li>Executar outras tarefas que venham a ser delegadas pelo gestor da área. </li> </ul><br><h3>Requirements and skills </h3><p><strong><u>Se você: </u> </strong> </p><ul><li>Possui o ensino médio completo; </li><li>Carteira Nacional de Habilitação, categoria B; </li><li>Noções básicas de informática; </li> </ul><p><em>O #GrupoNewChase é o seu lugar! </em> </p><p><strong><u>Será considerado um diferencial se você: </u> </strong> </p><ul><li>Experiência na área de funilaria e pintura automotiva; </li> </ul><br><h3>Additional information </h3><p><strong><u>O que oferecemos: </u> </strong> </p><ul><li>Salário compatível com o mercado; </li><li>Plano de Saúde; </li><li>Plano Odontológico; </li><li>Vale Refeição ou Alimentação; </li><li>Vale Transporte; </li><li>Seguro de Vida; </li><li>WellHub (Antigo Gympass) - extensivo para até 3 dependentes; </li><li>Telemedicina sem custo - extensivo para cônjuge, filhos e filhas; </li><li>Atendimento Psicológico sem custo - extensivo para cônjuge, filhos e filhas; </li><li>Descontos em cursos de Graduação, Pós Graduação, MBA e Inglês 100% online; </li><li>Universidade Corporativa; </li><li>Programa de Reconhecimento por tempo de empresa; </li><li>Programa de Atenção à Gestante; </li><li>Programa de Saúde e Bem-Estar. </li> </ul><br>#J-18808-Ljbffr",
-    "company": "GrupoNewChase",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4264071__1953_e9d4d9acd3f6978688afece78c5a98a0?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico-de&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "Vendedor de Consórcio - BYD l Mandarim Iguatemi",
     "description": "<h3>Job description </h3><p>Buscamos uma pessoa com alto desempenho, disposição para proporcionar a melhorar experiência aos nossos clientes, para juntos alcançarmos objetivos. </p><p>Você atuará com vendas de consórcio, a sua principal responsabilidade será alcançar as metas de volume e rentabilidade de vendas e satisfação de clientes. </p><p>Os principais diferenciais nesta função são o conhecimento do mercado automotivo, as técnicas de vendas e negociação, o uso das mídias digitais, o controle, a organização, a comunicação eficaz e o excelente atendimento aos clientes. </p><p>Se você é uma pessoa bem articulada, apaixonada por vendas e gosta de desafios, aqui é o seu lugar! </p><p>Venha ter alta performance e encantar clientes conosco! </p><p>Se identificou com essa oportunidade? </p><p>Se inscreva nessa vaga e participe do nosso processo seletivo. </p><br><h3>Main responsibilities </h3><ul><li>Prospectar clientes, acompanhar leads e negociações em andamento; </li><li>Vender consórcio; </li><li>Elaborar propostas e formalizar vendas conforme normas internas; </li><li>Assegurar o cumprimento dos acordos com os clientes; </li><li>Organizar, conferir e acompanhar processos administrativos relativos às vendas realizadas. </li> </ul><br><h3>Requirements and skills </h3><ul><li>Ensino Médio completo; </li><li>Experiência com vendas; </li><li>Experiência com mídias digitais; </li><li>Desejável CNH na categoria B; </li><li>Experiência com vendas de consórcio será um diferencial; </li><li>Experiência em concessionária será um diferencial; </li><li>Experiência com os sistemas Syonet e DealerNet será um diferencial. </li> </ul><p>PRINCIPAIS COMPETÊNCIAS E COMPORTAMENTOS ESPERADOS </p><ul><li>Comprometimento com a empresa; </li><li>Orientação competitiva para os resultados; </li><li>Dinamismo e sentido de urgência; </li><li>Assessoramento, suporte e atenção aos clientes; </li><li>Persuasão e extroversão; </li><li>Cumprimento de normas e políticas. </li> </ul><br><h3>Additional information </h3><ul><li>Salário variável compatível com o mercado; </li><li>Vale transporte; </li><li>Vale alimentação; </li><li>Programa Bem Mais Benefícios (plano odontológico, seguro de vida, teles saúde, assistência natalidade e muito mais). </li> </ul><br>#J-18808-Ljbffr",
     "company": "Grupo Indiana",
@@ -644,7 +518,7 @@
     "company": "InnLeaders",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4275740__1953_8b90dde12d88bbf8964df28911f03380?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativa-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4275740__1953_15078f7259ad5d06cc10000526cfc26c?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativa-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -707,7 +581,7 @@
     "company": "abler Vagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4277144__1953_02c2627af64f6662be7a5f964d8c18aa?utm_source=1953&utm_medium=feed&keyword=Vigia&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4277144__1953_acf25568f3e97e057eddd81ed2cbe0ef?utm_source=1953&utm_medium=feed&keyword=Vigia&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1022,7 +896,7 @@
     "company": "Americasmed",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4286738__1953_4b8a2b7ff23e74bf5ed9de138c5c8192?utm_source=1953&utm_medium=feed&keyword=Analista-Financeiro-PL&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4286738__1953_03e15efa182bd1862dc8adf53529c1ca?utm_source=1953&utm_medium=feed&keyword=Analista-Financeiro-PL&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1310,7 +1184,7 @@
     "company": "3 Corações S/A",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4295202__1953_9e8c0dcb5e470091d5d6c1e5a5482303?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4295202__1953_4af1c1422698681d99672c2847c14139?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1427,7 +1301,7 @@
     "company": "Bridgestone do Brasill Indústria e Comércio Ltda.",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4297697__1953_90210b2fca6bdb950264341ad964669c?utm_source=1953&utm_medium=feed&keyword=Analista-Custos-Local&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4297697__1953_f628e56e17ec875f517ccc6ece41d35f?utm_source=1953&utm_medium=feed&keyword=Analista-Custos-Local&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1463,7 +1337,7 @@
     "company": "SolMirandaRH",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4298505__1953_c67667aab3a7d568f0f013f24e4e06cb?utm_source=1953&utm_medium=feed&keyword=Administrativo-Financeiro&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4298505__1953_ebd79e42e7115a5c62d9bd73c9134786?utm_source=1953&utm_medium=feed&keyword=Administrativo-Financeiro&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1472,7 +1346,7 @@
     "company": "Bluelight Consulting",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4298536__1953_fdd1435b03d07d17aa7f146cbdd3529e?utm_source=1953&utm_medium=feed&keyword=Senior-UX-UI-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4298536__1953_c18b01bc6a9e1dcea1145fce94d129f7?utm_source=1953&utm_medium=feed&keyword=Senior-UX-UI-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1481,7 +1355,7 @@
     "company": "Gestaumdigital",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4298601__1953_84a135b6540dd834a12129230d3a3b1b?utm_source=1953&utm_medium=feed&keyword=Programador-Desenvolvedor&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4298601__1953_64154903d1958fcc8fb491fdeea73802?utm_source=1953&utm_medium=feed&keyword=Programador-Desenvolvedor&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1499,7 +1373,7 @@
     "company": "Unidas SA",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4299089__1953_c0fdf66f6835f9c153e02a859af8d1bc?utm_source=1953&utm_medium=feed&keyword=AGENTE-DE-OPERA%C3%87%C3%95ES&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4299089__1953_7c7738899da9a1a562e4a242a28ec808?utm_source=1953&utm_medium=feed&keyword=AGENTE-DE-OPERA%C3%87%C3%95ES&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1643,7 +1517,7 @@
     "company": "Fadel Transportes e Logística",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4301874__1953_5f84c594ee91938739f35d203f976ccf?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Recursos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4301874__1953_0834186055a40d2cbc03e4a3f2e332b3?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Recursos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1895,7 +1769,7 @@
     "company": "Brasil/CT",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4305669__1953_d3480563dbb5e67bff162dd43fe6828b?utm_source=1953&utm_medium=feed&keyword=Gerente-De-Projetos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4305669__1953_a384aed98ec636d794f2154d7c279e7a?utm_source=1953&utm_medium=feed&keyword=Gerente-De-Projetos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2003,7 +1877,7 @@
     "company": "JACOBS DOUWE EGBERTS",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4307256__1953_bd2b893e059ab40ef15adb7e643a663c?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Merchandising&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4307256__1953_39bd685deed7055a9146cb9b4f926493?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Merchandising&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2210,7 +2084,7 @@
     "company": "Netvagas",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4310197__1953_b23b32ce1d163feaeb9a9f8bfbeb59f9?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-educacao&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4310197__1953_9bf57c1f498de2e5e02463bcd1f7267d?utm_source=1953&utm_medium=feed&keyword=Instrutor-de-educacao&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2309,7 +2183,7 @@
     "company": "Rvdigitalbrasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4310867__1953_eb796e5351251ad11005de4669ced71f?utm_source=1953&utm_medium=feed&keyword=Vendedor-Externo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4310867__1953_5b1015368e38ff4ea576e0f0cb3b0a4d?utm_source=1953&utm_medium=feed&keyword=Vendedor-Externo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2318,7 +2192,7 @@
     "company": "Cassi",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4310875__1953_61120cc4aba34792c655d31882533812?utm_source=1953&utm_medium=feed&keyword=ENFERMEIRO-AUDITOR-INCLUSIVA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4310875__1953_7ea5e1a1f7ed25b09b4a6f03166d4f08?utm_source=1953&utm_medium=feed&keyword=ENFERMEIRO-AUDITOR-INCLUSIVA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2453,7 +2327,7 @@
     "company": "O Varejão Autopeças",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4312022__1953_fd545a1ecd6a2b73eea42f4289cb5dd3?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4312022__1953_da8d4a42c5e2e45a5cd5ad6897c308be?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2543,7 +2417,7 @@
     "company": "Rosatelli",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4312672__1953_42c13a741dd3b2adbffd387750f86531?utm_source=1953&utm_medium=feed&keyword=Motorista-Carteira&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4312672__1953_16476e049cfaa3d8729356e23c0d6bd0?utm_source=1953&utm_medium=feed&keyword=Motorista-Carteira&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2579,7 +2453,7 @@
     "company": "Grupo Indiana",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4313342__1953_770d386f8b3deba93aa7a62a0d054411?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-Ve%C3%ADculos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4313342__1953_39a16dd84e7a67a30f3eccf5e13a6e35?utm_source=1953&utm_medium=feed&keyword=Vendedor-de-Ve%C3%ADculos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2588,7 +2462,7 @@
     "company": "Clinicas Inteligentes",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4313426__1953_cff00b53aaa1415428669e96a8e448f2?utm_source=1953&utm_medium=feed&keyword=Comercial-CRC&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4313426__1953_18aef9d43944a0f04635e37d78193e16?utm_source=1953&utm_medium=feed&keyword=Comercial-CRC&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2894,7 +2768,7 @@
     "company": "Rain",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4315926__1953_d31577fb5bf037ecbac9b671eedca2fd?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4315926__1953_2ce6c8369373f52143ebd938da55818e?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2912,7 +2786,7 @@
     "company": "Rain",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4315974__1953_afb876d246ca0917dc6b66401a2f2bde?utm_source=1953&utm_medium=feed&keyword=Senior-Devops-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4315974__1953_173be49679bc7f9e9a2d5fca46888456?utm_source=1953&utm_medium=feed&keyword=Senior-Devops-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3101,7 +2975,7 @@
     "company": "Hospital da Bahia",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4317223__1953_c795307faf53bbd5706c5fbb92a3d2b0?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-Cozinha&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4317223__1953_25e8ee786ab86812f4bf37f3883c19a2?utm_source=1953&utm_medium=feed&keyword=Ajudante-de-Cozinha&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3137,7 +3011,7 @@
     "company": "Pague Menos",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4317266__1953_d883b9793f3330464ff189e49d38e5de?utm_source=1953&utm_medium=feed&keyword=Pessoa-Operadora-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4317266__1953_1e9ca58c4d2cdbbbf530f559358f4fca?utm_source=1953&utm_medium=feed&keyword=Pessoa-Operadora-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3218,7 +3092,7 @@
     "company": "General Shopping Brasil SA",
     "city": "Lauro de Freitas",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4317771__1953_0b2d2a3be0d09f04acd92a59cc082a18?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo-Financeiro&location=Lauro-de-Freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4317771__1953_1bdb6792779e0fdde0d7ef548d0a9768?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo-Financeiro&location=Lauro-de-Freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3236,7 +3110,7 @@
     "company": "Tenda",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4317876__1953_10662d121d2aa648f074e9225cd9d74c?utm_source=1953&utm_medium=feed&keyword=Agente-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4317876__1953_22c52608f7be73c490a16984f13ef163?utm_source=1953&utm_medium=feed&keyword=Agente-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3245,7 +3119,7 @@
     "company": "Medigest",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4317907__1953_434637cfebe4b15fa7ab3e139311582d?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Empresas&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4317907__1953_2a3a7ff4306f07b47b35953a26abc1ee?utm_source=1953&utm_medium=feed&keyword=Assistente-de-Empresas&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3335,7 +3209,7 @@
     "company": "Garantiarealmaringa",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4318984__1953_bbaa834812b54b65e39934c5ae57ac38?utm_source=1953&utm_medium=feed&keyword=Vigilante-BA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4318984__1953_31f2b542449c1ac383708fb55f845959?utm_source=1953&utm_medium=feed&keyword=Vigilante-BA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3659,7 +3533,7 @@
     "company": "Pifpafalimentos",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4322507__1953_1b01db3cab4e301cdae293ab378b9db1?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4322507__1953_f9f20b8b17d3e980a58fe31550192468?utm_source=1953&utm_medium=feed&keyword=Promotor-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3830,7 +3704,7 @@
     "company": "Garantiarealmaringa",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4324210__1953_57f44e6286674812b6a5f3601ddbf86c?utm_source=1953&utm_medium=feed&keyword=Vigia&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4324210__1953_4bbf9851df659ec0c887d965c5571280?utm_source=1953&utm_medium=feed&keyword=Vigia&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3884,7 +3758,7 @@
     "company": "Contax",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4324659__1953_7b403db57345521e0dfe97d5001505a7?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4324659__1953_b8ff3ba3696ac3b80ef517893c769aaf?utm_source=1953&utm_medium=feed&keyword=Analista-de-Recrutamento&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3920,7 +3794,7 @@
     "company": "Solar Coca-Cola",
     "city": "Simões Filho",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4324898__1953_3f3905ac0229d66262d1f24e004059a1?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo-Aprendiz&location=Simões-Filho&geoID=8796",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4324898__1953_ffd76e7424e9a8d9de64856a35568878?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo-Aprendiz&location=Simões-Filho&geoID=8796",
     "tipo": ""
   },
   {
@@ -4001,7 +3875,7 @@
     "company": "Hita Comércio e Serviços",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4325335__1953_26c294583e261a687950a4ac3501f05b?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-ADMINISTRATIVO&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4325335__1953_cd2b7e0cfeb98afd633cabdff54335db?utm_source=1953&utm_medium=feed&keyword=AUXILIAR-ADMINISTRATIVO&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4280,7 +4154,7 @@
     "company": "Grupo CCR",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4327607__1953_4672073ba773676f58958a63a3966dc0?utm_source=1953&utm_medium=feed&keyword=TRILHOS-l-ESTAGI%C3%81RIO&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4327607__1953_8e4982b0c1ccdc6628873525b73ada42?utm_source=1953&utm_medium=feed&keyword=TRILHOS-l-ESTAGI%C3%81RIO&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4316,7 +4190,7 @@
     "company": "Ovarejao",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4327802__1953_cc4366562a334796c868adcff12fc98c?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-caixa&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4327802__1953_b3364a88af65ede5f307db747633da77?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-caixa&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4514,7 +4388,7 @@
     "company": "Bridgestone US",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4330154__1953_aff5753bf0b510d7f2d237a3e67719ca?utm_source=1953&utm_medium=feed&keyword=Analista-Custos-Local&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4330154__1953_b3ccdbadbb32e2f97cfb60e3847b2d28?utm_source=1953&utm_medium=feed&keyword=Analista-Custos-Local&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4622,7 +4496,7 @@
     "company": "Sotreq S/A",
     "city": "Simões Filho",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4332399__1953_8ccf70826e6a2aa209c118c53e60583a?utm_source=1953&utm_medium=feed&keyword=250701522&location=Simões-Filho&geoID=8796",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4332399__1953_939b0511fecdd5756be56514a5f9d8c0?utm_source=1953&utm_medium=feed&keyword=250701522&location=Simões-Filho&geoID=8796",
     "tipo": ""
   },
   {
@@ -4766,7 +4640,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4334246__1953_9ab7ab1bde3f937f1f530ed527ecee86?utm_source=1953&utm_medium=feed&keyword=Talent-Acquisition-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4334246__1953_fa4e67780bc5009dc8003afaa602f773?utm_source=1953&utm_medium=feed&keyword=Talent-Acquisition-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4883,7 +4757,7 @@
     "company": "Wilson Sons",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4336460__1953_a720781a7c5e155395864d330d1e172a?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Opera%C3%A7%C3%B5es&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4336460__1953_1f7a416b9b0d96fdb3629195dc30b681?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Opera%C3%A7%C3%B5es&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4946,7 +4820,7 @@
     "company": "RH & COM",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4337273__1953_fe20177d9cbbeb0b828deb84ced1ef3b?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Telecom&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4337273__1953_413bdc65b0f2e310dd66ff9a0cdc62cd?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Telecom&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5243,7 +5117,7 @@
     "company": "abler Vagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4340787__1953_48e07643e73a681415b42946a3a1cc02?utm_source=1953&utm_medium=feed&keyword=Coordenador-Operacional-Condominial&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4340787__1953_1e0c78c5e5f2d4a0810a502f9f4a5492?utm_source=1953&utm_medium=feed&keyword=Coordenador-Operacional-Condominial&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5414,7 +5288,7 @@
     "company": "Lucy Electric",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4343301__1953_3a33eb38266aae3b6b9760fc3018b7e2?utm_source=1953&utm_medium=feed&keyword=Technical-Sales&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4343301__1953_ac9db380fc5388c1f9a9787089228628?utm_source=1953&utm_medium=feed&keyword=Technical-Sales&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5441,7 +5315,7 @@
     "company": "ITS Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4343780__1953_b8bfdf1030509031985797824874b2bd?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-DE-SUPORTE&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4343780__1953_fe3e92faabc35cc8ec15217b2a873071?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-DE-SUPORTE&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5639,7 +5513,7 @@
     "company": "3 Corações S/A",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4346181__1953_130476ca383dfd5548df26c9b07c917e?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4346181__1953_52bbd7a4c41918da48751d21f48be0e1?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5666,7 +5540,7 @@
     "company": "MRV&CO",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4346451__1953_fcd1c44313d4216f5b6c0c5f5c97c603?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4346451__1953_250b82f1f9e7db681350a532d192f58f?utm_source=1953&utm_medium=feed&keyword=Promotor-de-vendas&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5711,7 +5585,7 @@
     "company": "General Shopping Brasil SA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4347039__1953_deb078ed41953d5e08817818ce014913?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Opera%C3%A7%C3%B5es&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4347039__1953_acfbaf575c88b0755302df53d8f2d32a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Opera%C3%A7%C3%B5es&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5756,7 +5630,7 @@
     "company": "Flex Maker",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4347523__1953_e9888a3b0e0c41e98b44b2fef6597a93?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Almoxarifado&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4347523__1953_0566b2140735cdb1ce0b6309e1fba4b2?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Almoxarifado&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5873,7 +5747,7 @@
     "company": "Escola Bahiana de Medicina e Saúde Pública",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4349303__1953_bf7b9e4e5eb95774e916f7deb1c78703?utm_source=1953&utm_medium=feed&keyword=AJUDANTE-DE-SERVI%C3%87OS&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4349303__1953_c94d40d37c485f4928904edad92596db?utm_source=1953&utm_medium=feed&keyword=AJUDANTE-DE-SERVI%C3%87OS&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6530,7 +6404,7 @@
     "company": "tel telematica",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4357229__1953_2614626e246a5af6b58b4d94d09f74fc?utm_source=1953&utm_medium=feed&keyword=Team-Leader-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4357229__1953_0d29442b8de4fc8894a59af0a66fb23d?utm_source=1953&utm_medium=feed&keyword=Team-Leader-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6989,7 +6863,7 @@
     "company": "Bridgestone US",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4362099__1953_c319b5e1d602f7b195ae1a89b9144930?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-Produ%C3%A7%C3%A3o&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4362099__1953_2ed91bee60f676d76d4209da36ea4a99?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-Produ%C3%A7%C3%A3o&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7070,7 +6944,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4362988__1953_5faaebefd5a79ad0e1da1563594c644a?utm_source=1953&utm_medium=feed&keyword=React-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4362988__1953_52efd0d6bdb311d9f91e10a34e6b045c?utm_source=1953&utm_medium=feed&keyword=React-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7088,7 +6962,7 @@
     "company": "Carreiras Afya Educacional",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4363036__1953_b09eda47ebb9b4627c0016843967ed16?utm_source=1953&utm_medium=feed&keyword=Docente-Radiologia&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4363036__1953_60c4617fa131d8035617a9541f65688c?utm_source=1953&utm_medium=feed&keyword=Docente-Radiologia&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7232,7 +7106,7 @@
     "company": "Atento",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4364675__1953_4db836dc52c51a9ba73b39967864b312?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4364675__1953_de0f4cc1375bb1a78380bd250af657ed?utm_source=1953&utm_medium=feed&keyword=Mec%C3%A2nico-de-Manuten%C3%A7%C3%A3o&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7457,7 +7331,7 @@
     "company": "RH & COM",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4366461__1953_046a4de0a018f203e14cc0149a9ca4c2?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Log%C3%ADstica&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4366461__1953_9c74155ff2798d209d2447da503b1b87?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Log%C3%ADstica&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7511,7 +7385,7 @@
     "company": "abler Vagas",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4366954__1953_b802959614da3035806c1ef312932a98?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Relacionamento&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4366954__1953_78b2795cd3f3fead420bae7a6d5474bb?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-Relacionamento&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7547,7 +7421,7 @@
     "company": "abler Vagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4367299__1953_7384cc86e4ec3b97474473c6487ffd88?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Ci%C3%AAncias-Cont%C3%A1beis&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4367299__1953_968e558a90472e96c834dba114b99615?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Ci%C3%AAncias-Cont%C3%A1beis&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7592,7 +7466,7 @@
     "company": "Rede Bahia SA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4367657__1953_3c9248c9a72f190a7245096cf4660538?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-COMERCIAL-I&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4367657__1953_389021a0b317d0f37b879cfc1d7cf70a?utm_source=1953&utm_medium=feed&keyword=ASSISTENTE-COMERCIAL-I&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7682,7 +7556,7 @@
     "company": "GRUPO RCS",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4368044__1953_7607a1ec0fbb5ae4774bacdfdd1c0885?utm_source=1953&utm_medium=feed&keyword=PITUBA-ELETRICISTA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4368044__1953_b07a430f38bad105a8bcaf92c677caa6?utm_source=1953&utm_medium=feed&keyword=PITUBA-ELETRICISTA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7808,7 +7682,7 @@
     "company": "Graficoempreendimentos",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4369410__1953_8aafe97006459e9fa54f6e0d87c28bff?utm_source=1953&utm_medium=feed&keyword=ESTAGI%C3%81RIO-NOVOS&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4369410__1953_e227f0864608d276aaee329b3cd9ed8a?utm_source=1953&utm_medium=feed&keyword=ESTAGI%C3%81RIO-NOVOS&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7979,7 +7853,7 @@
     "company": "Companhia de Ferro Ligas da Bahia - FERBASA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4370728__1953_9d2bbf244e0dedd81ca2d8c65f26b63e?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-Suprimentos-Compras&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4370728__1953_b6ccb6d8f0b3ae17664b3ef27dca754b?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-Suprimentos-Compras&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8267,7 +8141,7 @@
     "company": "SOUL - Consultoria e Desenvolvimento de Talentos Humanos Ltda.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4372847__1953_1365a820c1afae363a75f804290eb978?utm_source=1953&utm_medium=feed&keyword=DRM-EST%C3%81GIO&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4372847__1953_0170fd9c5f37e5cfac124c6a5bc0fc03?utm_source=1953&utm_medium=feed&keyword=DRM-EST%C3%81GIO&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8582,7 +8456,7 @@
     "company": "SOUL - Consultoria e Desenvolvimento de Talentos Humanos Ltda.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4375110__1953_b2ed349c02b4c738c34fd322d019e8ff?utm_source=1953&utm_medium=feed&keyword=ALN-EST%C3%81GIO&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4375110__1953_ff9a410dbc9095194a6d46fc4d3d727a?utm_source=1953&utm_medium=feed&keyword=ALN-EST%C3%81GIO&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8672,7 +8546,7 @@
     "company": "Atakarejo",
     "city": "Lauro de Freitas",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_4375822__1953_5951e7504e7a4df540e1e5c1311e4bab?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-em&location=Lauro-de-Freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4375822__1953_c201b085e9ae22f7d30b194bea4e54d6?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-em&location=Lauro-de-Freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -8997,6 +8871,132 @@
     "city": "Salvador",
     "state": "Bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___70_4381093__1953?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Programa de Estágio: Eletrotécnico",
+    "description": "<p><strong>Sobre a Kofre<br></strong>A Kofre Tecnologia é uma empresa brasileira, que há 33 anos atua em todo território nacional e tem seu foco voltado para diversos mercados. A tecnologia é parte do nosso DNA, e somos especialistas em aplicá-la em soluções de comunicação crítica à serviço da vida. Aqui, a tecnologia não é apenas um conjunto de ferramentas; é a expressão do nosso compromisso com a segurança e o bem-estar das pessoas. Buscamos parcerias que compartilhem dessa visão, trazendo soluções inovadoras e transformadoras para nossos clientes. </p><p><strong>Sobre a Kofre<br></strong>A Kofre Tecnologia é uma empresa brasileira, que há 33 anos atua em todo território nacional e tem seu foco voltado para diversos mercados. A tecnologia é parte do nosso DNA, e somos especialistas em aplicá-la em soluções de comunicação crítica à serviço da vida. Aqui, a tecnologia não é apenas um conjunto de ferramentas; é a expressão do nosso compromisso com a segurança e o bem-estar das pessoas. Buscamos parcerias que compartilhem dessa visão, trazendo soluções inovadoras e transformadoras para nossos clientes.<br>Somos a Kofre! Temos como valores: FOME, COMPROMETIMENTO, VERDADE, RESOLUTIVIDADE, HUMILDADE INTELECTUAL e JOGAMOS JUNTOS pois somos apaixonados pelo que fazemos.<br><strong>Sobre a Vaga<br></strong><ul><li>Desenvolver o conhecimento prático das funções profissionais possibilitando, aos estudantes, um contato empírico com as matérias teóricas que lhes são passadas em sala de aula.<br></li> </ul><strong>Principais Atribuições<br></strong><ul><li>Executar trabalhos de mensuração e controle de qualidade; </li><li>Auxiliar nos serviços de manutenção e instalação de equipamentos; </li><li>Auxiliar as manutenções em toda linha de rádios da KOFRE; </li><li>Desenvolver habilidade técnica em analise de circuitos; </li><li>Realizar manutenção em acessórios; </li><li>Auxiliar na elaboração de treinamentos; </li><li>Participar no desenvolvimento de projetos; </li><li>Organizar arquivos técnicos;<br></li> </ul><strong>Requisitos Obrigatórios<br></strong><ul><li>Nível Técnico cursando Eletrônica ou eletrotécnica </li><li>Pacote Office (Word, Excel, Power Point) básico.<br></li> </ul><strong>Benefícios<br></strong><ul><li>Bolsa estágio compatível com o mercado </li><li>Ticket Alimentação / Refeição </li><li>Plano Odontológico </li><li>Total Pass / Yoga / Programas de Saúde e Bem Estar </li><li>Programa Soul Estágio e aprendizes - Trilhas de Desenvolvimento de Talentos </li><li>Day Off<br></li> </ul><strong>Jornada De Trabalho e Carga Horária<br></strong><ul><li>07:30 às 13:30h de Segunda a Sexta-Feira. </li> </ul> </p> </ul><h3>Estagiário(a) - Programa de Estágio Formativo (PEF) </h3><h3>Estagiário de Serviços Pós Vendas | BA, Salvador | Programa de Estágio 2025.2 </h3><h3>Estagiário de Serviços Pós Vendas | BA, Salvador | Programa de Estágio 2025.2 </h3><h3>SEMEAR (PROGRAMA DE ESTÁGIO SUPERIOR 2025) - CANDEIAS-CAMAÇARI/BA </h3><h3>SEMEAR (PROGRAMA DE ESTÁGIO TÉCNICO 2025) - CANDEIAS-CAMAÇARI/BA </h3> #J-18808-Ljbffr",
+    "company": "KOFRE TECNOLOGIA",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381102__1953?utm_source=1953&utm_medium=feed&keyword=Programa-de-Est%C3%A1gio&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Infrastructure Engineer",
+    "description": "<p>Join to apply for the <strong>Infrastructure Engineer </strong> role at <strong>Keyrock </strong> </p><p>Join to apply for the <strong>Infrastructure Engineer </strong> role at <strong>Keyrock </strong> </p><p>Get AI-powered advice on this job and more exclusive features. </p><p><strong>About Keyrock<br></strong>Since our beginnings in 2017, we've grown to be a leading change-maker in the digital asset space, renowned for our partnerships and innovation. </p><p><strong>About Keyrock<br></strong>Since our beginnings in 2017, we've grown to be a leading change-maker in the digital asset space, renowned for our partnerships and innovation.<br>Today, we rock with over 180 team members around the world. Our diverse team hails from 42 nationalities, with backgrounds ranging from DeFi natives to PhDs. Predominantly remote, we have hubs in London, Brussels and Singapore, also soon to be Paris, and host regular online and offline hangouts to keep the crew tight.<br>We are trading on more than 80 exchanges, and working with a wide array of asset issuers. As a well-established market maker, our distinctive expertise led us to expand rapidly. Today, our services span market making, options trading, high-frequency trading, OTC, and DeFi trading desks.<br>But we’re more than a service provider. We’re an initiator. We're pioneers in adopting the Rust Development language for our algorithmic trading, and champions of its use in the industry. We support the growth of Web3 startups through our Accelerator Program. We upgrade ecosystems by injecting liquidity into promising DeFi, RWA, and NFT protocols. And we push the industry's progress with our research and governance initiatives.<br>At Keyrock, we're not just envisioning the future of digital assets. We're actively building it.<br><strong>Job Description<br></strong>We are looking for an experienced Infrastructure Engineer to join our team, focusing on AWS, Kubernetes, and modern DevOps best practices. This role involves designing, implementing, and maintaining highly scalable and resilient cloud infrastructure to support our trading operations. The ideal candidate will have a strong background in cloud computing, automation, and CI/CD pipelines, ensuring high availability and performance for mission-critical systems.<br><strong>Key Responsibilities<br></strong><ul><li>Cloud Infrastructure Management: Design, deploy, and maintain scalable and resilient infrastructure on AWS using Infrastructure-as-Code (IaC). </li><li>Kubernetes Administration: Manage and optimize Kubernetes clusters for containerized applications, ensuring high availability and security. </li><li>Automation & CI/CD: Implement and manage CI/CD pipelines for efficient deployment, testing, and monitoring of applications. </li><li>Observability & Monitoring: Develop comprehensive monitoring solutions using Prometheus, Grafana, ELK stack, or similar tools to improve system reliability. </li><li>Security & Compliance: Apply best practices for cloud security, IAM policies, and compliance frameworks (SOC2, ISO 27001, etc.). </li><li>Incident Response & Performance Optimization: Troubleshoot issues, perform root cause analysis, and implement fixes to optimize performance. </li><li>Infrastructure as Code (IaC): Utilize Terraform, Ansible, or similar tools to automate infrastructure provisioning and configuration management. </li><li>Collaboration & Knowledge Sharing: Work closely with developers, security teams, and operations to promote DevOps culture and best practices. </li><li>Disaster Recovery & Reliability Engineering: Design failover and backup strategies to ensure business continuity in the event of failures.<br></li> </ul><strong>Background And Experience<br></strong><ul><li>Bachelor’s degree in Computer Science, Engineering, or a related field. </li><li>5+ years of experience in cloud infrastructure, SRE, or DevOps roles. </li><li>Interest in or any exposure to trading or similar themes would be desirable (not essential)<br></li> </ul><strong>Competences and personality<br></strong><ul><li>Strong expertise in AWS (EC2, S3, Lambda, RDS, VPC, IAM, etc.). </li><li>Hands-on experience with Kubernetes (EKS, K3s, or self-managed clusters). </li><li>Proficiency in scripting and automation using Python, Bash, or Go. </li><li>Experience with Infrastructure as Code (Terraform, CloudFormation, or Ansible). </li><li>Familiarity with monitoring, logging, and observability tools (Prometheus, Grafana, Datadog, ELK, etc.). </li><li>Strong understanding of networking concepts (VPC, Load Balancers, DNS, Firewalls). </li><li>Experience with DevOps methodologies, CI/CD pipelines, and GitOps practices. </li><li>Experience with high-performance and low-latency (sub millisecond) systems. </li><li>Familiarity with serverless architectures and event-driven computing. </li><li>Exposure to cloud cost optimization and FinOps strategies. </li><li>Previous exposure working with Crypto,, Traditional Finance (Trad Fi) or Trading would be highly desirable but not essential<br></li> </ul><strong>Our recruitment philosophy<br></strong>We value self-awareness and powerful communication skills in our recruitment process. We seek fiercely passionate people who understand themselves and their career goals. We're after those with the right skills and a conscious choice to join our field. The perfect fit? A crypto enthusiast who’s driven, collaborative, acts with ownership and delivers solid, scalable outcomes.<br><strong>Our offer<br></strong><ul><li>Competitive salary package </li><li>Autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </li><li>The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence<br></li> </ul>As an employer we are committed to building a positive and collaborative work environment. We welcome employees of all backgrounds, and hire, reward and promote entirely based on merit and performance.<br>Due to the nature of our business and external requirements, we perform background checks on all potential employees, passing which is a prerequisite to join Keyrock.<br></p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Information Technology </li> </ul><p>Referrals increase your chances of interviewing at Keyrock by 2x </p><p>Get notified about new Infrastructure Engineer jobs in <strong>Salvador, Bahia, Brazil </strong>. </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "Keyrock",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381158__1953?utm_source=1953&utm_medium=feed&keyword=Infrastructure-Engineer&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Enfermeiro - Exclusiva PCD",
+    "description": "<p>A OSID – Obras Sociais Irmã Dulce é uma das maiores instituições filantrópicas do país, com cerca de 5,6 milhões de procedimentos ambulatoriais por ano, na Bahia, a usuários do Sistema Único de Saúde (SUS), idosos, pessoas com deficiência e com deformidades craniofaciais, pessoas em situação de rua, usuários de substâncias psicoativas e crianças e adolescentes em situação de risco social.<br>A entidade conta com um perfil de serviços único no Brasil, distribuídos em 21 núcleos que prestam assistência à população de baixa renda nas áreas de Saúde, Assistência Social, Pesquisa Científica, Ensino em Saúde, Educação e na preservação e difusão da história de sua fundadora, Santa Dulce dos Pobres.<br><strong>Responsabilidades e atribuições<br></strong><ul><li>Colaborar com médicos e outros profissionais para planejar o atendimento </li><li>Avaliar a condição do paciente com frequência </li><li>Oferecer apoio e reconforto de acordo com as necessidades individuais dos pacientes </li><li>Trabalhar com cuidadores para planejar e executar um excelente atendimento apoiar o paciente </li><li>administrar a medicação; </li><li>Aliviar sintomas repentinos da fase final da doença </li><li>Notificar um médico sobre a condição de um paciente quando julgar necessário </li><li>Prestar assistência aos pacientes e seus familiares com a documentação </li><li>Manter registros precisos </li><li>Ajudar os parentes a enfrentar a perda próxima e oferecer suporte após a morte<br><br></li> </ul><strong>Requisitos e qualificações<br></strong>ESCOLARIDADE:<br>Nível Superior Enfermeiro (a)<br>COMPETÊNCIAS<br>Conhecimentos:<br><ul><li>Nível Superior </li><li>Conhecimento em pacote office<br><br></li> </ul>Requisitos:<br><ul><li>Conhecimento dos processos de enfermagem e diretrizes/efeitos colaterais dos medicamentos </li><li>Comprometimento com precauções de seguros e sólidos valores éticos </li><li>Forte capacidade de análise e atenção a detalhes </li><li>Excelentes habilidades de comunicação e natureza compassiva </li><li>Temperamento tranquilo e paciente </li><li>Estabilidade e resistência emocional/mental </li><li>Treinamento formal em enfermagem; certificado em enfermagem para cuidados paliativos é uma vantagem </li><li>Certificado atual em RCP<br><br></li> </ul>Comportamentos:<br>Comunicação;<br>Liderança;<br>Planejamento;<br>Negociação;<br>Tomada de decisão;<br>Cooperação;<br>Responsabilidade;<br>Interesse / dedicação / motivação;<br>Relacionamento Interpessoal;<br>Iniciativa;<br>Criatividade;<br>Adaptabilidade /Flexibilidade;<br><strong>Informações adicionais<br></strong><ul><li>Plano de saúde e odontológico </li><li>Vale transporte </li><li>Almoço no refeitório da empresa </li> </ul> </p> </ul><h3>Técnico de Enfermagem | Enfermaria | Hospital Metropolitano | Banco de Talentos </h3><h3>Técnico Enfermagem - Emergência Adulto - Hospital Aeroporto </h3><h3>Técnico Enfermagem - Emergência - Hospital Aeroporto </h3><h3>Técnico de Enfermagem - Laboratório Hospital - Hospita São Rafael </h3><p>Camaçari, Bahia, Brazil R$1,893.60 - R$1,893.60 1 month ago </p><h3>Técnico de Enfermagem | Banco de Talentos </h3><h3>Supervisor de Enfermagem - Laboratório Diagnoson a + </h3><h3>Técnico em Enfermagem - Medicina Nuclear - Hospital Cardio Pulmonar </h3> #J-18808-Ljbffr",
+    "company": "Obras Sociais Irmã Dulce",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381163__1953?utm_source=1953&utm_medium=feed&keyword=Enfermeiro-Exclusiva&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Account manager gestor de contas de marketing pleno v palhares cardoso co",
+    "description": "<p>Venha se juntar com a gente na V4 Company! </p><p>Sobre o ambiente de trabalho, é importante você saber que: </p><ul><li><p>Somos guiados por atitudes claras e transparentes em nossa rotina, que nos permitem fazer o máximo para nossos clientes. Trabalhamos de modo colaborativo, o que significa que confiamos nas pessoas que estão do nosso lado. </p> </li><li><p>Aqui ninguém é empregado de ninguém. O ambiente é o mais horizontal possível, possibilitando a sua autonomia para tomar as melhores decisões para as atividades pelas quais você é responsável. Não espere pelos outros aquilo que você pode fazer por si mesmo. </p> </li> </ul><p>Alguns dos desafios que você vai encarar: </p><ul><li><p>Fazer a gestão de uma carteira de clientes, mantendo canais de comunicação abertos e ativos, realizando relacionamento constante; </p> </li><li><p>Cuidar do onboarding de novos clientes de sua carteira; </p> </li><li><p>Implantar nossa metodologia de trabalho na rotina do cliente; </p> </li><li><p>Garantir a implementação de tudo o que foi planejado e vendido; </p> </li><li><p>Garantir que as expectativas do cliente estão sendo atendidas e assegurar os interesses da V4 Company; </p> </li><li><p>Acompanhar, colher, monitorar e analisar informações de resultados do clientes e KPIs; </p> </li><li><p>Presidir reuniões com cliente e alinhamentos internos; </p> </li><li><p>Fazer gestão de projetos/jobs: controlando e documentado step by step, com briefing e cronogramas, garantindo que prazos e acordos sejam cumpridos; </p> </li><li><p>Através de data driven e relacionamento, identificar/antecipar oportunidades, rupturas e necessidades. </p> </li> </ul><p>Pré-requisitos para candidatura: </p><ul><li><p>Boa comunicação; </p> </li><li><p>Conhecimentos básicos em marketing e/ou administração de empresas; </p> </li><li><p>Conhecimentos básicos em planilhas e apresentações de slide. </p> </li> </ul><p>Desejável mas não eliminatório: </p><ul><li><p>Ter atuado como Atendimento Publicitário; </p> </li><li><p>Experiência com negociação; </p> </li><li><p>Conhecimento em tráfego pago (Comunidade Sobral, Tesman, etc); </p> </li><li><p>Certificações (Facebook Ads, Google Ads, CRMs, etc). </p> </li> </ul><p>O que mais oferecemos: </p><ul><li><p>Ambiente vibrante, cheio de pessoas com o propósito de crescer; </p> </li><li><p>Foco em metas, não em horários; </p> </li><li><p>Gestão meritocrática, através de Objetivos Chave de Resultados (OKRs); </p> </li><li><p>Possibilidade de sociedade baseada no desempenho e alinhamento cultural com o negócio. </p> </li> </ul> #J-18808-Ljbffr",
+    "company": "Netvagas",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381258__1953?utm_source=1953&utm_medium=feed&keyword=Account-manager-gestor&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "C++ Tech Lead - Remote Work | REF#4099",
+    "description": "<p>5 months ago Be among the first 25 applicants </p><p>Get AI-powered advice on this job and more exclusive features. </p><p>At BairesDev, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.<br>Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.<br>When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.<br>C++ Tech Lead at BairesDev<br>Join as a C++ Tech Lead, where you'll guide the technical direction of software projects with your extensive knowledge of C++ and software engineering principles. You'll lead a development team, set high standards for software design and implementation, and ensure the delivery of sophisticated, efficient software solutions.<br>What you will do<br><ul><li>Define the technical direction and strategy for C++ development projects, ensuring alignment with organizational goals. </li><li>Lead and manage a team of C++ developers, setting clear objectives and promoting professional growth. </li><li>Oversee the entire development lifecycle of C++ applications, from concept to deployment and maintenance. </li><li>Ensure the adoption of best software development practices, focusing on advanced C++ and related technologies. </li><li>Stay at the forefront of C++ development trends, evaluating and implementing cutting-edge technologies and methodologies. </li><li>Facilitate communication between the C++ development team and other stakeholders, ensuring effective collaboration and project success.<br></li> </ul>What we are looking for<br><ul><li>7+ years of experience with C++. </li><li>Proficient in Agile methodologies, ensuring efficient project delivery and team collaboration. </li><li>In-depth knowledge of Design Patterns. </li><li>Advanced IT infrastructure knowledge. </li><li>Strong experience in application security best practices. </li><li>Proven track record in developing and integrating large-scale applications. </li><li>Expertise in both back-end and front-end development areas. </li><li>Skilled in conducting code reviews and managing CI/CD pipelines. </li><li>Expert understanding of client's requirements, assessing potential benefits and weaknesses. </li><li>Advanced knowledge of the trade-offs involved in choosing specific technologies or solutions. </li><li>Strong experience leading client and stakeholder meetings, effectively communicating technical concepts. </li><li>Demonstrated leadership skills in team management, task allocation, risk identification, decision-making, task estimation, conflict resolution, and project planning. </li><li>Advanced level of English.<br></li> </ul>How we do make your work (and your life) easier:<br><ul><li>100% remote work (from anywhere). </li><li>Excellent compensation in USD or your local currency if preferred </li><li>Hardware and software setup for you to work from home. </li><li>Flexible hours: create your own schedule. </li><li>Paid parental leaves, vacations, and national holidays. </li><li>Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent. </li><li>Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.<br></li> </ul>Join a global team where your unique talents can truly thrive! </p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Information Technology </li><li><h3>Industries </h3>IT Services and IT Consulting </li> </ul><p>Referrals increase your chances of interviewing at BairesDev by 2x </p><p>Get notified about new Lead Technician jobs in <strong>Salvador, Bahia, Brazil </strong>. </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "BairesDev",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381294__1953?utm_source=1953&utm_medium=feed&keyword=C%2B%2B-Tech-Lead&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "ZOR - ESTÁGIO ATENDIMENTO A CLIENTES",
+    "description": "<ul><li>(NÃO INFORMADO)<br>Administrativo/Escritório<br>Arquitetura Decoração e Urbanismo<br>Artes Lazer Literatura e Entretenimento<br>Comércio Varejista/Atacadista e Distribuição<br>Educação Treinamento e Idiomas<br>Engenharia<br>Esportes e Atividades Físicas<br>Estética Moda e Beleza<br>Financeiro/Contabilidade/Economia<br>Indústria Manufatura e Produção<br>Informática/TI Internet e Telecomunicação<br>Jurídico<br>Marketing e Vendas<br>Meio Ambiente<br>Mídia (Veic. Comunic.,1) e Jornalismo<br>Publicidade/Propaganda e RP<br>Saúde Trat.Terapêuticos e Hospitalar<br>Serviços Gerais e Domiciliares<br>Técnicos | Manutenção Instalação e Reparos<br>Telemarketing e Atendimento ao Cliente<br>Transporte | Terrestre Marítimo e Aéreo </li> </ul>Ramo da Empresa Telemarketing e Atendimento ao Cliente<p>Cidade SALVADOR/BA </p><p>Salário Não Divulgar </p><p>Tipo de Contratação Estágio </p><p>Requisitos e preferências </p><p>Área de Atuação:<ul><li>Administrativo/Escritório </li> </ul> </p> </ul>Atividades do cargo:<p>Ter a partir de 18 anos, Cursando Nível Médio Técnico ou Superior em Administração, Marketing, Com. Social, Secretariado e afins;<br>Bolsa Auxílio R$ 800,00 + R$ 7,00 Alimentação + VT integral + Seguro;<br>Horário: 6 horas diárias, de Segunda a Sexta (Das 09:00h às 15:00h).<br>Local de trabalho: Comércio;<br>Atividade:<br>Realizar saudação e direcionamento de clientes (Via WhatsApp e telefone), fornecer informações a clientes, responder a clientes sobre perguntas sobre produtos/serviços, fazer comparação de taxas de juros bancários, arquivo e organização de documentos, fazer cálculo de parcelas no sistema, fazer cross sell de produtos.<br>A T E N Ç Ã O !<br>SÓ SE CANDIDATE SE TIVER O PERFIL PARA A VAGA;<br>APÓS SE CANDIDATAR PELO SITE, FAVOR AGUARDAR UM RETORNO, CASO O SEU CURRÍCULO SEJA SELECIONADO;<br>NÃO DEIXE DE INFORMAR NO SEU CADASTRO O SEU NÍVEL DE ESCOLARIDADE E SEU NOME COMPLETO. A FALTA DESSAS INFORMAÇÕES IMPLICARÁ NA DESCLASSIFICAÇÃO DO CANDIDATO. <strong>ATENÇÃO: </strong> Atender aos requisitos divulgadosnão garante a sua aprovação para a próxima fase. Será realizada uma análise do perfilde cada candidato, levando em consideração as especificações de cada vaga. ENVIE SEU CURRÍCULO </p> #J-18808-Ljbffr",
+    "company": "SOUL - Consultoria e Desenvolvimento de Talentos Humanos Ltda.",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381480__1953?utm_source=1953&utm_medium=feed&keyword=ZOR-EST%C3%81GIO&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Product Owner Sênior (Produto B2B) | Pj - 100% Remoto",
+    "description": "<ul><li>Vaga: Product Owner Sênior (Produto B2B) | PJ - 100% Remoto Você é movido por desafios, tem visão de produto e gosta de trabalhar com autonomia? Temos uma oportunidade para você! ?? Sobre nós Somos uma empresa de tecnologia especializada em soluções de comunicação para o mercado B2B. Atendemos empresas de diversos segmentos com uma plataforma omnichannel em constante evolução. Operamos de forma 100% remota, com sede fiscal em Florianópolis. Valorizamos profissionais inovadores, comprometidos e com senso de dono. ?? O desafio Estamos em busca de um(a) Product Owner Sênior para atuar no coração do nosso time de produto. Essa pessoa será responsável por entender as dores dos usuários e transformar essas demandas em entregas de valor, conectando áreas estratégicas da empresa ao time de desenvolvimento. ?? Suas responsabilidades incluem: </li><li>Levantar e qualificar demandas junto a usuários, clientes e times internos. </li><li>Avaliar o impacto e viabilidade de novas funcionalidades. </li><li>Especificar requisitos, fluxos e casos de uso claros para o time técnico. </li><li>Participar da priorização do backlog e cerimônias ágeis. </li><li>Garantir alinhamento entre áreas (comercial, atendimento, marketing e tech). </li><li>Documentar processos e acompanhar a evolução das entregas. ?? Requisitos obrigatórios: </li><li>Experiência sólida como PO, Analista de Produto ou Business Analyst em produtos B2B. </li><li>Vivência com ferramentas de atendimento, CRM e integração entre áreas. </li><li>Capacidade de traduzir necessidades de negócio em requisitos técnicos. </li><li>Noções de desenvolvimento web (NodeJS, Angular ou similares). </li><li>Forte habilidade de comunicação, organização e visão analítica. ?? Diferenciais que contam pontos: </li><li>Experiência com produtos SaaS B2B. </li><li>Noções de UX e ferramentas de prototipação. </li><li>Familiaridade com métricas de produto e análise de dados. ?? Procuramos alguém com: </li><li>Autonomia e comprometimento com entregas. </li><li>Boa comunicação assíncrona. </li><li>Visão de produto e foco em melhoria contínua. </li><li>Proatividade para propor soluções. ?? Contratação e condições: </li><li>PJ (prestação de serviços) </li><li>Remuneração: a combinar </li><li>Carga horária: 40h por semana </li><li>100% remoto </li><li>Pagamento mediante emissão de nota fiscal ?? Interessou? Envie seu currículo e/ou portfólio (GitHub, site, etc.) para: ?? ****** </li> </ul> #J-18808-Ljbffr",
+    "company": "Habilis Sistemas",
+    "city": "Feira de Santana",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381544__1953?utm_source=1953&utm_medium=feed&keyword=Product-Owner-S%C3%AAnior&location=Feira-de-Santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de Laboratório - Laboratório - Hospital Aeroporto",
+    "description": "<p>- Desejável especialização em análises clínicas (microbiologia, hematologia, imunologia e qualidade). </p><p>- Registro em conselho ou certificações específicas (CRBM, CRBIO e CRF ativos). </p><p>- Desejável experiência anterior na função. </p><p><strong>Atividades: </strong> </p><ul><li>Acolhimento de todos os clientes da instituição, através de um atendimento humanizado e de excelência; </li><li>Monitorar e orientar a coleta das amostras, de acordo com as normas da instituição; </li><li>Solicitar recoleta de exames aos pacientes, quando necessário; </li><li>Executar procedimentos técnicos (análises clínicas, manutenções diárias de equipamentos, calibrações, aferições, microscopias, etc.) nos diferentes setores do laboratório; </li><li>Acompanhar e supervisionar a execução dos procedimentos realizados pelos técnicos de laboratório nos diferentes setores; </li><li>Liberação dos resultados dos exames após análise do controle de qualidade, análise de exame e correlações clínicas; </li><li>Monitorar as pendências de resultados de exames nos diferentes setores; </li><li>Realizar todos os processos referentes ao controle de qualidade interno do setor, conforme definição do líder; </li><li>Realizar e acompanhar as análises do controle de qualidade externo; </li><li>Monitorar o envio de amostras para laboratórios de apoio, bem como avaliar e liberar os laudos dos procedimentos sublocados; </li><li>Controlar e acompanhar, juntamente com a engenharia clínica, todas as manutenções preventivas e corretivas dos equipamentos utilizados pelo setor; </li><li>Cumprir e fazer cumprir as normas, políticas e procedimentos da instituição, colaborando para sua atualização. </li> </ul><p><strong>Outras informações: </strong> </p><ul><li>Local de trabalho: Hospital Aeroporto </li><li>Escala de trabalho: 6x1, das 07h às 13h </li><li>Disponibilidade para treinamento. </li> </ul><p>A rede possui uma história de atuação desde 1977, com presença significativa no RJ, SP, MG, PE, BA, MA, SE, CE, AL, PB, PR, MS, PA e DF, gerenciando diferentes marcas e atendendo a diversos segmentos de saúde. Em 2022, reforçou seu compromisso com a sociedade através da parceria com a SulAmérica, maior seguradora do Brasil, ampliando sua atuação e impacto social. </p><p>Nosso compromisso é com a responsabilidade social, inclusão e oportunidades iguais. Todas as nossas vagas estão abertas a pessoas de diferentes perfis e contextos, incluindo pessoas com deficiência. </p><p>Se você é uma pessoa qualificada, inovadora e alinhada com as tendências do seu campo, junte-se a nós. Oferecemos mais que vagas de trabalho: oportunidades para fazer a diferença. </p> #J-18808-Ljbffr",
+    "company": "Diebold Nixdorf SL.",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381558__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Laborat%C3%B3rio&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Passador- Lobto",
+    "description": "<p><strong>Nosso Time Sangue Laranja #VEMSERATAK </strong> </p> <p>Somos uma empresa legitimamente baiana. Uma história com um jeito único, que começou a ser escrita por Teobaldo, mas que evolui a cada dia graças à dedicação de Maria, Antônio, Ana, José, João e de tantos outros milhares de associados no dia a dia. </p> <p>O Atakarejo segue firme rumo ao crescimento. E é assim, com muito trabalho, disciplina e determinação fazendo o simples muito bem feito, que a empresa continuará rumo à sua visão de ser a melhor empresa de alimentos da Bahia e uma das 10 maiores do Brasil até 2025. Afinal, ter o “Sangue Laranja” é ter paixão por vencer. </p> <h3>Como é Trabalhar Aqui </h3> <p>Quem trabalha no Atakarejo sabe que somos um time e possuímos um jeito único de ser. Trabalhamos com um propósito, temos uma grande visão, uma missão inspiradora e valores verdadeiros que guiam nossas atitudes. Esse nosso jeito único de ser é o que faz a diferença no dia a dia dos nossos colaboradores e clientes, e deve estar sempre em cada um de nós, é o sangue laranja que corre em nossas veias. Por isso estamos sempre em busca de novos talentos dispostos a fazer a diferença junto conosco. </p> <h3>Responsabilidades e Atribuições </h3> <ul> <li>Recolher, limpar e organizar os carrinhos dos clientes no estacionamento. </li> <li>Realizar empacotamento das mercadorias compradas pelos clientes. </li> <li>Realizar devolução das mercadorias fora de suas prateleiras em suas devidas gôndolas. </li> <li>Garantir que todas as mercadorias no segmento Atacado e DUN sejam devidamente registradas no PDV ao serem transportadas de um carro para o outro. </li>  </ul> <h3>Qualificações Necessárias </h3> <ul> <li>Desejável ensino fundamental completo. </li> <li>Disponibilidade de horário. </li> <li>Possuir Laudo Médico comprovando Deficiência. </li> <li>Residir em Salvador. </li>  </ul> #J-18808-Ljbffr",
+    "company": "Oficial Atakarejo",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381746__1953?utm_source=1953&utm_medium=feed&keyword=Passador-Lobto&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Carregador - CD",
+    "description": "<p>Get AI-powered advice on this job and more exclusive features. </p><p><strong>VISÃO GERAL<br></strong>Preparar, movimentar, manusear, entregar, coletar as cargas, reparar embalagem danificada além de controlar a validade e integridade dos produtos.<br><strong>PRINCIPAIS ATRIBUIÇÕES<br></strong>Separação de mercadorias<br>Arrumação das mercadorias nas ruas<br>Verificação de picking<br>Descarregar caminhão<br>Montar e filmar a carga<br>Arrumar lastros e camadas<br>Verificação e correção de avarias<br>Verificação de validades<br>Triagem de mercadoria.<br>Confecção de Kit Leve Pague e Cestas Natalinas.<br><strong>REQUISITOS DO CARGO<br></strong>Desejável Ensino Médio Completo<br>Experiência com atividades operacionais<br><strong>CONHECIMENTOS<br></strong>Manuseio e arrumação de mercadorias<br>Preparação de lastros<br><strong>COMPETÊNCIAS<br></strong>Adaptabilidade<br>Comunicação<br>Dinamismo<br>Efetividade<br>Flexibilidade<br>Organização<br>Proatividade<br>Planejamento<br>Relacionamento interpessoal<br>Trabalho em equipe<br><strong>BENEFÍCIOS<br></strong>Plano de Saúde<br>Plano Odontológico<br>Ticket Refeição<br><strong>ASPECTO IMPORTANTE<br></strong>Necessário ter disponibilidade de horário </p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Not Applicable </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Other </li><li><h3>Industries </h3>Retail </li> </ul><p>Referrals increase your chances of interviewing at Grupo RedeMix Supermercados by 2x </p><h3>BA- SALVADOR | AJUDANTE DE CARGA E DESCARGA </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "Grupo RedeMix Supermercados",
+    "city": "Simões Filho",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381792__1953?utm_source=1953&utm_medium=feed&keyword=Carregador-CD&location=Simões-Filho&geoID=8796",
+    "tipo": ""
+  },
+  {
+    "title": "GIS Engineer ID37612",
+    "description": "<p>Join to apply for the <strong>GIS Engineer ID37612 </strong> role at <strong>AgileEngine </strong> </p><p>1 day ago Be among the first 25 applicants </p><p>Join to apply for the <strong>GIS Engineer ID37612 </strong> role at <strong>AgileEngine </strong> </p><p>AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.<br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!<br><br><strong>WHAT YOU WILL DO<br></strong>- Develop and enhance geospatial applications and services using technologies such as GeoServer, PostGIS, and Google BigQuery;<br>- Work with satellite imagery, remote sensing data, and other geospatial datasets to deliver actionable agricultural insights;<br>- Implement geospatial data processing workflows, including data ingestion, analysis, visualization, and reporting;<br>- Collaborate closely with data scientists, agronomists, and software teams to integrate GIS solutions into FarmersEdge products;<br>- Optimize spatial database performance, ensuring efficient storage, retrieval, and processing of geospatial data.<br><strong>MUST HAVES<br></strong>-At least <strong>2 years  </strong>of experience with geospatial databases (<strong>PostGIS </strong>) and <strong>GIS software </strong> (GeoServer,QGIS, ArcGIS);<br>- Experience handling and analyzing satellite imagery and remote sensing data;<br>- Familiarity with geospatial data standards, formats (<strong>GeoJSON, shapefiles, raster data formats </strong>), and coordinate reference systems;<br>- Strong skills in scripting and automation for geospatial data processing (<strong>Python preferred </strong>);<br>- Understanding of cloud platforms (especially <strong>GCP  </strong>and <strong>AWS </strong>) for deploying scalable geospatial workflows;<br>- Upper-Intermediate English level.<br><strong>NICE TO HAVES<br></strong>- Ability to work independently and effectively in a fast-paced environment.<br><strong>THE BENEFITS OF JOINING US<br></strong>- <strong>Professional growth: </strong> Accelerate your professional journey with mentorship, TechTalks, and personalized growth roadmaps.<br>- <strong>Competitive compensation: </strong> We match your ever-growing skills, talent, and contributions with competitive USD-based compensation and budgets for education, fitness, and team activities.<br>- <strong>A selection of exciting projects: </strong> Join projects with modern solutions development and top-tier clients that include Fortune 500 enterprises and leading product brands.<br>- <strong>Flextime: </strong> Tailor your schedule for an optimal work-life balance, by having the options of working from home and going to the office – whatever makes you the happiest and most productive.<br><br><em><strong>Your application doesn't end here!  </strong>To unlock the next steps, <strong>check your email </strong> <strong>and complete your registration on our Applicant Site </strong>. The incomplete registration results in the termination of your process.<br><br></em> </p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Industries </h3>IT Services and IT Consulting </li> </ul><p>Referrals increase your chances of interviewing at AgileEngine by 2x </p><h3>Sign in to set job alerts for “Geographic Information Systems Engineer” roles. </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "AgileEngine",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4381810__1953?utm_source=1953&utm_medium=feed&keyword=GIS-Engineer-ID37612&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "TEMOS VAGAS! Copywriter - Gestor de Marketing - Coordenação de CRM - Scrum - Design - Social Mí[...]",
+    "description": "<h3>TEMOS VAGAS! Copywriter - Gestor de Marketing - Coordenação de CRM - Scrum - Design - Social Mídia- Editor de Vídeo - Gestor de Tráfego Youtube ads, Google ads e TikTok ads </h3><h3>Psicóloga Organizacional | Consultora de Gente e Gestão | Analista de Benefícios | Psicóloga Clínica | Analista de Recrutamento Seleção. </h3><p><strong>TEMOS VAGAS!Copywriter - Gestor de Marketing - Coordenação de CRM - Scrum - Design - Social Mídia- Gestor de Tráfego - Editor de Vídeo </strong> </p><p>A Esportiva Bet, uma das principais plataformas de apostas online do Brasil, regulamentada e reconhecida por sua inovação no setor de iGaming, com um ambiente dinâmico e inovador! </p><p>Requisitos para se Candidatar as nossas vagas! </p><p><strong>Experiência sólida na função; </strong> </p><p><strong>Residir em Salvador Bahia - Fácil acesso a Avenida Paralela; </strong> </p><p><strong>Contratação: PJ </strong> </p><p><strong>Trabalho Hibrido/Presencial. </strong> </p><p><strong>Se você tem o Perfil: </strong> </p><p>Influente, Comunicador, Planejador, Executor, Analítico e Proativo. </p><p>Remuneração compatível; </p><p>Liberdade criativa com foco em performance real; </p><p>Time colaborativo, ágil e com mentalidade de crescimento; </p><p>Oportunidade de escrever para milhões de usuários em uma marca de peso no Brasil. </p><p>Para se candidatar as nossas vagas: Envie seu Currículo:   </p><p>Não deixe de se candidatar! </p><h3>Social Media - Pleno | V4 Palhares Cardoso & Co </h3> #J-18808-Ljbffr",
+    "company": "Esportiva.Bet",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4382024__1953?utm_source=1953&utm_medium=feed&keyword=TEMOS-VAGAS-Copywriter&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Fisioterapeuta - Atuação com Adulto/HSI - Cadastro Reserva",
+    "description": "<h3>Fisioterapeuta - Atuação com Adulto/HSI - Cadastro Reserva </h3><p>Somos uma instituição que tem a tradição e inovação como pilares. A Santa Casa da Bahia é uma associação beneficente de assistência social, que se propõe ao exercício da caridade e prestação de serviços nas áreas de saúde, ensino e pesquisa, cultura, assistência social e educação, sem subordinação ao Estado ou à Igreja.<br>A instituição secular, que <strong>sempre esteve a serviço do bem da população baiana </strong>, tem sua gestão orientada estrategicamente para que colaboradores e voluntários sigam a mesma base filosófica e, com isso, a sociedade possa compreender a personalidade da entidade.<br><strong>Propósito:  </strong>Cuidar de pessoas e estimular a dignidade;<br><strong>Valores:<br></strong>A gente gosta de gente<br>Juntos podemos mais<br>Fazemos bem-feito, sem desperdício e com segurança;<br><strong>Responsabilidades e atribuições<br></strong><ul><li>Realiza avaliação no paciente; </li><li>Dá o diagnóstico; </li><li>Traça um plano de tratamento fisioterapêutico adequado às necessidades do paciente; </li><li>Executa técnicas; </li><li>Reavalia o paciente após a intervenção; </li><li>Muda a abordagem quando necessário; </li><li>Objetiva melhor qualidade de vida ao paciente.<br><br></li> </ul><strong>Requisitos e qualificações<br></strong><ul><li>Pós Graduação concluída (Neuro, Oncologia ou Hospitalar de Alta Complexidade); </li><li>Desejável experiência prévia no ambiente hospitalar; </li><li>Perfil comportamental com proatividade, bom relacionamento interpessoal e trabalho em equipe.<br><br></li> </ul><strong>Informações adicionais<br></strong><strong>Unidade:<br></strong><ul><li>Hospital Santa Izabel<br><br></li> </ul><strong>Carga horária:<br></strong><ul><li>30 horas semanais - em regime de escala.<br><br></li> </ul><strong>Regime de trabalho:<br></strong><ul><li>Presencial<br><br></li> </ul><strong>Benefícios:<br></strong><ul><li>Salário compatível com o mercado </li><li>Alimentação no local </li><li>Plano de Saúde </li><li>Plano Odontológico<br><br></li> </ul>Venha fazer parte do nosso time! </p><h3>Especialista de Produtos (Fisioterapeuta) - Salvador </h3><h3>Smart Fit - Professor de Musculação - Bahia (171333) </h3><h3>ESTÁGIO em ENSINO MÉDIO (A partir de 16 anos) 25992025 </h3><h3>Professor da Educação Básica - Superior - Secretaria da Educação do Estado da Bahia - SEC-BA </h3><p>Lauro de Freitas, Bahia, Brazil 8 hours ago </p> #J-18808-Ljbffr",
+    "company": "Santa Casa da Bahia",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4382095__1953?utm_source=1953&utm_medium=feed&keyword=Fisioterapeuta-Atua%C3%A7%C3%A3o&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Assistente Fiscal - BA",
+    "description": "<p>Join to apply for the <strong>Assistente Fiscal </strong> role at <strong>RH & COM </strong>. </p><p>Continue with Google </p><p><strong>Salário: </strong> A combinar </p><p><strong>Tipo de Vaga: </strong> Emprego </p><p><strong>Local: </strong> Feira de Santana </p><p><strong>Experiência: </strong> Comprovada na função </p><p><strong>Formação: </strong> Ciências Contábeis </p><p><strong>Desejável: </strong> Especialização em tributos </p><p><strong>Requisitos: </strong> Experiência na área fiscal de empresas Lucro Real e Comércio, habilidade com pacote Office (especialmente Excel), sistemas, entradas e saídas de mercadorias, classificação de notas fiscais, emissão de notas fiscais, guias de recolhimento, obrigações acessórias como SPED Fiscal e SPED Contribuições. </p><p><strong>Carga horária: </strong> 44 horas semanais (segunda a sexta) </p><p><strong>Remuneração: </strong> R$ 2.000,00 + transporte, seguro de vida e plano odontológico </p><p><strong>Empresa: </strong> Humanos RH </p><p><strong>Segmento: </strong> Recursos Humanos </p><p><strong>Nível de senioridade: </strong> Entry level </p><p><strong>Tipo de contratação: </strong> Full-time </p><p><strong>Área de atuação: </strong> Contabilidade, Auditoria e Finanças </p><p><strong>Indústria: </strong> Recursos Humanos / Recrutamento e Seleção </p><p>Este anúncio ainda está ativo. </p> #J-18808-Ljbffr",
+    "company": "RH & COM",
+    "city": "Feira de Santana",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_4382298__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Fiscal&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   }
 ]
