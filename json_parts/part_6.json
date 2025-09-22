@@ -1,14 +1,5 @@
 [
   {
-    "title": "Programador(A) De Automação Industrial",
-    "description": "<h3>Overview </h3> </br><p>Autorn Engenharia Ltda está em busca de um(a) <b>Programador(a) de Automação Industrial </b> para atuar em desenvolvimento, manutenção e suporte de aplicações de automação industrial (CLP, SCADA, IHMs e redes). </p> </br><p>Local: 100% remoto (com viagens pontuais). </p> </br><h3>Responsibilities </h3> </br><ul> </br><li>Desenvolver, revisar e manter aplicações em sistemas de automação, com foco Rockwell (CLP ControLogix, SCADA FTViewSE/ME). </li> </br><li>Integrar redes, dispositivos industriais e instrumentação. </li> </br><li>Criar padrões de codificação, bibliotecas e blocos reutilizáveis. </li> </br><li>Realizar testes e comissionamento remoto. </li> </br><li>Elaborar e manter documentação técnica. </li> </br><li>Colaborar com equipes internas e fornecedores. </li> </br> </ul> </br><h3>Requisitos </h3> </br><ul> </br><li>Formação: Técnico/Tecnólogo em Automação, Eletrônica, Mecatrônica. </li> </br><li>Experiência mínima de 2–3 anos com CLP/SCADA/IHM Rockwell. </li> </br><li>Conhecimentos em protocolos de redes industriais (EtherNet/IP, ControlNet, DeviceNet). </li> </br><li>Leitura e interpretação de diagramas elétricos. </li> </br><li>Boa comunicação, organização e disciplina para trabalho remoto. </li> </br> </ul> </br><h3>Diferenciais </h3> </br><ul> </br><li>Conhecimento em SRP/CS e NBR-ISO 13849-1. </li> </br><li>Scripts (VBA, PowerShell). </li> </br><li>Experiência em simulação e máquinas virtuais. </li> </br><li>Inglês técnico. </li> </br><li>Flexibilidade de horário. </li> </br> </ul> </br><h3>Remuneração e Benefícios </h3> </br><ul> </br><li>Remuneração total: ~R$ 3.500,00/mês. </li> </br><li>Plano de saúde. </li> </br><li>Seguro de vida. </li> </br> </ul> </br><p>Interessados devem enviar currículo para: ****** </p> </br><p>Assunto:Vaga – Programador(a) de Automação </p> #J-18808-Ljbffr",
-    "company": "Autorn Engenharia Ltda.",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5604925__1953?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "AI Engineer - RAG Platform",
     "description": "<p>Join to apply for the <strong>AI Engineer - RAG Platform </strong> role at <strong>Perform </strong> </p><p>3 days ago Be among the first 25 applicants </p><p>Join to apply for the <strong>AI Engineer - RAG Platform </strong> role at <strong>Perform </strong> </p><p>We’re hiring an <strong>AI Engineer </strong> to design and build a production-grade <strong>RAG platform </strong> that powers our test autoscripting agent. This platform ingests our QA codebase and documentation, transforms them into embeddings, and serves relevant context (page objects, fixtures, helpers, examples) via a retrieval API—enabling high-quality LLM-generated tests. You’ll own everything from ingestion to evaluation, including keeping the index fresh via Jenkins and optimizing for token cost and latency. </p><p>This role is ideal for someone who thrives in the intersection of LLM tooling, backend engineering, and developer productivity. </p><p><strong>What You’ll Do </strong> </p><p>Build and maintain a <strong>local RAG platform </strong>, including: </p><ul><li>Loaders for Git, Confluence, Drive. </li><li>Code-aware chunking (AST/semantic) and embedding pipelines. </li><li>Vector indexing in <strong>ChromaDB </strong> with metadata and reranking. </li><li>FastAPI (or similar) retrieval service for the autoscripting agent.<br></li><li>Implement metadata filters (e.g., layer=page-object|fixture|helper|test, Git SHA, feature tags) and <strong>import-based neighbor expansion </strong> to optimize context. </li><li>Optimize for <strong>cost and performance </strong>: tune k values, context lengths, reranker thresholds, and cache frequent retrievals. </li><li>Build retrieval <strong>evaluation and telemetry </strong>: track recall, faithfulness, token usage, compile success of generated code, and wire alerts into Jenkins CI. </li><li>Manage access to <strong>Claude 4 Sonnet </strong> and other model APIs; help deploy self-hosted endpoints if needed (keys, quotas, audit logs). </li><li>Write <strong>runbooks </strong> and train the SDET team on how to use and troubleshoot the RAG system. </li> </ul><p><strong>Tech Stack (Initial Plan) </strong> </p><p><strong>Embeddings: </strong> mxbai-embed-large-v1 (text), bge-code-base (code) </p><p><strong>Reranker: </strong> mxbai-rerank-base-v2 </p><p><strong>Vector store: </strong> ChromaDB (local) </p><p><strong>Pipeline orchestration: </strong> LangChain (router by MIME/type) </p><p><strong>Retrieval API: </strong> FastAPI </p><p><strong>Evaluation: </strong> Telemetry + basic metrics (compile/run, cost, retrieval quality)<br></p><p><strong>What You Bring </strong> </p><ul><li>4+ years in <strong>ML/AI </strong> or <strong>platform-oriented backend engineering </strong>, including 2+ years building <strong>LLM </strong> </li><li>Development within<strong>RAG applications </strong>. </li><li>Strong experience with <strong>LangChain </strong>, <strong>vector DBs </strong> (ChromaDB, Qdrant, pgvector), and <strong>code-aware embeddings </strong> (BGE-code or similar). </li><li>Solid Python skills (FastAPI or Flask) and comfort reading Java to inform chunking and context design. </li><li>Experience with <strong>Jenkins </strong>, secrets management, and basic observability tooling (Grafana, Prometheus, LangSmith, or RAGAS). </li><li>Comfortable working with <strong>OpenAI/Anthropic APIs </strong> or deploying self-hosted endpoints, including handling keys, rate limits, and safety controls. </li> </ul><p><strong>It is an asset if you have: </strong> </p><ul><li>Experience with <strong>Claude-specific practices </strong>, structured prompting, and cost control techniques. </li><li>Familiarity with <strong>retrieval evaluation </strong> tools like RAGAS or LangChain Evaluators, plus A/B testing for prompt or routing strategies. </li><li>Understanding of <strong>security and compliance </strong> for developer-facing AI tools (PII handling, audit logging). </li><li>The <strong>SDET </strong> team focuses on test quality and final review of autoscripted code. </li><li>The <strong>Automation Agent Engineer </strong> tunes prompts and retrieval logic. </li><li><strong>You </strong> own the <strong>RAG platform </strong>: indexing, retrieval quality, LLM orchestration, and CI integration. </li> </ul><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Not Applicable </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Other </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Engineering and Information Technology </li> </ul><p>Referrals increase your chances of interviewing at Perform by 2x </p><p>Get notified about new Artificial Intelligence Engineer jobs in <strong>Greater Buenos Aires </strong>. </p><h3>Backend Python Developer (100% Remote from Argentina)ONLY) </h3><p>Greater Buenos Aires $18,000.00-$48,000.00 1 month ago </p><h3>Full Stack Developer/Engineer (Vue.js/Node.js) </h3><h3>Dev Ops + Full Stack Developers - Part Time </h3><h3>Intermediate Software Engineer (React.js, Node.js) - OP01587-OS </h3><h3>Full Stack Software Developer (Contract, Buenos Aires) </h3><h3>Software Engineer (Python) Career Opportunities at Dev.Pro - 01 </h3><h3>BE2 Software Engineer (Python) (USD Salary & Full-time) </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
     "company": "Perform",
@@ -122,7 +113,7 @@
     "company": "AgileEngine",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5605878__1953_137db1988497cf89afdff4dc2b1481fb?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5605878__1953_054ecde34d245813802ed0a1dc434877?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -446,7 +437,7 @@
     "company": "Coder Technologies Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5609000__1953_f3f89f58e5e464cf8bb8f2b8e954a3a8?utm_source=1953&utm_medium=feed&keyword=Lead-Software-Architect&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5609000__1953_7cf5d3298c43214c72927b2935b3f274?utm_source=1953&utm_medium=feed&keyword=Lead-Software-Architect&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -707,7 +698,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5611642__1953_b42c9d64b7220d1ca9f8fb9cd8a51bb4?utm_source=1953&utm_medium=feed&keyword=Lead-Senior-Devops-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5611642__1953_ecbb1a1af85ffa795fc46475e1c418f4?utm_source=1953&utm_medium=feed&keyword=Lead-Senior-Devops-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -752,7 +743,7 @@
     "company": "UENI Limited",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5612604__1953_cb1f88647186fdcc795f972092f09e37?utm_source=1953&utm_medium=feed&keyword=VP-of-Operations&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5612604__1953_0975dfaa4bb97b3ee7326cb9b819f80a?utm_source=1953&utm_medium=feed&keyword=VP-of-Operations&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1148,7 +1139,7 @@
     "company": "Compass.uol",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5615622__1953_ca47538cd4ae06dedd41a35b247369cb?utm_source=1953&utm_medium=feed&keyword=Technical-Presales-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5615622__1953_d87e61c6912d40f8a703f3eaaf071bcd?utm_source=1953&utm_medium=feed&keyword=Technical-Presales-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1454,7 +1445,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5618474__1953_f74399c5448a577af56fee87b1c15ee2?utm_source=1953&utm_medium=feed&keyword=Golang-System-Software&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5618474__1953_2a0dc159cb16bac6eee523ab04715484?utm_source=1953&utm_medium=feed&keyword=Golang-System-Software&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1562,7 +1553,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5619067__1953_006c1fc29adb129c00d5ba56d045e01e?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5619067__1953_262334d832939aeb00c93be9c81665fd?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1571,7 +1562,7 @@
     "company": "RecargaPay",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5619083__1953_20d131e527b74334ca4decf9f4eabc7b?utm_source=1953&utm_medium=feed&keyword=Sr-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5619083__1953_d33677ef79e51112c6b0738c27ffa8eb?utm_source=1953&utm_medium=feed&keyword=Sr-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2201,7 +2192,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5624249__1953_78ed4e7d209903bd9f95389ce55a5a60?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Managed&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5624249__1953_67097767286ffdd7d51b0761139eccb1?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Managed&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2273,7 +2264,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5625103__1953_c2279c670a3e9343b51f5b64bc8988ea?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Managed&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5625103__1953_9a50b240f0392cdadb9cbf42c9c5b26a?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Managed&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2390,7 +2381,7 @@
     "company": "Launch Potato",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5626075__1953_b584415b9567ae13d2ff8ac14808e5f6?utm_source=1953&utm_medium=feed&keyword=Principal-ML-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5626075__1953_7a898ff9ee8fbeba1413c73e357e34b6?utm_source=1953&utm_medium=feed&keyword=Principal-ML-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2498,7 +2489,7 @@
     "company": "Remote Jobs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5626876__1953_cb3db72332496570813427d98ae152e1?utm_source=1953&utm_medium=feed&keyword=Consultant-Sales-Force&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5626876__1953_04d1be6489f2f16f2c736ba8d3a9d27d?utm_source=1953&utm_medium=feed&keyword=Consultant-Sales-Force&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2840,7 +2831,7 @@
     "company": "RBR Digital",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5628997__1953_ae50d087158549cc4bf25978b09b25bb?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Front-End-S%C3%AAnior&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5628997__1953_7df455731c4ef164fbd39b72cc74ee88?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Front-End-S%C3%AAnior&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3038,7 +3029,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5630350__1953_1786f4c979f6be0f7818e9d50ac5540f?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Ubuntu&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5630350__1953_7b124ff77afd795c11a0d7c32aae945d?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Ubuntu&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3326,7 +3317,7 @@
     "company": "Visa",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5632351__1953_32608d03d3a76b8862bff8ef3df9d848?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Clearing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5632351__1953_7f43773d3bed66a19c9301b4ac6b5aa2?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager-Clearing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3434,7 +3425,7 @@
     "company": "Autorn Engenharia Ltda.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5632904__1953_4772b8f9a6addc0452970e2490c79228?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5632904__1953_f6b032051ccbe5fc3dd3c25dd76d663c?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3443,7 +3434,7 @@
     "company": "Signifyd",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5632906__1953_146eaf5fab397e47e0d57f19f1a29b54?utm_source=1953&utm_medium=feed&keyword=Senior-Risk-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5632906__1953_92e760308d24a5ba23649ee6df489dac?utm_source=1953&utm_medium=feed&keyword=Senior-Risk-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4388,7 +4379,7 @@
     "company": "Lawnstarter Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5642313__1953_ce38bb5ba50a06a46b31819313a33727?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Data&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5642313__1953_bfbd0676017857ab6f9153bfa07c5dca?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Data&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4595,7 +4586,7 @@
     "company": "Dev.Pro",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5644494__1953_f3da02a595ba2949629482a222118382?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5644494__1953_33382011340293d4d25aac9b04b3f736?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5117,7 +5108,7 @@
     "company": "Greencode Software",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5647626__1953_a549cefb00ba604293b77f098b1a0d48?utm_source=1953&utm_medium=feed&keyword=Backend-Python-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5647626__1953_28b578199b48d0bbeb4f0bb0acff03e2?utm_source=1953&utm_medium=feed&keyword=Backend-Python-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5126,7 +5117,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5647633__1953_9bcf8fd374d4de4a9c56a9575ec3cef1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Mobile-S%C3%AAnior&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5647633__1953_49b7fbc922b590e957cfd61ad789fc2d?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Mobile-S%C3%AAnior&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5729,7 +5720,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5651894__1953_48929f53036e10059dff05d425e181a7?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5651894__1953_c27c7db0bf2c2a42f31c746da1cd5279?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5819,7 +5810,7 @@
     "company": "EPAM Systems",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5652712__1953_3f723cde7c3963e7b0223d91356dd5fc?utm_source=1953&utm_medium=feed&keyword=Chief-Data-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5652712__1953_4bdf253b62b8597efde0ce8a72214ff0?utm_source=1953&utm_medium=feed&keyword=Chief-Data-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6062,7 +6053,7 @@
     "company": "Spassu",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5654545__1953_95df8d7146fc2137a6fe023d68c40575?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Sr-Java&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5654545__1953_f80d0580f4861e3e0ad2e1d2783c9383?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Sr-Java&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6368,7 +6359,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5656760__1953_6678bfd5edb86fa748bd0a54c6f56050?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5656760__1953_683c71e9927887a468d4d589398fcaf4?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6377,7 +6368,7 @@
     "company": "SGA TECNOLOGIA INTELIGENTE S.A.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5656779__1953_0ce909f1bd752f1cd42fc18c73f7db17?utm_source=1953&utm_medium=feed&keyword=CONSULTOR-DE&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5656779__1953_6de21405ed7f7f6bb9acf98f36c0294a?utm_source=1953&utm_medium=feed&keyword=CONSULTOR-DE&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6647,7 +6638,7 @@
     "company": "Tietoevry",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5659248__1953_ef864fc8e8f519d4b9728b73152a1389?utm_source=1953&utm_medium=feed&keyword=Senior-React-Native&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5659248__1953_fde5f3f63ab3780b6c045ef64932b62f?utm_source=1953&utm_medium=feed&keyword=Senior-React-Native&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7205,7 +7196,7 @@
     "company": "Perceptio S.A.S",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5663121__1953_e503665fe64cbe87f6b6af1efeea5540?utm_source=1953&utm_medium=feed&keyword=CONSULTOR-SAP-CON&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5663121__1953_a674a7e2800e4152ea4a64dfa6d668a5?utm_source=1953&utm_medium=feed&keyword=CONSULTOR-SAP-CON&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7574,7 +7565,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5666293__1953_c1fd33a22c909e3618a95abb73bd283a?utm_source=1953&utm_medium=feed&keyword=Ubuntu-Security-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5666293__1953_427f547580115d4d01bf819717741452?utm_source=1953&utm_medium=feed&keyword=Ubuntu-Security-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7799,7 +7790,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5668919__1953_2a13b77f899cd2039d6776dbe21c36b4?utm_source=1953&utm_medium=feed&keyword=HPC-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5668919__1953_8f2007d5be41cbe599a3f4803ed9e656?utm_source=1953&utm_medium=feed&keyword=HPC-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7871,7 +7862,7 @@
     "company": "BIX Tecnologia",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5669682__1953_24cf1de35d19dc99c1642597fa0ae064?utm_source=1953&utm_medium=feed&keyword=Engenheiro-DevOps&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5669682__1953_254dab12c7c7d8c4867bc60b848eba65?utm_source=1953&utm_medium=feed&keyword=Engenheiro-DevOps&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8897,7 +8888,7 @@
     "company": "ITTConnect",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5677814__1953_f2cb8e613210db711eca88e284890ce3?utm_source=1953&utm_medium=feed&keyword=Salesforce-Developer-B2B&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5677814__1953_e2f42c81586f40f6bf8cbc9e865cd0e9?utm_source=1953&utm_medium=feed&keyword=Salesforce-Developer-B2B&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8997,6 +8988,15 @@
     "city": "Salvador",
     "state": "Bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___70_5678865__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Machine-Learning&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+    "description": "<p><h3>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu </h3><p>Join to apply for the <b>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu </b> role at <b>Canonical </b>. </p><p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. </p><p>We are hiring 2024 and 2025 Graduate Software Engineers into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and Bash. We work from the very lowest levels of the Linux system – BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on small devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code.  </p><p>If you are excited about the potential that open source has for humanity and the enterprise, have outstanding results in your academic career, and are eager to contribute to the open source stack, this is a strong way to apply to Canonical. We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive and will require effort and excellence to succeed if you apply here. </p><p>Most of our engineering teams work from home. We try to align a single team in a single time zone — EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). While you work from home, we ensure you have colleagues to coach and mentor you, and for problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and build teams that operate effectively in the \"fishbowl\" of open source engineering. This is full-time work, five days a week, often solving hard problems with significant responsibility. We don’t generally work weekends and nights and we value holidays, but we also expect productive and intense engagement Monday to Friday. </p><p>We bring all engineering teams together in person twice a year for a deep sprint with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some interesting new cities. If you find the open source stack amazing and you have been a consistent high-performing student, this will be a challenging and exciting start to your career. </p><p><b>Location: </b> This is a globally remote role. </p><p>The role entails </p><ul><li>Shaping the roadmap for your product at global sprints every six months </li><li>Focusing on design and user experience, even for developer tooling and command line apps </li><li>Writing high quality, resilient and performant code, potentially serving millions of demanding daily users </li><li>Working towards mastery of key programming languages and Linux system knowledge </li><li>Engaging with users and the open source community through code reviews and issue trackers </li><li>Responding to customer issues as a priority, developing an understanding of enterprise requirements </li><li>Developing skills and awareness of security in software design and implementation </li> </ul><h3>What we are looking for in you </h3><ul><li>Exceptional academic track record from both high school and university </li><li>Undergraduate degree in Computer Science, Business Informatics, Mathematics or another STEM discipline with programming courses </li><li>Confidence to get started and deliver high quality code in one of Python, Rust, C/C++, Golang, JavaScript or Java </li><li>Experience with Ubuntu or another Linux distribution </li><li>Track record of going above-and-beyond expectations to achieve outstanding results </li><li>Result-oriented and organized, with the drive to meet commitments </li><li>Personal projects in technology and software engineering beyond the curriculum </li><li>Professional written and spoken English </li><li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li><li>Personal responsibility and accountability </li><li>Thoughtfulness, self-awareness and the ability to reflect and develop </li><li>Ability to travel internationally twice a year for company events up to two weeks long </li> </ul><h3>Nice-to-have skills </h3><ul><li>Upstream open source contributions </li><li>Packaging and Linux distribution contributions - Debian, Fedora, Arch, Nix or another </li><li>Leadership and organization skills </li><li>Presentation and writing skills </li><li>Business and commercial interests </li> </ul><h3>What we offer colleagues </h3><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. </p><ul><li>Distributed work environment with twice-yearly team sprints in person </li><li>Personal learning and development budget of USD 2,000 per year </li><li>Annual compensation review </li><li>Recognition rewards </li><li>Annual holiday leave </li><li>Maternity and paternity leave </li><li>Team Member Assistance Program & Wellness Platform </li><li>Opportunity to travel to new locations to meet colleagues </li><li>Priority Pass and travel upgrades for long-haul company events </li> </ul><p><b>About Canonical </b> </p><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence — in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. </p><p>Canonical is an equal opportunity employer. We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. </p><h3>Seniority level </h3><ul><li>Internship </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Engineering and Information Technology </li><li>Industries </li><li>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Canonical by 2x </p> </p> #J-18808-Ljbffr",
+    "company": "Canonical",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5678926__1953?utm_source=1953&utm_medium=feed&keyword=Graduate-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   }
 ]

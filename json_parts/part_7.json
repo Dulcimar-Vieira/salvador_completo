@@ -1,14 +1,5 @@
 [
   {
-    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-    "description": "<p><h3>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu </h3><p>Join to apply for the <b>Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu </b> role at <b>Canonical </b>. </p><p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution. The company is founder led, profitable and growing. </p><p>We are hiring 2024 and 2025 Graduate Software Engineers into engineering teams around the world. As a global platform company we offer a wide range of software engineering challenges, in both open source products and commercial business systems. We have teams that work in a variety of languages, typically Python, Golang, Rust, C/C++, JavaScript and Bash. We work from the very lowest levels of the Linux system – BIOS and boot loaders, firmware, kernel and drivers, all the way up to desktop applications and containers. We work on small devices like the Raspberry Pi and new RISC-V boards, all the way up to supercomputers, clouds and Kubernetes clusters. We work on compilers and toolchains, and we work on security, cryptography, performance and documentation. Some teams focus on packaging thousands of pieces of software, others focus on deep contributions to a single body of code.  </p><p>If you are excited about the potential that open source has for humanity and the enterprise, have outstanding results in your academic career, and are eager to contribute to the open source stack, this is a strong way to apply to Canonical. We will work with you to identify teams and projects that would be interesting and a good fit for your skills and motivations. The process is highly competitive and will require effort and excellence to succeed if you apply here. </p><p>Most of our engineering teams work from home. We try to align a single team in a single time zone — EMEA (Europe, Middle East and Africa), APAC (Asia Pacific and Indian Ocean), and AMER (North, South and Central Americas). While you work from home, we ensure you have colleagues to coach and mentor you, and for problem solving and pair programming. Larger projects have multiple teams and might span the globe. We work with the open source community and build teams that operate effectively in the \"fishbowl\" of open source engineering. This is full-time work, five days a week, often solving hard problems with significant responsibility. We don’t generally work weekends and nights and we value holidays, but we also expect productive and intense engagement Monday to Friday. </p><p>We bring all engineering teams together in person twice a year for a deep sprint with other teams to stimulate discussion and enable a wide range of career development paths. This is a fantastic way to demonstrate and develop your skill in software, learn about a wide range of technologies, make a meaningful impact to open source, and see some interesting new cities. If you find the open source stack amazing and you have been a consistent high-performing student, this will be a challenging and exciting start to your career. </p><p><b>Location: </b> This is a globally remote role. </p><p>The role entails </p><ul><li>Shaping the roadmap for your product at global sprints every six months </li><li>Focusing on design and user experience, even for developer tooling and command line apps </li><li>Writing high quality, resilient and performant code, potentially serving millions of demanding daily users </li><li>Working towards mastery of key programming languages and Linux system knowledge </li><li>Engaging with users and the open source community through code reviews and issue trackers </li><li>Responding to customer issues as a priority, developing an understanding of enterprise requirements </li><li>Developing skills and awareness of security in software design and implementation </li> </ul><h3>What we are looking for in you </h3><ul><li>Exceptional academic track record from both high school and university </li><li>Undergraduate degree in Computer Science, Business Informatics, Mathematics or another STEM discipline with programming courses </li><li>Confidence to get started and deliver high quality code in one of Python, Rust, C/C++, Golang, JavaScript or Java </li><li>Experience with Ubuntu or another Linux distribution </li><li>Track record of going above-and-beyond expectations to achieve outstanding results </li><li>Result-oriented and organized, with the drive to meet commitments </li><li>Personal projects in technology and software engineering beyond the curriculum </li><li>Professional written and spoken English </li><li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li><li>Personal responsibility and accountability </li><li>Thoughtfulness, self-awareness and the ability to reflect and develop </li><li>Ability to travel internationally twice a year for company events up to two weeks long </li> </ul><h3>Nice-to-have skills </h3><ul><li>Upstream open source contributions </li><li>Packaging and Linux distribution contributions - Debian, Fedora, Arch, Nix or another </li><li>Leadership and organization skills </li><li>Presentation and writing skills </li><li>Business and commercial interests </li> </ul><h3>What we offer colleagues </h3><p>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognize outstanding performance. In addition to base pay, we offer a performance-driven annual bonus or commission. We provide all team members with additional benefits which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally. </p><ul><li>Distributed work environment with twice-yearly team sprints in person </li><li>Personal learning and development budget of USD 2,000 per year </li><li>Annual compensation review </li><li>Recognition rewards </li><li>Annual holiday leave </li><li>Maternity and paternity leave </li><li>Team Member Assistance Program & Wellness Platform </li><li>Opportunity to travel to new locations to meet colleagues </li><li>Priority Pass and travel upgrades for long-haul company events </li> </ul><p><b>About Canonical </b> </p><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open source projects and the platform for AI, IoT and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence — in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since its inception in 2004. Working here is a step into the future, and will challenge you to think differently, work smarter, learn new skills, and raise your game. </p><p>Canonical is an equal opportunity employer. We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. </p><h3>Seniority level </h3><ul><li>Internship </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Engineering and Information Technology </li><li>Industries </li><li>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Canonical by 2x </p> </p> #J-18808-Ljbffr",
-    "company": "Canonical",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5678926__1953?utm_source=1953&utm_medium=feed&keyword=Graduate-Software-Engineer&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "Engineering Manager for IAM (Identity and Access Management)",
     "description": "<p><h3>Overview </h3><p>Engineering Manager for IAM (Identity and Access Management) at Canonical. This role focuses on building high‑performing Go and Python services and secure IAM solutions used across Canonical products. The team will define how Canonical users, clients and community members access applications across products such as Ubuntu One SSO, Juju, LXD and MAAS. The role supports distributed collaboration with a global team; most work is remote with occasional in-person alignment. </p><p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is widely used in cloud, data science, AI, engineering, IoT, and other enterprise initiatives. We work with upstream open source projects and internal teams to deliver high quality software deployed on bare metal, public cloud and Kubernetes. </p><h3>Responsibilities </h3><ul><li>Develop and lead software engineering initiatives to build Go and Python services for identity and access management across Canonical products. </li><li>Work with upstream open source projects and internal teams to deliver high‑quality software deployable on bare metal, public cloud and Kubernetes. </li><li>Define the technical vision for IAM products in collaboration with product management; manage the team backlog; review code; coach engineers. </li><li>Design software, write high‑quality code and tests, provide code reviews, write documentation, and help troubleshoot issues. </li><li>Work with Canonical’s Kubernetes‑based Observability stack and rock‑solid data stores; participate in hackfests, webinars and conferences with broader open source communities. </li> </ul><h3>What we are looking for </h3><ul><li>Proven experience hiring and leading a high‑performance software engineering team </li><li>Experience with Go and Python software development </li><li>Ability to design and implement complex distributed systems </li><li>Experience working with container technology and Kubernetes </li><li>Strong understanding of software/infrastructure security and performance </li><li>Experience designing and/or operating large scale distributed systems </li><li>Knowledge of identity and access management technologies and standards is desirable but not essential </li><li>Academic requirements: undergraduate degree in a technical subject or a compelling narrative about an alternative path </li><li>Professional written and spoken English with excellent presentation skills </li><li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li><li>Ability to travel internationally twice a year for company events up to two weeks long </li> </ul><h3>What we offer </h3><ul><li>Distributed work environment with twice‑yearly in‑person team sprints </li><li>Personal learning and development budget of USD 2,000 per year </li><li>Annual compensation review </li><li>Recognition rewards </li><li>Annual holiday leave </li><li>Maternity and paternity leave </li><li>Team Member Assistance Program & Wellness Platform </li><li>Opportunity to travel to new locations to meet colleagues </li><li>Travel upgrades for long‑haul company events </li> </ul><h3>About Canonical </h3><p>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the publisher of Ubuntu, a key open‑source project and platform for AI, IoT, and the cloud, we recruit on a global basis and set high standards for people joining the company. Most colleagues work remotely. Working here is a step into the future and challenges you to think differently, work smarter, and raise your game. </p><h3>Equal opportunity </h3><p>Canonical is an equal opportunity employer. We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration. </p><h3>Location </h3><p>This role will be based remotely in the EMEA or AMER regions. </p> </p> #J-18808-Ljbffr",
     "company": "Canonical",
@@ -50,7 +41,7 @@
     "company": "Grupo Casas Bahia",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5679098__1953_25ac33040fd15fb0b7e3752a723c8036?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5679098__1953_21e98d40b86b51d8553a6dfc6c14a785?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -329,7 +320,7 @@
     "company": "Zyte",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5681034__1953_0dbe16be396e4e5f88c5fc5c24230442?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5681034__1953_5c8f2039315862fd78d59f9c4580cf43?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1202,7 +1193,7 @@
     "company": "Amazing Devs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5688224__1953_17fe1245edf6ab15264bdfd25b417600?utm_source=1953&utm_medium=feed&keyword=Senior-iOS-Mobile&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5688224__1953_1a53fc2858a026f9064a243bab63a85c?utm_source=1953&utm_medium=feed&keyword=Senior-iOS-Mobile&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1742,7 +1733,7 @@
     "company": "NearForm Ltd",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5693058__1953_2720bda7d34aee7ef656115477803117?utm_source=1953&utm_medium=feed&keyword=Senior-Python-GenAI&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5693058__1953_03543fe9ccb4c15e18f455b5d98432cb?utm_source=1953&utm_medium=feed&keyword=Senior-Python-GenAI&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1886,7 +1877,7 @@
     "company": "Clutch Canada",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5694001__1953_d2d7165ebc4c8152869a9bc39a03f549?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Data&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5694001__1953_4ceda86e4edeffdf8411f123ebfcc343?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Data&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2093,7 +2084,7 @@
     "company": "Stone",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5696504__1953_ac554bc595746fd44a173d286e2445c1?utm_source=1953&utm_medium=feed&keyword=Credit-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5696504__1953_f55f3a836a8576220a6f4e40f7c5df0b?utm_source=1953&utm_medium=feed&keyword=Credit-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2102,7 +2093,7 @@
     "company": "Autorn Engenharia Ltda.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5696515__1953_2bf8b007d6d9fd39c90adfd0014d51a0?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5696515__1953_4ed4bb35da65509313146b836c7a95df?utm_source=1953&utm_medium=feed&keyword=Programador-De-Automa%C3%A7%C3%A3o&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2201,7 +2192,7 @@
     "company": "Skylatus Property Capital",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5697204__1953_4a8b37eaf52412b5f7ba77e0e9707c8c?utm_source=1953&utm_medium=feed&keyword=Calling-and-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5697204__1953_6c10a75c745b86fbc33599bea96c192e?utm_source=1953&utm_medium=feed&keyword=Calling-and-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2309,7 +2300,7 @@
     "company": "ANI - Sistemas de Gestão",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5697969__1953_e4a7e09a07201aff87f6b1706e90b94b?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5697969__1953_11db0ee95927f92df47747f1948ba25f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Php-Pleno&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2660,7 +2651,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5701611__1953_313e66761dd51e311342a8b3216e328f?utm_source=1953&utm_medium=feed&keyword=Senior-Flutter-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5701611__1953_0ea64064aced1dc7645a82e6527cc1ce?utm_source=1953&utm_medium=feed&keyword=Senior-Flutter-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2786,7 +2777,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5702292__1953_3c7975d27ed21cab22644088589996de?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5702292__1953_1b278e4e039aa93ac493af42bc18245f?utm_source=1953&utm_medium=feed&keyword=Engineering-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2795,7 +2786,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5702304__1953_2b02f7f0d71d6e2dbce89df5d403d64e?utm_source=1953&utm_medium=feed&keyword=Senior-Developer-Elixir&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5702304__1953_7cf23624839bcae0d4c6a34ad4421a45?utm_source=1953&utm_medium=feed&keyword=Senior-Developer-Elixir&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3308,7 +3299,7 @@
     "company": "AgileEngine, LLC",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5717788__1953_eeb14e774e950b985a5316227003bbe6?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5717788__1953_fd111e475aa2e24bb97f5af445aa19a1?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3362,7 +3353,7 @@
     "company": "Activision",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5718491__1953_2ad441d5e33c57f671760561a8117a3a?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5718491__1953_36721365cd5d4266f05b1fa3fd3ba27d?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3596,7 +3587,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5720357__1953_08e86ac52e015b4a5b25c4075ec27ddd?utm_source=1953&utm_medium=feed&keyword=Reviewers-Of-Ophthalmology&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5720357__1953_3a29040e91092e7e6507488b94e74597?utm_source=1953&utm_medium=feed&keyword=Reviewers-Of-Ophthalmology&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3686,7 +3677,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5720950__1953_b57a3010e72496c167e1153f6f11e08e?utm_source=1953&utm_medium=feed&keyword=Senior-Cloud-Solution&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5720950__1953_f67c5897d18bc850bb91adbce17bb468?utm_source=1953&utm_medium=feed&keyword=Senior-Cloud-Solution&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4253,7 +4244,7 @@
     "company": "Bitso Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5727014__1953_5c020613b3b2bcbf8524a9d5603ba666?utm_source=1953&utm_medium=feed&keyword=Senior-Sales-Executive&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5727014__1953_a7a10a8cb7412a1d41aadf7819aef187?utm_source=1953&utm_medium=feed&keyword=Senior-Sales-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4262,7 +4253,7 @@
     "company": "RH & COM",
     "city": "Feira de Santana",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5727020__1953_8c54dc9f0c64ccaa80674c44d86086c5?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Telecom&location=Feira-de-Santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5727020__1953_a97e679362f5ea23dbd41eebed5448ad?utm_source=1953&utm_medium=feed&keyword=Tecnico-de-Telecom&location=Feira-de-Santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -4649,7 +4640,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5730497__1953_0ee6aea911ee4ef3dd1c3040ed3d7ec3?utm_source=1953&utm_medium=feed&keyword=Remote-Product-Owner&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5730497__1953_98440d62752917f929e549cf5c64b775?utm_source=1953&utm_medium=feed&keyword=Remote-Product-Owner&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4685,7 +4676,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5731215__1953_5ea888602bc6c87fe386baaa3300eddf?utm_source=1953&utm_medium=feed&keyword=Analista-De-Teste&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5731215__1953_c2c34673a20d7feb5afa59f6d9010aef?utm_source=1953&utm_medium=feed&keyword=Analista-De-Teste&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8997,6 +8988,15 @@
     "city": "Salvador",
     "state": "Bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___70_5797179__1953?utm_source=1953&utm_medium=feed&keyword=Sr-Digital-CSM&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Compliance and Privacy Partner",
+    "description": "<p><h3>Overview </h3><p>This position oversees all ongoing activities related to the development, implementation and maintenance of Logan Health’s compliance and privacy programs. </p><p><b>Our Mission </b>: Quality, compassionate care for all. </p><p><b>Our Vision </b>: Reimagine health care through connection, service and innovation. </p><p><b>Our Core Values </b>: Be Kind | Trust and Be Trusted | Work Together | Strive for Excellence. </p><p><b>Compliance and Privacy Partner </b> </p><p>Make a difference with Logan Health. At Logan Health, compliance and privacy are not just about policies. They are about people, trust, and living out our values every day. We are seeking a Compliance and Privacy Partner who wants to be part of a collaborative team that supports leaders, protects patients, and strengthens the community we serve. </p><p>This is an opportunity to grow in a supportive environment, contribute to meaningful projects, and work with colleagues who value integrity, respect, and teamwork. </p><h3>What You’ll Do </h3><ul><li>Support leaders and team members across the organization by advancing compliance and privacy program. </li><li>Contribute to projects that involve risk assessments, monitoring, and auditing, and utilizing data driven decision making. </li><li>Provide clear, practical supportive guidance on compliance and privacy regulations. </li><li>Work with a collaborative team that shares knowledge, balances priorities, and supports each other’s growth. </li><li>Contribute to education, training, and resources that strengthen a learning culture of compliance and privacy practices. </li> </ul><ul><li>Stay up to date on state and federal regulations and bring that knowledge into daily practice applying them to real-world situations. </li> </ul><h3>What We’re Looking For </h3><p>We are looking for someone who brings strong character, professionalism, and curiosity to their work. If you are collaborative, approachable, and motivated to learn, you will thrive here. </p><p><b>Preferred background and skills include: </b> </p><ul><li>A bachelor’s degree or equivalent experience. </li><li>Experience leading projects and working with diverse teams. </li><li>Previous compliance or privacy experience, ideally in healthcare, but not required. Skills gained in industries like banking, insurance, aviation, technology, or government can also be a strong fit. </li><li>Interest in obtaining a professional compliance or privacy certification, with support to achieve it within two years of qualifying for certification. </li> </ul><h3>Why Join Us </h3><p>You will be part of a close-knit team that values collaboration, knowledge sharing, and respect. Each team member brings unique strengths, and together we build solutions that serve our patients, colleagues, and community. At Logan Health, we focus on integrity, building a culture of learning, and care for people. We believe in supporting each other’s professional growth, creating a place where your contributions matter and are valued. </p><p><b>Shift: </b> Day Shift - Variable Hours (United States of America) </p><p><b>Schedule: </b> Logan Health operates 24 hours per day, seven days per week. Schedules are set to accommodate the requirements of the position and the needs of the organization and may be adjusted as needed. </p><h3>Notice of Pre-Employment Screening Requirements </h3><p>If you receive a job offer, please note all offers are contingent upon passing a pre-employment screening, which includes: </p><ul><li>Criminal background check </li><li>Reference checks </li><li>Drug Screening </li><li>Health and Immunizations Screening </li><li>Physical Demand Review/Screening </li> </ul><h3>Equal Opportunity Employer </h3><p>Logan Health is an Equal Opportunity Employer (EOE/AA/M-F/Vet/Disability). We encourage all qualified individuals to apply for employment. We do not discriminate against any applicant or employee based on protected veteran status, race, color, gender, sexual orientation, religion, national origin, age, disability or any other basis protected by applicable law. If you require accommodation to complete the application, testing or interview process, please notify Human Resources. </p> </p> #J-18808-Ljbffr",
+    "company": "Logan Health",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5797241__1953?utm_source=1953&utm_medium=feed&keyword=Compliance-and-Privacy&location=Salvador&geoID=7530",
     "tipo": ""
   }
 ]
