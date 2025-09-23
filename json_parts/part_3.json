@@ -1,5 +1,68 @@
 [
   {
+    "title": "Analista de Desenvolvimento Front-End (Sênior) - REMOTO",
+    "description": "<p><strong>SOBRE A CEDRO </strong> </p><p><strong>Nossa missão:  </strong>desenvolver softwares de altíssima qualidade que escale o negócio do cliente </p><p><strong>Nossa visão: </strong> ser referência nacional em tecnologias de investimentos para o ecossistema financeiro </p><p><strong>Nosso propósito:  </strong>transformar o complexo em simples para melhorar a vida das pessoas e organizações </p><p>Buscamos, a cada dia, construir uma Cedro mais plural e inclusiva, com profissionais que estejam com um olhar sempre à frente e buscando novos desafios, pois acreditamos que o respeito à pluralidade e à individualidade é a base das nossas relações. </p><p><strong>VENHA SER CEDRENSE! </strong> </p><p>Aqui na Cedro, trabalhamos para desenvolver soluções inovadoras que impulsionam nossos clientes. No time Data Engine, construímos e aprimoramos plataformas que lidam com grandes volumes de dados, garantindo performance, escalabilidade e usabilidade. </p><p>Estamos em busca de uma pessoa desenvolvedora FrontEnd Angular para atuar no desenvolvimento de novos recursos para a plataforma, além de aprimorar e evoluir as funcionalidades existentes. Buscamos alguém que goste de desafios, tenha uma mentalidade colaborativa e queira criar interfaces modernas, performáticas e acessíveis. </p><p>Se você valoriza um ambiente dinâmico, com autonomia e aprendizado contínuo, essa vaga é para você! </p><h3><strong>? Suas principais responsabilidades serão: </strong> </h3><p>? Projetar e implementar novos recursos na plataforma, garantindo eficiência e escalabilidade;<br>? Melhorar e evoluir funcionalidades existentes, garantindo performance e qualidade do código;<br>? Depurar e corrigir problemas, garantindo estabilidade e confiabilidade da aplicação;<br>? Automatizar processos e rotinas para otimizar a produtividade e evitar retrabalho;<br>? Desenvolver componentes reutilizáveis e aplicar boas práticas de desenvolvimento em Angular;<br>? Trabalhar com State Management, utilizando RxJs para reatividade e melhor performance;<br>? Aplicar boas práticas de arquitetura (Clean Code, Design Patterns e OOP);<br>? Criar testes unitários e de integração para garantir a qualidade do código;<br>? Utilizar Git e Git Flow para versionamento e colaboração eficiente;<br>? Participar ativamente de cerimônias ágeis (Scrum ou Kanban). </p><p><strong>REQUISITOS </strong> </p><p>? Conhecimentos sólidos em HTML, CSS e JavaScript;<br>? Experiência prática com Angular (componentes, diretivas, pipes, guards, services);<br>? Experiência com Vue.js (desejável, mas não obrigatório);<br>? Fundamentos sólidos de OOP (Programação Orientada a Objetos) e Design Patterns;<br>? Conhecimento em estrutura de dados e algoritmos;<br>? Experiência com testes unitários (Cypress, Jest ou similares);<br>? Práticas de Clean Code e Clean Architecture;<br>? Experiência com TDD (Test-Driven Development);<br>? Versionamento com Git e Git Flow;<br>? Integração com APIs REST e WebSockets. </p><p><strong>DIFERENCIAIS </strong> </p><p>?Residir em Uberlândia-MG; </p><p>?Experiência com Jira para gestão de tarefas e acompanhamento de projetos;<br>? Conhecimento em metodologias ágeis (Scrum ou Kanban);<br>? Familiaridade com CI/CD e automação de deploys;<br>? Experiência em design system e bibliotecas de componentes reutilizáveis. </p><p><strong>NOSSOS BENEFÍCIOS PARA VOCÊ </strong> </p><ul><li>Benefícios flexíveis no Cartão Caju, sem desconto na folha de pagamento nas modalidades: alimentação, refeição, mobilidade, cultura, educação, saúde e home office; </li><li>Assistência médica SulAmérica com cobertura nacional; </li><li>Assistência odontológica Uniodonto; </li><li>Gympass; </li><li>Conexa Saúde com 1 teleconsulta com clínico geral gratuita por mês; </li><li>Seguro de vida; </li><li>Auxílio creche (para crianças até 02 anos); </li><li>Day off de aniversário; </li><li>Bônus por indicação Tech; </li><li>Acesso à Cedro Academy, nossa universidade corporativa; </li><li>Acesso ao Go Cedro com resgate de premiações; </li><li>Crédito consignado e adiantamento salarial Creditas. </li> </ul> #J-18808-Ljbffr",
+    "company": "Cedro Technologies",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378570__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Microservices Engineer",
+    "description": "<p>Join to apply for the <strong>Microservices Engineer </strong> role at <strong>Canonical </strong> </p><p>17 hours ago Be among the first 25 applicants </p><p>Join to apply for the <strong>Microservices Engineer </strong> role at <strong>Canonical </strong> </p><p>Get AI-powered advice on this job and more exclusive features. </p><p>Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leading public cloud and silicon providers, and industry leaders in many sectors. The company is a pioneer of global distributed collaboration, with 1200+ colleagues in 75+ countries and very few office-based roles. Teams meet two to four times yearly in person, in interesting locations around the world, to align on strategy and execution.<br>The company is founder-led, profitable, and growing.<br>This is a general selection track for teams that focus on back-end REST API microservices engineering in Go and Python. It covers all levels of seniority. Apply here if you are already an outstanding engineer with crisp and well-articulated views on APIs, microservice design, engineering processes and DevOps.<br>Our services need to scale to handle millions of Ubuntu clients, and collaboration across thousands of community members. They are also central to the health of critical infrastructure across the globe. As Ubuntu has been embraced by mainstream enterprise computing through the adoption of cloud and developer-centric tech strategy, the quality of these services has become more important to customers and users.<br>While Ubuntu has been enormously successful and in many senses leads the industry, we think we can substantially improve our practices, quality and performance in the web services domain. We are growing our teams, and in doing so we aim to level up our insights on scalability, performance, resilience and DevOps practices.<br>Key areas of interest for us are:<br><ul><li>API design, documentation, and governance </li><li>Database performance design considerations and skills </li><li>Multi-region service delivery for resilience and performance </li><li>Fuzzing and other proactive security analysis techniques </li><li>Tracing and profiling for distributed systems insights </li><li>Next-generation DevOps practices<br></li> </ul><strong>Location </strong>: we have microservices teams with open roles in every time zone.<br>What your day will look like<br><ul><li>Write high-quality, well-designed, and robust software that works at scale </li><li>Design APIs and software architecture for collegial review </li><li>Write tests that validate software behaviour </li><li>Build and maintain reliable, fault-tolerant applications and services </li><li>Collaborate proactively with a globally distributed team </li><li>Display technical leadership internally and within our external communities </li><li>Debug issues and produce high-quality solutions to resolve them </li><li>Contribute to technical documentation to make it the best of its kind </li><li>Discuss, contribute to, and collaborate across teams at Canonical </li><li>Work from home with global travel twice annually for company events<br></li> </ul>What we are looking for in you<br><ul><li>An exceptional academic track record from both high school and university </li><li>Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path </li><li>Drive and a track record of going above-and-beyond expectations </li><li>Proficiency in Python and / or Go </li><li>History of writing modern, maintainable software </li><li>Experience with relational and non-relational database systems </li><li>Continuous integration and continuous delivery experience </li><li>Experience with systems programming or scalable web services </li><li>Professional written and spoken English </li><li>Experience with Linux (Debian or Ubuntu preferred) </li><li>Excellent interpersonal skills, curiosity, flexibility, and accountability </li><li>Passion, thoughtfulness, and self-motivation </li><li>Excellent communication and presentation skills </li><li>Result-oriented, with a personal drive to meet commitments </li><li>Ability to travel twice a year, for company events up to two weeks each<br></li> </ul><strong>Additional Skills That You Might Also Bring<br></strong><ul><li>Experience with container tech such as LXD, Docker, and Kubernetes </li><li>Understanding of build systems and toolchains </li><li>Experience with cross-compilation </li><li>Experience with hyperscale public clouds and / or private clouds </li><li>Experience with designing, building, and running distributed systems </li><li>Performance engineering and security experience<br></li> </ul>What we offer you<br>We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.<br><ul><li>Distributed work environment with twice-yearly team sprints in person </li><li>Personal learning and development budget of USD 2,000 per year </li><li>Annual compensation review </li><li>Recognition rewards </li><li>Annual holiday leave </li><li>Maternity and paternity leave </li><li>Employee Assistance Programme </li><li>Opportunity to travel to new locations to meet colleagues </li><li>Priority Pass, and travel upgrades for long haul company events<br></li> </ul><strong>About Canonical<br></strong>Canonical is a pioneering tech firm at the forefront of the global move to open source. As the company that publishes Ubuntu, one of the most important open-source projects and the platform for AI, IoT, and the cloud, we are changing the world of software. We recruit on a global basis and set a very high standard for people joining the company. We expect excellence; in order to succeed, we need to be the best at what we do. Most colleagues at Canonical have worked from home since our inception in 2004. Working here is a step into the future and will challenge you to think differently, work smarter, learn new skills, and raise your game.<br>Canonical is an equal opportunity employer<br>We are proud to foster a workplace free from discrimination. Diversity of experience, perspectives, and background create a better work environment and better products. Whatever your identity, we will give your application fair consideration.<br></p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Engineering and Information Technology </li><li><h3>Industries </h3>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Canonical by 2x </p><h3>Sign in to set job alerts for “Engineer” roles. </h3><h3>QA Automation Engineer - Latin America - Remote </h3><p>Greater Buenos Aires $36,000.00-$48,000.00 1 month ago </p><h3>Intermediate Software Engineer (React.js, Node.js) - OP01587-OS </h3><h3>Frontend Engineer - Latin America - Remote </h3><h3>Remote Woodframe Structure Engineer with US Experience </h3><h3>Intermediate Test Engineer Manual with automation skills - OP01800 </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "Canonical",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378609__1953?utm_source=1953&utm_medium=feed&keyword=Microservices-Engineer&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Pessoa Representante de Atendimento a Clientes Especiais Jr",
+    "description": "<h3><strong>Join or sign in to find your next job </strong> </h3><p>Join to apply for the <strong>Pessoa Representante de Atendimento a Clientes Especiais Jr </strong> role at <strong>FedEx </strong> </p><p>Join to apply for the <strong>Pessoa Representante de Atendimento a Clientes Especiais Jr </strong> role at <strong>FedEx </strong> </p><p>Get AI-powered advice on this job and more exclusive features. </p><p><strong>Equipe de Recrutamento e Seleção – FedEx Brasil<br></strong>FedEx is widely acknowledged as a world-class company. We are honored and proud to be consistently recognized as a great place to work, a technology innovator and one of the world’s most admired and respected companies. </p><p><strong>Vaga: Pessoa Representante de Atendimento a Clientes Especiais Jr<br></strong><strong>Local: São Paulo/SP | Porto Alegre/RS | Recife/PE<br></strong><strong>Horário de Trabalho: Teletrabalho<br></strong>Você já pensou em fazer parte de uma empresa que conecta pessoas e oportunidades ao redor do mundo?<br>Se você busca uma carreira em um ambiente que valoriza as pessoas, promove a diversidade e inclusão, e preza pela segurança, ética e excelência no atendimento ao cliente, venha ser parte da FedEx, líder global em logística e transporte expresso.<br><strong>Sobre a FedEx<br></strong>A FedEx Express é a maior empresa de transporte expresso do mundo, oferecendo uma ampla gama de serviços de entrega para mais de 220 países e territórios. No Brasil, temos a maior infraestrutura de transporte aéreo e rodoviário, conectando mais de 5.300 localidades e oferecendo soluções logísticas que atendem a todas as regiões do país.<br><strong>Diversidade e Inclusão<br></strong>Na FedEx, acreditamos na igualdade de oportunidades. Todos os candidatos qualificados, independentemente de deficiência, gênero, idade, raça, cor, credo ou orientação sexual, serão considerados em nossos processos seletivos.<br><strong>Benefícios Oferecidos<br></strong><ul><li>Assistência médica </li><li>Assistência odontológica </li><li>Seguro de vida </li><li>Vale-transporte </li><li>Vale Refeição ou Ticket Refeição (a depender da filial) </li><li>Cesta básica (a depender da filial) </li><li>Auxílio educação </li><li>Descontos em Serviços FedEx </li><li>Descontos em viagens aéreas </li><li>Desconto em hotéis e aluguel de carros </li><li>Telemedicina (sem custo para funcionários e seus dependentes) </li><li>Programa de acompanhamento para gestantes (sem custo para funcionários ou seus dependentes)<br></li> </ul><strong>Requisitos Obrigatórios<br></strong><ul><li>Ensino Médio Completo; </li><li>Experiência em acompanhamento e análise de indicadores; </li><li>Experiência em Atendimento ao Cliente; </li><li>Excel e Power Point avançados; </li><li>Organização e proatividade; </li><li>Ótimo relacionamento interpessoal e facilidade de comunicação; </li><li>Capacidade de priorizar e se adaptar a um ambiente em constante mudança.<br></li> </ul><strong>Diferenciais, Não Obrigatórios<br></strong><ul><li>Desejável Ensino superior preferencialmente concluídas em áreas correlacionadas ao negócio da empresa; </li><li>Domínio da língua inglesa.<br></li> </ul><strong>Principais Responsabilidades<br></strong><ul><li>Dar suporte à cadeia de transporte de cliente estratégico a nível nacional; </li><li>Acompanhar as operações e atuar junto às unidades no planejamento operacional; </li><li>Realizar monitoramento com intuito de garantir o atendimento aos prazos de entrega; </li><li>Garantir o lançamento das informações no sistema nos prazos acordados; </li><li>Realizar agendamentos e tratativas de insucesso de entrega junto aos destinos e junto ao cliente; </li><li>Auditar prazos, cadastros e operações especiais; </li><li>Enviar relatórios para unidades e cliente; </li><li>Acompanhar e auditar indicadores de serviço; </li><li>Dar suporte para liderança imediata com dados e informações preventivas; </li><li>Prestar suporte à implantação projetos e melhorias nas filiais.<br></li> </ul><strong>Venha fazer parte dessa jornada e construir um futuro com a FedEx!<br></strong><strong>Equipe de Recrutamento e Seleção – FedEx Brasil<br></strong>FedEx is widely acknowledged as a world-class company. We are honored and proud to be consistently recognized as a great place to work, a technology innovator and one of the world’s most admired and respected companies.<br>FedEx is consistently named among the World’s most valuable and admired brands. Some of our recent awards include:<br><ul><li>2020 Fortune’s World Most Admired Companies (14th) </li><li>2019 Fortune’s Best Places to Work (15th) </li><li>2019 Forbes’s One of the “Best Employers for Diversity” </li><li>2020 FedEx LAC included in the GPTW’s Best Workplaces in Latin America Ranking (24th) </li><li>2021 FedEx Mexico was included in the GPTW Ranking for 18th consecutive years </li><li>2020 FedEx Mexico received the CEMEFI Certification for 13th consecutive years endorsing FedEx as a company socially responsible </li><li>2021 FedEx Chile was re-certified with Giro Limpio, a seal from the Agency of Sustainable Energy that seeks to improve the energy efficiency of the ground transportation sector, by reducing fuel consumption and greenhouse gas emissions. </li><li>2019 FedEx Uruguay selected by GPTW among the 5 best companies to work for. </li> </ul> </p> </ul><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Entry level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Other </li><li><h3>Industries </h3>Freight and Package Transportation </li> </ul><p>Referrals increase your chances of interviewing at FedEx by 2x </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "FedEx",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378638__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Representante-de&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "ANALISTA QA MARKETPLACE PLENO/SÊNIOR",
+    "description": "<p><strong>ANALISTA QA MARKETPLACE PLENO/SÊNIOR </strong> </p><p><strong>Estamos em busca de um Analista QA </strong> <strong>Marketplace Pleno/Sênior </strong> <strong>com experiência na área de desenvolvimento de software, com conhecimentos para a execução de testes automatizados de sistemas e validação de requisitos e regras de negócio, para atuar na sustentação de um cliente do varejo alimentício junto a um time de desenvolvedores e analistas de negócios. </strong> </p><p><strong>O que você vai fazer? </strong> </p><ul><li>Planejar, criar e executar testes em ambiente local; </li><li>Realizar testes de APIs, garantindo a integridade e performance dos serviços; </li><li>Automatizar testes utilizando ferramentas modernas e eficientes; </li><li>Participar ativamente da documentação de processos e resultados de testes; </li><li>Trabalhar em conjunto com o time de desenvolvimento para garantir a qualidade das entregas; </li><li>Atuar com autonomia na montagem de ambientes e definição de cenários de testes; </li><li>Utilizar ferramentas de log e monitoramento da AWS para investigação de erros e análise de comportamento do sistema; </li><li>Realizar homologação das entregas junto aos usuários, garantindo aderência aos requisitos e qualidade final do produto. </li> </ul><p><strong>O que você precisa ter/conhecer? </strong> </p><ul><li>Experiência com testes manuais e automatizados; </li><li>Conhecimento em testes unitários e integrados; </li><li>Familiaridade com ferramentas de versionamento como Git e com o fluxo de trabalho GitFlow; </li><li>Boa comunicação e proatividade para interação com equipes multidisciplinares; </li><li>Conhecimento em ferramentas de automação de testes; </li><li>Experiência com ambientes e ferramentas da AWS é um diferencial; </li><li>Conhecimento em JavaScript será considerado um diferencial. </li> </ul><p><strong>O que vamos considerar como diferenciais? </strong> </p><ul><li><p>Noções básicas de desenvolvimento; </p> </li><li><p>Noções de Javascript, HTML e CSS; </p> </li><li><p>Conhecimento em métodos ágeis; </p> </li><li><p>Noções de SQL; </p> </li><li><p>Conhecimentos em ferramentas de automação de testes como por exemplo Selenium, Cucumber, Capybara, JMeter, e JUnit; </p><p><strong>O que oferecemos? </strong> </p> </li><li><p>Day Off aniversário; </p> </li><li><p>Um time qualificado; </p> </li><li><p>Assinatura GoGood; </p> </li><li><p>Assinatura ALURA; </p> </li><li><p>Assinatura Guia da Alma </p> </li> </ul><p> Modelo de trabalho: 100% Remota </p><p><strong>Sobre nós: </strong> </p><p>A CD2 é uma fábrica de software especializada em varejo. Além disso, temos também uma distro Linux presente em mais de 30 mil PDV's no país. Sustentamos sistemas legados e desenvolvemos sistemas para grandes clientes supermercadistas, atacadistas e atacarejos, e também desenvolvemos projetos (integrações, sistemas satélite, webapps, etc) nas mais diversas linguagens. Hoje temos em nossas stacks desenvolvimento em PHP, Java, Python, Golang, Angular, React e outras e em nosso dia a dia conseguimos proporcionar um ambiente colaborativo e positivo. Somos um time 100% remoto e diariamente estamos conectados de todas as regiões do Brasil, via Discord, que é nossa ferramenta de colaboração. Acreditamos que PESSOAS FAZEM TUDO! E esperamos poder te conhecer melhor! </p><h3>Pré-Requisitos </h3><h3>Conhecimentos e Experiências </h3><ul><li>GitFlow </li><li>HTML </li><li>Testes Automatizados </li><li>JavaScript </li><li>Testes </li><li>Amazon Web Services (AWS) </li><li>SQL </li><li>CSS </li><li>MySQL </li> </ul><h3>Características </h3><h3>Tipo de Contratação </h3><p>Tempo integral </p><h3>Salário </h3><p>Competitivo </p><h3>Outras Características </h3><p>Trabalho remoto </p> #J-18808-Ljbffr",
+    "company": "CD2 Retail Tech",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378656__1953?utm_source=1953&utm_medium=feed&keyword=ANALISTA-QA-MARKETPLACE&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "ESPECIALISTA DE ATENDIMENTO | AGENDAMENTOS DE CONSULTAS + VENDAS - POSSIBILIDADE DE HOME OFFICE",
+    "description": "<p><strong>Job Description<br></strong>Junte-se a nós para garantir um atendimento de excelência aos nossos clientes, atendendo via voz, chat e e-mail, e ajude a criar uma experiência incrível para cada cliente. </p><p>Job Title:<br>ESPECIALISTA DE ATENDIMENTO | AGENDAMENTOS DE CONSULTAS + VENDAS - POSSIBILIDADE DE HOME OFFICE<br><strong>Job Description<br></strong>Junte-se a nós para garantir um atendimento de excelência aos nossos clientes, atendendo via voz, chat e e-mail, e ajude a criar uma experiência incrível para cada cliente.<br>Temos uma vaga super interessante para quem gosta de atuar no atendimento ao cliente, vendas e agendamento de consultas. O trabalho é presencial durante o período de experiência, mas, após essa fase, você poderá trabalhar em home office, com mais autonomia e conforto. Venha fazer parte do nosso time e aproveite essa oportunidade de crescimento e flexibilidade!<br>Benefícios e jornada:<br><ul><li>Remuneração: R$1.518,00 + comissão de Vendas que pode chegar a R$ 300,00. </li><li>Escala de trabalho 6x1, com folgas alternadas aos finais de semana. </li><li>Horário de Trabalho: Tarde 14h20 às 20h40 </li><li>Local de Trabalho: Concentrix BF4 </li><li>Fica na Rua Tagipuru, 906 - Barra Funda, São Paulo </li><li>Vaga Presencial com possibilidade de Home Office após a experiência </li><li>Treinamento Remunerado. 5x2 das 9h às 17h12<br></li> </ul>Seja um #Game-Changer em uma multinacional acolhedora e diversa, que coloca seus colaboradores em primeiro lugar! Aqui, as oportunidades de crescimento são reais. Após completar 3 meses conosco, você poderá se candidatar a vagas de nível superior ao seu cargo atual ou explorar posições em áreas administrativas. Além disso, oferecemos um pacote de benefícios que vai além do básico:<br>Benefícios:<br><ul><li>Vale Refeição/Alimentação flexível (sem desconto em folha) </li><li>Seguro de Vida; </li><li>Assistência médica e odontológica para cuidar da sua saúde; </li><li>Auxílio creche/babá para apoiar sua família; </li><li>Parcerias com até 50% de desconto em faculdades e até 80% em escolas de idiomas para impulsionar sua formação; </li><li>Plano de Carreira, cresça com a gente e conquiste novas oportunidades de desenvolvimento profissional! </li><li>Programa de bem-estar para cuidar da sua qualidade de vida; </li><li>We Care: Linha 24hrs de atendimento para orientação Psicológica, Financeira e Jurídica; </li><li>Ambientes disruptivos com salas de jogos, TV e muito mais; </li><li>E outros benefícios exclusivos para a sua cidade!!<br></li> </ul>Estamos em busca de pessoas comprometidas, atentas aos detalhes e apaixonadas por ajudar outras pessoas. Com seu talento em resolver problemas e comunicação, você fará a diferença para nossos clientes e para o time prestando um atendimento humanizado através do Chat, E-mail e/ou Voz.<br>O que você precisa para brilhar aqui:<br><ul><li>Ensino médio completo; </li><li>Maior de 18 anos; </li><li>Experiência em atendimento multicanal (voz, chat e e-mail); </li><li>Familiaridade com tecnologia: boa digitação e habilidade com sistemas simultâneos; </li><li>Familiaridade com pacote office; </li><li>Precisa ter experiência em vendas e suporte ao cliente; </li><li>Comprometimento; </li><li>Compromisso com atendimento humanizado - tratamos nossos clientes como gostaríamos de ser tratados!<br></li> </ul>Nosso processo seletivo:<br><ul><li>Inscrição </li><li>Provas (essenciais para seguir no processo) </li><li>Entrevista </li><li>Fase final<br></li> </ul>Venha fazer parte de algo especial. Queremos ver você crescer com a gente! Vaga afirmativa para PCD.<br>Location:<br>BRA SAO PAULO Rua Tagipuru, 906 Barra Funda<br>Language Requirements:<br>Time Type:<br>Full time<br><strong>If you are a California resident, by submitting your information, you acknowledge that you have read and have access to the Job Applicant Privacy Notice for California Residents<br></strong><strong>R  </strong> </p><p>Get notified about new Customer Service Specialist jobs in <strong>São Paulo, São Paulo, Brazil </strong>. </p><h3>RECEPCIONISTA - Aeroporto de Congonhas (CGH) </h3><p>Santo André, São Paulo, Brazil 2 days ago </p><h3>Studios - Recepcionistas - São Paulo  ) </h3><p>São Paulo, São Paulo, Brazil 4 months ago </p><h3>Auxiliar Administrativo - Recepção e Vendas - Ibirapuera </h3><h3>Studios | Recepcionista | São Paulo  ) </h3><p>São Paulo, São Paulo, Brazil 2 months ago </p><h3>Banco de Talentos – Recepcionistas e Atendimento </h3><h3>Analista Administrativo Junior - São Paulo/SP </h3><p>São Paulo, São Paulo, Brazil 4 months ago </p><p>São Bernardo do Campo, São Paulo, Brazil 2 weeks ago </p><h3>Recepcionista - Recepções - Anália Franco </h3><h3>Recepcionista | Alto da Boa Vista - São Paulo/SP </h3><p>Santo André, São Paulo, Brazil 2 weeks ago </p><p>São Bernardo do Campo, São Paulo, Brazil 2 days ago </p><h3>Recepcionista | Alto da Boa Vista - São Paulo/SP </h3> #J-18808-Ljbffr",
+    "company": "Concentrix",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378685__1953?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-DE-ATENDIMENTO&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "EXECUTIVO DE VENDAS REMOTA III",
+    "description": "EXECUTIVO DE VENDAS REMOTA III page is loaded## EXECUTIVO DE VENDAS REMOTA IIIlocations:   Brazil - Campo Bomtime type:   Full timeposted on:   Posted Todayjob requisition id:   JR Take a step forward and let Edenred surprise you.Every day, we deliver innovative solutions to improve the life of millions of people, connecting employees, companies, and merchants all around the world.We know there are hundred ways for you to grow. With us, you will expand your skills in a multicultural, challenging, and dynamic environment.**Dare to join Edenred and get ready to thrive in a global company that will offer you endless opportunities.**Edenred is all about meritocracy. You come as you are, and you contribute. Indeed, the Edenred Group recognizes, recruits and develops all talents and singularities.We are committed to preventing all forms of discrimination and to providing all our candidates with equal opportunities regardless of their gender and gender expression, disability, origin, religious belief and sexual orientation or any other criteria.**Responsabilidades**O EXECUTIVO DE VENDAS REMOTA III, tem como principais responsabilidade a tratativa e condução de negociações de complexibilidade elevada. O executivo trabalhara com leads das faixas maiores onde atuará com negociações usando técnica spin selling. Dentro da atuação ele tem como principais objetivos: Cadência de vendas (Ligações/Hit Rate/Offer rate); Abertura de mercado; Negociação de pricing junto com a coordenação e os clientes também vai negociar o preço do combustível junto com o setor de mesa de diesel. Responsabilidade financeira (Volume/LTS/Tkp-rate); Activation rate acima de 90%; **Stakeholders**O EXECUTIVO DE VENDAS REMOTA III se relacionara com as seguintes áreas: Negociação de diesel; Crédito; Jurídico; Relacionamento remoto; Implantação remota; Qualificação; Pré-salesRequisitos **Experiência Profissional:**- No mínimo 5 anos na área comercial atuando como Hunter.- Escolaridade: Desejado curso superior ou estar cursando (Administração/Gestão comercial/Publicidade/Comex); **Apply now and Vibe with Us!**()(blob: / 0:25We are looking for new employees who will embrace the Edenred adventure with the same intensity and passion as we do. They will feel right at ease at Edenred because they like to push back the boundaries, try new things, constantly improve, win and grow. We need women and men who share our ambition, who are looking to perform, challenge us and themselves to move forward every day. We are looking for women and men who want to vibe with us.<br>#J-18808-Ljbffr",
+    "company": "Edenred Italia S.r.l.",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378766__1953?utm_source=1953&utm_medium=feed&keyword=EXECUTIVO-DE-VENDAS&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "eCommerce Graphic Designer",
+    "description": "<p>1 week ago Be among the first 25 applicants </p><p>This range is provided by Reef. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more. </p><h3>Base pay range </h3><p>$10,000.00/yr - $15,000.00/yr </p><p><strong>Job Title </strong>: Graphic Designer<br><strong>Location </strong>: Remote<br><strong>Role Type </strong>: Full-time | Monday - Friday, 9am - 5pm Pacific Time (California, US)<br><strong>Salary Range </strong>: USD $800 - $1,100 + Performance Bonus<br>Our client is in search of a talented and detail-oriented Graphic Designer to elevate one of their e-commerce brand's digital presence. If you have a flair for creating compelling visuals and a knack for social media trends, they want you on their team!<br>Founded in 2017, our client is a direct-to-consumer brand incubator; focused on creating products that people love. Today, they own and operate a portfolio of brands with products that put you first. They take a unique approach to each brand and every product, making sure that they are fulfilling a real need while helping to shift the status quo.<br>This is an excellent opportunity for a highly motivated individual, eager to excel in a fast-paced and growth-centric setting. We're looking for someone who understands graphic design best practices, is deadline-oriented, and detail-focused, and has thrived in a remote role.<br>The role is fully remote.<br><strong>Responsibilities<br></strong><ul><li>Social Media Creatives: Design and produce visually captivating graphics for our social media channels, ensuring consistency and alignment with our brand's voice and aesthetics </li><li>GIFs/MP4 Creation: Craft engaging GIFs and MP4s for promotional campaigns, product launches, and other brand initiatives </li><li>Email Designs: Conceptualize and design email campaigns that not only look great but also drive customer engagement and conversions </li><li>Website Assets: Create banners, product images, landing pages, and other visual assets to enhance user experience and brand consistency on our website </li><li>Brand Adherence: Ensure all designs adhere to our brand guidelines, maintaining a consistent and recognizable brand identity across all platforms </li><li>Trend Analysis: Stay updated with the latest design and social media trends to ensure our brand remains relevant and ahead of the curve </li><li>Collaboration: Work closely with the marketing, content, and product teams to ensure alignment in all campaigns and initiatives<br></li> </ul><strong>Requirements<br></strong><ul><li>Graphic design experience, preferably for an e-commerce company </li><li>Proficiency in Adobe Creative Suite (especially Photoshop or Illustrator) and other </li><li>relevant design tools </li><li>Experience with After Effects, Cinema 4D, Keyshot and Figma are a plus </li><li>Portfolio showcasing your best designs, especially in social media ads, GIFs/MP4s, email designs, and website assets </li><li>Exceptional attention to detail and a keen eye for aesthetics </li><li>Ability to work in a fast-paced environment and manage multiple projects simultaneously </li><li>Excellent communication skills in English, both written and verbal </li><li>A proactive mindset with the ability to take initiative and bring new ideas to the table<br></li> </ul><strong>Benefits<br></strong><ul><li>Fully Remote Position </li><li>Observed Local Holiday's </li><li>Bonus Program </li><li>Paid Vacation </li><li>Health Insurance Plan after 6 month probationary period </li> </ul> </p> </ul><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Associate </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Design </li><li><h3>Industries </h3>IT Services and IT Consulting </li> </ul><p>Referrals increase your chances of interviewing at Reef by 2x </p><h3>Sign in to set job alerts for “Graphic Designer” roles. </h3><h3>Remote Architectural Designer (Archicad) with Graphic Design Expertise </h3><h3>Senior UX/UI Designer - Remote, Latin America </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "Reef",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5378837__1953?utm_source=1953&utm_medium=feed&keyword=eCommerce-Graphic-Designer&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
     "title": "Sales Enablement Specialist",
     "description": "<p><b>Job overview </b> </p><p>Provide hands-on support for successful opportunity management within the growing IQVIA Cronos Rater Services GTM team. </p><p>Cronos is part of the Applied Patient Experience Solutions team (APEx) within IQVIA Patient Centered Solutions (PCS). PCS partners with clients to help design and execute clinical trials centered around patients as well as products. They provide solutions that measure, analyze, and improve patient experience in trials, and support drug regulatory approval. </p><p><b>Key functions </b> </p><ul><li><p>Support triage process with initial report review, monitoring of mailbox and information collation and status updates for CNS opportunities; acting as deputy to triage lead </p> </li><li><p>Coordinate Cronos opportunity BD strategy calls </p> </li><li><p>Ensure GTM team have right information for, and deliver, quality proposals on time, assisting with content where required/applicable to aid completion </p> </li><li><p>Enforce and maintain proposal library to increase GTM knowledge base of indications and COA nuances in collaboration with Cronos GTM team, Scale Management lead and (GBO proposals team) to help inform content for proposals and tracking of existing opportunities and pricing </p> </li><li><p>Coordinate change order log and drive assignment and development of supporting budget, proposal and contracting process liaising with required teams through to completion </p> </li><li><p>Regularly review market analysis of drug and study pipeline for potential high priority compounds/companies to inform CI feeds and targeting activity </p> </li><li><p>Support GTM team strengthening collaborations with IQVIA stakeholder teams and coordination of meetings, updates, collateral etc </p> </li><li><p>Support with maintenance of sales pipeline updates on Salesforce and reporting </p> </li><li><p>Assist with evolution of triage/opportunity trackers to ensure scalable and easy to maintain </p> </li><li><p>Assist with building processes and collateral for additional services as we scale </p> </li><li><p>Work with GTM and Operations teams to ensure the right processes are in place and adhered to for effective handover of won projects to facilitate a smooth start up. </p> </li> </ul><p><b>Skills and qualifications </b> </p><ul><li><p>Relevant bachelor’s degree (e.g. Biology, Psychology, Pharmacy, Business Administration or other related field) </p> </li><li><p>Knowledge of IQVIA and clinical research industry preferred </p> </li><li><p>Interest in CNS disorders and awareness of clinician administered outcome assessments </p> </li><li><p>Proficiency in Microsoft Office (especially Excel) and Salesforce (preferred) </p> </li><li><p>Fluency communication in English - the role will be conducted in English and working with colleagues/sectors worldwide </p> </li><li><p>Strong problem-solving, analytical, project management, organizational and customer service skills </p> </li><li><p>Experience in meeting facilitation, presentation, and training </p> </li><li><p>Ability to develop and maintain relationships in a diverse business environment </p> </li><li><p>Be proactive and work well as part of a team and be flexible to changing needs of rapidly expanding business. </p> </li> </ul><p>*<b>CV must be submitted/attached in English </b>* </p><p>#home-based </p><p>IQVIA is a leading global provider of clinical research services, commercial insights and healthcare intelligence to the life sciences and healthcare industries. We create intelligent connections to accelerate the development and commercialization of innovative medical treatments to help improve patient outcomes and population health worldwide . Learn more at   </p> #J-18808-Ljbffr",
     "company": "IQVIA",
@@ -23,7 +86,7 @@
     "company": "Cessna Aircraft Company",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5379160__1953_e69f6d7b29b7092558523285519263cf?utm_source=1953&utm_medium=feed&keyword=Service-Sales-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5379160__1953_0392aad4315ff3fb0058353ea6bb7422?utm_source=1953&utm_medium=feed&keyword=Service-Sales-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -32,7 +95,7 @@
     "company": "Caliza",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5379218__1953_3998acb8f8bcae65f6ddd839364c08cc?utm_source=1953&utm_medium=feed&keyword=Product-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5379218__1953_075bd50e8bf25964aa620be38782e4d8?utm_source=1953&utm_medium=feed&keyword=Product-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -104,7 +167,7 @@
     "company": "ALX Recursos Humanos",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5379839__1953_af7fe1e896ea6c747b3ac0a2b3b95964?utm_source=1953&utm_medium=feed&keyword=Criador-de-Conte%C3%BAdo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5379839__1953_14e9d26df52a869a226ea86248fb77b3?utm_source=1953&utm_medium=feed&keyword=Criador-de-Conte%C3%BAdo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -113,7 +176,7 @@
     "company": "clara.com",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5379853__1953_6275b8aaadb5136d0a811aaa97ee6328?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5379853__1953_b17266830eee12f467e09d831bd36230?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -185,7 +248,7 @@
     "company": "Therapy and Beyond - ABA Therapy",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5380536__1953_f783898bff986baf4f45b4e5050b7065?utm_source=1953&utm_medium=feed&keyword=Speech-Language-Pathologist-SLP&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5380536__1953_f30aceec1c6ffc25859511e5bf711b4d?utm_source=1953&utm_medium=feed&keyword=Speech-Language-Pathologist-SLP&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -275,7 +338,7 @@
     "company": "Stefanini Group",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5381530__1953_340d23b0414d07c610c6389e837edb22?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-MM&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5381530__1953_15ed743178bb8ee171792d10beafb5d7?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-MM&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -284,7 +347,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5381640__1953_11c8782a6927542d70820634db517e84?utm_source=1953&utm_medium=feed&keyword=Product-Owner-L%C3%ADder-T%C3%A9cnico&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5381640__1953_1a4317e67c9b871071044bf37bcd8f87?utm_source=1953&utm_medium=feed&keyword=Product-Owner-L%C3%ADder-T%C3%A9cnico&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -374,7 +437,7 @@
     "company": "TAKING",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5382489__1953_33803ed8b84ab7d5f0d573b67c2f400a?utm_source=1953&utm_medium=feed&keyword=PMO-S%C3%AAnior&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5382489__1953_5809ebd44cb2c127d2c276a444d9c458?utm_source=1953&utm_medium=feed&keyword=PMO-S%C3%AAnior&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -437,7 +500,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5383425__1953_0831741ea4c14624e6dc01d88bb2d0bf?utm_source=1953&utm_medium=feed&keyword=Associate-Linux-Support&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5383425__1953_2121313537d365bda8b380909e529518?utm_source=1953&utm_medium=feed&keyword=Associate-Linux-Support&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -482,7 +545,7 @@
     "company": "On.Live Agency",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5384372__1953_200fccd8353454dfadfc243b290f6232?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5384372__1953_505f213c1122a99e2bff4ef7ac711534?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -491,7 +554,7 @@
     "company": "Outliant",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5384392__1953_9b772381ae1ff85da41461a521e81deb?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5384392__1953_3ea80e8b4e18b7759c06d79b91e4dfc8?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -581,7 +644,7 @@
     "company": "Power Digital Marketing, Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5384953__1953_98e3f6df344b1a1f79efc187588d8e38?utm_source=1953&utm_medium=feed&keyword=Paid-Social-Strategist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5384953__1953_c07ec52059a10f60bdf2b20d24cfbec2?utm_source=1953&utm_medium=feed&keyword=Paid-Social-Strategist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -590,7 +653,7 @@
     "company": "NEXTI",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5384994__1953_3325c66dbbfb7ad51fc36bcef0639ce9?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5384994__1953_8cbd0a632670135fd3bbe64fb60dcae0?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -680,7 +743,7 @@
     "company": "Remote",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5385772__1953_f7bd5d26258d17fa99a6baabb6931e53?utm_source=1953&utm_medium=feed&keyword=Lifecycle-Specialist-Time&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5385772__1953_fe5fdf361790e91af57f5cac0c14855d?utm_source=1953&utm_medium=feed&keyword=Lifecycle-Specialist-Time&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -689,7 +752,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5385815__1953_0cdbf550a397c109334df1e943c749f8?utm_source=1953&utm_medium=feed&keyword=React-Native-Tech&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5385815__1953_573f778c9f8cdbcfc15af23a64b4f027?utm_source=1953&utm_medium=feed&keyword=React-Native-Tech&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -698,7 +761,7 @@
     "company": "Eu Médico Residente",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5385908__1953_1c391667fa98ecddfdc5c7be6b88fba5?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5385908__1953_f27a84da914310660eb6a86cdd0e6ad6?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -824,7 +887,7 @@
     "company": "Pragmatike",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5386539__1953_e27d1ec1499194d95d5d2c372df86872?utm_source=1953&utm_medium=feed&keyword=System-Administrator-Part-time&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5386539__1953_d6e81209702ea1c9d6babb1d38af87fb?utm_source=1953&utm_medium=feed&keyword=System-Administrator-Part-time&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -833,7 +896,7 @@
     "company": "Clara",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5386600__1953_739e60a7f40e5a9a362a1e59d7a4d313?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5386600__1953_379db715e69948320353cb6b1e6c5b92?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -842,7 +905,7 @@
     "company": "Devoted Studios",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5386613__1953_40518a3950f84123470b68b60d473a1a?utm_source=1953&utm_medium=feed&keyword=Outsource-Producer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5386613__1953_f91273e7bccd7b655071ff63a00e0fc3?utm_source=1953&utm_medium=feed&keyword=Outsource-Producer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -950,7 +1013,7 @@
     "company": "CSG",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5387136__1953_2ef47b053147a0d8cc9e5af81837d985?utm_source=1953&utm_medium=feed&keyword=Systems-Administrator&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5387136__1953_c9f6f8815bed76b351c36bb36041a11b?utm_source=1953&utm_medium=feed&keyword=Systems-Administrator&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -959,7 +1022,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5387147__1953_be8232df934f92cfaa5763a0a9a69178?utm_source=1953&utm_medium=feed&keyword=Executivo-De-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5387147__1953_046c5b7a6471ee6096099d5521224aed?utm_source=1953&utm_medium=feed&keyword=Executivo-De-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -968,7 +1031,7 @@
     "company": "PedidosYa",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5387172__1953_d85b8cced4de87cd0eb5c015d5d8cf21?utm_source=1953&utm_medium=feed&keyword=Online-Marketing-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5387172__1953_1b0e7756ee1800da9b287af3627556cb?utm_source=1953&utm_medium=feed&keyword=Online-Marketing-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1148,7 +1211,7 @@
     "company": "Sagan Recruitment",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5388413__1953_6e733ebc0933597d10097658bea488ee?utm_source=1953&utm_medium=feed&keyword=Performance-Marketing-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5388413__1953_46fe5d08ede2733a57a97c3bf6320800?utm_source=1953&utm_medium=feed&keyword=Performance-Marketing-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1157,7 +1220,7 @@
     "company": "ília",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5388434__1953_1eac8877d5337298145e4ab18def0128?utm_source=1953&utm_medium=feed&keyword=SR-Engenharia-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5388434__1953_e83c756ed104c5555b3dc1d514b74684?utm_source=1953&utm_medium=feed&keyword=SR-Engenharia-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1247,7 +1310,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5389049__1953_93e75eb7ca0177dff2c923641ed963ab?utm_source=1953&utm_medium=feed&keyword=Business-Services-Team&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5389049__1953_aa747c3a5a3fda2a77745ae31f373d19?utm_source=1953&utm_medium=feed&keyword=Business-Services-Team&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1256,7 +1319,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5389068__1953_e47222ba3f3762179c40cdda8fd323a6?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5389068__1953_2ac9a7c793656914d866e64ee19252d0?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1355,7 +1418,7 @@
     "company": "K&A APOIO ADMINISTRATIVO S/A",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5389646__1953_2db69513ff2b27b828ea6a8cb241be52?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-CLOSER&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5389646__1953_1c3195cc15803485752b5093b881e7f6?utm_source=1953&utm_medium=feed&keyword=Consultor-Comercial-CLOSER&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1364,7 +1427,7 @@
     "company": "Mercado Livre",
     "city": "Camaçari",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5389741__1953_8c1196291b6691f375845b225e84e692?utm_source=1953&utm_medium=feed&keyword=Pessoa-Executiva-de&location=Camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5389741__1953_2e6023772de82441a207972c707218e2?utm_source=1953&utm_medium=feed&keyword=Pessoa-Executiva-de&location=Camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1526,7 +1589,7 @@
     "company": "Turing",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391351__1953_71021757066373691242bbd04f4ae007?utm_source=1953&utm_medium=feed&keyword=Graphic-Designer-III&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391351__1953_e4bb281ebf7a0b10e6702e7888121489?utm_source=1953&utm_medium=feed&keyword=Graphic-Designer-III&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1535,7 +1598,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391478__1953_fdb90349874091fe29ddebb09626088e?utm_source=1953&utm_medium=feed&keyword=Mid-Level-Java-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391478__1953_2600b8ec5fcfb2195db65fcac9b13731?utm_source=1953&utm_medium=feed&keyword=Mid-Level-Java-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1544,7 +1607,7 @@
     "company": "HUNT IT - Recrutamento Especializado para TI",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391486__1953_2c6c0d454e56b25333d8b027a908bc91?utm_source=1953&utm_medium=feed&keyword=Analista-de-QA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391486__1953_cbf28c17ecf11b2f29e7a99e01bc86a1?utm_source=1953&utm_medium=feed&keyword=Analista-de-QA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1553,7 +1616,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391502__1953_37effafd58d4d8d1b86112c19a4667da?utm_source=1953&utm_medium=feed&keyword=Junior-QA-Automation&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391502__1953_253fc0a4cafe9bbf6f0beac315692cd7?utm_source=1953&utm_medium=feed&keyword=Junior-QA-Automation&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1562,7 +1625,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391515__1953_4b35b13fcd2f5dd524bd661ff6662485?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-De-Projetos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391515__1953_685fd9330add5032e51eafe56e3b3fb3?utm_source=1953&utm_medium=feed&keyword=Gest%C3%A3o-De-Projetos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1571,7 +1634,7 @@
     "company": "RecargaPay",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5391543__1953_5e313a67bce1ac6c9b024ea6b60c1ed5?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5391543__1953_aa4dd26174c9fcf366e1cfd7103789bc?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1679,7 +1742,7 @@
     "company": "Influx Inc",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5392176__1953_7d2110b93fe42f4db03b5bbf4acb889c?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5392176__1953_eee6a4bc422f8c248b9b9fa9a4cbe851?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1688,7 +1751,7 @@
     "company": "Growth Troops",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5392179__1953_a3723d1f37abcee950c9d37fca391760?utm_source=1953&utm_medium=feed&keyword=Technical-Sourcer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5392179__1953_04f7d62b34f61b451a5a87b896d7fcf8?utm_source=1953&utm_medium=feed&keyword=Technical-Sourcer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1697,7 +1760,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5392254__1953_b655542ed77db5058d4fa7235dbcc56b?utm_source=1953&utm_medium=feed&keyword=ETL-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5392254__1953_385a25fab0fd4ac9459c4a526a2b8cb5?utm_source=1953&utm_medium=feed&keyword=ETL-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1778,7 +1841,7 @@
     "company": "PremierSoft",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5393006__1953_52b5a4226b827798dc5f1d26d6bca9a7?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5393006__1953_ebcc9f28ad6fd5b43035c1effca32f30?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1787,7 +1850,7 @@
     "company": "Tarken",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5393089__1953_31a5a2ff96e7deea65ce41c402db7350?utm_source=1953&utm_medium=feed&keyword=Analista-de-QA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5393089__1953_227c83caa7525fa1f3f88006c003bfcc?utm_source=1953&utm_medium=feed&keyword=Analista-de-QA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1868,7 +1931,7 @@
     "company": "GrowthX Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5393771__1953_7a96840358520e2fba3429ccdb1d9e9a?utm_source=1953&utm_medium=feed&keyword=AI-Content-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5393771__1953_cfb1de5ce0e4249143b1d2024b62fa69?utm_source=1953&utm_medium=feed&keyword=AI-Content-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1877,7 +1940,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5393779__1953_b7ea0588bef1e77a07b7fddee48b5ae1?utm_source=1953&utm_medium=feed&keyword=Business-Intelligence-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5393779__1953_da412907782e1ff572cf581abf8e2176?utm_source=1953&utm_medium=feed&keyword=Business-Intelligence-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1958,7 +2021,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5394547__1953_6bc58b90153dcdbddbbdafa15156037b?utm_source=1953&utm_medium=feed&keyword=Android-RxJS-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5394547__1953_9a2fffbad3758371c3e079cba8eb5db6?utm_source=1953&utm_medium=feed&keyword=Android-RxJS-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1967,7 +2030,7 @@
     "company": "Memory Ware",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5394646__1953_d487a926ce0bca62fd948da5322625c9?utm_source=1953&utm_medium=feed&keyword=UX-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5394646__1953_f252356b95b69e7da32922738f3ce4e1?utm_source=1953&utm_medium=feed&keyword=UX-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1976,7 +2039,7 @@
     "company": "Clutch Canada",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5394671__1953_403f09cf1801db8e7ae86dc101f2976b?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-Web&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5394671__1953_0730795c3f37b94953a5a60be27dab39?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-Web&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2075,7 +2138,7 @@
     "company": "Magic",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5395394__1953_40a453b593ea8f3e5e16cb907537fdd2?utm_source=1953&utm_medium=feed&keyword=Bilingual-Talent-Acquisition&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5395394__1953_5943a13a48e1fe8d9a28295e45a0d254?utm_source=1953&utm_medium=feed&keyword=Bilingual-Talent-Acquisition&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2084,7 +2147,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5395400__1953_34fd6a300e4dd0c436cca7e817a7b720?utm_source=1953&utm_medium=feed&keyword=Analista-De-Suporte&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5395400__1953_cf8e934cd3c19bb6a0f2ed34c81ac110?utm_source=1953&utm_medium=feed&keyword=Analista-De-Suporte&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2093,7 +2156,7 @@
     "company": "Artefact",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5395425__1953_2cf880fc4e647c6b44812ddcc4fa64af?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5395425__1953_2237eebbd7957651a0cf1deb6ad63fb0?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2219,7 +2282,7 @@
     "company": "Dataside",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5396090__1953_c7c73d93393d88cb11969f0041e62c38?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5396090__1953_3d6d3c752066fd676b2ff7ad467f19ad?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-S%C3%AAnior&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2228,7 +2291,7 @@
     "company": "Workana",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5396106__1953_462840a30051b7bd2a6046fef0bd208f?utm_source=1953&utm_medium=feed&keyword=Business-Support-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5396106__1953_acc9541067fc5f6602507008b894ed44?utm_source=1953&utm_medium=feed&keyword=Business-Support-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2237,7 +2300,7 @@
     "company": "Luizalabs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5396123__1953_769a936ff0e706d660b7556b533f3acc?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-FULL-STACK&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5396123__1953_a30200d53f0c6942694aa5643193384f?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-FULL-STACK&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2318,7 +2381,7 @@
     "company": "LatamCent",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5396771__1953_8a547dfb707c73883fbc7e90ad212627?utm_source=1953&utm_medium=feed&keyword=Senior-Fullstack-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5396771__1953_aee1c854f8778715b59ed97f9e95b6bb?utm_source=1953&utm_medium=feed&keyword=Senior-Fullstack-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2327,7 +2390,7 @@
     "company": "Russel Serviços",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5396840__1953_ce5a698bbb2f7f2bbcf329e3fd9a230a?utm_source=1953&utm_medium=feed&keyword=Vaga-Vendedor&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5396840__1953_1779f3e9672be2510ed735b208d0af55?utm_source=1953&utm_medium=feed&keyword=Vaga-Vendedor&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2462,7 +2525,7 @@
     "company": "GrowthX AI",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5397683__1953_426a4d7037a6de7c6a0b47475f2bd813?utm_source=1953&utm_medium=feed&keyword=Account-Strategist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5397683__1953_854908ab81f17de6f70e624b7b8e8b51?utm_source=1953&utm_medium=feed&keyword=Account-Strategist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2471,7 +2534,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5397714__1953_6bd3100d073c770426b9d3f26e7fcd2a?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5397714__1953_60d186e0accde52b2be947937a5a2e61?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2552,7 +2615,7 @@
     "company": "phData",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5398249__1953_eec1001af8f454ab989b95e1eac20d6b?utm_source=1953&utm_medium=feed&keyword=Recruiting-Coordinator&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5398249__1953_158f27f25ebbf4d9c7a4b7b21cce2092?utm_source=1953&utm_medium=feed&keyword=Recruiting-Coordinator&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2561,7 +2624,7 @@
     "company": "Capgemini",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5398319__1953_63a73b485de00f9d8708d80994812185?utm_source=1953&utm_medium=feed&keyword=FBS-Assoc-Business&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5398319__1953_3e21638e700d2a906cdce2dda3f5a498?utm_source=1953&utm_medium=feed&keyword=FBS-Assoc-Business&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2651,7 +2714,7 @@
     "company": "WRS Health",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5398905__1953_9814f339198fc89db0d8789b329ea723?utm_source=1953&utm_medium=feed&keyword=SEO-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5398905__1953_0d958768b3b1b84fabfe4f15a238eb29?utm_source=1953&utm_medium=feed&keyword=SEO-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2660,7 +2723,7 @@
     "company": "Syhus Contabilidade",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5398968__1953_9c093e943fa1640b759e1b525e4c8912?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5398968__1953_6af10382e299cac49816554f4e0c0d97?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2732,7 +2795,7 @@
     "company": "Grupo Oncoclínicas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5399558__1953_897ab9a516ba3887323ebf932fb5747c?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Projetos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5399558__1953_9e31f7f18fefdee489a867031a94eb90?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Projetos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2741,7 +2804,7 @@
     "company": "Remote Jobs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5399599__1953_762959d5a56a0622a9f43efec79af535?utm_source=1953&utm_medium=feed&keyword=Remote-Senior-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5399599__1953_d042250dd7aa52e78490c34d9256d264?utm_source=1953&utm_medium=feed&keyword=Remote-Senior-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2831,7 +2894,7 @@
     "company": "Kamino",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5400263__1953_b6a372d27f53a1d7c0715710d35ce5c7?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5400263__1953_48b1af61834e4cac67f788ef88a81127?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3038,7 +3101,7 @@
     "company": "Dow Jones",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5401608__1953_cd4f82ed51214269487ce542d3d4e94d?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Remote&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5401608__1953_f434fd3023a0ab5f88239468c703cba1?utm_source=1953&utm_medium=feed&keyword=Account-Manager-Remote&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3047,7 +3110,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5401625__1953_2b2299c71155f3167d1e3cd57c5aee43?utm_source=1953&utm_medium=feed&keyword=Shopify-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5401625__1953_7ba3177da8c4c88162365d127ca109f1?utm_source=1953&utm_medium=feed&keyword=Shopify-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3056,7 +3119,7 @@
     "company": "Aoop an NTT DATA Company",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5401651__1953_15723bd5eb178a4de790b323e957f205?utm_source=1953&utm_medium=feed&keyword=Technical-Consultants-PL&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5401651__1953_af05193da046d8df8b2cf020db821086?utm_source=1953&utm_medium=feed&keyword=Technical-Consultants-PL&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3065,7 +3128,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5401697__1953_3f6bc66b64188d69dc09768fee890e2b?utm_source=1953&utm_medium=feed&keyword=Executive-Recruiter&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5401697__1953_dadef6468994edce15ef2ff5af878bcd?utm_source=1953&utm_medium=feed&keyword=Executive-Recruiter&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3263,7 +3326,7 @@
     "company": "Netvagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5403153__1953_0cf71edd5d24f0ed5fe70d23ceacd013?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5403153__1953_f7279a43634ec4ae88d0de7c96b8e029?utm_source=1953&utm_medium=feed&keyword=Executivo-de-vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3299,7 +3362,7 @@
     "company": "Capgemini",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5403964__1953_900c5c0dff81bc2c52b235c4da3f7776?utm_source=1953&utm_medium=feed&keyword=FBS-ABAP&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5403964__1953_1b7767f74a2ee34e68dea789eecb3e5d?utm_source=1953&utm_medium=feed&keyword=FBS-ABAP&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3416,7 +3479,7 @@
     "company": "INDI Staffing Services",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5404611__1953_468ef5833c4d5f1ced70758177d2de28?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5404611__1953_c6a2d120bd3b89163e63c3c5852494e5?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3425,7 +3488,7 @@
     "company": "DocuSign, Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5404647__1953_85565bee023d43a5dd70633991581bee?utm_source=1953&utm_medium=feed&keyword=Core%2B-Support-Expert&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5404647__1953_9dcc7f737294a5f9a7f7a2b683d7755f?utm_source=1953&utm_medium=feed&keyword=Core%2B-Support-Expert&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3569,7 +3632,7 @@
     "company": "Turing",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5406211__1953_6b823596ae83b08a60c6b14cd431eff8?utm_source=1953&utm_medium=feed&keyword=Remote-Business-Analyst-Portuguese&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5406211__1953_76f5b21565a44fb1223f8141958b63f1?utm_source=1953&utm_medium=feed&keyword=Remote-Business-Analyst-Portuguese&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3578,7 +3641,7 @@
     "company": "Curta Hub",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5406216__1953_0fc2c149cf86ee6faeaa464dbe4b8840?utm_source=1953&utm_medium=feed&keyword=Designer-J%C3%BAnior&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5406216__1953_1508fa7535410ca9cac66912767a9fac?utm_source=1953&utm_medium=feed&keyword=Designer-J%C3%BAnior&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3650,7 +3713,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5407143__1953_a4b0c16b5ee71229ba5101f2660289db?utm_source=1953&utm_medium=feed&keyword=Acquisition-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5407143__1953_242a3c4e8dbb99edcbf34a40f3f1decd?utm_source=1953&utm_medium=feed&keyword=Acquisition-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3659,7 +3722,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5407152__1953_cccfe35b46e3a8239038ca5ffb891a09?utm_source=1953&utm_medium=feed&keyword=NET-Tech-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5407152__1953_99c499211cfb776653bc7160725f7e70?utm_source=1953&utm_medium=feed&keyword=NET-Tech-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3758,7 +3821,7 @@
     "company": "Modelo de trabalho:",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408052__1953_f350463189ccb3f250ea2bcfde84fac1?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408052__1953_1e333a364ce5d35a16909a89a5da71ae?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3767,7 +3830,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408118__1953_d4f27d77cfa765c99c919ba338aefcbd?utm_source=1953&utm_medium=feed&keyword=Analista-De-Intelig%C3%AAncia&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408118__1953_c4bff4cb46ed750b070fad892d62830d?utm_source=1953&utm_medium=feed&keyword=Analista-De-Intelig%C3%AAncia&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3776,7 +3839,7 @@
     "company": "Innodata Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408250__1953_17ee96c7926118905818173bf860d660?utm_source=1953&utm_medium=feed&keyword=Medical-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408250__1953_95802db5f6f44b43bc576ee66141cbcf?utm_source=1953&utm_medium=feed&keyword=Medical-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3785,7 +3848,7 @@
     "company": "Rodrigues Colchões",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408252__1953_dda8d9f6db390fd709acd518475c0f47?utm_source=1953&utm_medium=feed&keyword=VENDEDOR-LAURO&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408252__1953_dd7110f9de3fe5cddde58b305a767351?utm_source=1953&utm_medium=feed&keyword=VENDEDOR-LAURO&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3848,7 +3911,7 @@
     "company": "AgileEngine",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408945__1953_32f6816a8689d7aba25c29644241f8a0?utm_source=1953&utm_medium=feed&keyword=Especialista-en-Marketing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408945__1953_a28031ed38f713142c7408a8ef67e5ee?utm_source=1953&utm_medium=feed&keyword=Especialista-en-Marketing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3857,7 +3920,7 @@
     "company": "Devoted Studios",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5408988__1953_f0a87cea5af8bd079f4f46ba0e7ae148?utm_source=1953&utm_medium=feed&keyword=Social-Media-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5408988__1953_a03409b468225fa79d6896d3717cea74?utm_source=1953&utm_medium=feed&keyword=Social-Media-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3911,7 +3974,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5409693__1953_d720acadf348b774683c740da96c2135?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5409693__1953_2846b69b5add41f0e4aac8b5703fe86b?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3920,7 +3983,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5409734__1953_ff9239750206fc530aa1052141473e28?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5409734__1953_973d0030cb9fd790968dc817573d1855?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3929,7 +3992,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5409763__1953_713e499a845d7632d6baf5d819adb484?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5409763__1953_fe7abb1525cdba3b7d53231241feac4b?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4010,7 +4073,7 @@
     "company": "Dialpad",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5410528__1953_0d9ddb3f7b1540517b80b61b0fc97652?utm_source=1953&utm_medium=feed&keyword=Regional-Partner-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5410528__1953_9a155cd3f3908be756f858052ffa9832?utm_source=1953&utm_medium=feed&keyword=Regional-Partner-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4091,7 +4154,7 @@
     "company": "Spread Tecnologia",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5411205__1953_47aaa6df3e4bb278ce62cda4e4b0bff5?utm_source=1953&utm_medium=feed&keyword=ARQUITETO-INTEGRACAO-SR&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5411205__1953_9a2dab54bf0b52f3795d3cc970059294?utm_source=1953&utm_medium=feed&keyword=ARQUITETO-INTEGRACAO-SR&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4100,7 +4163,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5411249__1953_9d0aa17671dfabdcaae780dbfd57f44f?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5411249__1953_dc4b64906aef0e14f4d10f8265eff239?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4244,7 +4307,7 @@
     "company": "Caliver Beach Mortgage",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413215__1953_e119ec369f02aa0467b2d8d24eefcd0b?utm_source=1953&utm_medium=feed&keyword=Loan-Officer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413215__1953_0d8b6d0f989c1bd48e3bcaf6289f97ac?utm_source=1953&utm_medium=feed&keyword=Loan-Officer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4253,7 +4316,7 @@
     "company": "Stefanini Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413306__1953_c2aa3f62150c397b11ea20e3b8a26dac?utm_source=1953&utm_medium=feed&keyword=Analista-Requisitos-Pl&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413306__1953_9287a8bd6f19d6a0811c7583299690ef?utm_source=1953&utm_medium=feed&keyword=Analista-Requisitos-Pl&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4316,7 +4379,7 @@
     "company": "e2f Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413846__1953_bb9c839c4626224f9f1289e6c771bdea?utm_source=1953&utm_medium=feed&keyword=Talent-Acquisition-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413846__1953_d523f017406d655799184790be4af8ea?utm_source=1953&utm_medium=feed&keyword=Talent-Acquisition-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4325,7 +4388,7 @@
     "company": "Compass.uol",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413949__1953_dbbc08ee1f895a7fe49c0979da2c7523?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413949__1953_dbbf51bcb83a73892dbc3f170f28c974?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4334,7 +4397,7 @@
     "company": "Capgemini",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413962__1953_60a8412c1bfc5c4a3d39888307ec41c3?utm_source=1953&utm_medium=feed&keyword=FBS-Help&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413962__1953_7110dc2a45144b417018e3b8457a8cda?utm_source=1953&utm_medium=feed&keyword=FBS-Help&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4415,7 +4478,7 @@
     "company": "Hikvision",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5414470__1953_b86c87a7564df947ee01acfd6b7dbd52?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5414470__1953_accf55f174bc3608979743b3d34ffe68?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4424,7 +4487,7 @@
     "company": "Autodesk",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5414472__1953_4fd22f5f61ce2deaf6d66d41b2feddb6?utm_source=1953&utm_medium=feed&keyword=Manager-Account-Executive&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5414472__1953_4287ccbdaf0e675af302b74685b258b5?utm_source=1953&utm_medium=feed&keyword=Manager-Account-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4523,7 +4586,7 @@
     "company": "TrendMicro",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415194__1953_15dc62ce9ec8d1c47e3448df4b728a38?utm_source=1953&utm_medium=feed&keyword=Sales-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5415194__1953_18cb3adf1fad63fac9ef67d2172bf035?utm_source=1953&utm_medium=feed&keyword=Sales-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4532,7 +4595,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415204__1953_fa36ad6c925fb9e7a180e9ed3444d53b?utm_source=1953&utm_medium=feed&keyword=Campaign-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5415204__1953_55bee35f48643ecad813b06a06fae931?utm_source=1953&utm_medium=feed&keyword=Campaign-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4541,7 +4604,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415229__1953_19c43095a45f613bfbf6bf1109994b36?utm_source=1953&utm_medium=feed&keyword=Finance-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5415229__1953_48db2160145e8e5011b03f2ba9cb2c17?utm_source=1953&utm_medium=feed&keyword=Finance-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4622,7 +4685,7 @@
     "company": "APM Terminals",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415757__1953_171b9eb67f195c049ca20a8f3607753e?utm_source=1953&utm_medium=feed&keyword=Database-Administration-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5415757__1953_46e4d01d9223e29b1dd1fa9f9ae6f1f0?utm_source=1953&utm_medium=feed&keyword=Database-Administration-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4631,7 +4694,7 @@
     "company": "Percona",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415834__1953_6d43c757b55658b812649637c36b9c44?utm_source=1953&utm_medium=feed&keyword=Salesforce-CPQ-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5415834__1953_58cefa113e266ee230e48aa02aca6e3b?utm_source=1953&utm_medium=feed&keyword=Salesforce-CPQ-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4712,7 +4775,7 @@
     "company": "Capco",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5416541__1953_2554ea0774f10474857665915e39334d?utm_source=1953&utm_medium=feed&keyword=Analista-de-SMS&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5416541__1953_300fd3a5a466bdb41518cca86cba1256?utm_source=1953&utm_medium=feed&keyword=Analista-de-SMS&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4775,7 +4838,7 @@
     "company": "VIAFLOW®",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5417131__1953_16f693c515197b75f4cf6e0f5ac62c88?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Full&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5417131__1953_c5d14b15e0823b227bec1b1a15bea931?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Full&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4820,7 +4883,7 @@
     "company": "Remote Jobs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5417911__1953_f165a2f40e602812560eb3f0351af9e1?utm_source=1953&utm_medium=feed&keyword=Product-Sales-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5417911__1953_10761908c1c88aa5cdc03e83c82a2ebf?utm_source=1953&utm_medium=feed&keyword=Product-Sales-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4829,7 +4892,7 @@
     "company": "Artefact",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5417931__1953_fc9824ae3e1ca2774ba3c2b9f928ae40?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5417931__1953_b2a95bd4dab1654d40d8dc3e4a78b6b1?utm_source=1953&utm_medium=feed&keyword=Pessoa-Cientista-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5009,7 +5072,7 @@
     "company": "EPAM Systems",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5419259__1953_3cbdff2f9d9760ea9b2efda7eab9950c?utm_source=1953&utm_medium=feed&keyword=SRE-Architect&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5419259__1953_b4d2a46663f0185ed299c73ae896d594?utm_source=1953&utm_medium=feed&keyword=SRE-Architect&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5018,7 +5081,7 @@
     "company": "Chenut",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5419346__1953_1d8fae04dd9266e54217551abaebce3e?utm_source=1953&utm_medium=feed&keyword=Advogado-Pleno&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5419346__1953_c6ecdfe6c06bb8c9230234b96fdb18c1?utm_source=1953&utm_medium=feed&keyword=Advogado-Pleno&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5027,7 +5090,7 @@
     "company": "High Tide Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5419377__1953_185f774a152d1044066bdf664fb94986?utm_source=1953&utm_medium=feed&keyword=UX-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5419377__1953_f3c5cd28aa3c0b085ed86e57611faa06?utm_source=1953&utm_medium=feed&keyword=UX-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5117,7 +5180,7 @@
     "company": "Vetta Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5419973__1953_87648c94c790cf0a6d7bcc4cf54f8925?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5419973__1953_588b690d88f19fa68f1c142abc664bef?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5126,7 +5189,7 @@
     "company": "Atento",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5420026__1953_febf90d6f2663a2d3536ea2d4f5b3641?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5420026__1953_e33be11c9753e1f76aaed3a2a9244485?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5180,7 +5243,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5420846__1953_efbd0cfe4febfd3a663341ff61fb9c1e?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5420846__1953_4c6ce29da8f5abf5ff691a7825272aac?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5189,7 +5252,7 @@
     "company": "RBW Consulting",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5420853__1953_592fb0f29d587d829c5c56ba980c062d?utm_source=1953&utm_medium=feed&keyword=Senior-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5420853__1953_93d1d131eda94dfb4ea03212045d6143?utm_source=1953&utm_medium=feed&keyword=Senior-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5279,7 +5342,7 @@
     "company": "South",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5421600__1953_34cfe671759895f27eb0fdfaeeb290cd?utm_source=1953&utm_medium=feed&keyword=Account-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5421600__1953_6192cf1003de15205a6abcad1ae111e9?utm_source=1953&utm_medium=feed&keyword=Account-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5288,7 +5351,7 @@
     "company": "Launch Potato",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5421615__1953_43e9ec1cc1a53bad50c4ac46dc867e9d?utm_source=1953&utm_medium=feed&keyword=Media-Buyer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5421615__1953_37820381823f24751b789a5822b4053d?utm_source=1953&utm_medium=feed&keyword=Media-Buyer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5315,7 +5378,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5422467__1953_b7171aa54f0df6e87c7375398f6dc805?utm_source=1953&utm_medium=feed&keyword=Junior-Software-Development&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5422467__1953_a2da09229faa5f827a2d633d4164b779?utm_source=1953&utm_medium=feed&keyword=Junior-Software-Development&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5324,7 +5387,7 @@
     "company": "WIREIT",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5422471__1953_5bda0a0ee09a8fd6c8ae93c99ca03860?utm_source=1953&utm_medium=feed&keyword=Integration-Developer-Remote&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5422471__1953_0335e92ae7d53cc2dc793639d25471ad?utm_source=1953&utm_medium=feed&keyword=Integration-Developer-Remote&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5414,7 +5477,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5423076__1953_56a4f353b1a09ab2a86b3216bbf3ed30?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5423076__1953_708f2ec6672e4f243f7dd67c2de790ed?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5423,7 +5486,7 @@
     "company": "Wellhub Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5423128__1953_cd62d7337923a1c4fe2265f79462fe4f?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5423128__1953_2ac428175b1e76ca3612043116884ae0?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5432,7 +5495,7 @@
     "company": "ALMEIDA MACHADO SERVICOS EM GESTAO DE NEGOCIOS LTDA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5423155__1953_4a885109c2623dcc73419c9a167e3f85?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5423155__1953_46efd332beaf28c97b5fb9bed2016f85?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5441,7 +5504,7 @@
     "company": "Docplanner",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5423165__1953_379893a364b0e29fac716ed8e9510d40?utm_source=1953&utm_medium=feed&keyword=Business-Intelligence-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5423165__1953_de1565cdfdd6ef2138814af923335a99?utm_source=1953&utm_medium=feed&keyword=Business-Intelligence-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5450,7 +5513,7 @@
     "company": "Dell Technologies",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5423240__1953_5604f4607c75e503474f10c2b47987a2?utm_source=1953&utm_medium=feed&keyword=Consultor-S%C3%AAnior-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5423240__1953_135fe49d5b5b628167c96978c097a4aa?utm_source=1953&utm_medium=feed&keyword=Consultor-S%C3%AAnior-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5594,7 +5657,7 @@
     "company": "Job Duck",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5424608__1953_34e02b0964ec0eaffe3cb05c1dccabcc?utm_source=1953&utm_medium=feed&keyword=Marketing-Assistant&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5424608__1953_d6b6214acb6a2b4353d1acc0e4c439d1?utm_source=1953&utm_medium=feed&keyword=Marketing-Assistant&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5603,7 +5666,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5424690__1953_51fdf01baaf915579bb7939d25302fd4?utm_source=1953&utm_medium=feed&keyword=R-D-Fullstack-Angular&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5424690__1953_50c0b3e53df5843e9d96a76266489dbe?utm_source=1953&utm_medium=feed&keyword=R-D-Fullstack-Angular&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5612,7 +5675,7 @@
     "company": "JLL",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5424703__1953_0e0f7f628ef7e8b066ae84af10967c2f?utm_source=1953&utm_medium=feed&keyword=PMO-Best&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5424703__1953_d224e8bb89695bba98373c216f9d2ef5?utm_source=1953&utm_medium=feed&keyword=PMO-Best&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5756,7 +5819,7 @@
     "company": "Remote Jobs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5426154__1953_e463373a85491a10bfee2b390a936f66?utm_source=1953&utm_medium=feed&keyword=Revenue-Enablement-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5426154__1953_8657819aa74187a77c91e75f5a829b9a?utm_source=1953&utm_medium=feed&keyword=Revenue-Enablement-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5765,7 +5828,7 @@
     "company": "Trust In SODA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5426183__1953_d766a13414aa6fd960bb173e16198cde?utm_source=1953&utm_medium=feed&keyword=Delivery-Consultant&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5426183__1953_e049962fd0d0d5468bf52e4ecffab769?utm_source=1953&utm_medium=feed&keyword=Delivery-Consultant&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5828,7 +5891,7 @@
     "company": "Bionic Talent",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5426907__1953_a579d5a19e8d9721317be8ad4e4ce875?utm_source=1953&utm_medium=feed&keyword=Marketing-Assistant&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5426907__1953_a56aafb4c09379d14adda04de024477b?utm_source=1953&utm_medium=feed&keyword=Marketing-Assistant&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5837,7 +5900,7 @@
     "company": "Farmacialantana",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5426908__1953_98e70aa2769191a267478c04d8928b80?utm_source=1953&utm_medium=feed&keyword=Vendedor-Home-Office&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5426908__1953_47b8164fe891a8a8da12a78454caa46d?utm_source=1953&utm_medium=feed&keyword=Vendedor-Home-Office&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5918,7 +5981,7 @@
     "company": "Dlocal Corp",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5427671__1953_e61f2335f909ca8db50b9de2efdf67b6?utm_source=1953&utm_medium=feed&keyword=Revenue-Operations-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5427671__1953_07eebe3d5e1aec063d374aeb1bd6b625?utm_source=1953&utm_medium=feed&keyword=Revenue-Operations-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5927,7 +5990,7 @@
     "company": "ITTConnect",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5427689__1953_e21bbf709f1d454be37d811f273a003b?utm_source=1953&utm_medium=feed&keyword=COBOL-AS-400-Support&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5427689__1953_9cbbfd948d38a9b00a7dfca6baca3db2?utm_source=1953&utm_medium=feed&keyword=COBOL-AS-400-Support&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5936,7 +5999,7 @@
     "company": "ServiceNow",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5427764__1953_b59791d8379fa36cbdf901124e33daa2?utm_source=1953&utm_medium=feed&keyword=Advisory-Solution-Consultant&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5427764__1953_e2974037aa72ed63639e976e4b0c8d90?utm_source=1953&utm_medium=feed&keyword=Advisory-Solution-Consultant&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6035,7 +6098,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5428441__1953_f3ccbc55d01e6f1c8c02c7491b7620c4?utm_source=1953&utm_medium=feed&keyword=Vendedor-Home-Office&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5428441__1953_78b1156a76e5c1e987d65ab73ab30bf3?utm_source=1953&utm_medium=feed&keyword=Vendedor-Home-Office&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6044,7 +6107,7 @@
     "company": "Atos",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5428459__1953_80acf59ff1d56f161b3afbadd0ceae3b?utm_source=1953&utm_medium=feed&keyword=Cientista-de-Dados&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5428459__1953_d04d50fc599a342269a4a9b9061ae360?utm_source=1953&utm_medium=feed&keyword=Cientista-de-Dados&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6053,7 +6116,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5428462__1953_35e6308e3b832e8d3c79eb105071f7c0?utm_source=1953&utm_medium=feed&keyword=React-Native-Tech&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5428462__1953_5191f7c7ed190871b4bfcc4485f8f0be?utm_source=1953&utm_medium=feed&keyword=React-Native-Tech&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6062,7 +6125,7 @@
     "company": "DocuSign, Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5428508__1953_19a8869bcaf3da51f9f7435654346c64?utm_source=1953&utm_medium=feed&keyword=Manager-Support-Expert&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5428508__1953_7bf7de7f111458189337d1793c7df691?utm_source=1953&utm_medium=feed&keyword=Manager-Support-Expert&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6188,7 +6251,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429294__1953_7b0ea7c1a6aa01bb39fec4583db65273?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429294__1953_4f72eeae93356816076785cb379283d8?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6197,7 +6260,7 @@
     "company": "On.Live Agency",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429309__1953_dd5588df7c07f1687e48d2af2429e984?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429309__1953_7941d515021b5e148c0a0e6bd0f459a8?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6206,7 +6269,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429322__1953_f95835610a6c09b3e8acff3c0f06e66b?utm_source=1953&utm_medium=feed&keyword=Linux-Kernel-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429322__1953_4085d66008c6fd35d26ef0ec390570f2?utm_source=1953&utm_medium=feed&keyword=Linux-Kernel-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6296,7 +6359,7 @@
     "company": "ElevenLabs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429820__1953_ec97c13c94124fa5761ab039604f70df?utm_source=1953&utm_medium=feed&keyword=Customer-Success&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429820__1953_9f807d2dc9d564941b2c6bc0b4a308bd?utm_source=1953&utm_medium=feed&keyword=Customer-Success&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6305,7 +6368,7 @@
     "company": "GlobalLogic Latinoamérica",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429825__1953_000d5dbe4a9caff714170520eabffb37?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429825__1953_7253e743f4acc7406fe40d05c7833e7d?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6314,7 +6377,7 @@
     "company": "Sales Impact",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5429874__1953_e0438182c47bf2951a960f5b28693f35?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5429874__1953_b7f1057bfc6e42876bd94484482394cd?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6440,7 +6503,7 @@
     "company": "BigDataCorp",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5430515__1953_8542925821396dcb3c3cc00fe20ef675?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5430515__1953_483993936ade55f110484d5367d59512?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6521,7 +6584,7 @@
     "company": "Smartcat",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5431027__1953_b0647ab184afaece1153abc14cf57ddb?utm_source=1953&utm_medium=feed&keyword=Senior-Customer-Experience&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5431027__1953_211448bcfc1017545dbe6c35f3e4010d?utm_source=1953&utm_medium=feed&keyword=Senior-Customer-Experience&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6530,7 +6593,7 @@
     "company": "Percona",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5431030__1953_905a81b49fc2d17049f06257cc710626?utm_source=1953&utm_medium=feed&keyword=MySQL-Database-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5431030__1953_6def070239d2aa3a4543f9fc806f2aed?utm_source=1953&utm_medium=feed&keyword=MySQL-Database-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6620,7 +6683,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5431665__1953_43acb6e17f9cad128db8d1db54c7adf2?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5431665__1953_21c695071821eb09230fcde50f956115?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6629,7 +6692,7 @@
     "company": "RecargaPay",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5431759__1953_c9ad9ce14334af608938f0c0a52bac0d?utm_source=1953&utm_medium=feed&keyword=Pool-de-Talentos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5431759__1953_cc19804d5775253e68ffba774129406f?utm_source=1953&utm_medium=feed&keyword=Pool-de-Talentos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6773,7 +6836,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5432376__1953_b25ba2ba721396361912a756643f0d44?utm_source=1953&utm_medium=feed&keyword=Ruby-Senior-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5432376__1953_c51c010316e74b58a3b5c8dbc3973148?utm_source=1953&utm_medium=feed&keyword=Ruby-Senior-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6782,7 +6845,7 @@
     "company": "High Tide Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5432479__1953_aa2ef8f282848e586cfc97a161c95b5a?utm_source=1953&utm_medium=feed&keyword=Social-Media-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5432479__1953_8b2854d334d53207bd34f623db258a35?utm_source=1953&utm_medium=feed&keyword=Social-Media-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6845,7 +6908,7 @@
     "company": "DocuSign, Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5433204__1953_90f75872045b9ee3930c39dc170172f1?utm_source=1953&utm_medium=feed&keyword=Core%2B-Support-Expert&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5433204__1953_70eadd95910d4d772ae1806c54ca33cc?utm_source=1953&utm_medium=feed&keyword=Core%2B-Support-Expert&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6908,7 +6971,7 @@
     "company": "Upwind Security, Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5434118__1953_59b6cf8b0acee60545929e50f26b8fcc?utm_source=1953&utm_medium=feed&keyword=Sales-Engineer-Brazil&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5434118__1953_4af9a18f9f2c9adf5ab7d62e3748e9ec?utm_source=1953&utm_medium=feed&keyword=Sales-Engineer-Brazil&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7007,7 +7070,7 @@
     "company": "Gedanken - GCertifica",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5434944__1953_db0b91fbfe452a8eb39fcc36178736bd?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5434944__1953_1cf37f7061e7d2f634ad80b83dcd6215?utm_source=1953&utm_medium=feed&keyword=Analista-de-Dados&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7016,7 +7079,7 @@
     "company": "Growth Troops",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5434950__1953_09eb8eab78cc5309fc98fce24348cc4e?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5434950__1953_d2dbd1306820c16e4205c1c022e0aef1?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7025,7 +7088,7 @@
     "company": "South",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5435025__1953_5676b06601d754b3f75e313e3d924ad1?utm_source=1953&utm_medium=feed&keyword=YouTube-Strategist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5435025__1953_65bb22ff40b7aea1700afefe2ac1950a?utm_source=1953&utm_medium=feed&keyword=YouTube-Strategist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7034,7 +7097,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5435107__1953_3c46917606a81b163cf775b3d6471013?utm_source=1953&utm_medium=feed&keyword=Semi-Senior-React&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5435107__1953_4eec25bb44b5df38e993a973b01af858?utm_source=1953&utm_medium=feed&keyword=Semi-Senior-React&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7106,7 +7169,7 @@
     "company": "Artefact",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5435862__1953_816c90b7214915439897c0304a7dae76?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5435862__1953_f28ff38e28ccc8c901585f7ad34f4ba3?utm_source=1953&utm_medium=feed&keyword=Pessoa-Engenheira-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7115,7 +7178,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5435882__1953_c7589f57cb48615353d4c7d6f6233147?utm_source=1953&utm_medium=feed&keyword=Tech-Recruiter&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5435882__1953_d0c3968e7b5c4f4f1da85a7baec1e5bc?utm_source=1953&utm_medium=feed&keyword=Tech-Recruiter&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7124,7 +7187,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5435900__1953_f2715e2a06069352a40b7b512168ac88?utm_source=1953&utm_medium=feed&keyword=Arquiteto-De-Solu%C3%A7%C3%B5es&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5435900__1953_352f72e500ba51b5bd016ee364b14973?utm_source=1953&utm_medium=feed&keyword=Arquiteto-De-Solu%C3%A7%C3%B5es&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7133,7 +7196,7 @@
     "company": "Ottomatik.io",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5436029__1953_495841d4f17502868d8f57e4e7749d3d?utm_source=1953&utm_medium=feed&keyword=SEM-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5436029__1953_c8b20922b73e083d980058f11e153563?utm_source=1953&utm_medium=feed&keyword=SEM-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7214,7 +7277,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5436819__1953_d03a73e722e530fd7807b31a81090202?utm_source=1953&utm_medium=feed&keyword=Python-Power-Automate-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5436819__1953_e50ae75e54c5eeec966fc1200afb5159?utm_source=1953&utm_medium=feed&keyword=Python-Power-Automate-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7223,7 +7286,7 @@
     "company": "Felicidade Empreendedora Business Intelligence LTDA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5436875__1953_b0d3bfad7efd4c415886bf99e7678227?utm_source=1953&utm_medium=feed&keyword=VAGA-PARA-REPRESENTANTES&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5436875__1953_28848aabb32b99ab2b0a6784d553dbb1?utm_source=1953&utm_medium=feed&keyword=VAGA-PARA-REPRESENTANTES&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7295,7 +7358,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5437585__1953_c77af5bc2b5019054039aa882aad107a?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5437585__1953_3627b73f4e64d897a795403d3043adcb?utm_source=1953&utm_medium=feed&keyword=Scrum-Master&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7367,7 +7430,7 @@
     "company": "buscojobs Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5438590__1953_d291190c4d5dfcb72bba61bd25051d2c?utm_source=1953&utm_medium=feed&keyword=Analista-De-Suporte&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5438590__1953_dcfefd751a625b416ccdf4ab0d5f642f?utm_source=1953&utm_medium=feed&keyword=Analista-De-Suporte&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7421,7 +7484,7 @@
     "company": "Clara",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5439434__1953_182c7486bfdfa28ae42e3e51e6a8101f?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5439434__1953_cc3aa4673a16330e929b3df74ebd70f2?utm_source=1953&utm_medium=feed&keyword=Account-Executive-Executivo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7430,7 +7493,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5439597__1953_c6cceb3cce188805aa6f3ae9d3fb0832?utm_source=1953&utm_medium=feed&keyword=Associate-Linux-Support&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5439597__1953_f008bb0d77d746f4c166390cc5597d20?utm_source=1953&utm_medium=feed&keyword=Associate-Linux-Support&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7511,7 +7574,7 @@
     "company": "Incognito Software Systems Inc",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5440158__1953_c2b0778f2b66964f8b9f640b1fafbab9?utm_source=1953&utm_medium=feed&keyword=M-A-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5440158__1953_382aa69b55ea7f9aa9397a13eabb5479?utm_source=1953&utm_medium=feed&keyword=M-A-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7520,7 +7583,7 @@
     "company": "Distribusion Technologies GmbH",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5440221__1953_a11fd725c616aa1f791bc19acf17ffb7?utm_source=1953&utm_medium=feed&keyword=Partner-Support-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5440221__1953_d35427e5e636bb9eb2bc5ae439981abe?utm_source=1953&utm_medium=feed&keyword=Partner-Support-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7529,7 +7592,7 @@
     "company": "On.Live Agency",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5440377__1953_53603e1a97554e6f848721861b25e8b5?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5440377__1953_b12cef94a238fd8f477dc9cf206fea04?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7637,7 +7700,7 @@
     "company": "Netvagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441603__1953_dea76d5f1615597a9ce2c85052a1ce86?utm_source=1953&utm_medium=feed&keyword=Consultor-a-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441603__1953_6ca97c21084deee120f4f073f13fdaf7?utm_source=1953&utm_medium=feed&keyword=Consultor-a-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7646,7 +7709,7 @@
     "company": "Cloudlinux",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441641__1953_f8f8261536efe6f3e8e5a8acc8becd07?utm_source=1953&utm_medium=feed&keyword=Malware-Intelligence-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441641__1953_80947beff0b9c00f3cb595c3bcdf61e1?utm_source=1953&utm_medium=feed&keyword=Malware-Intelligence-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7655,7 +7718,7 @@
     "company": "FreeWill Co.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441648__1953_37b9c841c6b8bb32826c9cbd8885563e?utm_source=1953&utm_medium=feed&keyword=Demand-Generation-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441648__1953_47b08fdba344eec6f0bf1b50b84a7045?utm_source=1953&utm_medium=feed&keyword=Demand-Generation-Specialist&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7664,7 +7727,7 @@
     "company": "V4 Company",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441674__1953_7308bb89d3a2290050b26ffc738e318f?utm_source=1953&utm_medium=feed&keyword=Copywriter-Pleno&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441674__1953_887ecbb7d74577a8cbef12991e3ea232?utm_source=1953&utm_medium=feed&keyword=Copywriter-Pleno&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7673,7 +7736,7 @@
     "company": "Johnson & Johnson",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5441699__1953_44e6528d817f467cf84e0cb7bcba4726?utm_source=1953&utm_medium=feed&keyword=Customer-Engagement-Lead&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5441699__1953_8f7e10a79fbb0737298ab82932454b3c?utm_source=1953&utm_medium=feed&keyword=Customer-Engagement-Lead&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7799,7 +7862,7 @@
     "company": "Ana Gaming",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5443163__1953_8cd1ff47b9668275e21ba7502d22a6c2?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-PESQUISA&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5443163__1953_9db00617bca8efd23ebe73da95988ae6?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-PESQUISA&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7808,7 +7871,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5443189__1953_7e5b66a524286c1872072091c78126af?utm_source=1953&utm_medium=feed&keyword=Golang-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5443189__1953_d30158c41469d366d87058f028de8bd0?utm_source=1953&utm_medium=feed&keyword=Golang-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7862,7 +7925,7 @@
     "company": "Exadel Inc",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5443760__1953_084eeeff236ff47df27afd6a60c47cc4?utm_source=1953&utm_medium=feed&keyword=Calypso-Front-Office&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5443760__1953_9c33ce104a23224017a4b9e0737d33f3?utm_source=1953&utm_medium=feed&keyword=Calypso-Front-Office&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7871,7 +7934,7 @@
     "company": "Innuvem Consultoria",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5443789__1953_a112b90e86d55a5d27853585e731a87f?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5443789__1953_a668424f258e5fab8f1dfb3400a1e784?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7943,7 +8006,7 @@
     "company": "dLocal",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5444584__1953_1a4da6b7c863117fc8cbb589011cc698?utm_source=1953&utm_medium=feed&keyword=Artificial-Intelligence-Technical&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5444584__1953_cf02557a458ed498e517a36d05f471bc?utm_source=1953&utm_medium=feed&keyword=Artificial-Intelligence-Technical&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8051,7 +8114,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5445245__1953_e97908c515e59c6049416e815c986be7?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5445245__1953_2b0c382dfaeeedaa8d7234d53d18bc0e?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8060,7 +8123,7 @@
     "company": "Ottomatik.io",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5445261__1953_39f152262db7fe38300e7a634b911923?utm_source=1953&utm_medium=feed&keyword=Social-Media-Coordinator&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5445261__1953_9494c5d6586195e10bbeea8429224665?utm_source=1953&utm_medium=feed&keyword=Social-Media-Coordinator&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8087,7 +8150,7 @@
     "company": "On.Live Agency",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5446005__1953_fc3a2c179e24ea1d8f70e2395ae75c9f?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5446005__1953_ce7a03b4845c1d1370d20b9e9cbbdd4b?utm_source=1953&utm_medium=feed&keyword=Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8150,7 +8213,7 @@
     "company": "ENG",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5446631__1953_10b8fc0426840953b90617c06bba321b?utm_source=1953&utm_medium=feed&keyword=Mechanical-Plumbing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5446631__1953_db568d1c8b754a5fe27b8ec51cd08f34?utm_source=1953&utm_medium=feed&keyword=Mechanical-Plumbing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8159,7 +8222,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5446640__1953_8f073175cbfbbbe2578d6def67ff5b5f?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5446640__1953_38ebdcb001a70314c9fc25f7b09f4b88?utm_source=1953&utm_medium=feed&keyword=Data-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8267,7 +8330,7 @@
     "company": "Growth Troops",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5447177__1953_e54b1c3dd3fc1256f4b8ee1d41654369?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5447177__1953_265e1c47c6cd2ce2d1dce984df18a0be?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8276,7 +8339,7 @@
     "company": "Kallas Vendas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5447179__1953_d07bbe783cb8d2e6eceeb5a17a42cc4c?utm_source=1953&utm_medium=feed&keyword=Teleoperador-Imoveis&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5447179__1953_c9ee918e0b25eb1cfa63733b91d3cada?utm_source=1953&utm_medium=feed&keyword=Teleoperador-Imoveis&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8285,7 +8348,7 @@
     "company": "Wellhub Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5447221__1953_f879439483e61edb97d02ae0220a0f94?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5447221__1953_480692384b6d0e3a9790b0490a75814f?utm_source=1953&utm_medium=feed&keyword=Technology-and-Product&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8294,7 +8357,7 @@
     "company": "ESSS",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5447293__1953_a36b2b0f1ff2d3fab456185323c5d141?utm_source=1953&utm_medium=feed&keyword=Professor-especialista-em&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5447293__1953_9be9cbd0d8720288b6fcff3662d0b2ac?utm_source=1953&utm_medium=feed&keyword=Professor-especialista-em&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8366,7 +8429,7 @@
     "company": "Bluelight",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448013__1953_0e8605dca2e67a1111f2f3fd9964d884?utm_source=1953&utm_medium=feed&keyword=Digital-Media-Buyer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448013__1953_408efd3efd3d57bc026a894941e87caf?utm_source=1953&utm_medium=feed&keyword=Digital-Media-Buyer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8375,7 +8438,7 @@
     "company": "INFUSE",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448073__1953_e9d24a0277a467aa441450370c67ddcd?utm_source=1953&utm_medium=feed&keyword=IT-Client-Support&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448073__1953_7f56d6f38f9214dd62450e6dab2eec08?utm_source=1953&utm_medium=feed&keyword=IT-Client-Support&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8384,7 +8447,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448087__1953_2d1f9da08912cdddb51d5f02bb2e7b9b?utm_source=1953&utm_medium=feed&keyword=Frontend-React-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448087__1953_125c2112604512d9727f31a964a1f6da?utm_source=1953&utm_medium=feed&keyword=Frontend-React-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8393,7 +8456,7 @@
     "company": "BairesDev",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448107__1953_9e3a8a4796813f1b3a8a2708e20c2581?utm_source=1953&utm_medium=feed&keyword=TypeScript-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448107__1953_cf12d305ddfca3b4b71a159451bf293e?utm_source=1953&utm_medium=feed&keyword=TypeScript-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8429,7 +8492,7 @@
     "company": "Autônomo",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5448769__1953_0e2d06ab0ad0116e7fbaa02b6b77b1b2?utm_source=1953&utm_medium=feed&keyword=Consultor-de-investimentos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5448769__1953_de04264fea141a862963b0878c54f1a7?utm_source=1953&utm_medium=feed&keyword=Consultor-de-investimentos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8483,7 +8546,7 @@
     "company": "Salú",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5449597__1953_d6f3606e1fc43acdf9242a5f779c5638?utm_source=1953&utm_medium=feed&keyword=Sales-Development-Representative&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5449597__1953_81655aaa336df9593e2ca6253297d15d?utm_source=1953&utm_medium=feed&keyword=Sales-Development-Representative&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8492,7 +8555,7 @@
     "company": "Winnin",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5449621__1953_b6fcac04b6d45bdaa8607b52a0bed4fd?utm_source=1953&utm_medium=feed&keyword=Arquiteto-funcional-SAP&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5449621__1953_db2fb23d55da8f432e7bc9c6bf3df0db?utm_source=1953&utm_medium=feed&keyword=Arquiteto-funcional-SAP&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8501,7 +8564,7 @@
     "company": "ActionRH Assessoria em Gestao de Pessoas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5449637__1953_1c17bcdb3bb22d53793220ccdae08601?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Franquias&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5449637__1953_ea82f0199d704b50d702ae67e1429487?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Franquias&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8627,7 +8690,7 @@
     "company": "Brandness",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450211__1953_af1b7ad43666e49d7c4bc41f9cd94f98?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450211__1953_0b841f1af71b2cccb9b0329599c51b5a?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8636,7 +8699,7 @@
     "company": "ENG",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450270__1953_81cdfa91d144f932a76ef7f0c2f751a9?utm_source=1953&utm_medium=feed&keyword=Mechanical-Plumbing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450270__1953_54826ae756d154595d94b8b2cf88a958?utm_source=1953&utm_medium=feed&keyword=Mechanical-Plumbing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8645,7 +8708,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450297__1953_4d84acc82cebef0c7b02e2866d4b924c?utm_source=1953&utm_medium=feed&keyword=Software-Maintenance-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450297__1953_c0fec6f8d46c88d9b14c26a18a3e9753?utm_source=1953&utm_medium=feed&keyword=Software-Maintenance-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8726,7 +8789,7 @@
     "company": "Ciandt",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450895__1953_ff7fc05bff922ee6e9186b68281ff390?utm_source=1953&utm_medium=feed&keyword=job-21824-AI-Machine-Learning&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450895__1953_87874d6b0e34b0fa64a66a16c54e1307?utm_source=1953&utm_medium=feed&keyword=job-21824-AI-Machine-Learning&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8735,7 +8798,7 @@
     "company": "Voxy",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450907__1953_71665a5c85305e2d7b98785d402eb9e2?utm_source=1953&utm_medium=feed&keyword=Accounting-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450907__1953_755c10929e0549c8ec32bf2425e0ac6f?utm_source=1953&utm_medium=feed&keyword=Accounting-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8744,7 +8807,7 @@
     "company": "BigDataCorp",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450915__1953_ea65bff4afb7c343ff453cd8aa8248c2?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450915__1953_59e49d73b837a2afe9dca4e05b3df4b5?utm_source=1953&utm_medium=feed&keyword=BANCO-DE-TALENTOS&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8753,7 +8816,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5450992__1953_69b6da777614b97e34ff99626936c4f3?utm_source=1953&utm_medium=feed&keyword=Project-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5450992__1953_af222880f01387dd7f6d30b9f0e0390c?utm_source=1953&utm_medium=feed&keyword=Project-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8861,7 +8924,7 @@
     "company": "Projectivadt",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5451760__1953_574cbf13e94440979b8b45b38eec3514?utm_source=1953&utm_medium=feed&keyword=Arquiteto-Corporativo&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5451760__1953_c8e8519ac51faa8ae8c01346c57cc640?utm_source=1953&utm_medium=feed&keyword=Arquiteto-Corporativo&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8906,7 +8969,7 @@
     "company": "LWSA",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452356__1953_c157a5a969e877cb849e9f9021a6bd52?utm_source=1953&utm_medium=feed&keyword=Tray-Analista-de&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5452356__1953_4f5744241afcec11541ce6860dee715d?utm_source=1953&utm_medium=feed&keyword=Tray-Analista-de&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8915,7 +8978,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452363__1953_1cdb1f1b8a86ddc2c152acf8b80b308b?utm_source=1953&utm_medium=feed&keyword=Shopify-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5452363__1953_cbc4781663ac086c42609b53e898fc3c?utm_source=1953&utm_medium=feed&keyword=Shopify-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8924,7 +8987,7 @@
     "company": "Worldwide Clinical Trials",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452418__1953_e4e6e39ec0dd3f0a75b67b1941b21f81?utm_source=1953&utm_medium=feed&keyword=Senior-Clinical-Research&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5452418__1953_138e137716ec6c2700ddb85246ce78a8?utm_source=1953&utm_medium=feed&keyword=Senior-Clinical-Research&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8933,70 +8996,7 @@
     "company": "South",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452475__1953_e7943239706a20b2e2b2de5506d1fb61?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Administrador de Banco de Dados (DBA) PL",
-    "description": "<p><h3>Overview </h3><p>DESCRIÇÃO DA VAGA<br/>Somos uma HRtech, e nossa missão é tornar relações trabalhistas mais simples, eficientes e justas. Como <b>Administrador de Banco de Dados (DBA) PL </b> sua missão será garantir a confiabilidade, segurança, desempenho e escalabilidade dos bancos de dados em ambiente AWS. </p><h3>Responsibilities </h3><ul><li>Administrar e manter bancos de dados em serviços da AWS (RDS, Aurora, DynamoDB, Redshift etc.). </li><li>Projetar e implementar estratégias de armazenamento considerando performance, segurança e disponibilidade. </li><li>Monitorar continuamente o desempenho dos bancos de dados, otimizando configurações e consultas. </li><li>Implementar práticas de segurança e políticas de conformidade em ambiente AWS. </li><li>Desenvolver e aplicar estratégias robustas de backup e recuperação de dados. </li><li>Colaborar com equipes de desenvolvimento e infraestrutura para dar suporte técnico. </li><li>Criar automações e utilizar ferramentas de monitoramento para garantir eficiência operacional. </li> </ul><h3>Qualifications </h3><ul><li>Experiência comprovada como DBA, preferencialmente em ambientes AWS. </li><li>Conhecimento em bancos de dados relacionais (MySQL, PostgreSQL, SQL Server etc.) e NoSQL (DynamoDB, MongoDB etc.). </li><li>Experiência prática com serviços AWS voltados à gestão de dados. </li><li>Habilidade em otimização de performance, escalabilidade e resolução de problemas. </li><li>Sólido conhecimento em segurança de dados na AWS. </li><li>Capacidade de atuação colaborativa em equipes multidisciplinares. </li><li>Certificações AWS serão consideradas diferenciais. </li> </ul><h3>Benefits </h3><ul><li>VA/VR Nexti Flex – R$ 880,00/mês </li><li>Plano de saúde Unimed </li><li>Plano odontológico Sul América </li><li>Diferenciais Nexti Player: Plano de saúde pet Guapeco </li><li>R$100,00 no Nexti Flex e Day Off no aniversário </li><li>Happy Hour trimestral com o time </li><li>WellHub (Gympass) </li><li>Cartão ECX Card para farmácias </li><li>Combo Nexti Flex com telemedicina, clube de descontos, seguro de vida e assistência funeral </li><li>Parcerias com universidades, escolas de idiomas e cursos </li> </ul><h3>Additional Information </h3><ul><li><b>Contrato: </b> CLT </li><li><b>Localização: </b> Remota </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "NEXTI",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452503__1953?utm_source=1953&utm_medium=feed&keyword=Administrador-de-Banco&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Google Ads Manager",
-    "description": "<p><h3>About Us </h3><p>At WinTech, we are at the forefront of innovation, crafting cutting-edge consumer products that shape the future. Our diverse portfolio spans the health, education, and entertainment sectors, offering exciting opportunities to make a real impact. Our dynamic teams are the driving force behind our success, and we’re always on the lookout for passionate individuals eager to join us on this journey of transformation. </p><h3>The Role </h3><p>We are seeking a results-driven Google User Acquisition Manager at one of Ruby Labs' fastest-growing companies. You'll manage substantial advertising budgets across 30+ regions, optimizing Search, Display, PMax, and Demand Gen campaigns at scale. You should be prepared to work autonomously, make clear weekly strategies, and take ownership of our ad accounts with meticulous attention to performance and growth. </p><p>If you are motivated by big budgets, challenging targets, and a growth opportunity in a high-performance environment, this role is for you. </p><h3>Responsibilities </h3><ul><li>Peak Performance Execution: Deliver daily performance across Google Search, Display, PMax, and Demand Gen campaigns with ROI optimization and profitability maximization across 30+ regions. </li><li>Advanced Data Analysis & Autonomous Decision-Making: Conduct in-depth daily analysis of campaign data, uncover insights, and autonomously decide which countries and GEOs to scale, prioritizing ROI and optimal budget allocation. </li><li>Campaign Mastery: Launch, test, and scale Google Ads campaigns, optimizing keywords, targeting, bidding, and budget allocation to maximize campaign potential. </li><li>Continuous Innovation & Competitive Intelligence: Proactively research tools, platform updates, and optimization techniques while analyzing competitor strategies to maintain a competitive edge. </li> </ul><h3>Qualifications </h3><ul><li>Proven Track Record: Minimum 4 years of hands-on Google Ads experience with demonstrated ability to scale budgets profitably and achieve ROI across multiple regions. </li><li>High-Budget Expertise: Experience managing significant monthly ad spend ($100K+) across Search, Display, PMax, and Demand Gen with profitability and growth results. </li><li>Multi-GEO Management: Experience managing campaigns across multiple countries and regions with autonomous scaling decisions based on performance data. </li><li>Data Mastery: Advanced analytical skills with spreadsheet proficiency (pivot tables, SUMIFS, VLOOKUP) and ability to build custom analysis models. </li><li>Technical Expertise: Understanding of Google Ads account structure, keyword research tools, and advanced optimization techniques. </li><li>Autonomous Decision-Making: Self-driven, thrives under pressure, and consistently exceeds targets in fast-paced environments. </li><li>Growth-Oriented: Willingness to learn, scale challenges, and grow with a high-growth company. </li><li>Communication Excellence: Strong English communication skills for data analysis and presenting performance insights to management. </li> </ul><h3>Nice to have </h3><ul><li>Experience with YouTube Ads and YouTube Shorts Ads </li><li>Consumer products background </li><li>Experience in subscription-based business models </li> </ul><h3>Location </h3><p>WinTech operates within the CET (Central European Time) zone. Applicants from any country are welcome if located within approximately ±4 hours of CET for optimal collaboration during working hours. </p><h3>Benefits </h3><p>We offer a vibrant environment and the following perks: </p><ul><li>Remote Work Environment </li><li>Unlimited PTO </li><li>Paid National Holidays </li><li>Company-provided MacBook </li><li>Flexible Independent Contractor Agreement </li> </ul><p>Read more about the Independent Contractor option here:  </p><h3>Interview Process </h3><p>After submitting your application, we conduct a thorough review which typically takes 3 to 5 days, with possible longer timelines depending on volume. If there is a potential fit, the steps are: </p><ul><li>Recruiter Screening (40 minutes) </li><li>Technical Interview (90 minutes) </li><li>Final Interview (60 minutes) </li> </ul><h3>Life at WinTech </h3><p>At WinTech, you’ll join a supportive and collaborative team passionate about excellence and industry leadership. Our work environment drives impactful results as we challenge ourselves and elevate each other. </p><p>All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. </p> </p> #J-18808-Ljbffr",
-    "company": "Ruby Labs",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452539__1953?utm_source=1953&utm_medium=feed&keyword=Google-Ads-Manager&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Specialist: Lead Qualification",
-    "description": "<p><h3>Specialist: Lead Qualification </h3><p><b>Department: </b> Marketing </p><p><b>Employment Type: </b> Full Time </p><p><b>Location: </b> USA | Remote </p><p><b>Compensation: </b> $104,000 - $115,000 / year </p><h3>Overview </h3><p>The Specialist: Lead Qualification (Americas) will play a critical role in ensuring high-quality inbound leads from marketing campaigns and content programs are swiftly and effectively progressed into the sales pipeline. </p><p>Location preference for candidates in Chicago, Illinois. </p><h3>Responsibilities </h3><ul><li>This role acts as the first touchpoint after a lead engages with content or campaign assets, reviewing and qualifying MQLs based on pre-defined criteria before routing them to the SDR or Sales team. </li><li>Review and assess marketing-generated leads to ensure alignment with ideal customer profiles and readiness for sales engagement. </li><li>Apply lead scoring models using firmographic and behavioral data to prioritize high-potential opportunities. </li><li>Collaborate with SDRs to ensure timely and accurate lead handoff, enabling effective follow-up and conversion. </li><li>Conduct light research to validate lead information and identify nurture opportunities for future outreach. </li><li>Monitor lead flow, share feedback with marketing teams, and flag trends or gaps to improve campaign performance and targeting. </li><li>Work closely with campaign managers, content marketers, and sales stakeholders to ensure our funnel flows smoothly and no qualified lead is left behind. </li> </ul><h3>Skills, Knowledge and Expertise </h3><ul><li>A degree or diploma in Marketing, Business, Communications, or a related field is preferred. </li><li>2-4 years of experience in B2B marketing, sales development, or lead qualification </li><li>Experience in ERP, SaaS, or other complex B2B environments </li><li>Familiarity with Salesforce and marketing automation platforms (e.g., HubSpot) </li><li>Strong attention to detail, especially when assessing lead data and behavioral indicators </li><li>Effective communication and collaboration skills to work across marketing and sales </li><li>Understanding of lead scoring models and funnel metrics. </li><li>Basic research and data enrichment skills using tools like LinkedIn, ZoomInfo, or similar. </li> </ul><h3>Benefits </h3><ul><li>13 paid company holidays in 2025 </li><li>10 paid vacation days </li><li>6 paid wellness days </li><li>1 paid volunteer day off to make a difference in your community </li><li>Medical, dental, and vision insurance; PPO from the 1st of the month after hire! </li><li>Group term life and LTD insurance paid by SYSPRO </li><li>Voluntary STD, plus supplemental benefits through UNUM </li><li>Employee Assistance Program </li><li>401k (starting day 1 of hire!) with company match after 1 year of employment </li> </ul> </p> #J-18808-Ljbffr",
-    "company": "Remote Jobs",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452542__1953?utm_source=1953&utm_medium=feed&keyword=Specialist-Lead-Qualification&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Tech Lead Developer (Delphi, Oracle PL/SQL) - (Remote work)",
-    "description": "<p><h3>Overview </h3><p><b>Highlights of this position: </b> </p><ul><li><b>Location: </b> Remote – Brazil (must be located in Brazil) </li><li><b>Mandatory: </b> English Fluency, Team Leadership, Delphi, Oracle and Agile/Scrum. </li> </ul><p><b>Who we are? </b> </p><p>Eurofins Scientific is an international life sciences company with 61,000+ employees, approximately 1000 laboratories across 61 countries, providing a unique range of analytical testing services to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins laboratories work with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic, and labelling is accurate. </p><p>Eurofins is dedicated to delivering testing services that contribute to the health and safety of society and the planet, and to its corporate responsibility to protect the environment and ensure diversity, equity, and inclusion across the entire network of Eurofins companies. </p><p><b>The Team </b> </p><p>Eurofins endeavours to develop all of our software applications in-house to service and support our numerous laboratories globally. With hundreds of thousands of clinical diagnostic tests performed every day, the laboratories of the Eurofins clinical diagnostic services business line strive to ensure that every patient, wherever he or she lives, has access to the most specialized and most innovative techniques for diagnosis, monitoring and therapeutic decisions. Such activities require extensive planning and organisation which can be augmented by the use of technology. </p><p>Our Clinical LIMS Europe Program will extensively be used as the central Laboratory Information Management System throughout Europe, this role is crucial in defining and delivering the product roadmap. </p><p><b>Job Description </b> </p><p>In the role, you will work with a dedicated, enthusiastic team developing enhancements to a Laboratory Information Management System (a LIMS) and supporting the LIMS' multiple customers. </p><p><b>Where will you be based and what business will you support? </b> </p><p>Brazil </p><p><b>How can you help us? </b> </p><p>As a Tech Lead Delphi Developer, you will: </p><ul><li>Lead Development teams in a local line management capacity reporting to the Software Engineering Manager in Europe </li><li>Set targets and mentor the team/s locally </li><li>Ensure quality in team development </li><li>Participate in sprint planning and sprint retrospective meetings </li><li>Assign and deliver development tasks requested during sprint planning </li><li>Estimate the complexity and the workload </li><li>Choose the most appropriate technical solution to meet the user requirements </li><li>Design, develop and deploy changes to the LIMS according to the customers’ and business users’ requirements. </li><li>Support the LIMS in collaboration with the other team members </li><li>Working together with other team members (Engineers/QA) to ensure high quality of delivered solutions. </li><li>Ensuring good practices and high quality standards are implemented and followed </li> </ul><p><b>Experience </b> </p><p><b>Are you our kind of extraordinary? </b> </p><ul><li>Experience as a Tech Lead in a local line management capacity </li><li>4+ years of experience developing solutions using Embarcadero Delphi 2006 or later (Delphi 12 preferable) </li><li>Experience with using Delphi to develop Windows Services and/or UI Forms would be a clear bonus </li> </ul><ul><li>7+ for senior roles years of experience with Oracle PL/SQL </li><li>Strong working knowledge on server-side development with Delphi and/or with Oracle PL/SQL </li><li>Strong analytical, problem solving and troubleshooting skills </li><li>Good understanding of relational databases (Oracle 9i, 11c or later) </li><li>Strong knowledge of Agile software development practices, particularly Scrum and/or Kanban </li><li>Clear experience in collaboration with Business Analysts and Software Architect(s) </li><li>Some Experience in test driven development and test automation </li><li>Comfortable in unit testing and mocking with Delphi </li><li>Ability to translate functional requirements into technical solutions </li> </ul><p><b>Education: </b> </p><ul><li>Bachelor's or master's degree in computer Science or similar; </li> </ul><p><b>What else should I know? </b> </p><p>As the role and Eurofins' IT Talent Acquisition team are international, please ensure to submit your application in English. </p><p><b>Working hours: </b> </p><p>Monday to Friday - 8:00 to 17:00 </p><p><b>Additional Information </b> </p><p>We support your development! Do you feel you don’t match 100% of the requirements? Don’t hesitate to apply anyway! Eurofins companies are committed to supporting your career development. </p><p>We embrace diversity! Eurofins network of companies believe in strength and innovation through diversity, being an Equal Opportunity Employer. We prohibit discrimination against employees or applications based on gender identity and/or expression, race, nationality, age, religion, sexual orientation, disability, and everything else that makes employees of Eurofins companies unique. </p><p>Sustainability matters to us! We are well on our way to achieving our objective of carbon neutrality by 2025, through a combination of emission reduction and compensation initiatives. We encourage our laboratory leaders to make sustainable changes at their local level, and in addition to their initiatives we also count on our dedicated carbon reduction team to help us to achieve this goal! </p><p>Find out more in our career page:  </p><p>Company description: Eurofins Scientific is an international life sciences company, providing a unique range of analytical testing services to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins laboratories work with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic and labelling is accurate. </p><p>The Eurofins network of companies is the global leader in food, environment, pharmaceutical and cosmetic product testing and in discovery pharmacology, forensics, advanced material sciences and agroscience contract research services. It is one of the market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, advanced material sciences and in the support of clinical studies, as well as having an emerging global presence in Contract Development and Manufacturing Organisations. It also has a rapidly developing presence in highly specialised and molecular clinical diagnostic testing and in-vitro diagnostic products. </p><p>In over 35 years, Eurofins has grown from one laboratory in Nantes, France to 61,000 staff across a decentralised and entrepreneurial network of ca. 900 laboratories in 61 countries. Eurofins companies offer a portfolio of over 200,000 analytical methods to evaluate the safety, identity, composition, authenticity, origin, traceability and purity of biological substances and products. </p><p>In 2022, Eurofins generated total revenues of EUR 6.7 billion, and has been among the best performing stocks in Europe over the past 20 years. </p> </p> #J-18808-Ljbffr",
-    "company": "Eurofins USA Agroscience Services",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452569__1953?utm_source=1953&utm_medium=feed&keyword=Tech-Lead-Developer&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Shopify Developer - Remote - Latin America",
-    "description": "<h3>Shopify Developer - Remote - Latin America </h3><p>Join to apply for the <strong>Shopify Developer - Remote - Latin America </strong> role at <strong>FullStack Labs </strong> </p><h3>Shopify Developer - Remote - Latin America </h3><p>1 day ago Be among the first 25 applicants </p><p>Join to apply for the <strong>Shopify Developer - Remote - Latin America </strong> role at <strong>FullStack Labs </strong> </p><p><strong>About FullStack<br></strong>FullStack is the most transparent IT talent network, connecting highly skilled individuals with top global companies and Silicon Valley startups for remote, on-demand projects. We focus on building a trusted, high-performance network where talent can thrive in a positive, respectful, and supportive environment. By prioritizing transparency, fair opportunities, and professional growth, we empower our engineers to deliver their best work while collaborating with innovative teams worldwide. </p><ul><li>Offering life-changing opportunities for talented software professionals across the Americas. </li><li>Enhancing highly-skilled software development teams of hundreds of the world’s greatest companies. </li><li>Our 4.2-star rating on GlassDoor. </li><li>Our client Net Promoter Score of 68, twice the industry average.<br></li> </ul><strong>About FullStack<br></strong>FullStack is the most transparent IT talent network, connecting highly skilled individuals with top global companies and Silicon Valley startups for remote, on-demand projects. We focus on building a trusted, high-performance network where talent can thrive in a positive, respectful, and supportive environment. By prioritizing transparency, fair opportunities, and professional growth, we empower our engineers to deliver their best work while collaborating with innovative teams worldwide.<br><strong>We’re Most Proud Of<br></strong><ul><li>Offering life-changing opportunities for talented software professionals across the Americas. </li><li>Enhancing highly-skilled software development teams of hundreds of the world’s greatest companies. </li><li>Our 4.2-star rating on GlassDoor. </li><li>Our client Net Promoter Score of 68, twice the industry average.<br></li> </ul><strong>The Opportunity<br></strong>Join our talent network and connect with U.S. clients for flexible, project-based development work as a Shopify Developer.<br><ul><li>You will integrate directly into our client's team and work alongside their existing designers and engineers on a daily basis.<br></li> </ul><strong>What We're Looking For<br></strong><ul><li>3+ years of professional Shopify Development experience. </li><li>Advanced English is required. </li><li>Successful completion of a four-year college degree is required. </li><li>Strong experience building Node.js apps with TypeScript. </li><li>Solid understanding of Shopify APIs (REST and GraphQL). </li><li>Hands-on experience with Shopify development, including Liquid templating and custom theme work. </li><li>Experience with Shopify App Bridge, Polaris, and UI Extensions. </li><li>Familiarity with modern frontend tools (React, Tailwind, Vite, etc.). </li><li>Proficiency with Git and GitHub workflows (branches, pull requests, code reviews). </li><li>Working knowledge of performance optimization, SEO, and accessibility standards. </li><li>Familiarity with Shopify’s Partner Dashboard, billing APIs, and app publishing. </li><li>Deploying apps to Google Cloud and working with authentication methods such as OAuth in Shopify apps it's a plus. </li><li>Integrating new customer accounts and implementing Shopify Subscriptions is a desirable skill. </li><li>Performing unit and integration testing using tools like Jest or Playwright. </li><li>Ability to work through new and difficult issues and contribute to libraries as needed. </li><li>Ability to create and maintain continuous integration and delivery of applications. </li><li>Forensic attention to detail. </li><li>A positive mindset and a can-do attitude. </li><li>Experience working on Agile / Scrum teams. </li><li>Meaningful experience working on large, complex systems. </li><li>Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon. </li><li>Ability to identify with the goals of FullStack's clients, and dedicate yourself to delivering on the commitments you and your team make to them. </li><li>Ability to consistently work 40 hours per week.<br></li> </ul><strong>What We Offer<br></strong><ul><li>Competitive pay. </li><li>100% remote work. </li><li>The ability to work with leading startups and Fortune 500 companies. </li><li>Continuing education opportunities </li><li>Opportunity to grow and expand your career<br></li> </ul>Our talent network is committed to fostering a diverse, inclusive, and accessible environment where IT professionals can find opportunities that match their skills. We welcome individuals of all races, religions, genders, sexual orientations, national origins, abilities, and experiences. Our focus is on connecting talent with projects based on qualifications, ensuring a fair and transparent process that values diverse perspectives and global collaboration.<br>Learn more about our Applicants Privacy Notice.<h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Associate </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Engineering and Information Technology </li><li><h3>Industries </h3>IT Services and IT Consulting, Computer and Network Security, and Information Services </li> </ul><p>Referrals increase your chances of interviewing at FullStack Labs by 2x </p><h3>Frontend React Developer Trainee - Remote Work | REF#  </h3><h3>Freelance Software Developer (C/C++ - Rust) - AI Trainer </h3><h3>Software Engineering Specialist - Human Data </h3><h3>Software Development Engineer in Test - Work from home </h3><h3>Enterprise Solutions Engineer – Python & SQL Expert </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
-    "company": "FullStack Labs",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452792__1953?utm_source=1953&utm_medium=feed&keyword=Shopify-Developer&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Coordenador De Marketing Hands-On (Remoto)",
-    "description": "<p><h3>Visão geral </h3><p>Por que a NOVA existe? A NOVA nasceu para ser DISRUPTIVA: mostrar que uma agência 100 % Remote-First pode entregar resultados melhores que qualquer operação presencial. </p><p>Por que essa vaga é diferente? Impacto imediato: você tocará a estratégia 360° de contas nacionais e internacionais, sendo o \"mini-CMO\" do time. Salário competitivo + bônus por resultado (faixa discutida na 1ª etapa). Trilha rápida para Gerente de Marketing (12-24 meses, de acordo com a performance). Agência enxuta e em escala — suas ideias saem do papel em dias, não em meses. </p><h3>Responsabilidades </h3><ul><li>Planejar campanhas (conteúdo, mídia paga, automação) com OKRs claros. </li><li>Desenhar e otimizar funis completos (atração, nutrição, conversão), integrando social, anúncios, e-mail e outros. </li><li>Garantir performance: ROAS, CAC, crescimento orgânico e NPS do cliente. </li><li>Exigir padrão estético impecável (design, copy, vídeo). </li><li>Ser ponte sênior com o cliente: monthly review, relatórios insights-driven. </li><li>Liderar o squad: distribuir tarefas, remover impedimentos, acompanhar de perto a produção. </li><li>Hands-on sempre que necessário (copy, segmentação de Ads, ajustes em landing pages). </li> </ul><h3>Requisitos </h3><ul><li>6+ anos em marketing digital com cases comprovados (ex.: ROAS = 3, CAC reduzido, growth orgânico expressivo). </li><li>Domínio real de mídia orgânica e paga (Meta / Google) e funis/ automações (HubSpot, ActiveCampaign etc.). </li><li>Copywriting persuasivo + leitura de dados (GA4, UTMs, dashboards). </li><li>Visão T-shaped: entende de social, design, funil, analytics e busca aprendizado contínuo. </li><li>Energia de dono(a): resolve, prioriza, decide. </li><li>Inglês fluente. </li><li>Diferenciais: SEO on-page, Webflow/WordPress básico. </li><li>Gestão de orçamentos > R$ 100k/mês. </li><li>Certificações Meta/Google/HubSpot. </li><li>Cultura NOVA: alta exigência, aprendizado constante e crescimento rápido. </li> </ul><h3>Processo de seleção </h3><p>Processo relâmpago / início imediato. Envie CV + deck de case/portfolio (antes & depois, números) por email até 30/05. Em um documento à parte, no mesmo email, responda: 1) Quando você cria a copy de uma página de vendas ou landing page, quais elementos considera essenciais para gerar conversão? 2) Ao criar conteúdos para redes sociais, como decide formato ideal, frequência e copy? 3) Quando um conteúdo não performa, quais dados analisa primeiro e como decide se ajusta ou mantém a estratégia? Etapas subsequentes: Triagem (24 h) → entrevista com recrutador → entrevista com founders → desafio prático → oferta. </p><p>Pronto para crescer com a gente? </p><p>Envie seu material com o assunto \"Coordenador(a) de Marketing — NOME E SOBRENOME\". </p> </p> #J-18808-Ljbffr",
-    "company": "Nova",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452849__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-De-Marketing&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Controllership Specialist",
-    "description": "<p><p>A Career at HARMAN </p><p>As a technology leader that is rapidly on the move, HARMAN is filled with people who are focused on making life better. Innovation, inclusivity and teamwork are a part of our DNA. When you add that to the challenges we take on and solve together, you’ll discover that at HARMAN you can grow, make a difference and be proud of the work you do every day. </p><h3>Principais Responsabilidades </h3><ul><li>Conduzir processos de fechamento financeiro mensal e consolidação de resultados; </li><li>Atuar no planejamento orçamentário, forecast e análises de variações; </li><li>Elaborar e acompanhar relatórios gerenciais e apresentações corporativas para diferentes níveis hierárquicos; </li><li>Desenvolver e monitorar modelos de previsão de fluxo de caixa; </li><li>Realizar análises financeiras e de custos, suportando decisões estratégicas; </li><li>Elaborar Business Case; </li><li>Atuar no gerenciamento de stakeholders, assegurando comunicação clara e alinhamento estratégico. </li> </ul><h3>Requisitos </h3><ul><li>Ensino superior completo em Administração, Ciências Contábeis, Economia ou áreas afins; </li><li>Inglês e Excel avançados; </li><li>Experiência anterior em empresas multinacionais, com exposição a processos financeiros estruturados e interações com diversos níveis hierárquicos em outros países; </li><li>Vivência em fechamento mensal, orçamento, forecast, controle de custos, FP&A e fluxo de caixa; </li><li>Experiência na elaboração de apresentações executivas em inglês e relatórios corporativos para outros países; </li><li>Forte capacidade analítica e habilidade para trabalhar com grandes volumes de dados; </li><li>Conhecimento em SAP e TOTVS (desejável); </li><li>Disponibilidade para atuação em teletrabalho e fácil acesso a Porto Alegre/RS. </li> </ul><h3>Competências </h3><ul><li>Comunicação clara e objetiva em diferentes níveis hierárquicos; </li><li>Capacidade de gerenciar prazos e múltiplas demandas em ambiente dinâmico; </li><li>Perfil colaborativo, organizado e com pensamento crítico; </li><li>Experiência em ambientes multiculturais e de alta complexidade. </li> </ul><p>HARMAN is proud to be an Equal Opportunity / Affirmative Action employer . All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. </p> </p> #J-18808-Ljbffr",
-    "company": "HARMAN International",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5452877__1953?utm_source=1953&utm_medium=feed&keyword=Controllership-Specialist&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5452475__1953_b45eaaa6acf5c0428efec695fcc328b8?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   }
 ]
