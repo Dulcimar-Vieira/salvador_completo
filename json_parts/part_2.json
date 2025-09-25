@@ -1,5 +1,41 @@
 [
   {
+    "title": "Software Architect (Contractor) – Composable Commerce & Event-Driven Design",
+    "description": "<p><h3>Overview </h3><p>Software Architect (Contractor) – Composable Commerce & Event-Driven Design </p><p>Join to apply for the <b>Software Architect (Contractor) – Composable Commerce & Event-Driven Design </b> role at <b>CobbleWeb - The Online Marketplace Experts </b> </p><p>This position is 100% remote, with flexible daily/weekly hours (part-time). </p><p>We’re looking for a <b>Software Architect contractor </b> with strong expertise in <b>composable modular architecture </b> and <b>event-driven design </b> to support the next evolution of Sharewise: our marketplace framework that helps entrepreneurs and small businesses launch world-class platforms faster. </p><p>This isn’t a “keep the lights on” role. <b>You’ll be shaping the backbone of a framework </b> designed to democratise marketplace creation and empower communities. Sharewise is built on 12+ years of CobbleWeb’s experience delivering high-performance marketplaces, and we’re now evolving it into a platform that is modular, event-driven, and future-ready. </p><p><b>We Need Someone Who Can </b> </p><h3>Responsibilities </h3><ul><li>Audit and strengthen module isolation (reduce hidden coupling). </li><li>Push us toward a stronger event-driven architecture (pub/sub over direct calls) </li><li>Lay the foundation for customisation: moving from fragile inheritance overrides toward clear extension hooks, composition patterns, and well-documented integration points. This is about more than code style: it’s about making Sharewise a framework where developers can confidently adapt and extend features without breaking core stability. </li><li>Make the platform easier to scale, extend, and maintain, both for our team and for external developers. </li> </ul><h3>Stack </h3><ul><li>Backend & Core: Node.js (TypeScript) - Fastify for REST, Apollo for GraphQL, TypeORM, Redis, PostgreSQL. </li><li>Side deps: chalk, chokidar, commander, winston, class-transformer, class-validator. </li><li>Frontend: Next.js v15 & React v19. </li> </ul><h3>Seniority level </h3><ul><li>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Engineering and Information Technology </li><li>Industries: Technology, Information and Internet </li> </ul><p>Referrals increase your chances of interviewing at CobbleWeb - The Online Marketplace Experts by 2x </p> </p> #J-18808-Ljbffr",
+    "company": "CobbleWeb - The Online Marketplace Experts",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5322535__1953?utm_source=1953&utm_medium=feed&keyword=Software-Architect-Contractor&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Remote Data Scientist - 17843",
+    "description": "<p>A U.S.-based company specializing in AI-driven solutions is hiring<strong> Data Scientists </strong> to collaborate on cutting-edge commercial and research AI projects. This opportunity is ideal for professionals passionate about innovation and pushing the boundaries of AI technology. In this role, you will conduct in-depth peer code reviews, provide constructive feedback, and work closely with researchers and stakeholders to ensure alignment with project objectives. </p><p><strong>Job Responsibilities: </strong> </p><ul><li>Develop and optimize Python-based data science solutions using public datasets. </li><li>Conduct peer code reviews, ensuring best practices and optimization techniques are followed. </li><li>Work closely with researchers and stakeholders to align solutions with company goals. </li><li>Create well-documented Python code using Jupyter notebooks. </li> </ul><p><strong>Job Requirements: </strong> </p><ul><li>Bachelor’s/Master’s degree in Engineering, Computer Science, or equivalent experience. </li><li>Knowledge of Python programming for data analysis. </li><li>Strong understanding of data science methodologies and analysis techniques. </li><li>Fluent in spoken and written English. </li><li>A minimum 5-hour work overlap with PST/PT is required. </li><li>Strong problem-solving and analytical skills. </li><li>Work with global experts in AI and data science. </li><li>This is a contractual remote work opportunity without traditional job constraints. </li><li>Competitive global-standard salary in USD. </li><li>Contribute to cutting-edge projects shaping the future of AI. </li> </ul><p><strong>Selection Process: </strong> </p><ul><li>Shortlisted developers may be asked to complete an assessment. </li><li>If you clear the assessment, you will be contacted for contract assignments with expected start dates, durations, and end dates. </li><li>Some contract assignments require fixed weekly hours, averaging 20/30/40 hours per week for the duration of the contract assignment. </li> </ul><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Entry level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Contract </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Information Technology and Engineering </li><li><h3>Industries </h3>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Turing by 2x </p><p>Get notified about new Data Scientist jobs in <strong>Brazil </strong>. </p><p>Blumenau, Santa Catarina, Brazil 1 month ago </p><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
+    "company": "Turing",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5322575__1953?utm_source=1953&utm_medium=feed&keyword=Remote-Data-Scientist&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Software Engineer, Android Core Product - São Paulo, Brazil",
+    "description": "<p><p>The mission of Speechify is to make sure that reading is never a barrier to learning. </p><p>Over 30 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day. </p><p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies. </p><h3>Overview </h3><p>With the growth of our Android app, being the most used text-to-speech app in the Play Store, we find the need for a Senior Android Engineer to help us support the new user base as well as work on new and exciting projects to push us forward. </p><p>This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users. </p><p>We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount. </p><p>Our interview process involves several technical interviews and we aim to complete them within 1 week. </p><h3>What You’ll Do </h3><ul><li>Owning major features and working closely with our design team — take ownership of features inside the app and be responsible for delivering high-quality features </li><li>Shape the future of our Android team </li><li>Own, maintain and improve reliability metrics for key features </li><li>Participate in discussions across different teams – Product, Design, Engineering </li><li>Review pull requests, and support other teammates </li><li>Handle critical issues or cope with unexpected challenges </li><li>Take ownership of feature releases and provide nightly builds for the QA team </li> </ul><h3>An Ideal Candidate Should Have </h3><ul><li>5+ years of software engineering experience </li><li>Familiarity with Android components </li><li>Experience building or contributing to at least one Android app </li><li>Product design intuition and user empathy </li><li>Drive to push the boundaries of Android UI/UX </li><li>Understanding of the importance of tests and how to approach writing tests </li><li>Self-drive to improve the app and codebase above and beyond what’s outlined in the spec </li><li>Rock solid experience with Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Clean Architecture, Background Services, Music Player Service, Android Animations, Jetpack Navigation, JUnit tests </li><li>Excellent communication skills </li><li>User oriented problem solving approach </li><li>Driven with continuous feedback from leaders </li> </ul><h3>Bonus </h3><ul><li>Experience building, maintaining, or contributing to open source projects in Android </li><li>Experience with iOS, Web or NodeJS </li> </ul><h3>Technologies we use </h3><ul><li>Kotlin </li><li>Kotlin Coroutines </li><li>Kotlin Flow </li><li>Jetpack Navigation </li><li>Dagger 2 </li><li>Room </li><li>Custom Views, Canvas & Paint </li><li>Jetpack Compose </li><li>JUnit </li> </ul><h3>What We offer </h3><ul><li>A fast-growing environment where you can help shape the company and product. </li><li>An entrepreneurial-minded team that supports risk, intuition, and hustle. </li><li>A hands-off management approach so you can focus and do your best work. </li><li>An opportunity to make a big impact in a transformative industry. </li><li>Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture. </li><li>Opportunity to work on a life-changing product that millions of people use. </li><li>Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more. </li><li>Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio. </li> </ul><p>Think you’re a good fit for this job? </p><p>Tell us more about yourself and why you’re interested in the role when you apply. And don’t forget to include links to your portfolio and LinkedIn. </p><p>Not looking but know someone who would make a great fit? </p><p>Refer them! </p><p>Speechify is committed to a diverse and inclusive workplace. </p><p>Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. </p> </p> #J-18808-Ljbffr",
+    "company": "Speechify",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5322576__1953?utm_source=1953&utm_medium=feed&keyword=Software-Engineer-Android&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Technical Product Manager - Remote - Latin America",
+    "description": "<p><h3>Overview </h3><p>Technical Product Manager - Remote - Latin America </p><h3>About FullStack </h3><p>FullStack is the most transparent IT talent network, connecting highly skilled individuals with top global companies and Silicon Valley startups for remote, on-demand projects. We focus on building a trusted, high-performance network where talent can thrive in a positive, respectful, and supportive environment. By prioritizing transparency, fair opportunities, and professional growth, we empower our engineers to deliver their best work while collaborating with innovative teams worldwide. </p><h3>What We Are Looking For </h3><ul><li>4+ years of experience as a Technical Product Manager or similar roles. </li><li>Advanced English is required. </li><li>Successful completion of a four-year college degree is required. </li><li>Strong technical background with the ability to understand APIs, cloud infrastructure, and system architecture. </li><li>Proven experience managing the full product lifecycle from concept to launch. </li><li>Excellent communication, problem-solving, and stakeholder management skills. </li><li>Familiarity with Agile/Scrum methodologies and product management tools (e.g., Jira, Confluence, Trello). </li><li>Ability to work through new and difficult issues and contribute to libraries as needed. </li><li>Ability to create and maintain continuous integration and delivery of applications. </li><li>Forensic attention to detail. </li><li>A positive mindset and a can-do attitude. </li><li>Experience working on Agile / Scrum teams. </li><li>Meaningful experience working on large, complex systems. </li><li>Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon. </li><li>Ability to identify with the goals of FullStack\\'s clients, and dedicate yourself to delivering on the commitments you and your team make to them. </li><li>Ability to consistently work 40 hours per week. </li> </ul><h3>What We Offer </h3><ul><li>Competitive pay. </li><li>100% remote work. </li><li>The ability to work with leading startups and Fortune 500 companies. </li><li>Continuing education opportunities </li><li>Opportunity to grow and expand your career </li> </ul><p>Our talent network is committed to fostering a diverse, inclusive, and accessible environment where IT professionals can find opportunities that match their skills. We welcome individuals of all races, religions, genders, sexual orientations, national origins, abilities, and experiences. Our focus is on connecting talent with projects based on qualifications, ensuring a fair and transparent process that values diverse perspectives and global collaboration. </p><p>Learn more about our Applicants Privacy Notice. </p><h3>Seniority level </h3><ul><li>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li>Full-time </li> </ul><h3>Job function </h3><ul><li>Product Management and Marketing </li><li>Industries: IT Services and IT Consulting, Computer and Network Security, and Information Services </li> </ul><p>Referrals increase your chances of interviewing at FullStack Labs by 2x </p> </p> #J-18808-Ljbffr",
+    "company": "FullStack Labs",
+    "city": "Salvador",
+    "state": "Bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5322666__1953?utm_source=1953&utm_medium=feed&keyword=Technical-Product-Manager&location=Salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
     "title": "Vertical Sales Lead",
     "description": "<p><h3>About the role </h3> <p>As a visionary and dynamic Vertical Sales Lead for D-Wave, you will play a key role in driving the growth and success of our sales team in the Americas region. Verticals within this region where D-Wave is seeing opportunities for its quantum optimization capabilities include life sciences, pharmaceuticals, medical devices and medical tech, telecom, energy, and, oil and gas. Bringing your market-making and sales leadership expertise, you will lead our sales efforts to drive our SaaS recurring and professional services revenue from Quantum Optimization solutions in these sectors, by establishing and growing strong relationships with our customers and partners on their journey toward quantum success. </p> <p>If that sounds like you, read on: we expect you to significantly expand our revenue in these sectors, grow the pipeline of new opportunities, and sell D-Wave's Quantum SaaS/Cloud products and services to new and existing customers in the Americas region. </p> <p>You will work closely with your business development resources to identify target accounts, orchestrate outbound outreach to them, and qualify inbound leads. You will also work closely with our pre-sales solution engineering team and post-sales professional services teams to identify customer needs and propose quantum optimization solutions that deliver value to our customers when in production. You will co-manage our partnerships with Independent Software Vendors, Consulting Services Providers, and Channel Resellers to provide complete Quantum Optimization solutions to our common end customers. </p> <p>What you'll do </p> <h3>What you'll do </h3> <ul> <li>Sales Execution: Execute D-Wave's sales strategy within the Americas region to drive new business in the assigned vertical(s). You will identify opportunities to propose Quantum Optimization solutions utilizing D-Wave products and services, and effectively communicate D-Wave's vision, strategy, and product capabilities to customers, including quantifying the value customers can expect to receive from our solutions. </li> <li>Team Leadership: Build, mentor, and motivate a high performing account team, including cross-functional internal resources and external partner contacts, to pursue opportunities to land into new accounts, and expand business in existing accounts. </li> <li>Market Research & Analysis: Work with a cross-functional team to define the landscape of use cases for Quantum Optimization in the designated sector(s). Profile target accounts to identify the decision makers and decision influencers for Quantum Optimization use cases. </li> <li>Relationship Building with Decision Makers and Influencers: Work as part of a cross-functional team to proactively engage with decision makers and decision influencers for Quantum Optimization use cases in the defined sector(s). Establish and cultivate relationships with decision makers and influencers to create business opportunities that align the company's solution with the customer's needs and strategy. </li> <li>Pipeline Building: Co-lead demand generation activities in the Americas targeting the designated sector(s) in partnership with our Marketing team, selecting target accounts, representing D-Wave at conferences, seminars, and other events, qualifying new leads, delivering product presentations, and developing proposals that result in a growing pipeline of new opportunities. </li> <li>Customer Proposals: Quarterback cross-functional teams to create customer proposals including managing submissions to RFI/RFP and their lifecycle of activities. </li> <li>Actively participate in capture activities including proposal reviews and business case development </li> <li>Ensure the development and submission of white papers and RFI/RFP responses to proactively shape strategic opportunities. </li> <li>Conduct after-action reviews for all pre and post proposal activities to document lessons learned and identify necessary adjustments to capture technique, strategy, and actions. </li> <li>Deal Closing: Work with Sales Operations, Legal, Finance and Professional Services to prepare a contract packet for customer signature. Negotiate subscription services, professional services, financial terms, and legal terms with customer's representatives from operations, IT, procurement and legal. Address customer's vendor qualification requirements such as information security reviews and customer references. Support the customer's activities to establish D-Wave as a vendor in the customer's procurement systems and issue the applicable documents such as the customer's purchase order. </li> <li>Customer Success: Co-lead the effort to select and position D-Wave products and services to meet individual customer needs by understanding their business challenges and creating value propositions tailored to their unique situation. </li> <li>Quota Attainment: Drive your personal activities and your account teams to achieve and exceed your targets while accurately forecasting new bookings. </li>  </ul> <h3>About You </h3> <ul> <li>15+ years of experience selling high value enterprise SaaS products and solutions in optimization applications, data analytics, or data science market categories in the designated sector(s). </li> <li>Prior exposure to classical optimization solutions such as ILOG CPLEX, Gurobi or equivalent is highly preferred. </li> <li>A sales leader with experience growing bookings from past first customer to $5M+ yearly in an enterprise SaaS vendor. </li> <li>Demonstrated successes in building an opportunity pipeline in the services sector. </li> <li>A quarterback of fast-growing, solution-oriented, customer-focused, industry-savvy account teams with a proven track record in targeted value-based selling. </li> <li>Well connected with existing customer relationships across several functions into Fortune 1000 enterprises, systems integrators, and independent software vendors in the services sector. </li> <li>Excellent written and verbal communication skills, with the ability to convey technical concepts to diverse audiences. </li> <li>Intellectually curious, honest, with integrity and a passion for discovery and success. </li> <li>College educated with an Engineering, Computer Science, or related STEM field degree. A specialization in Operations Research or similar optimization-focused studies is preferred. </li> <li>Willing to travel frequently (up to 50%+), including some international travel in the Americas. </li>  </ul> <h3>A D-Waver's DNA </h3> <ul> <li>We look at the future and say \"why not\"; we see possibilities where others see problems or routines. We show the way ahead and are committed to achieving ambitious goals. </li> <li>We practice straight talk and listen generously to each other with empathy. We value different opinions and points of views. We ensure that we connect outside as well as inside to learn from others and inspire each other. </li> <li>We hold ourselves accountable for delivering results. We make decisions & take responsibility so that we can act & support each other. </li> <li>As leaders we motivate & engage our teams to undertake beyond what they originally thought possible, by developing our teams & creating the conditions for people to grow and empower themselves through enabling & coaching. </li>  </ul> <h3>Our Compensation Philosophy is Simple but Powerful </h3> <p>We believe providing D-Wavers with company ownership, competitive pay, and a range of meaningful benefits is the start of creating a culture where people want to give the best they've got - not because they're simply making money, but because they've fallen in love with our vision, mission, values, and team. </p> <p>During the interview process, your Recruiter will explain our total rewards (base, equity, bonus, perks, benefit, culture). The final offer is determined by your proficiencies within this level. </p> <h3>Inclusion </h3> <p>We celebrate diverse perspectives to drive innovation in our pursuit. Our employees range from distinguished domain experts with decades of experience in their respective fields, to bright and motivated graduates eager to make their mark. Our diverse and innovative team will make you feel appreciated, supported and empower your career growth at D-Wave. </p> <h3>The Fine Print </h3> <p>No 3rd party candidates will be accepted </p> <p>It is D-Wave Systems Inc. policy to provide equal employment opportunity (EEO) to all persons regardless of race, color, religion, sex, national origin, age, sexual orientation, gender identity, genetic information, physical or mental disability, protected veteran status, or any other characteristic protected by federal, state/provincial, local law. </p> <p>The pay range for this role is: </p> <p>144,428 - 268,223 USD per year (Remote (United States)) </p> </p> #J-18808-Ljbffr",
     "company": "Remote Jobs",
@@ -320,7 +356,7 @@
     "company": "Pride Global",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5325928__1953_d466f9b046c695696eebd484ba97efc6?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5325928__1953_addcdde6921211d5769dfddfbdab8be7?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -419,7 +455,7 @@
     "company": "Speechify",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5326839__1953_8f111da3295f65c55fe71dafd2ba9fc0?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5326839__1953_ca582ee48fd17f060c56eb947c6da60b?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -428,7 +464,7 @@
     "company": "Eversynced",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5326856__1953_46fa53a7d67027681998612d4a422aa6?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5326856__1953_357ac8c2caa113b3b37aa06c2f78507d?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -707,7 +743,7 @@
     "company": "Galileu",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5329988__1953_6fcaf008238080cb99cd3f416491a2b1?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5329988__1953_9e81529dedc82f3b339443667a23e8ab?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -716,7 +752,7 @@
     "company": "Cedro Technologies",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5329994__1953_0dd0a596c1fa9650bc0632175576f82e?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-T%C3%A9cnico&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5329994__1953_922ce44f6eb50beeab1871bcf0b0f1e1?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-T%C3%A9cnico&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -869,7 +905,7 @@
     "company": "Canonical",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5331818__1953_0bc10bb88dadb7f5def7b8265989dae7?utm_source=1953&utm_medium=feed&keyword=Software-Engineering-Manager&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5331818__1953_af9124dbf8d4c0cbb5e5c1d4d197de33?utm_source=1953&utm_medium=feed&keyword=Software-Engineering-Manager&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1031,7 +1067,7 @@
     "company": "Galileu",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5333751__1953_feffa599497adcc4677d4af3ec62b125?utm_source=1953&utm_medium=feed&keyword=Neurologista&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5333751__1953_f454fcb43cbb1cdb16d8874d06e9cbd1?utm_source=1953&utm_medium=feed&keyword=Neurologista&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1535,7 +1571,7 @@
     "company": "Conquest One",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5338619__1953_a3f9e18d6aa51221c6b3270aa8aead54?utm_source=1953&utm_medium=feed&keyword=Lead-DevOps&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5338619__1953_f95e3ad652c6c525c48b03587f439dcf?utm_source=1953&utm_medium=feed&keyword=Lead-DevOps&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1805,7 +1841,7 @@
     "company": "Galileu",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5341643__1953_07560d380bd79c2ae6bb935ab6f61c83?utm_source=1953&utm_medium=feed&keyword=Neurologista&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5341643__1953_a3b0c21e2331bfbac248ac54e57733ec?utm_source=1953&utm_medium=feed&keyword=Neurologista&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1814,7 +1850,7 @@
     "company": "Netvagas",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5341649__1953_fba8e1a953f0b811959b34f6a68a350e?utm_source=1953&utm_medium=feed&keyword=Closer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5341649__1953_d26b39d3de75d7f8fb66b3047d60b397?utm_source=1953&utm_medium=feed&keyword=Closer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2057,7 +2093,7 @@
     "company": "Ontex brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5344595__1953_fc42a09542c144917dad47dd54b5a8f6?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5344595__1953_084a6e5b4096baecc2645a11e9e9d256?utm_source=1953&utm_medium=feed&keyword=P%C3%A1gina-da-Vaga&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2471,7 +2507,7 @@
     "company": "Digibee Inc.",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5348580__1953_3219ed6435287977039d3d5929f44c96?utm_source=1953&utm_medium=feed&keyword=Head-of-User&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5348580__1953_a105ceefe693f181fa16412e282e0f77?utm_source=1953&utm_medium=feed&keyword=Head-of-User&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2660,7 +2696,7 @@
     "company": "Miratech",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5350494__1953_17a1fc92f1289d14311c87ab82c866a9?utm_source=1953&utm_medium=feed&keyword=Principal-Genesys-Cloud&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5350494__1953_1f5416300f21f009e7772d7d7ea9e42f?utm_source=1953&utm_medium=feed&keyword=Principal-Genesys-Cloud&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3065,7 +3101,7 @@
     "company": "Galileu",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5354400__1953_a1922255a014da47b2e2ad88000511fc?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5354400__1953_47220af5773ef018e673ae72c3e50303?utm_source=1953&utm_medium=feed&keyword=Endocrinologista&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4640,7 +4676,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5373135__1953_08cb0fdd0b9939563646af58b73c29c2?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5373135__1953_14cc4a097249710fdedc8d1262b22add?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5774,7 +5810,7 @@
     "company": "Remote",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5385772__1953_4e951fa38e876872b8377b53739c8801?utm_source=1953&utm_medium=feed&keyword=Lifecycle-Specialist-Time&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5385772__1953_e32e460aae499e5aafc2551ad4b50044?utm_source=1953&utm_medium=feed&keyword=Lifecycle-Specialist-Time&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5918,7 +5954,7 @@
     "company": "Accenture Argentina",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5386693__1953_f705f91613a945705ab7fe87f7678405?utm_source=1953&utm_medium=feed&keyword=Strategy-Consulting&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5386693__1953_7e3715670e93f254a93eb4ee462b3db4?utm_source=1953&utm_medium=feed&keyword=Strategy-Consulting&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5927,7 +5963,7 @@
     "company": "Peers Consulting + Technology",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5386701__1953_04746f1563d90c3736d3a2ffc182fbc8?utm_source=1953&utm_medium=feed&keyword=Pool-de-Talentos&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5386701__1953_cf7ada67ed06279624248dae174ecb8f?utm_source=1953&utm_medium=feed&keyword=Pool-de-Talentos&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6026,7 +6062,7 @@
     "company": "Allegro MicroSystems",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5387450__1953_2bcf7817a8d271a4b0d40b4c5f06ca74?utm_source=1953&utm_medium=feed&keyword=Salesforce-Business-Analyst&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5387450__1953_c6c565cf6b8ad5ce95cbfb9a9d07e9f7?utm_source=1953&utm_medium=feed&keyword=Salesforce-Business-Analyst&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6233,7 +6269,7 @@
     "company": "CB Marketing Boutique",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5389068__1953_c7f16b988b595ea9dbd8e22420410d93?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5389068__1953_4aa402b562b0b62f203a15ff23ab29d6?utm_source=1953&utm_medium=feed&keyword=Estagi%C3%A1rio-De-Designer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6674,7 +6710,7 @@
     "company": "Ruby Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5393309__1953_8c029a6c400e542bdab5513d2c3deea0?utm_source=1953&utm_medium=feed&keyword=Junior-Email-Marketing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5393309__1953_d21dd333263b7b24fc3034e5259ec204?utm_source=1953&utm_medium=feed&keyword=Junior-Email-Marketing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6764,7 +6800,7 @@
     "company": "FullStack Labs",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5394368__1953_32d4466c11109a12fef647efc341bc42?utm_source=1953&utm_medium=feed&keyword=Android-RxJS-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5394368__1953_6a8e646661c7b6f34a0a34f7a17825b1?utm_source=1953&utm_medium=feed&keyword=Android-RxJS-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7232,7 +7268,7 @@
     "company": "ASSIST-365",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5397970__1953_809b0ade4e586ffa8e57210d6692046f?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5397970__1953_ea2d25ae8b75edf49d7862889b99edc8?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7547,7 +7583,7 @@
     "company": "SEIDOR Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5400353__1953_db416ee279e88ca5a2b31d546a6869b3?utm_source=1953&utm_medium=feed&keyword=524-Analista&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5400353__1953_7bc58a5a3a1c6801a8bec0dc0835a06c?utm_source=1953&utm_medium=feed&keyword=524-Analista&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7655,7 +7691,7 @@
     "company": "Sylvamo Brasil",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5401280__1953_7e1de13ac21f28c1e4edfdd393959509?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5401280__1953_c7c577d38aab5f285673e4d7d9638401?utm_source=1953&utm_medium=feed&keyword=Executivo-de-Vendas&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8060,7 +8096,7 @@
     "company": "Drummond Advisors",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5405106__1953_604ba6243f2e3dccbbd723b88f7e5969?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5405106__1953_7095311efc4594a6c0fbf3eb81882d81?utm_source=1953&utm_medium=feed&keyword=Analista-de-Suporte&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8384,7 +8420,7 @@
     "company": "Tactiq",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5409418__1953_a6799bccc0ec07177c1c2842005a5fa0?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5409418__1953_b6d367feb25a244d01987984a0beaeff?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8483,7 +8519,7 @@
     "company": "Nova",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5410373__1953_2dde00aaca7775b50de809f629c213d1?utm_source=1953&utm_medium=feed&keyword=Coordenador-De-Marketing&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5410373__1953_258c8caa55ee35013e90b23489fe9cfb?utm_source=1953&utm_medium=feed&keyword=Coordenador-De-Marketing&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8717,7 +8753,7 @@
     "company": "A.P. Moller - Maersk",
     "city": "Salvador",
     "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5413570__1953_3148f97b1b5c16dfa678f5b5041a2b2e?utm_source=1953&utm_medium=feed&keyword=Database-Administration-Engineer&location=Salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___70_5413570__1953_cf29b5e7cee09113437f9ee6a0eac9f1?utm_source=1953&utm_medium=feed&keyword=Database-Administration-Engineer&location=Salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8961,42 +8997,6 @@
     "city": "Salvador",
     "state": "Bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___70_5415678__1953?utm_source=1953&utm_medium=feed&keyword=Supervisor-De-Manuten%C3%A7%C3%A3o&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Global Compensation and Benefits Specialist São Paulo",
-    "description": "<h3>Global Compensation and Benefits Specialist </h3><p>EBANX is the leading payment platform connecting global companies with customers from the fastest-growing digital markets in the world. </p><p>Since the beginning of our journey, we have had one mission: to <strong>provide global access </strong> for everyone. We believe that transforming challenges into opportunities and making the impossible part of the journey is crucial! That's precisely why we created a payment technology that builds bridges between people and businesses every day in 29 rising markets across the globe. </p><p>We call ourselves ebankers, we are global thinkers, we value diversity, we foster creativity and we work hard to connect businesses and people worldwide through payments. Let's make history together? </p><p>We are looking for a <strong>Global Compensation and Benefits Specialist </strong> to join our People Operations team at EBANX, a Brazilian scale-up that is revolutionizing global payments. You will have the opportunity to co-build and implement our international compensation and benefits strategy, focusing on key regions like North America, EMEA (Europe, the Middle East, and Africa), and APAC (Asia-Pacific). </p><p>If you are a professional who is passionate about transforming the employee experience through innovative rewards strategies, has an analytical and strategic mind, and loves the challenge of working in a dynamic global environment, this is your chance to leave a legacy. </p><p><strong>You will also be responsible for: </strong> </p><ul><li><strong>Global Market Research and Analysis: </strong> Conduct in-depth market studies (salary surveys, benefits trends) for the North America, EMEA, and APAC regions, ensuring our compensation and benefits practices are competitive and aligned with each location's specific characteristics. </li><li><strong>Design and Implementation of International Strategies: </strong> Actively collaborate in the design, development, and implementation of global and regional compensation plans (base salary, variable pay, incentive plans) and benefits packages (health, wellness, retirement, etc.). </li><li><strong>Cost and Budget Management: </strong> Contribute to the strategic management of the global personnel budget, analyzing the cost-benefit of programs and proposing efficient capital allocations that maximize the ROI in people, without losing competitiveness and employee value. </li><li><strong>Internal Consulting: </strong> Act as a consultative partner for leaders and HR Business Partners in the regions, offering insights on compensation and benefits policies and supporting decisions that impact the global workforce. </li><li><strong>Compliance and Governance: </strong> Ensure that all policies and programs comply with local and global regulations and follow best governance practices. </li><li><strong>Communication and Engagement: </strong> Support the clear and effective communication of compensation and benefits programs to all levels of the organization, promoting understanding and perceived value among employees. </li> </ul><p><strong>Main requirements for this position: </strong> </p><ul><li>Proven experience in Compensation and Benefits, with a focus on international markets (North America, EMEA, and/or APAC is a plus). </li><li>Strong analytical and logical reasoning skills, with the ability to interpret complex data and turn it into actionable strategies. </li><li>In-depth knowledge of salary survey methodologies, compensation plan design (fixed and variable), and benefits management. </li><li>Experience with market research tools and HR systems (HRIS). </li><li>Fluent English is mandatory. Knowledge of other languages is a plus. </li><li>Bachelor's degree in Business Administration, Economics, Finance, Psychology, Engineering, or a related field. </li><li>Advanced knowledge of Microsoft Office / Google Suite is essential. </li> </ul><p><strong>What else would we like to see? </strong> </p><ul><li><strong>Business Acumen & Strategy: </strong> The ability to think beyond transactional HR, understanding the financial and strategic impact of compensation and benefits decisions on EBANX's global business. You are someone who \"sits in the business seat,\" just as we like it here! </li><li><strong>Global Mindset & Cultural Adaptability: </strong> The ability to navigate and appreciate cultural and market complexities in different regions of the world, building solutions that are globally consistent yet locally relevant. </li><li><strong>Collaboration & Influence: </strong> Strong ability to work in a multidisciplinary team, influence stakeholders at different hierarchical levels, and build solid relationships, even from a distance. </li><li><strong>Proactivity & Problem-Solving: </strong> A \"hands-on\" attitude, with the initiative to identify challenges, propose creative solutions, and implement them effectively. You don't wait for things to happen; you make them happen! </li><li><strong>Resilience & Flexibility: </strong> The ability to thrive in a fast-paced and constantly changing environment, typical of a global scale-up. </li> </ul><p><strong>EBANX offers: </strong> </p><ul><li>Spanish, English, and Portuguese classes; </li><li>WAVES - Program of goals and results (variable compensation); </li><li>EBANX Play - Wellness (Gympass, e-Sports, SESC ); </li><li>EBANX Education: financial support for undergraduate, graduate, and MBA programs so you can develop important skills for your career; </li><li>EBANX Skills: budget for workshops and courses; </li><li>EBANX Flexible: Birthday Day Off; </li><li>Semi-flexible hours (8 hours a day - Monday to Friday); </li><li>EBANX Family: Daycare assistance, extended leave for caregivers and support program for children and pregnant women; </li><li>EBANX Health: Health and Dental Insurance, with subsidy for dependents and medicine subsidy for ebankers; </li><li>Life Insurance: Life Insurance 100% paid by EBANX; </li><li>Blue Club: Exclusive discount for ebankers in bakeries, restaurants, courses, electronics stores, and more! </li> </ul><p>Follow us on LinkedIn and check out our Instagram to learn more about the #ebanxlife. </p><p>#LI-JC1<br>#LI-HYBRID </p><p>Create a Job Alert </p><p>Interested in building your career at EBANX? Get future opportunities sent straight to your email. </p><h3>Apply for this job </h3><p>* </p><p>indicates a required field </p><p>First Name * </p><p>Last Name * </p><p>Preferred First Name </p><p>Email * </p><p>Phone </p><p>Resume/CV </p><p>Enter manually </p><p>Accepted file types: pdf, doc, docx, txt, rtf </p><p>Enter manually </p><p>Accepted file types: pdf, doc, docx, txt, rtf </p><p>LinkedIn Profile </p><p>Privacy Notice * Select... </p><p>By applying for jobs at EBANX, you declare that you have read our Privacy Notice and agree to the use of your data by EBANX. * </p><p>Your agreement with our Notice is fundamental for EBANX to take all the necessary steps to start the application process, such as contacting you, scheduling and conducting interviews, and registering you as a candidate in our systems. </p><p>EBANX will store your data for the duration of the application process and, after it has ended, for a further 5 years. If you wish to have your data deleted before then, please contact EBANX via our Privacy Portal. </p><p>Level of English * Select... </p><p>Select... </p><p>Demographic Information * Select... </p><p>We believe it is possible to create a diverse, equal and inclusive environment. That is why we have prepared a questionnaire that addresses demographic issues by collecting sensitive personal data. The information collected is part of our efforts to monitor our evolution, so filling it out is <strong>optional </strong>, but we invite you to do so. Filling in or refusing to provide these details will in no way affect your hiring process, but it will help us to get to know the people who apply to EBANX better. Check out this link for more information to support your decision on whether or not to provide consent for the processing of this data. </p><p><br>By selecting the \"Agree\" option in this section, you register your free, express, informed, and unequivocal expression of awareness about the processing of sensitive data and consent to the processing of this data. This means that you agree to the legal entity EBANX Ltda., CNPJ  / , headquartered at Rua Marechal Deodoro, 630, Praça San Marco, CEP  , Centro, Curitiba, PR, processing your personal data under the terms listed. </p><p>You declare yourself a person (select the option that best defines your race/skin color): * Select... </p><p>Select which gender identity you identify with: * Select... </p><p>Select which sexual orientation you identify with: * Select... </p><p>Are you a person with a disability? * Select... </p><p>If you are a person with a disability and you answered yes in the previous question, please indicate what disability you have: * Select... </p> #J-18808-Ljbffr",
-    "company": "Ebanx group",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415751__1953?utm_source=1953&utm_medium=feed&keyword=Global-Compensation-and&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Database Administration Engineer (Remote)",
-    "description": "<p>APM Terminals </p><p>Global DBA Engineer </p><p><b>Business Unit:  </b>APM Terminals </p><p><b>Locations: </b> Brazil (remote)<br></p><p><b>Job classification:  </b>3 </p><p><b>PURPOSE </b> </p><p>APM Terminals, a global leader in port and terminal operations and part of the A.P. Moller-Maersk Group, is committed to delivering world-class container handling, logistics solutions, and maritime services. With operations in over 70 countries, we foster a culture of innovation, collaboration, and operational excellence, all while driving sustainable growth and making a positive impact on communities worldwide.<br></p><p>At APM Terminals, we offer exceptional opportunities for personal and professional development in a diverse and inclusive environment. Join us as we shape the future of global trade and redefine industry standards. </p><p>The<b>Global DBA Engineer </b> <b>(DBA) </b> role is responsible for the performance, integrity, security, and availability of databases within the organization. The role encompasses both strategic and operational duties, including the efficient storage of data, maintaining access reliability, and protection against data loss or unauthorized access. The DBA will collaborate closely with terminal and regional infrastructure teams to uphold current standards, implement robust backup and recovery policies, and carry out database tuning and performance monitoring to support business continuity and system optimization.  </p><p><b>Principle Accountabilities </b> </p><ul><li>We are looking for DBA with experience mainly in SQL-Server. </li><li>Install and maintain the performance of database servers. </li><li>Install and maintain HA scenarios AON, replication. </li><li>knowledge of database security, backup and recovery, and performance monitoring standards </li><li>Develop processes for optimizing database security. </li><li>Set and maintain database standards. </li><li>Manage database access. </li><li>Performance tuning of database systems. </li><li>Install, upgrade, and manage database applications. </li><li>Diagnose and troubleshoot database errors. </li><li>Triage reported issues to accurately identify, escalate, and respond to urgent or critical matters in support of terminal operations. </li><li>Identify root causes of outages and issues and prepare plans for permanent changes to eliminate/reduce chronic issues or establish SOPs for resolution by ‘shift left’ resources </li><li>Recommend and implement emerging database technologies. </li><li>Create and manage database reports, visualizations, and dashboards. </li><li>Create automation for repeating database tasks. </li><li>Work with the Global N4 Migration Team on all N4 upgrades. </li><li>Document implementation & deployment plans </li><li>Be available for on-call support as needed. </li><li>Valuable Oracle DBA experience </li><li>In cooperation with TOS app, deliver 24x7x365 (follow the sun) support to end users and system consumers N4 and related applications.Expand support model to all locations globally. </li> </ul><p>The above outlined responsibilities are not exhaustive, and you may be required to carry out other tasks that are appropriate to your role in addition to these. </p><p><b>CRITICAL QUALIFICATIONS/SKILLS/EXPERIENCE </b> </p><ul><li>Bachelor’s degree in computer science or a related field preferred </li><li>Over three years of experience in database administration, information technology, database architecture, or a related field </li><li>MCSE/MCSA certifications preferred </li><li>Experience with Windows Server environments preferred </li><li>Good communication skills </li><li>Fluent in English. Spanish is valuable. </li><li>Adaptable to different cultures. </li><li>Willingness and availability to travel. </li> </ul><p>#LI-MM1 </p><p>Maersk is committed to a diverse and inclusive workplace, and we embrace different styles of thinking. Maersk is an equal opportunities employer and welcomes applicants without regard to race, colour, gender, sex, age, religion, creed, national origin, ancestry, citizenship, marital status, sexual orientation, physical or mental disability, medical condition, pregnancy or parental leave, veteran status, gender identity, genetic information, or any other characteristic protected by applicable law. We will consider qualified applicants with criminal histories in a manner consistent with all legal requirements. </p><p>We are happy to support your need for any adjustments during the application and hiring process. If you need special assistance or an accommodation to use our website, apply for a position, or to perform a job, please contact us by emailing  . </p> #J-18808-Ljbffr",
-    "company": "APM Terminals",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415757__1953?utm_source=1953&utm_medium=feed&keyword=Database-Administration-Engineer&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Salesforce CPQ Analyst (Remote)",
-    "description": "<p>Join to apply for the <strong>Salesforce CPQ Analyst (Remote) </strong> role at <strong>Percona </strong> </p><p>1 day ago Be among the first 25 applicants </p><p>Join to apply for the <strong>Salesforce CPQ Analyst (Remote) </strong> role at <strong>Percona </strong> </p><p>We are seeking an experienced Salesforce CPQ Specialist to join our team and take ownership of our Configure-Price-Quote (CPQ) system within the Salesforce ecosystem. The ideal candidate will be responsible for designing, implementing, and optimizing Salesforce CPQ solutions to improve sales efficiency, quoting accuracy, and revenue operations.<br>You will collaborate closely with cross-functional teams including Sales, Finance, Product, and IT to translate complex business needs into scalable, robust Salesforce CPQ configurations.<br><strong>What Will You Do:<br></strong><ul><li>Design, develop, configure, and maintain Salesforce CPQ solutions to support business processes including quoting, pricing, approvals, and product configurations. </li><li>Analyze existing CPQ processes and recommend improvements to enhance automation and efficiency. </li><li>Build and manage CPQ product bundles, pricing rules, discount schedules, lookup tables, quote templates, and approval workflows. </li><li>Work with stakeholders to gather requirements, document solutions, and manage the end-to-end implementation lifecycle. </li><li>Ensure data integrity and system reliability by developing test plans and conducting regular audits. </li><li>Create and maintain detailed technical documentation for all configurations and processes. Provide ongoing support, troubleshooting, and training to empower our end-users. </li><li>Collaborate with Salesforce developers and admins to integrate CPQ with other Salesforce clouds and third-party systems (e.g., ERP, billing, e-signature). </li><li>Stay current with Salesforce CPQ best practices, updates, and releases.<br></li> </ul><strong>What Have You Done:<br></strong><ul><li>3–6+ years of hands-on experience with Salesforce CPQ (SteelBrick). </li><li>Strong understanding of CPQ concepts such as product configuration, pricing models, discounting, and quoting. </li><li>Proven experience with Salesforce platform (Sales Cloud in particular), including custom objects, workflows, Process Builder, Flow, with basic knowledge of APEX and LWC preferred. </li><li>Ability to create complex CPQ rules: Price Rules, Product Rules, Summary Variables, Configuration Attributes, etc. </li><li>Experience with integrated CLM tools (e.g., DocuSign, Conga, Ironclad). </li><li>Strong analytical, problem-solving and debugging skills. </li><li>Excellent communication skills and ability to collaborate with technical and non-technical teams. </li><li>Salesforce CPQ Specialist Certification required.<br></li> </ul><strong>What Will Make You Stand Out:<br></strong><ul><li>Salesforce Administrator, Platform App Builder and Advanced Admin Certification. </li><li>Experience working in Agile/Scrum environments. </li><li>Familiarity with B2B SaaS pricing models. </li><li>Experience with multi-currency and multi-language Salesforce orgs.<br></li> </ul><strong>Why Percona?<br></strong>At Percona, we believe an open world is a better world. Our mission is to enable everyone to innovate freely, by providing the best open source database software, support, and services. We make databases and applications run better through a unique combination of expertise and open source software built with the community for you. Our technical teams are experts in MySQL, MongoDB, PostgreSQL, and MariaDB.<br>Percona is proud to be a remote-only and globally dispersed workforce – we have colleagues in more than 50 countries! We offer a collaborative, highly-engaged culture where your ideas are welcome and your voice is heard.<br>Our staff receives generous benefits including flexible work hours and various paid time off programs, all your equipment for your remote office, funds for career development (external training, certifications, conferences), ongoing connectivity allowances, and the opportunity to participate in our equity incentive plan. We also have benefits that support a healthy work/life balance such as The Percona Adventure Team, Work-from-Anywhere, FlowDays, FryDays, and overall flexibility. We also support being socially responsible through our PAVE volunteering program and Women Transforming Technology.<br>If you love the idea of working with a high-growth tech company that is one of the best in the business and known globally as a leader in the open-source database space, let’s talk!<br>Connect with us and stay up to date on our latest news and developments by following us on LinkedIn and Twitter. We look forward to connecting with you!<br></p><h3>Seniority level </h3><ul><li><h3>Seniority level </h3>Mid-Senior level </li> </ul><h3>Employment type </h3><ul><li><h3>Employment type </h3>Full-time </li> </ul><h3>Job function </h3><ul><li><h3>Job function </h3>Business Development and Sales </li><li><h3>Industries </h3>Software Development </li> </ul><p>Referrals increase your chances of interviewing at Percona by 2x </p><h3>ANALISTA DE SUPORTE JR - PRESENCIAL/SP - RHA3403 </h3><h3>Enterprise Solutions Engineer – Python & SQL Expert </h3><p>We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI. </p> #J-18808-Ljbffr",
-    "company": "Percona",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415834__1953?utm_source=1953&utm_medium=feed&keyword=Salesforce-CPQ-Analyst&location=Salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Consultor comercial de Investimentos",
-    "description": "<h3>Overview </h3> </br><p>R$2,500.00/mo - R$2,500.00/mo </p> </br><p>Candidate-se rapidamente pelo email:   </p> </br><p><b>Nível: </b> Consultor </p> </br><p><b>Escolaridade: </b> Ensino médio - Completo </p> </br><p><b>Tipo de contrato: </b> PJ </p> </br><p><b>Jornada de trabalho: </b> Jornada adaptável </p> </br><p><b>Disponibilidade para home-office </b> </p> </br><h3>Responsabilidades Da Posição </h3> </br><ul> </br><li>Atuar de forma híbrida em SDR (prospecção) e Closer (fechamento); </li> </br><li>Utilizar a própria rede de contatos para gerar novas oportunidades de investimento; </li> </br><li>Identificar e abordar potenciais investidores; </li> </br><li>Estruturar e personalizar propostas comerciais; </li> </br><li>Conduzir reuniões de apresentação, negociação e fechamento com investidores estratégicos; </li> </br><li>Manter relacionamento com a base de contatos ativa; </li> </br><li>Contribuir com ideias criativas para fortalecer a área comercial e apoiar a construção da estratégia de marketing; </li> </br><li>Atuar como ponte entre a startup e os investidores, garantindo clareza e transparência nas negociações </li> </br> </ul> </br><h3>Requisitos Obrigatórios Para a Posição </h3> </br><ul> </br><li>Experiência em vendas consultivas, preferencialmente no mercado de investimentos, startups ou serviços de alto valor agregado; </li> </br><li>Habilidade para prospectar e converter oportunidades sem depender de leads prontos; </li> </br><li>Boa comunicação, negociação e fechamento; </li> </br><li>Organização e disciplina para trabalhar em modelo remoto (contrato PJ). </li> </br> </ul> </br><h3>Sobre a Empresa </h3> </br><p>Startup em expansão na área de tecnologia e inovação, já com investidores ativos, busca um Consultor Comercial (PJ, remoto) para atuar de forma estratégica na prospecção de novos investidores e no relacionamento comercial. A função exige perfil ativo, criativo e com visão de crescimento, voltado tanto para resultados comerciais quanto para oportunidades futuras. Estamos em busca de consultor comercial PJ </p> #J-18808-Ljbffr",
-    "company": "abler Vagas",
-    "city": "Salvador",
-    "state": "Bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___70_5415974__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-comercial-de&location=Salvador&geoID=7530",
     "tipo": ""
   }
 ]
