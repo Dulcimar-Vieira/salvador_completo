@@ -1,5 +1,59 @@
 [
   {
+    "title": "Programador Ruby",
+    "description": "<p><b>Descrição da Empresa: </b> OniLearning Technology é uma edtech brasileira cujo objetivo é melhorar a aprendizagem, permitindo que pessoas organizem e criem seu próprio conteúdo educacional. Utilizamos aplicativos móveis que facilitam o processo de aprendizagem, envolvendo professores, alunos e escolas, do ensino fundamental ao ensino superior. Para alunos, OniLearning funciona como um caderno digital inteligente e interativo, enquanto para professores oferece a criação de material didático personalizado. As instituições educacionais economizam custos e aprimoram a qualidade da educação com o uso de OniLearning. Juntem-se a nós nessa revolução educacional! </p><p><br></p><p><b>Descrição do Cargo: </b> Estamos buscando um Programador Ruby para integrar nossa equipe. Este cargo envolve desenvolver, manter e melhorar nossas aplicações Ruby, colaborando com outros desenvolvedores e equipes de produto para entregar soluções de alta qualidade. O profissional será responsável por garantir a performance e a escalabilidade dos sistemas, além de implementar novas funcionalidades e corrigir bugs. Este é um cargo de tempo integral e remoto. </p><p><br></p><p><b>Qualificações: </b> </p><ul><li><b>Desenvolvimento em Ruby: </b> Necessário experiência em programação com Ruby e Ruby on Rails, desenvolvimento de aplicativos web e APIs. </li><li><b>Design de Software: </b> Habilidades em design de software, práticas de codificação limpa e arquitetura de sistemas. </li><li><b>Controle de Versão: </b> Familiaridade com ferramentas de controle de versão, como Git, para gerenciar e compartilhar código. </li><li><b>Trabalho em Equipe: </b> Capacidade de colaborar efetivamente com equipes multifuncionais, habilidades de comunicação e resolução de problemas. </li><li>Serão considerados diferenciais conhecimentos em outras linguagens de programação, experiência em metodologias ágeis e formação na área de Tecnologia da Informação ou afins. </li> </ul><p><br></p><p>Interessado? Envie seu currículo diretamente ao nosso head: Paulo Afonso C. Arruda, pelo e-mail: </p><p><br></p> <p><br></p><p>A ONIlearning Technology agradece antecipadamente o seu interesse em fazer parte de nosso time de campeões! </p><p><br></p><p>Paulo Afonso Cardoso de Arruda </p><p>Head de Operações e Tecnologia </p><p>ONIlearning Technology </p> <p><br></p>",
+    "company": "OniLearning",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_907461__1953_2803fca2d276b0887a650129a913c33c?utm_source=1953&utm_medium=feed&keyword=Programador-Ruby&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "<p><b>We are still looking for talent… and we would love for you to join our team! </b> </p><p>For over 25 years, UST has worked alongside the world’s best companies to make a real impact through business transformation. Driven by technology, inspired by people, and guided by our purpose, UST supports clients from design to implementation. Together, with more than 30,000 employees in 30 countries, we build to create limitless impact, reaching billions of lives in the process. </p><p><br></p><p><b>About the Role:  </b>we’re looking for a talented Machine Learning Engineer to join our growing AI team! </p><p><br></p><p><b>About the Role </b> </p><p>As an ML Engineer on our team, you will design, train, fine-tune, and deploy ML/LLM models that power autonomous exception resolution, anomaly detection, and explainable insights. You’ll work hands-on with multiple LLM ecosystems like OpenAI GPT, Anthropic Claude, Google Gemini, and Meta LLaMA. You will implement retrieval-augmented generation (RAG) pipelines, develop prompt engineering and safety techniques, and integrate memory and explainability into agentic workflows. </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li>Design, train, fine-tune, and deploy ML/LLM models for production. </li><li>Build RAG pipelines using vector databases and frameworks such as LangChain, LangGraph, and MCP. </li><li>Develop prompt engineering, optimization, and safety techniques for agentic LLM interactions. </li><li>Collaborate with data engineering to maintain data pipelines for ML workloads. </li><li>Conduct feature engineering and embeddings generation on structured and unstructured data. </li><li>Implement model monitoring, drift detection, and retraining pipelines. </li><li>Explore emerging LLM/SLM architectures and multi-agent orchestration patterns. </li><li>Collaborate cross-functionally with R&D, data science, product, and engineering teams. </li><li>Mentor junior engineers and contribute to best practices in ML engineering. </li> </ul><p><br></p><p><b>Required Qualifications </b> </p><ul><li>Bachelor’s or Master’s degree in Computer Science, Data Science, Machine Learning, or related field. </li><li>3+ years building and deploying ML systems. </li><li><b>English advance (B2)  </b> </li><li>Strong Python skills and experience with PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers. </li><li>Hands-on experience with LLMs/SLMs including fine-tuning, prompt design, and inference optimization. </li><li>Familiarity with at least two of the following: OpenAI GPT, Anthropic Claude, Google Gemini, Meta LLaMA. </li><li>Knowledge of vector databases, embeddings, and RAG pipelines. </li><li>Experience working with both structured and unstructured data at scale. </li><li>Understanding of SQL and distributed data frameworks like Spark or Ray. </li><li>Deep knowledge of ML lifecycle: data preparation, training, evaluation, deployment, and monitoring. </li> </ul><p><b>Preferred Qualifications </b> </p><ul><li>Experience with agentic frameworks (LangChain, LangGraph, MCP, AutoGen). </li><li>Understanding of AI safety, guardrails, and explainability. </li><li>Hands-on experience deploying ML/LLM solutions on AWS, GCP, or Azure. </li><li>Familiarity with MLOps practices including CI/CD, monitoring, and observability. </li><li>Background in anomaly detection, fraud/risk modeling, or behavioral analytics. </li><li>Contributions to open-source AI/ML projects or research publications. </li> </ul><p><br></p><p>UST is waiting for you! </p>",
+    "company": "UST España & Latam",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_907592__1953?utm_source=1953&utm_medium=feed&keyword=Machine-Learning-Engineer&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "description": "<p><b>We are still looking for talent… and we would love for you to join our team! </b> </p><p>For over 25 years, UST has worked alongside the world’s best companies to make a real impact through business transformation. Driven by technology, inspired by people, and guided by our purpose, UST supports clients from design to implementation. Together, with more than 30,000 employees in 30 countries, we build to create limitless impact, reaching billions of lives in the process. </p><p><br></p><p><b>About the Role:  </b>we’re looking for a talented Machine Learning Engineer to join our growing AI team! </p><p><br></p><p><b>About the Role </b> </p><p>As an ML Engineer on our team, you will design, train, fine-tune, and deploy ML/LLM models that power autonomous exception resolution, anomaly detection, and explainable insights. You’ll work hands-on with multiple LLM ecosystems like OpenAI GPT, Anthropic Claude, Google Gemini, and Meta LLaMA. You will implement retrieval-augmented generation (RAG) pipelines, develop prompt engineering and safety techniques, and integrate memory and explainability into agentic workflows. </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li>Design, train, fine-tune, and deploy ML/LLM models for production. </li><li>Build RAG pipelines using vector databases and frameworks such as LangChain, LangGraph, and MCP. </li><li>Develop prompt engineering, optimization, and safety techniques for agentic LLM interactions. </li><li>Collaborate with data engineering to maintain data pipelines for ML workloads. </li><li>Conduct feature engineering and embeddings generation on structured and unstructured data. </li><li>Implement model monitoring, drift detection, and retraining pipelines. </li><li>Explore emerging LLM/SLM architectures and multi-agent orchestration patterns. </li><li>Collaborate cross-functionally with R&D, data science, product, and engineering teams. </li><li>Mentor junior engineers and contribute to best practices in ML engineering. </li> </ul><p><br></p><p><b>Required Qualifications </b> </p><ul><li>Bachelor’s or Master’s degree in Computer Science, Data Science, Machine Learning, or related field. </li><li>3+ years building and deploying ML systems. </li><li><b>English advance (B2)  </b> </li><li>Strong Python skills and experience with PyTorch, TensorFlow, Scikit-Learn, Hugging Face Transformers. </li><li>Hands-on experience with LLMs/SLMs including fine-tuning, prompt design, and inference optimization. </li><li>Familiarity with at least two of the following: OpenAI GPT, Anthropic Claude, Google Gemini, Meta LLaMA. </li><li>Knowledge of vector databases, embeddings, and RAG pipelines. </li><li>Experience working with both structured and unstructured data at scale. </li><li>Understanding of SQL and distributed data frameworks like Spark or Ray. </li><li>Deep knowledge of ML lifecycle: data preparation, training, evaluation, deployment, and monitoring. </li> </ul><p><b>Preferred Qualifications </b> </p><ul><li>Experience with agentic frameworks (LangChain, LangGraph, MCP, AutoGen). </li><li>Understanding of AI safety, guardrails, and explainability. </li><li>Hands-on experience deploying ML/LLM solutions on AWS, GCP, or Azure. </li><li>Familiarity with MLOps practices including CI/CD, monitoring, and observability. </li><li>Background in anomaly detection, fraud/risk modeling, or behavioral analytics. </li><li>Contributions to open-source AI/ML projects or research publications. </li> </ul><p><br></p><p>UST is waiting for you! </p>",
+    "company": "UST España & Latam",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_907808__1953?utm_source=1953&utm_medium=feed&keyword=Machine-Learning-Engineer&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Sap Materials Management Consultant",
+    "description": "<p>Come to one of the biggest IT Services companies in the world!! Here you can transform your career!  </p> <p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment.  </p> <p>We are looking for <b>SAP MM/DRC- S/4HANA,Remote mode  </b> who wants to learn and transform his career.  </p> <p><b>In this role you will: (responsibilities) </b>  </p> <p>Must Have </p><p>Functional experience with SAP MM, integration with other application, Brazilian SAP Localization knowledge, NFe knowledge and enhancements to supply processes specially with SAP DRC, Experience with Project, Upgrade, Implementation and Rollout Projects. Experience with SAP DRC inbound. </p><p><br></p><p>Good to Have </p><p>Experience working with multiple teams in different regions. </p><p>Experience with SAP DRC outbound. </p><p>SAP S/4HANA Rise experience. </p><p>As a Functional Consultant, will be responsible for work in Blueprint requitements, back to standard on SAP Localization main topics for Brazil, SAP Customizing/Settings, SAP Notes support to Basis and ABAP team, Unit testing execution, Business and User Acceptance testing support, Transition of requirements to customer stakeholders, key users training, Hypercare/stabilization support (+7yrs experience). </p><p>As a Functional Consultant, will be responsible for resolving any SAP issues reported by the business users and delivering all enhancements and upgrade issues as required by business users. </p><p>Lead the end-to-end implementation of SAP DRC NF-e projects, including requirement gathering, configuration, testing, and deployment. </p><p>Customize and optimize SAP DRC solutions to ensure seamless electronic invoicing (NF-e) compliance in Brazil or other supported jurisdictions. </p><p>Ensure accurate integration of SAP DRC with external systems, including government tax portals and legacy systems. </p><p>Provide subject matter expertise on local tax regulations and compliance requirements for e-invoicing. </p><p>Identify risks and proactively develop mitigation strategies during the project lifecycle. </p><p>Conduct user training, support issue resolution, and provide go-live assistance. </p><p>Maintain documentation for processes, configurations, and project changes. </p><p>Responsible for completing all tasks assigned by team lead and project manager. </p><p>Responsible for reviewing solutions designed by the team members and proposing improvements. </p><p>Responsible for proactively working with business users for identifying and resolving recurring issues. </p><p>Experience in a Professional Consumers and package (CPG) company is an asset.  </p> <p><b>What can you expect from us? </b>  </p> <p>• Professional development and constant evolution of your skills, always in line with your interests.  </p><p>• Opportunities to work outside Brazil  </p><p>• A collaborative, diverse and innovative environment that encourages teamwork.  </p> <p><b>What do we offer? </b>  </p> <p>TCS Benefits – Brazil:  </p><p>Health insurance  </p><p>Dental Plan  </p><p>Life insurance  </p><p>Transportation vouchers  </p><p>Meal/Food Voucher  </p><p>Childcare assistance  </p><p>Gympass  </p><p>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates  </p><p>Partnership with SESC  </p><p>Reimbursement of Certifications  </p><p>Free TCS Learning Portal – Online courses and live training  </p><p>International experience opportunity  </p><p>Discount Partnership with Universities and Language Schools  </p><p>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire  </p><p>TCS Gems – Recognition for performance  </p><p>Xcelerate – Free Mentoring Career Platform  </p> <p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer!  </p><p><br></p><p><b>#Buildingonbelief  </b> </p><p><br></p><p><b>ID:   </b> </p>",
+    "company": "Tata Consultancy Services",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_908211__1953?utm_source=1953&utm_medium=feed&keyword=Sap-Materials-Management&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Salesforce",
+    "description": "<p><b>Quem Somos </b> </p><p>A Dexian, lançada em 2023, tem presença global e traz consigo quase 30 anos de experiência através de suas companhias legadas, principalmente da combinação da DISYS e Signature Consultants. </p><p><br></p><p>Iniciamos no Brasil 2007 como DISYS e, de lá para cá, conquistamos mais de 50 clientes de diferentes setores da economia. Como Dexian, passamos a ser uma das maiores empresas de contratação e solução de TI e estamos liderando a indústria por meio de entrega de serviços exclusivos que combina escala global, recursos de serviço completo e agilidade tática para modernizar modelos de contratação, avançar em soluções de mão-de-obra e transformar a infraestrutura tecnológica. Contamos com escritórios estrategicamente localizados em quatro grandes capitais: Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) e São Paulo (SP). Assim, conseguimos nos manter próximos dos nossos clientes e consultores. Também somos uma Minority Owner Company e nos sentimos orgulhosos de termos nascido na diversidade. </p><p><br></p><p><b>O que esperar de nós </b> </p><p>Pessoas estão no centro de nossa estratégia e compõem o nosso maior capital. Temos compromisso de atrair, reter os maiores e melhores talentos e construir conexões reais para a vida. Por isso, atuamos como ponte entre profissionais altamente qualificados e oportunidades consistentes e prósperas. Acreditamos que, trazer o talento, a tecnologia e as organizações certas juntos, ajuda a desbloquear resultados transformadores e alcançar novos níveis de sucessos para os clientes que atendemos e os consultores que contratamos. E para isso, cinco valores fundamentais nos guiam: Integridade, Transparencia, Autenticidade, Engenhosidade e Empatia. Compartilha dos mesmos valores, aqui é seu lugar! Que tal desenvolver sua carreira conosco? </p><p>Na Dexian, valorizamos a diversidade. </p><p>Acreditamos que diferentes perspectivas, experiências e trajetórias impulsionam a inovação e fortalecem conexões. Por isso, nosso processo de contratação é inclusivo, aberto a candidatos de todas as identidades, habilidades e histórias. Aqui, o que importa é o talento. </p><p><br></p><p><b>O que esperar do seu dia a dia de trabalho </b> </p><ul><li>Ser o especialista técnico em Salesforce para as equipes internas. </li><li>Desenvolver e integrar soluções dentro das plataformas Salesforce (Marketing Cloud, Pardot, Commerce Cloud e Experience Cloud). </li><li>Trabalhar com metodologias ágeis (Scrum, SAFe). </li><li>Criar e usar APIs para integrar o Salesforce com o Azure. </li><li>Gerenciar código e automações com GitHub e CI/CD (GitHub Actions). </li><li>Produzir documentação técnica clara. </li><li>Colaborar com equipes internas para entender necessidades e validar entregas. </li> </ul><p><br></p><p><b>O que você precisa ter: </b> </p><ul><li>Mínimo de 4 anos de experiência com Salesforce. </li><li>Domínio de Marketing Cloud, Pardot, Commerce Cloud e Experience Cloud. </li><li>Experiência com Scrum ou SAFe. </li><li>Saber usar GitHub e pipelines de CI/CD (GitHub Actions). </li><li>Experiência com integrações via API entre Salesforce e Azure. </li><li>Boa habilidade de documentação técnica. </li><li>LWC (Lightning Web Components) </li><li>Apex (classes e triggers) </li><li>Flow </li><li>Experience Cloud Builder </li><li>Integração com APIs externas </li><li>Salesforce Commerce Cloud </li><li>Flosum </li><li>Objetos padrão e personalizados </li><li>Conhecimento em Snowflake (banco de dados na nuvem). </li><li><b>Inglês Avançado/Fluente  </b> </li> </ul><p><br></p><p><b>Onde você vai trabalhar? </b> </p><p>No conforto da sua casa. Regime 100% Home Office </p><p><br></p><p><b>Benefícios para você: </b> </p><ul><li>Vale Refeição </li><li>Vale Alimentação </li><li>Assistência Médica </li><li>Assistência Odontológica </li><li>Seguro de Vida </li><li>Gym Pass </li><li>Auxílio Pet </li> </ul><p><br></p><p><b>Além disso, oferecemos: </b> </p><ul><li>Incentivo a estudo após completar 1 ano de Dexian </li><li>Programa de desenvolvimento e treinamentos </li><li>Formação através da Trilha de Liderança </li> </ul>",
+    "company": "Dexian",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_908234__1953?utm_source=1953&utm_medium=feed&keyword=Salesforce&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "SAP Data Migration coordinator",
+    "description": "<p><b>About the Company: </b> Client is global pharma company and role is till March 27, with possible extension till 2028 </p><p><br></p><p><br></p><p><b>About the Role: </b> SAP S4 Data migration coordinator </p><p><br></p><p><br></p><p><b>Responsibilities: </b> </p><p><br></p><p><br></p><ul><li>Has strong functional knowledge in the across SAP functional areas from data migration perspective </li><li>Has strong Data migration knowledge </li><li>understands integration between SAP modules and data objects and their load sequence </li><li>Have done MOCK and ETL cycle planning </li><li>Understands entire ETL cycle </li><li>Responsible to drive data migration activities for project </li><li>Responsible to verify the data transformation tools and outputs for deployment wave projects. </li><li>Interacts with Business Data Owners, Functional teams, DM technical team members, legacy teams, etc. </li><li>Defect resolution and coordination for object(s) under responsibility. </li><li>Coordinates all aspects of data migration execution for assigned objects. </li><li>Drives other migration activities like data verification, cleansing, fields mapping, loads etc. </li><li>Has strong hand-on on excel </li> </ul><p><br></p><p><br></p><p><b>Qualifications: </b> </p><p><br></p><p><br></p><ul><li>Data migration and excel knowledge </li> </ul><p><br></p><p><br></p><p><b>Required Skills: </b> </p><p><br></p><p><br></p><ul><li>Data migration and excel knowledge </li> </ul><p><br></p><p><br></p><p><b>Pay range and compensation package: </b> </p><p><br></p><p><br></p><ul><li>Corp to Corp </li><li>300-350 EUR / day negotiable based on interview </li> </ul><p><br></p><p><br></p><p><b>Equal Opportunity Statement: </b> We are committed to diversity and inclusivity. </p>",
+    "company": "Infinity Tech solutions LLC",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_908259__1953?utm_source=1953&utm_medium=feed&keyword=SAP-Data-Migration&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
     "title": "Public Relations Manager - LATAM",
     "description": "<p><b>About Cooler Master </b> </p><p>Cooler Master is a global computer hardware manufacturer founded in 1992 in Taiwan. The company is known for its award-winning PC components, including cases, power supplies, cooling solutions, and accessories. </p><p><br></p><p>In addition to retail product lines, Cooler Master also serves as an OEM partner to major technology brands worldwide. The company has grown steadily through a strong focus on innovation, design, and user-driven product development. Headquartered in Taipei, Cooler Master operates manufacturing facilities in China and maintains regional offices across the globe. </p><p><br></p><p><b>Role Overview </b> </p><p>Lead public relations for <b>Latin America (LATAM) </b> to elevate Cooler Master’s visibility across key markets such as Brazil, Mexico, Argentina, and Chile. </p><p> You’ll manage PR execution for launches and ongoing brand activations—aligning local media, translating technical information into engaging stories, and ensuring consistent communication with global and regional marketing teams. </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li><b>Own the LATAM PR Plan </b> – Develop and execute the regional PR calendar and embargo plan; ensure alignment with global launches and LATAM sales priorities. </li><li><b>Build Media Relationships </b> – Cultivate strong connections with top-tier tech and gaming editors, reviewers, and influencers across Portuguese and Spanish-speaking markets. </li><li><b>Host Press Briefings & Events </b> – Lead virtual and local events; manage press lists, invitations, materials, and post-event follow-ups. </li><li><b>Coordinate Product Reviews </b> – Manage the sample allocation, delivery, and follow-up process with regional media outlets. </li><li><b>Partner Collaboration </b> – Drive joint PR opportunities with distributors, e-commerce partners, and brand collaborators. </li><li><b>Content Localization </b> – Adapt global press materials for LATAM audiences to ensure cultural and linguistic accuracy. </li><li><b>Monitor & Report </b> – Track press coverage, analyze media performance metrics, and deliver post-launch summaries. </li><li><b>Maintain Compliance </b> – Ensure consistent application of embargoes, NDA terms, and authorized content usage. </li> </ul><p><br></p><p><b>Qualifications </b> </p><ul><li><b>Education </b>: Bachelor’s or Master’s degree in Communications, Journalism, Marketing, or related field. </li><li><b>Experience </b>: 5–8+ years in tech, consumer electronics, or gaming PR across LATAM. Proven track record in media relations and launch management. </li><li><b>Regional Expertise </b>: </li><li>Strong understanding of LATAM media ecosystem and regional communication styles. </li><li>Existing relationships with major tech and gaming outlets. </li><li><b>Language Skills </b>: </li><li>Fluent in English and either <b>Portuguese </b> or <b>Spanish </b> (bilingual proficiency preferred). </li><li><b>Execution & Measurement </b>: </li><li>Strong organizational skills, ability to manage multiple launches. </li><li>Familiarity with PR metrics such as share of voice and media reach. </li> </ul><p><br></p><p><b>Who You Are </b> </p><ul><li>A proactive communicator with high accountability and attention to detail. </li><li>Skilled at relationship-building across diverse markets and cultures. </li><li>Confident managing embargoes, timelines, and media expectations. </li><li>Adaptable and independent, yet collaborative with global teammates. </li> </ul>",
     "company": "Cooler Master",
@@ -32,7 +86,7 @@
     "company": "Dida",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_908889__1953_0faeaf61f5f5f4fe9d892d047976bcb6?utm_source=1953&utm_medium=feed&keyword=Key-Account-Manager&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_908889__1953_be37df7856439f3d238e4d7adb9c3c00?utm_source=1953&utm_medium=feed&keyword=Key-Account-Manager&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -761,7 +815,7 @@
     "company": "Instituto Nacional de Telecomunicações - Inatel",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_931368__1953_c55221ca049eb851e4578e3db2cb14cc?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-T%C3%A9cnico-III&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_931368__1953_22191e12658236129ccbd6f0a0708306?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-T%C3%A9cnico-III&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1031,7 +1085,7 @@
     "company": "Go Offer",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_940532__1953_3650b4387f5f2ebd3368698730bed362?utm_source=1953&utm_medium=feed&keyword=Quality-Control-Lead&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_940532__1953_8f1ec6f4ce645c305199bba8a35f2e79?utm_source=1953&utm_medium=feed&keyword=Quality-Control-Lead&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1040,7 +1094,7 @@
     "company": "Go Offer",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_940544__1953_0f2d0a36f5a37eb5f465775415b96cfd?utm_source=1953&utm_medium=feed&keyword=Quality-Control-Lead&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_940544__1953_c2c828054583bee8bb724beb6dd8f206?utm_source=1953&utm_medium=feed&keyword=Quality-Control-Lead&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1400,7 +1454,7 @@
     "company": "Concentrix",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_946066__1953_c912f3c82a40b0f9fd8032ab7ef93ab2?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_946066__1953_b8fc705802ce2dbc4627c1fb57004ef5?utm_source=1953&utm_medium=feed&keyword=Recruiter-I&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1526,7 +1580,7 @@
     "company": "iMerit Technology",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_948684__1953_2c940d830345069e1b72e424a94a61d7?utm_source=1953&utm_medium=feed&keyword=English-Language-Specialist&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_948684__1953_37446834b419739a6a137f26e70fcfd5?utm_source=1953&utm_medium=feed&keyword=English-Language-Specialist&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1535,7 +1589,7 @@
     "company": "iMerit Technology",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_948705__1953_514e0625c8e0fb318271519aa488eb18?utm_source=1953&utm_medium=feed&keyword=English-Language-Specialist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_948705__1953_a5b9647b1ce03d85741dbc08c2bb28a0?utm_source=1953&utm_medium=feed&keyword=English-Language-Specialist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1706,7 +1760,7 @@
     "company": "CENTAURO",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_951729__1953_d9d4e2c7ebbdc8f7c3bc06a7827c1683?utm_source=1953&utm_medium=feed&keyword=Analista-de-desenvolvimento&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_951729__1953_374abc413c0c5769baf6d8d0ec1ff32f?utm_source=1953&utm_medium=feed&keyword=Analista-de-desenvolvimento&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2084,7 +2138,7 @@
     "company": "Zapt Movers",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_960250__1953_c907fae42b670abbcda7023652edc6d1?utm_source=1953&utm_medium=feed&keyword=Chief-Financial-Officer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_960250__1953_cf64f0c614f17d0d7df5909c0dfaa37a?utm_source=1953&utm_medium=feed&keyword=Chief-Financial-Officer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2219,7 +2273,7 @@
     "company": "Stefanini Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_967219__1953_bbb8729ae13410f6bf1b7297c42af346?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-net-pleno&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_967219__1953_fb4014b0c0e30ac897cd0f8385661644?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-net-pleno&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2561,7 +2615,7 @@
     "company": "HCLTech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_976634__1953_fd008298e162c1b428af02af99f88529?utm_source=1953&utm_medium=feed&keyword=Sr-SAP-Developer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_976634__1953_6e61b5c9a724c173aca1a360bbe46e88?utm_source=1953&utm_medium=feed&keyword=Sr-SAP-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2660,7 +2714,7 @@
     "company": "Aegea Saneamento",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_978311__1953_b172d51c15a0ec5cd767cbbf17356744?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Engenharia&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_978311__1953_c6cae138f968ae782b7a28692cea6591?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Engenharia&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2930,7 +2984,7 @@
     "company": "MDHealth",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_982552__1953_21c6f1c41e9706b44a67bbe72a3b552f?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-projetos&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_982552__1953_e24c9d7f331c48d54caf66065c3a0a97?utm_source=1953&utm_medium=feed&keyword=L%C3%ADder-de-projetos&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3353,7 +3407,7 @@
     "company": "Turing",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_991617__1953_66bf67748782ab20a4e2694200188308?utm_source=1953&utm_medium=feed&keyword=Payroll-Administrator&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_991617__1953_665c9f5c2ba742811ac9cbd3cbf73ab9?utm_source=1953&utm_medium=feed&keyword=Payroll-Administrator&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3362,7 +3416,7 @@
     "company": "Turing",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_991619__1953_adcd5d9d22afe648f1557ba5637ac588?utm_source=1953&utm_medium=feed&keyword=Payroll-Administrator&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_991619__1953_68f8f6e235f1ad153a9d7f58628b6fac?utm_source=1953&utm_medium=feed&keyword=Payroll-Administrator&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3713,7 +3767,7 @@
     "company": "HCLTech",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1001700__1953_7e2d72bf9e80a0ca47c773f9cbd69694?utm_source=1953&utm_medium=feed&keyword=Sr-SAP-S&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1001700__1953_7578fa29a19d7ef6d27d452b7896003f?utm_source=1953&utm_medium=feed&keyword=Sr-SAP-S&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3992,7 +4046,7 @@
     "company": "Aceolution",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1008724__1953_829e1c11c512792639dbaf2c26a138a0?utm_source=1953&utm_medium=feed&keyword=Linguist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1008724__1953_969b2ad749f8d501476b3b59ca077e91?utm_source=1953&utm_medium=feed&keyword=Linguist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -4001,7 +4055,7 @@
     "company": "Hitch Equity",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1008734__1953_e21cd55691e56f526615102a77a32c66?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1008734__1953_d9e685ea56903c1f8b14bd9a1e798bb2?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4298,7 +4352,7 @@
     "company": "UX Quest",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1016584__1953_708be5b9652a8850878da3859c61e71d?utm_source=1953&utm_medium=feed&keyword=UX-UI-Designer-Jr&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1016584__1953_27b22b03abcac0a1ddd9c75591a080ff?utm_source=1953&utm_medium=feed&keyword=UX-UI-Designer-Jr&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4379,7 +4433,7 @@
     "company": "Dexian",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1020086__1953_dbb3479d5373a5631ac303dd7a0663d3?utm_source=1953&utm_medium=feed&keyword=Lead-Data-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1020086__1953_92fc6d1ce38540856659b7f5dedf6c71?utm_source=1953&utm_medium=feed&keyword=Lead-Data-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4523,7 +4577,7 @@
     "company": "Teladoc Health",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1023955__1953_b03535d811548f182c2528dc770c5684?utm_source=1953&utm_medium=feed&keyword=M%C3%A9dico-Gastroenterologista&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1023955__1953_96b97fa55ba2e5273cb5981f6e9292ae?utm_source=1953&utm_medium=feed&keyword=M%C3%A9dico-Gastroenterologista&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4532,7 +4586,7 @@
     "company": "Dexian Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1023965__1953_8b50596c0a53da55c6b551830c26a662?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Node&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1023965__1953_20c1afb7973d0a61078cfa78af286790?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Node&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -4613,7 +4667,7 @@
     "company": "T-Systems do Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1025580__1953_d95c490cc9bc0e206012f413dd746912?utm_source=1953&utm_medium=feed&keyword=Developer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1025580__1953_9190e225942d01b2e93d00f9c0173adc?utm_source=1953&utm_medium=feed&keyword=Developer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4748,7 +4802,7 @@
     "company": "Velozient",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1028756__1953_729c6f846cde9fe71d2baa93a83ae2ce?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1028756__1953_39c5d98ba783be2535f7d219a86c0bb0?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4793,7 +4847,7 @@
     "company": "Stefanini Group",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1030298__1953_06eef63a19a86f2e9c4be299b11f22cc?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1030298__1953_529305820081f764330945d5e644359f?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4802,7 +4856,7 @@
     "company": "Dexian Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1030347__1953_587fd7f1083a40041f45526888c95808?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Node&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1030347__1953_f2317edb80946f8b8fed5ca093c2a5fb?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Node&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4874,7 +4928,7 @@
     "company": "Stefanini Group",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1031879__1953_b5ba36b4590bd5ae6c3120f8ebd6f6e4?utm_source=1953&utm_medium=feed&keyword=Data-Solutions-Architect&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1031879__1953_5a65eb5f579f26b492b08c949f5031b4?utm_source=1953&utm_medium=feed&keyword=Data-Solutions-Architect&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5180,7 +5234,7 @@
     "company": "NTT DATA Business Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1040190__1953_56016cbdf385d1220e8a826b1db6b4dd?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-EWM&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1040190__1953_89612a33cdee1be500efbb02ed5af1d6?utm_source=1953&utm_medium=feed&keyword=Consultor-SAP-EWM&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5243,7 +5297,7 @@
     "company": "International Digital Partners",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1042432__1953_66c1ee20a1d51cef8bd96fb5c233932f?utm_source=1953&utm_medium=feed&keyword=Web-Developer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1042432__1953_e9728b26d28c8451ecd809ff5c4a083c?utm_source=1953&utm_medium=feed&keyword=Web-Developer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5540,7 +5594,7 @@
     "company": "SignalPET®",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1047737__1953_86d17c12616b3526483f6b82612302b6?utm_source=1953&utm_medium=feed&keyword=Veterinary-Radiologist&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1047737__1953_ca95ff5cbadc5f9240666bbdb3a9b6d7?utm_source=1953&utm_medium=feed&keyword=Veterinary-Radiologist&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5612,7 +5666,7 @@
     "company": "CAST",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1050456__1953_93e2d9a8db667f94b5492e6f79ddf016?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-php&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1050456__1953_bc11c2f86dcc21f28425ee66c3ff9282?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-php&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6431,7 +6485,7 @@
     "company": "Stone",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1093804__1953_da33d9df13c109ce23704107e221153d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-dados&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1093804__1953_1fd78ab5dae4780cc03f9ab030ad0b5a?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-dados&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6548,7 +6602,7 @@
     "company": "CAST",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1103729__1953_2c7455ba7228e1dfe8562e3832db9677?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-JAVA&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1103729__1953_b36ccfc492b059e1ef8e71788135dcdb?utm_source=1953&utm_medium=feed&keyword=DESENVOLVEDOR-JAVA&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6836,7 +6890,7 @@
     "company": "Aubay Portugal",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1117552__1953_360c5f8d706d8097ef417766cc2ecb4c?utm_source=1953&utm_medium=feed&keyword=Data-Enginner-w&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1117552__1953_8ef37dd11f9df02724550da7697cfb04?utm_source=1953&utm_medium=feed&keyword=Data-Enginner-w&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6845,7 +6899,7 @@
     "company": "Aubay Portugal",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1117563__1953_c8703f9ac0f9928000faa53d3df7c54e?utm_source=1953&utm_medium=feed&keyword=Data-Enginner-w&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1117563__1953_4d62919f7c5dc8dfa2797c1ad7a7ee33?utm_source=1953&utm_medium=feed&keyword=Data-Enginner-w&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7601,7 +7655,7 @@
     "company": "HotMic",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1138465__1953_116bb13cac57d99f783ef3ac8239edfb?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1138465__1953_f55fb93297782a17bf513dfcd255dcce?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7718,7 +7772,7 @@
     "company": "Applaudo",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1143785__1953_adb69ef2f0b40832554eeea95db1e8bf?utm_source=1953&utm_medium=feed&keyword=Ruby-on-Rails&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1143785__1953_df914a0fe1cf976ee4194c0a5c193be6?utm_source=1953&utm_medium=feed&keyword=Ruby-on-Rails&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7727,7 +7781,7 @@
     "company": "Applaudo",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1143802__1953_c5432b87c651691040198952cbf618d8?utm_source=1953&utm_medium=feed&keyword=Ruby-on-Rails&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1143802__1953_bfc7a230de52facd61223eb72ea06ac4?utm_source=1953&utm_medium=feed&keyword=Ruby-on-Rails&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7898,7 +7952,7 @@
     "company": "SuperFrete",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1148959__1953_02ace2babd8ceaeacb550cfb21ed74dc?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-Node&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1148959__1953_062658ee5d953aedaabee8cb2a6fd2d0?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-Node&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7907,7 +7961,7 @@
     "company": "TITAN",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1148968__1953_5e45fd046ebb49595ac70db96d456f04?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Manager&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1148968__1953_077890a38958f8010bfc2125f752e10e?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Manager&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -8051,7 +8105,7 @@
     "company": "Sankhya Gestão de Negócios",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1153072__1953_2ab63cd127139898ebffd462ad64554f?utm_source=1953&utm_medium=feed&keyword=Analista-de-Infraestrutura&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1153072__1953_bf2376bdde9039d020906dca82701ef3?utm_source=1953&utm_medium=feed&keyword=Analista-de-Infraestrutura&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8339,7 +8393,7 @@
     "company": "FOURSYS",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1159473__1953_a983ed968b83b068f68fb50cfe964bca?utm_source=1953&utm_medium=feed&keyword=PO-S%C3%AAnior&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1159473__1953_15dc72480f6d62f25bcfa0331b12e42e?utm_source=1953&utm_medium=feed&keyword=PO-S%C3%AAnior&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8384,7 +8438,7 @@
     "company": "Aegea Saneamento",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1160492__1953_e49bc36b890823f22649ce2e274c7088?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Dados&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1160492__1953_6f065234982043b73fa42914f3229f91?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Dados&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8438,7 +8492,7 @@
     "company": "Albuquerque Paulo & Associados",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1161498__1953_9c85e3d770afd112613027c017b0ee8a?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Financiamentos&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1161498__1953_fd01b306e044c366b6ab2d0bc7d0c8d5?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Financiamentos&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8943,60 +8997,6 @@
     "city": "lauro de freitas",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_1178211__1953?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=lauro-de-freitas&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Profissional Back End – Java e AWS SR",
-    "description": "<p>Código da vaga: 56153 </p><p><br></p><p><b>Sobre a BRQ Digital </b> </p><p><br></p><p>Há 32 anos no mercado, a BRQ Digital Solutions se consolidou como uma das maiores empresas de transformação digital do país. Com uma plataforma de serviços end to end, oferecemos as mais eficientes e inovadoras soluções, tecnologias e metodologias, promovendo uma jornada de transformação para grandes marcas, de diferentes segmentos, no Brasil e no exterior. </p><p><br></p><p>Nossos 2.500 mil funcionários atuam no modelo de trabalho Anywhere Office e a empresa é destaque como um dos melhores lugares para trabalhar pelo GPTW e Glassdoor. </p><p><br></p><p><b>BRQ WAY </b> </p><p><br></p><p>No nosso BRQ WAY temos a missão de conectar, transformar e empoderar cada um dos nossos profissionais, que por aqui são chamados de feras, para que todos tenham a chance de usar sua paixão para transformar o mundo com tecnologia! </p><p><br></p><p>É isso que queremos, com nosso Programa de Diversidade e Inclusão trabalhamos com dois objetivos: equidade e inclusão, buscamos aumentar a participação dos grupos minoritários, quebrar os vieses inconscientes e expandir a conscientização sobre temas tão importantes para que todos sejam livres para serem quem são. </p><p><br></p><p>Vamos transformar juntos! Vem ser fera com a gente. </p><p><br></p><ul><li>Ei desenvolvedor AWS Lambda, venha fazer parte de uma das maiores empresas de transformação digital do país! </li> </ul><p><br></p><p><b>- O que procuramos? </b> </p><p><br></p><p>Buscamos #feras com espírito empreendedor e que sabe que é o verdadeiro protagonista do seu sucesso! Queremos em nosso time pessoas motivadas por desafios, constante evolução e, claro, que são apaixonadas por tecnologia e transformação! </p><p><br></p><p><b>- O que você deve ter?  </b> </p><p><br></p><ul><li>-Sólida experiência em desenvolvimento <b>Java e Kotlin </b>. </li><li>Experiência prática com <b>AWS </b> (ECS, S3, CloudFront, Lambda, API Gateway, EC2, Load Balancer, CloudFormation, Autoscalling e outros serviços). </li><li>Experiêcia com Datadog, Testes Unitários, Testes de Performance e Testes E2E. </li><li>Conhecimentos avançados em Git/Github. </li><li>Experiência com práticas DevOps e CI/CD. </li><li><b>Diferenciais: </b> conhecimento em Terraform para provisionamento de infraestrutura como código e conhecimento em Python para automação de tarefas. </li> </ul><p><br></p><p><br></p><p><b>- O que temos pra te oferecer? </b> </p><p><br></p><p><b>Mais do que um plano de carreira </b>! </p><p><br></p><p>A BRQ acredita que cada fera deve ser protagonista do seu crescimento, tendo autonomia para criar seu próprio plano de desenvolvimento profissional. Nosso plano de carreira é dividido em 4 pilares: </p><p><br></p><p><b>Carreira técnica: </b> Você pode seguir a trilha de crescimento técnico, se o seu objetivo for se desenvolver cada vez mais em diferentes tecnologias. Oferecemos diversos treinamentos! </p><p><br></p><p><b>Carreira de Liderança:  </b>Você pode seguir a trilha e se tornar um líder, desenvolver pessoas, auxiliar na evolução profissional e pessoal e estimular o crescimento para o surgimento de novos talentos. </p><p><br></p><p><b>Experiência internacional: </b> Estamos crescendo cada vez mais fora do Brasil e você tem possibilidade de atuar em projetos para outros países, ou diretamente nos países onde a BRQ tem sede. </p><p><br></p><p><b>Empreendedorismo: </b> De funcionário para sócio! Temos o Innovation Hub, a Corporate Venture que investe em ideias de profissionais que tenham sinergia com nosso negócio. </p><p><br></p><p><b>- E os benefícios? </b> </p><p><br></p><p>Plano de Saúde; Plano Odontológico; Seguro de Vida; Vale Refeição; Vale Alimentação; Horário Flexível; Home Office; Gympass, Telemedicina, Telenutrição, Canal de suporte emocional 24h e muito mais! </p><p><br></p><p><b>- Como é trabalhar na BRQ? </b> </p><p><br></p><p>Temos um clima descontraído, diversos programas e eventos internos. Adoramos comemorar! E fazemos isso muito bem! Veja aqui no Youtube: youtube.com/brqdigitalsolutions </p><p><br></p><p><b>Curtiu? Então inscreva-se e venha para o melhor da Transformação Digital com a gente!  </p> </b>",
-    "company": "BRQ Digital Solutions",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1178253__1953_ae798e7cd647e3ab86f3fac14a0cd6c8?utm_source=1953&utm_medium=feed&keyword=Profissional-Back-End&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Project Manager Tech - Pleno",
-    "description": "<p>Olá! </p><p>Somos a @Runtalent, com DNA inovador, somos consolidados no mercado de tecnologia e especializados em soluções de TI há quase duas décadas. Acompanhamos todos os avanços tecnológicos dos últimos anos e estamos juntos nessa corrida pela transformação digital.  </p>",
-    "company": "Runtalent",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1178945__1953_0889886ab1fccb245d7cfa58e17dd745?utm_source=1953&utm_medium=feed&keyword=Project-Manager-Tech&location=lauro-de-freitas&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "DevOps Engineer",
-    "description": "<p><b>Must-haves: </b> </p><ul><li>3–5 years of professional experience as a DevOps Engineer </li><li>AWS Experience – EC2, Security Groups, Command Line usage </li><li>Terraform Experience – Command line and coding experience to stand up cloud infrastructure, create/modify resources, and update permissions on security groups (following existing formats) </li><li>Linux Environment – Experience with Amazon Linux, system maintenance, troubleshooting, and scripting for installation and deployment </li><li>Scripting & Automation – Ability to write scripts for deployment using Packer or Terraform </li> </ul><p><br></p><p><b>Day-to-Day: </b> </p><p>In this role, you will support infrastructure operations for a suite of software products. Responsibilities include managing permissions, handling one-off requests via Slack, resolving access issues, and supporting releases for new services. You’ll be responsible for patching and maintaining cloud infrastructure, primarily in a Linux environment. You’ll use AWS (EC2, Security Groups) and Terraform to manage infrastructure as code, following established formats. Tasks also include scripting for deployment and collaborating with engineering teams to ensure smooth operations. Some exposure to Windows environments is acceptable, though the focus is on Amazon Linux. </p><p><br></p><p><b>Benefits Information – CLT  </b> </p><p>This is a CLT opportunity. You are eligible for 15 days annual holidays/sick time and 30 days annual time off. Benefits also include an FTGS contribution, social security contribution, and a meal voucher. Annual salary will be paid in local currency (REAL), and ranges based on years of experience and skillset. Full details on time off listed below. Medical/healthcare is NOT provided due to the public healthcare system. </p><p>EOR (CLT) in Brazil have all the statutory benefits: </p><ul><li>Meal Voucher </li><li>Social Security </li><li>Workers Compensation Insurance </li><li>State Pension Fund </li> </ul><p><br></p><p><b>Paid Time Off </b> </p><p>Both full-time and part-time employees are entitled to 30 <b>calendar </b> days of paid time off (PTO) a year. PTO accrues monthly at 2.5 days per month. Employees are eligible for annual leave after 1 year of work. During the first year of employment, an employee is not allowed to take any leave. </p>",
-    "company": "Insight Global",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1178965__1953_1b179c51097a4a0082182d6aebea61c7?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Risk Management Officer",
-    "description": "<p><b>About Us </b> </p><p>Established in March 2018, Bybit is one of the fastest growing cryptocurrency derivatives exchanges, with more than 70 million registered users. We offer a professional platform where crypto traders can find an ultra-fast matching engine, excellent customer service and multilingual community support. We provide innovative online spot and derivatives trading services, mining and staking products, as well as API support, to retail and institutional clients around the world, and strive to be the most reliable exchange for the emerging digital asset class. </p><p><br></p><p>Our core values define us. We listen, care, and improve to create a faster, fairer, and more humane trading environment for our users. Our innovative, highly advanced, user-friendly platform has been designed from the ground-up using best-in-class infrastructure to provide our users with the industry's safest, fastest, fairest, and most transparent trading experience. Built on customer-centric values, we endeavour to provide a professional, 24/7 multi-language customer support to help in a timely manner. </p><p><br></p><p>As of today, Bybit is one of the most trusted, reliable, and transparent cryptocurrency derivatives platforms in the space. </p><p><br></p><p><b>Key Responsibilities: </b> </p><ul><li>Implement and maintain a comprehensive risk management framework, covering credit, market, liquidity, operational, and technology risks. </li><li>Conduct prudential and capital risk assessments, including stress testing, scenario analysis, and capital adequacy evaluations. </li><li>Prepare and support regulatory disclosures required for virtual asset service providers (VASPs) and financial institutions. </li><li>Oversee Margin-Account Operations, including: </li><li>Development of policies governing margin lending and virtual asset collateral; </li><li>Setting and reviewing maximum loan-to-value (LTV) ratios and haircut levels; </li><li>Monitoring collateral valuation, capital add-ons, and counterparty exposures; </li><li>Ensuring compliance with client/institution limits and capital requirements; </li><li>Net-worth monitoring. </li><li>Review and monitor risk indicators across business functions, escalating material breaches or deviations to senior management and the Board. </li><li>Maintain independence from commercial and trading lines while ensuring collaboration with Compliance, Finance, and Operations. </li><li>Liaise with internal and external auditors, regulators, and governance committees on risk management and capital matters. </li><li>Support a risk-aware culture through training, communication, and continuous improvement of risk methodologies. </li> </ul><p><b>Requirements: </b> </p><ul><li>Legally resident in Brazil. </li><li>Senior-level experience (minimum 7 years) in financial or prudential risk management, preferably within financial institutions, fintechs, or crypto/virtual asset firms. </li><li>Demonstrated <b>independence from commercial functions </b> and ability to operate as a second-line or independent control function. </li><li>Strong knowledge of <b>Central Bank of Brazil </b> risk management regulations, capital adequacy standards, and VASP disclosure requirements. </li><li>Expertise in market and liquidity risk frameworks, stress testing, and margin-account operations involving virtual assets. </li><li>Bachelor’s degree in Finance, Economics, Risk Management, or related field; postgraduate qualification preferred. </li><li>Strong quantitative, analytical, and communication skills; fluency in Portuguese and English. </li><li>Must meet <b>fit and proper </b> standards with <b>no disqualifying factors </b>, including: </li><li>not to have been declared bankrupt or insolvent; </li><li>unblemished reputation; </li><li>knowledge of the line of business, the services to be provided and the crypto segment, as well as crypto market dynamics and the risks associated with those activities; </li><li>technical capability, compatible with the functions to be exercised. </li> </ul>",
-    "company": "Bybit",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1179429__1953?utm_source=1953&utm_medium=feed&keyword=Risk-Management-Officer&location=lauro-de-freitas&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Especialista de Desenvolvimento (Go)",
-    "description": "<p>Na Bemobi valorizamos o espírito inovador e colaboramos para que pessoas potencializem o seu melhor e, juntos, identificamos afinidades e oportunidades.  </p><p>Se você procura desenvolvimento, desafios e um ótimo ambiente de trabalho, está no lugar certo! </p><p><br></p><p><b>Estamos buscando uma pessoa desenvolvedora que tope encarar o desafio de continuar revolucionando a forma com que as pessoas pagam suas contas! Venha fazer parte do time que faz acontecer em uma das frentes que mais crescem e vem impactando o cenário nacional e internacional. </b> </p><p><br></p><p><b>#BeABemober   </p> </b>",
-    "company": "Bemobi",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1179517__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Desenvolvimento&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Python Software Engineer",
-    "description": "<p><b>100% Remote </b> </p><p>Start asap  </p><p>PJ working model </p><p><br></p><p>Bachelor’s or Master’s degree in Computer Science, Software Engineering, or related field. </p><p>5+ years of professional software engineering experience, specializing python development and open source projects </p><p>Experience contributed to open source projects (discource, code contributions) </p><p>Git experience </p><p>Experience with GitHub, Gitlab or Bitbucket </p><p>Experience with FastAPI </p><p>Experience with Scikit, Tensorflow, etc. </p><p>Experience with cloud platforms (AWS, GCP, Azure), container orchestration systems and serverless technologies. </p><p>Ability to clearly communicate technical concepts and participate in architectural discussions with cross-functional teams. </p><p><br></p><p>Development to support complex workloads and AI systems. </p><p>Develop production-grade APIs </p><p>Create developer tooling that streamlines the software delivery lifecycle. </p><p>Establish observability practices and performance optimization strategies. </p><p>Practice infrastructure-as-code and deployment automation. </p><p>Collaborate across engineering, product, and data teams to solve technical challenges. </p>",
-    "company": "Insight Global",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1180142__1953?utm_source=1953&utm_medium=feed&keyword=Python-Software-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   }
 ]
