@@ -1,77 +1,5 @@
 [
   {
-    "title": "Engenheiro de Cloud",
-    "description": "<p>Estamos em busca de um(a) profissional altamente especializado(a) em Cloud e DevOps, com visão estratégica, autonomia técnica e paixão por construir ambientes escaláveis, seguros e de alta performance. </p><p> Se você domina AWS, automação e arquitetura moderna, essa oportunidade é para você! </p><p><br></p><p>  <b>Responsabilidades </b> </p><ul><li>Projetar, implementar e gerenciar <b>infraestrutura em AWS </b> com foco em segurança, governança e alta disponibilidade. </li><li>Desenvolver soluções de <b>Infraestrutura como Código (IaC) </b> utilizando Terraform, CloudFormation e Ansible. </li><li>Implantar e manter ambientes com <b>Kubernetes </b> e <b>Docker </b>. </li><li>Construir pipelines de <b>CI/CD </b> utilizando Jenkins, GitHub Actions, GitLab CI e ArgoCD. </li><li>Monitorar e aprimorar observabilidade com <b>Datadog </b>. </li><li>Automatizar processos com <b>Python, Shell Script ou Go </b>. </li><li>Aplicar práticas avançadas de <b>Segurança da Informação </b>: hardening, gestão de vulnerabilidades, WAF, IAM. </li><li>Atuar com <b>FinOps </b>, realizando análise de consumo e otimização de custos. </li><li>Executar práticas de <b>resiliência e Chaos Engineering </b> garantindo ambientes robustos. </li><li>Criar e manter <b>APIs REST </b>, integrações e rotinas de automação. </li><li>Projetar arquiteturas escaláveis e baseadas em microsserviços. </li> </ul><p><br></p>",
-    "company": "Stefanini Brasil",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1307979__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Cloud&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Software Engineer",
-    "description": "<p>Remote </p><p>PJ Contractor </p><p><br></p><p><b>Must have: </b> </p><p> • Strong English speaking sl </p><p> • 5+ years experience architecting and developing full stack solutions and utilizing software </p><p> build and deployment tools (Jenkins, Git, GitLab, CI/CD). </p><p> • 5+ years application and backend API development experience (object-oriented, Java, Go, </p><p> TypeScript/JavaScript). </p><p> • 5+ years web application development experience (HTML, CSS, React, Node.js, </p><p> TypeScript/JavaScript). </p><p> • Strong understanding of cloud serverless solutions (AWS…S3, CloudFront, API Gateway, </p><p> Lambda, SQS, EventBridge). </p><p> • Experience working with cloud database services (RDS, DynamoDB, DocumentDB). </p><p> • Experience with containerization (Docker, Kubernetes, AWS EKS/ECS/Fargate). </p><p> • Experience with cloud build and deployment tools (Serverless, AWS SAM, GitLab). </p><p> • Experience working with infrastructure-as-code (IaC) and cloud deployment languages </p><p> (Serverless, CloudFormation, CDK, Terraform). </p><p> • Base understanding of cloud services and infrastructure (VPC, EC2, S3, EBS, EFS, IAM, </p><p> CW). </p><p> • Agile development and deployment experience (JIRA, CI/CD). </p><p> • Strong problem solving and troubleshooting skills. </p><p> • Strong verbal and written communication skills. </p> <p><b> Plus: </b> </p><p>• AWS Certification (AWS Solution Architect Associate, AWS Developer, AWS DevOps) </p><p> Other cloud certifications are nice to have (GCP, Azure) </p><p><br></p><p><b>D2D: </b> </p><p>• Provide hands-on technical leadership throughout the development life cycle and focus </p><p> on delivery of quality solutions. </p><p> • Mentor peer engineering team members on technical decision making, code reviews and </p><p> enforcing engineering practices and standards. </p><p> • Lead technical discussions and build consensus among engineers. </p><p> • Work with cloud engineering teams to design and develop cloud native services. </p><p> • Manage strong partnerships with technologies suppliers; understand and advise on their </p><p> roadmaps and product evolution. </p><p> • Maintain application DevOps processes and deployment pipelines to implement and </p><p> support application and feature releases. </p><p> • Assist in system migration to the cloud supporting refactoring legacy system to </p><p> modernize the application or integration services to leverage cloud native services and </p><p> solutions. </p><p> • Build a diverse and inclusive team and culture within the organization and demonstrate a </p><p> commitment to Hyatt’s all core values. </p><p> • The position responsibilities outlined above are in no way to be construed as all </p><p> encompassing. Other duties, responsibilities, and qualifications may be required and/or </p><p> assigned as necessary. </p>",
-    "company": "Insight Global",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308017__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Software Engineer (RoR OR GO / SQL)",
-    "description": "<p>We are seeking multiple remote, full-time Senior Software Engineers with 5+ years of software development experience and a strong background in <b>Ruby on Rails or Golang, as well as SQL, </b> to join our U.S. client's engineering organization. You will build and maintain clients' software product lines to ensure they deliver value efficiently and reliably for their customers. </p><p>No two days are the same; you'll never stop learning and growing. You'll have the autonomy to make important decisions about systems and processes while receiving support and guidance along the way. </p><p>You will enjoy working in a flexible remote environment where mutual respect is a key ingredient. The team is supportive, highly talented, and always encouraged to communicate ideas with the executive team. The client's Engineering team is critical to the company's continued success and would like to thank you for your feedback. </p><p>Our client provides a cloud-based ERP platform to hundreds of energy industry customers, delivering market-leading field service management, field data gathering, transportation, production, accounting, and land software solutions. Backed by private equity, our client accelerates business performance, improves operational efficiency, and reduces costs. </p><p><br></p><p><b>Responsibilities </b> </p><ul><li> Develop clean, efficient, and well-documented code using modern software development practices </li><li>Diagnose and resolve production issues impacting uptime, stability, or performance </li><li>Profile and optimize code, database queries, and API interactions to improve response times and scalability </li><li>Collaborate with Product and QA teams to enhance reliability and maintainability of core systems </li><li>Participate in code reviews, architecture discussions, and performance tuning initiatives </li><li>Contribute to continuous improvement efforts across the full SDLC from incident prevention to automated testing and deployment </li> </ul><p><br></p><p><b>Required Experience </b> </p><ul><li>Excellent English communication skills </li><li>5+ years of strong experience as a software engineer in a SaaS or cloud-based environment </li><li>Strong computer science foundation in algorithms </li><li>Experience working on enterprise web application development </li><li>Experience with Ruby and or/Golang </li><li>Experience with relational databases, such as SQL Server </li><li>Experience with JavaScript libraries </li><li>Proficiency with developing SaaS-based applications for any central cloud platform </li><li>Proficiency with Agile methods, Git, or continuous integration </li><li>Highly adaptable, capable of learning new technologies </li><li>Knowledge of the HTTP protocol as well as web services written in SOAP, XML-RPC, REST, or equivalent technologies </li><li>Understanding of good unit and functional test writing </li><li>Familiarity with microservices, Kubernetes, and CI/CD pipelines </li><li>Experience in energy industry software, particularly upstream or midstream workflows </li><li>Comfortable working within a fast-paced environment </li><li>Self-starter and resourceful </li><li>Ability to work independently or as part of a team </li><li>Trustworthy, team-oriented, and transparent </li> </ul><p><br></p><p><b>Desired Experience </b> </p><ul><li><b> Bachelor's  </b>degree in computer science or engineering </li><li>Experience with oil and gas revenue accounting, gas processing, crude/gas/NGL transportation, or related fields </li> </ul><p><br></p><p><b>Additional Information </b> </p><ul><li>Knowing your ideas are heard and matter, think big! </li><li>You get to own your job and be recognized for your contributions </li><li>Work with innovative and creative people </li><li>Making mistakes is human. Let's learn from them. Be transparent! </li><li>We recognize you as an individual, with no presumptions or judgment. Be the extraordinary you! </li><li>15 days Paid Time Off (PTO), one floating day, three sick days, and designated national holidays </li><li>Start: ASAP </li> </ul><p><br></p><p><b>About Velozient </b> </p><p>We are a privately held, nearshore software development company providing outsourced development resources to North American companies. Our mission is to offer development talent who enjoy taking on challenging work, want to grow their skills and experiences building software, and excel in a fast-paced, dynamic team environment. We focus on providing world-class remote resources who work as valued members of client teams. If this type of opportunity excites you, then consider joining our team! </p>",
-    "company": "Velozient",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308078__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=lauro-de-freitas&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Customer Service Specialist",
-    "description": "<p><b>Join the Virtual Latinos Community! </b> </p><p><br></p><p>With over <b>5,000+ VA's hired </b> that are part of our community and <b>2,500+ companies helped </b>, Virtual Latinos stands out as the first American company connecting exceptional virtual professionals from Latin America with small businesses and entrepreneurs across the <b>US, Canada, and beyond. </b> </p><p><br></p><p>Within our community, <b>10+ new job positions </b> become available every week, providing professionals like you with fantastic <b>remote job opportunities. </b> Ready to explore the possibilities? </p><p><b>Apply today </b> and become part of a community where <b>your skills shine </b> and your <b>career aspirations soar! </b> </p><p><br></p><p><b>Highlight Job of the week! </b> </p><p><br></p><p><b>Job Title:  </b>Customer Service Specialist </p><p><br></p><p><b>Pay Rate LinkedIn style: </b> </p><p><br></p><p><b>Part-Time Monthly Rates </b>: $840-$$1,400 (based on 20 hours per week schedule) </p><p><b>Full-Time Monthly Rates </b>: $1,680-$2,800 (based on 40 hours per week schedule) </p><p><br></p><p>The monthly salary range posted is stipulated as an average monthly income. However, all jobs at Virtual Latinos are hourly-based, and payments are calculated on the number of hours a person works daily. We pay our Virtual Professionals every 2 weeks through third-party platforms. The hourly rate range of the position is $10,5 - $17,5 depending on experience. Once a rate has been offered to you, it is non-negotiable. </p><p><br></p><p><b>Work Schedule:  </b> </p><p><br></p><p>The work schedule will vary depending on the job position that you will apply for as it will be based on the schedule requested by the client. All our clients are in the U.S. and work schedules will be in the U.S. time zone. </p><p><br></p><p><b>Job Summary </b>:  </p><p><br></p><p>The Customer Service Specialist will be responsible for providing exceptional customer support, resolving inquiries and complaints, managing customer accounts, and ensuring a positive customer experience across all communication channels. </p><p><br></p><p><b>Job Tasks </b>: </p><p><br></p><ul><li><b>Customer Support:  </b>Respond to customer inquiries via phone, email, chat, and social media in a timely and professional manner. </li><li><b>Problem Resolution:  </b>Identify customer issues, troubleshoot problems, and provide effective solutions or escalate when necessary. </li><li><b>Account Management:  </b>Update and maintain accurate customer records and account information in the system. </li><li><b>Product Knowledge:  </b>Maintain comprehensive knowledge of products and services to provide accurate information and guidance. </li><li><b>Communication:  </b>Build positive relationships with customers through empathetic and clear communication. </li><li><b>Reporting and Feedback:  </b>Document customer interactions, track recurring issues, and provide feedback to improve service quality. </li> </ul><p><br></p><p><b>Qualifications: </b> </p><p><br></p><ul><li>1 year of related experience and/or a related degree. </li><li>Excellent written and verbal communication skills in English </li><li>Ability to excel in a fast-paced environment. </li><li>Strong organizational abilities. </li><li>Meticulous attention to detail. </li><li>Collaborative team spirit. </li><li>Commitment to confidentiality. </li><li>A quiet, private workspace. </li><li>Must be at least 21 years old. </li> </ul><p><br></p><p><b>Languages: </b> </p><p><br></p><ul><li>English mandatory </li><li>Portuguese mandatory </li> </ul><p><br></p><p><b>Next Steps: </b> </p><p><br></p><ul><li>Send your easy apply </li><li>We will reach out and send you a form to send in your full application </li><li>Get accepted into our community to have access to all our job offers </li><li>Apply to job offers of your interest </li><li>Get interviewed </li><li>Start working in your dream Job! </li> </ul>",
-    "company": "Virtual Latinos",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308209__1953?utm_source=1953&utm_medium=feed&keyword=Customer-Service-Specialist&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Customer Service Specialist",
-    "description": "<p><b>Join the Virtual Latinos Community! </b> </p><p><br></p><p>With over <b>5,000+ VA's hired </b> that are part of our community and <b>2,500+ companies helped </b>, Virtual Latinos stands out as the first American company connecting exceptional virtual professionals from Latin America with small businesses and entrepreneurs across the <b>US, Canada, and beyond. </b> </p><p><br></p><p>Within our community, <b>10+ new job positions </b> become available every week, providing professionals like you with fantastic <b>remote job opportunities. </b> Ready to explore the possibilities? </p><p><b>Apply today </b> and become part of a community where <b>your skills shine </b> and your <b>career aspirations soar! </b> </p><p><br></p><p><b>Highlight Job of the week! </b> </p><p><br></p><p><b>Job Title:  </b>Customer Service Specialist </p><p><br></p><p><b>Pay Rate LinkedIn style: </b> </p><p><br></p><p><b>Part-Time Monthly Rates </b>: $840-$$1,400 (based on 20 hours per week schedule) </p><p><b>Full-Time Monthly Rates </b>: $1,680-$2,800 (based on 40 hours per week schedule) </p><p><br></p><p>The monthly salary range posted is stipulated as an average monthly income. However, all jobs at Virtual Latinos are hourly-based, and payments are calculated on the number of hours a person works daily. We pay our Virtual Professionals every 2 weeks through third-party platforms. The hourly rate range of the position is $10,5 - $17,5 depending on experience. Once a rate has been offered to you, it is non-negotiable. </p><p><br></p><p><b>Work Schedule:  </b> </p><p><br></p><p>The work schedule will vary depending on the job position that you will apply for as it will be based on the schedule requested by the client. All our clients are in the U.S. and work schedules will be in the U.S. time zone. </p><p><br></p><p><b>Job Summary </b>:  </p><p><br></p><p>The Customer Service Specialist will be responsible for providing exceptional customer support, resolving inquiries and complaints, managing customer accounts, and ensuring a positive customer experience across all communication channels. </p><p><br></p><p><b>Job Tasks </b>: </p><p><br></p><ul><li><b>Customer Support:  </b>Respond to customer inquiries via phone, email, chat, and social media in a timely and professional manner. </li><li><b>Problem Resolution:  </b>Identify customer issues, troubleshoot problems, and provide effective solutions or escalate when necessary. </li><li><b>Account Management:  </b>Update and maintain accurate customer records and account information in the system. </li><li><b>Product Knowledge:  </b>Maintain comprehensive knowledge of products and services to provide accurate information and guidance. </li><li><b>Communication:  </b>Build positive relationships with customers through empathetic and clear communication. </li><li><b>Reporting and Feedback:  </b>Document customer interactions, track recurring issues, and provide feedback to improve service quality. </li> </ul><p><br></p><p><b>Qualifications: </b> </p><p><br></p><ul><li>1 year of related experience and/or a related degree. </li><li>Excellent written and verbal communication skills in English </li><li>Ability to excel in a fast-paced environment. </li><li>Strong organizational abilities. </li><li>Meticulous attention to detail. </li><li>Collaborative team spirit. </li><li>Commitment to confidentiality. </li><li>A quiet, private workspace. </li><li>Must be at least 21 years old. </li> </ul><p><br></p><p><b>Languages: </b> </p><p><br></p><ul><li>English mandatory </li><li>Portuguese mandatory </li> </ul><p><br></p><p><b>Next Steps: </b> </p><p><br></p><ul><li>Send your easy apply </li><li>We will reach out and send you a form to send in your full application </li><li>Get accepted into our community to have access to all our job offers </li><li>Apply to job offers of your interest </li><li>Get interviewed </li><li>Start working in your dream Job! </li> </ul>",
-    "company": "Virtual Latinos",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308220__1953?utm_source=1953&utm_medium=feed&keyword=Customer-Service-Specialist&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Operations Analytics Manager",
-    "description": "<p>Job Description: </p><p>You will deliver insights using quantitative data to support our operations business. You will work closely with inventory, logistics, retail, and customer services team within the ops org, and partner with tech and finance teams working with nearly all aspects of our growing business. You will collaborate with operations analysts to understand, measure, and optimize efficiency in our operations, provide clarity of business performance, identify growth opportunities, and drive alignment to focus on the most impactful areas for our company. </p><p><br></p><p>What You Get To Do Every Day: </p><p>Understand and quantify operational efficiency metrics. </p><p>Design, implement, and report on item data throughout our receiving, authentication, launch and outbound flow. </p><p>Provide key product health measurements and reporting to support the business on a daily basis </p><p>Communicate product insights to business partner teams and leadership. </p><p><br></p><p>Minimum Requirements: </p><p>English - Mandatory </p><p>5+ years years analytics experience </p><p>Expert in SQL </p><p>5+ years of experience with BI tools such as microstrategy, tableau, looker etc. </p><p>Expert in translating between practical problems and technical formulations and solutions </p><p>Proven ability to design and implement time-sensitive strategic projects involving methodology development, analysis, strategic recommendations, and presentation of the findings </p><p>Proven track record of thriving with ambiguity </p><p><br></p><p>Preferred Requirements: </p><p>eCommerce or logistics industry experience preferred </p>",
-    "company": "Pride Global",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308542__1953?utm_source=1953&utm_medium=feed&keyword=Operations-Analytics-Manager&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Intermediate Full Stack Developer",
-    "description": "<p><b>Intermediate Full Stack Developer </b> </p><p><b>Contract </b>: 3 months + extensions </p><p><b>Rate </b>: USD $13-17/hr </p><p><b>Fully Remote: </b> Brazil - 40 hours/wk </p><p><br></p><p><b>Required Skills: </b> </p><ul><li>3-5+ years of professional experience as a full stack developer (excluding internships) </li><li>Expertise in React.JS and Node.JS, with the ability to right clean code. </li><li>Comfortable with command line (Mac) </li><li>Experience with GraphQL and Apollo </li> </ul><p><br></p><p><b>Nice to Have: </b> </p><ul><li>Knowledge of databases: MySQL, PostgreSQL, and MongoDB  </li><li>Familiarity with AWS & Docker  </li><li>Experience with NextJS  </li><li>Familiar with SSR applications and their requirements  </li><li>Experience with Styled Components  </li><li>Experience with ecommerce platforms, e.g. Shopify Plus, CommerceCloud, Hybris, etc. </li> </ul><p><br></p><p><b>Job Description: </b> </p><p>You use modern tools and frameworks (REACT and Node.js) and can code up an application from scratch and spin up a cloud infrastructure to host it. You have a clear understanding of security and build it into any of your services. Although you have the full support of your teammates, you are able to participate in the research and solution of complex problems. At the same time, you know when to ask for help and don’t let pride or ego get in the way, because after all, you are part of a team. “Initiative” is your middle name, and you don’t give us a chance to chase you. We are on the hunt for people who have an innovative mindset (you still dream of that moonshot project but are currently working on your side-gig)!  </p><p><br></p><p>Designing and developing user interfaces (UIs): This involves translating design mockups into actual web pages using HTML, CSS, Component Libraries, and React with Typescript.  </p><ul><li>Creating responsive and interactive web pages: Ensuring websites look good and function smoothly on all devices (desktops, tablets, and phones).  </li><li>Optimizing website performance: Making sure websites load quickly and efficiently.  </li><li>Writing server-side code: Using languages like Javascript, Typescript on Node.js to handle data storage, retrieval, and processing.  </li><li>Developing APIs (Application Programming Interfaces): Creating interfaces that allow different applications to communicate with each other. </li> </ul>",
-    "company": "Insight Global",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308752__1953?utm_source=1953&utm_medium=feed&keyword=Intermediate-Full-Stack&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Gerente Executivo Financeiro | Remoto",
-    "description": "<p>Estamos em busca de uma pessoa Gerente Executivo Financeiro para compor o time Financeiro do <b>Gran </b> e mudar vidas com a gente!  </p><p><br></p><p>O <b>Gran </b> é um ecossistema que une <b>educação  </b>e<b> tecnologia </b>, que acelera e customiza o aprendizado para diferentes necessidades e momentos e que já impactou mais de 2 milhões de vidas. <b>Hoje temos 2 verticais principais: </b> a de Cursos Preparatórios e a Gran Faculdade.  </p><p><br></p><p>Atualmente, são mais de <b>820 mil alunos e alunas </b>, presentes em mais de<b> 1.500 municípios brasileiros </b>. Temos como motivação possibilitar uma educação de alta qualidade que seja diversa e inclusiva, geográfica e economicamente. Nossa tecnologia de ponta é um catalisador que impulsiona para muitas possibilidades de futuro. </p><p><br></p><p>Somos grandes defensores da ideia de que a <b>educação é um direito de todos </b> e fazemos o máximo para tornar isso uma realidade Brasil afora. Sabemos que a educação é a chave para muitos futuros possíveis e temos as ferramentas que facilitam o acesso de milhares de brasileiros ao ensino, em vários níveis.  </p><p><br></p><p>Essa vaga está no nosso modelo de trabalho <b>Gran Mundo </b>, sendo 100% remoto. Dessa forma, você não precisa comparecer ao escritório, apenas em casos eventuais que serão avisados com antecedência e custeados pelo próprio Gran. </p><p><br></p><p>Todas as nossas vagas são no modelo de trabalho CLT.  </p><p><br></p><p>Se interessou? Vem ser <b>GranLover </b>! </p><p><br></p><p>Quer saber mais sobre a gente? Clique AQUI para retornar para a página de carreiras.  </p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><p><b> </p> </b>",
-    "company": "GRAN",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1308918__1953_e692fc84005d2d321d65fcc69c228956?utm_source=1953&utm_medium=feed&keyword=Gerente-Executivo-Financeiro&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
     "title": "Linguist",
     "description": "<p>Innodata (NASDAQ: INOD) is a leading data engineering company. With more than 2,000 customers and operations in 13 cities around the world, we are an AI technology solutions provider-of-choice for 4 out of 5 of the world’s biggest technology companies, as well as leading companies across financial services, insurance, technology, law, and medicine. </p><p>By combining advanced machine learning and artificial intelligence (ML/AI) technologies, a global workforce of subject matter experts, and a high-security infrastructure, we’re helping usher in the promise of AI. Innodata offers a powerful combination of both digital data solutions and easy-to-use, high-quality platforms. </p><p><br></p><p>Our global workforce includes over 5,000 employees in the United States, Canada, United Kingdom, the Philippines, India, Sri Lanka, Israel and Germany. </p><p><br></p><p><b>About the role: </b> </p><p><br></p><p>We are seeking a highly analytical and detail-oriented linguist to support AI training initiatives and linguistic content creation. This role is ideal for someone with a strong academic background in linguistics (syntax, semantics, pragmatics, morphology, phonology, sociolinguistics, etc.) and a passion for language, technology, and clear communication. You will play a crucial role in shaping the capabilities of large language models (LLMs) and NLP-based systems through high-quality linguistic data curation, annotation, and evaluation. </p><p><br></p><p><b>Job Title: </b> Linguistics Expert – AI Training & Content Writing (Language: Portuguese, Location: Brazil) </p><p><b>Experience Level: </b> Bachelors or Masters or PhD in Linguistics or a related field. </p><p><br></p><p><b>Key Responsibilities: </b> </p><p><br></p><ul><li>Create or edit linguistically- rich content including grammar guides, syntactic analyses, usage explanations, or examples for NLP pipelines. </li><li>Identify and resolve issues related to ambiguity, bias, and grammaticality. </li><li>Perform quality assurance (QA) on model outputs for fluency, tone, factual accuracy, and language appropriateness. </li><li>Annotate linguistic datasets with syntactic, semantic, or pragmatic labels. </li><li>Support internal teams by conducting linguistic research and summarizing findings. </li><li>Apply linguistic knowledge to evaluate model behavior, error patterns, and generalization issues. </li> </ul><p><br></p><p><b>Qualifications: </b> </p><p><br></p><ul><li>Deep understanding of linguistic theory and language structure. </li><li>Experience with one or more of the following is a plus: computational linguistics, corpus analysis, language data annotation, LLM training. </li> </ul><p>Strong writing, editing, and communication skills. </p><p><br></p><ul><li>Deep understanding of linguistic theory and language structure. </li><li>Experience with one or more of the following is a plus: computational linguistics, corpus analysis, language data annotation, LLM training. </li><li>Strong writing, editing, and communication skills. </li> </ul><p><br></p><p>If Interested, kindly send your resume at:   </p>",
     "company": "Innodata Inc.",
@@ -509,7 +437,7 @@
     "company": "Ascendion",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1330261__1953_40928e00f60b32a0cf667936d3423796?utm_source=1953&utm_medium=feed&keyword=Frontend-Developer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1330261__1953_f8b8c0664d66c3fd50ebf162e1cc884b?utm_source=1953&utm_medium=feed&keyword=Frontend-Developer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -590,7 +518,7 @@
     "company": "Bluedot | BPO Solutions",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332422__1953_8ffadb094a9a9186430a9dd13334ae9b?utm_source=1953&utm_medium=feed&keyword=Assistant-Recruiter-Fluent&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332422__1953_805d22a2a9cb335fa13933aed5feea15?utm_source=1953&utm_medium=feed&keyword=Assistant-Recruiter-Fluent&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -599,7 +527,7 @@
     "company": "Bluedot | BPO Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332424__1953_decd1593345b9bf4241226bb4b483a54?utm_source=1953&utm_medium=feed&keyword=Assistant-Recruiter-Fluent&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1332424__1953_52a80d8134943434a17f0be62f42c673?utm_source=1953&utm_medium=feed&keyword=Assistant-Recruiter-Fluent&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -698,7 +626,7 @@
     "company": "CAS",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1334262__1953_fb10c6e5424e3d1460be46d15d948c39?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Consultant&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1334262__1953_11e40bb8337d34bd98c0a0a41728d406?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Consultant&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -833,7 +761,7 @@
     "company": "Schindler Group",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1337358__1953_5a44c96426bd0c13e861882bb77d78eb?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1337358__1953_0d0804595b3fda829e638595a66648db?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -842,7 +770,7 @@
     "company": "Schindler Group",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1337368__1953_d0670ac106adf594521eec16c07d1cd3?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1337368__1953_7c769b76c4d0130352c465f94938e28f?utm_source=1953&utm_medium=feed&keyword=Consultor-T%C3%A9cnico&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1094,7 +1022,7 @@
     "company": "Applaudo",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1347246__1953_cc91fadccd036e8df0c735e3f89bed41?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1347246__1953_59989e43b67d54bda78149a8a4fc067c?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1355,7 +1283,7 @@
     "company": "Penta Consulting",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1355019__1953_37dc2141fa56314ad4e0223ff5d25d8f?utm_source=1953&utm_medium=feed&keyword=Solution-Architect-Modern&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1355019__1953_a2c8563a7f44c4799217a34a65a127d9?utm_source=1953&utm_medium=feed&keyword=Solution-Architect-Modern&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1400,7 +1328,7 @@
     "company": "AllianceIT Inc",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1359896__1953_8ea90fd3e94ffd5f04312f3c5f981894?utm_source=1953&utm_medium=feed&keyword=Pleno-ServiceNow-Developer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1359896__1953_aa414a30ed8e4d72830c981c672177f9?utm_source=1953&utm_medium=feed&keyword=Pleno-ServiceNow-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1589,7 +1517,7 @@
     "company": "Artha Growth Studio",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1364301__1953_916c9b18e0fda85ef62c904fedeb804c?utm_source=1953&utm_medium=feed&keyword=Editor-de-v%C3%ADdeo&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1364301__1953_aaed1c8dd5e6872fa655b1a1fe140762?utm_source=1953&utm_medium=feed&keyword=Editor-de-v%C3%ADdeo&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1868,7 +1796,7 @@
     "company": "Luxoft",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1379956__1953_9ee35d7a24ca3d9ce4c58370a9b2a016?utm_source=1953&utm_medium=feed&keyword=Android-Developer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1379956__1953_c46532bdacd323380034c0784dc54855?utm_source=1953&utm_medium=feed&keyword=Android-Developer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1967,7 +1895,7 @@
     "company": "Softtek",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381234__1953_f2371f86cd2b5ef1edd11bcc581e1a52?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Infra-Cloud&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381234__1953_fd4c734c6dd5a716f53cdefdd176ef03?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Infra-Cloud&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1976,7 +1904,7 @@
     "company": "Softtek",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381259__1953_95c2d4ca92a56b0f45d47d0b186e38a0?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-softwares&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1381259__1953_15dd75bad5b77fe54e628c8f8476269a?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-softwares&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2219,7 +2147,7 @@
     "company": "ília",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1390208__1953_65e12382f7ed7739275a46bf3be0dd40?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1390208__1953_2218fe03de6559dbe735be97877d118d?utm_source=1953&utm_medium=feed&keyword=SR-Desenvolvimento-Java&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2399,7 +2327,7 @@
     "company": "Softtek",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1398250__1953_767d73bba40271a5a39072f99df623cc?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1398250__1953_fd6d6455a03c03f2a8c9aea9e05b2e00?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2453,7 +2381,7 @@
     "company": "Longbeard",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1399102__1953_9a2ed4561b98baa880e3c104d57b5d63?utm_source=1953&utm_medium=feed&keyword=IA-Cat%C3%B3lica-busca&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1399102__1953_c937eb41c9eb10643992d8b9619611f9?utm_source=1953&utm_medium=feed&keyword=IA-Cat%C3%B3lica-busca&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2858,7 +2786,7 @@
     "company": "Decskill",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1409568__1953_6690edfabcd823e67a0782dea261a536?utm_source=1953&utm_medium=feed&keyword=SRE-brazil&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1409568__1953_219e9e946b3f8b2ea997cdac0e1f4592?utm_source=1953&utm_medium=feed&keyword=SRE-brazil&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3056,7 +2984,7 @@
     "company": "Getronics",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1414809__1953_5e9772534d39f6a8b5ed41b7ca183722?utm_source=1953&utm_medium=feed&keyword=Analista-de-Service&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1414809__1953_c49ae315bdd2ca427c443caf24682816?utm_source=1953&utm_medium=feed&keyword=Analista-de-Service&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3191,7 +3119,7 @@
     "company": "GeorgiaTEK Systems Inc.",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1421105__1953_c48f7925709747ee7e8cd144cbae2349?utm_source=1953&utm_medium=feed&keyword=Cloud-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1421105__1953_d52cc37c138f3e66459ca58fd9257a21?utm_source=1953&utm_medium=feed&keyword=Cloud-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3407,7 +3335,7 @@
     "company": "Imagem Geosistemas",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1432117__1953_60db82c9da19bfb043b66297215c2efa?utm_source=1953&utm_medium=feed&keyword=Analista-GIS-Pleno&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1432117__1953_c7415fdd915cbcb2e0b4696ce5736318?utm_source=1953&utm_medium=feed&keyword=Analista-GIS-Pleno&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3821,7 +3749,7 @@
     "company": "Auxis",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1442715__1953_9bf4bd8d6de476a9aaed5a88d597f1f2?utm_source=1953&utm_medium=feed&keyword=JDE-Functional-Finance&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1442715__1953_aff90a7e149bfd6b842388f89ae8acc5?utm_source=1953&utm_medium=feed&keyword=JDE-Functional-Finance&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3956,7 +3884,7 @@
     "company": "Imagem Geosistemas",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1445655__1953_7a1c36c4c9aa9209ea60cfe93fd271bb?utm_source=1953&utm_medium=feed&keyword=Analista-GIS-Pleno&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1445655__1953_d630b5503042777276fe8a9ed58389e3?utm_source=1953&utm_medium=feed&keyword=Analista-GIS-Pleno&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4181,7 +4109,7 @@
     "company": "InComm Payments",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1450514__1953_c93fa5a8f4e523f3a00d106578dd4d47?utm_source=1953&utm_medium=feed&keyword=Data-Management-Analyst&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1450514__1953_90e346d530261786ac29f8e1629e4d25?utm_source=1953&utm_medium=feed&keyword=Data-Management-Analyst&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4622,7 +4550,7 @@
     "company": "Matrix Saúde",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1474938__1953_65f1055bd628e3aad1f6e161d45f40c5?utm_source=1953&utm_medium=feed&keyword=Analista-Desenvolvedor-de&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1474938__1953_298c7748e93b51572a97f0a63a8172ce?utm_source=1953&utm_medium=feed&keyword=Analista-Desenvolvedor-de&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4712,7 +4640,7 @@
     "company": "InComm Payments",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1479467__1953_2809629359d9d6b6dce6200fd5814da3?utm_source=1953&utm_medium=feed&keyword=Release-Manager&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1479467__1953_ebfe95c1b55763d793b6efe8a4380bb1?utm_source=1953&utm_medium=feed&keyword=Release-Manager&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5135,7 +5063,7 @@
     "company": "Publicity For Good",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1509154__1953_b9b865560e31e635a5586a553037dfbc?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1509154__1953_7dbeb4594c488ddaf2a58e3d3f125063?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5207,7 +5135,7 @@
     "company": "Net2Source (N2S)",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1516874__1953_b76495044a85c87d0aa812b64a7faa3d?utm_source=1953&utm_medium=feed&keyword=Marketing-Technology-Lead&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1516874__1953_5ff4f14addc4b07b8a48770390cc1378?utm_source=1953&utm_medium=feed&keyword=Marketing-Technology-Lead&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5468,7 +5396,7 @@
     "company": "Titan Clarity",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1526470__1953_891b20415d5c2e86375d1fe68004f251?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Ruby-on&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1526470__1953_b65badfbf15579c9bb3f4157e8996ef0?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Ruby-on&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5549,7 +5477,7 @@
     "company": "Dexian Brasil",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1528055__1953_7baa70fdd02015ba3394f4da0f453843?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-NET-987026&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1528055__1953_f6337a3011916a00ba92a63a9f66e879?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-NET-987026&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5783,7 +5711,7 @@
     "company": "Moralis",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1537497__1953_49278958183b7fd116337cbe90f114c5?utm_source=1953&utm_medium=feed&keyword=Network-Automation-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1537497__1953_f2061dd925cf4bf8e1fbc3ac87a58f6b?utm_source=1953&utm_medium=feed&keyword=Network-Automation-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6449,7 +6377,7 @@
     "company": "Softtek",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1559788__1953_8f884358974610a13b28e0bb818eba20?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Delphi-C&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1559788__1953_ae70d5101fbd65655cb6154946174a2e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Delphi-C&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6584,7 +6512,7 @@
     "company": "Velaro Network",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1562807__1953_da7e462075b379729ba8468a18a03af9?utm_source=1953&utm_medium=feed&keyword=Analista-de-Compliance&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1562807__1953_dce9bfcfeb14b7dcb008ed5ce0018400?utm_source=1953&utm_medium=feed&keyword=Analista-de-Compliance&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6674,7 +6602,7 @@
     "company": "Softtek",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1563783__1953_b462b8f79f0aff5277dbf531c738b9aa?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python-Django&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1563783__1953_7ad7814db3ff1377671fbc822a9ae8fc?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Python-Django&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6791,7 +6719,7 @@
     "company": "Pride Global",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1566878__1953_5a1fe10d085779a8cd4a34bd91d55c2f?utm_source=1953&utm_medium=feed&keyword=Junior-Developer-Devvit&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1566878__1953_95054b3b73b128f1cd17bb0f7588d302?utm_source=1953&utm_medium=feed&keyword=Junior-Developer-Devvit&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6801,24 +6729,6 @@
     "city": "camaçari",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_1567185__1953?utm_source=1953&utm_medium=feed&keyword=Accounting-Specialist-Remote&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Full Stack Developer \\\"#988297\\\"",
-    "description": "<p><b>Quem Somos </b> </p><p>A Dexian, lançada em 2023, tem presença global e carrega quase 30 anos de experiência por meio de suas companhias legadas, principalmente a partir da combinação da <b>DISYS </b> e <b>Signature Consultants </b>. </p><p>Iniciamos nossas operações no Brasil em 2007 como DISYS e, desde então, atendemos mais de 50 clientes de diferentes setores da economia. Como Dexian, nos consolidamos como uma das maiores empresas de soluções e contratação em TI, entregando serviços que combinam <b>escala global, portfólio completo e agilidade tática </b>, apoiando a modernização de modelos de contratação, evolução de soluções de workforce e transformação tecnológica. </p><p>Possuímos escritórios em <b>Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) </b> e <b>São Paulo (SP) </b>, mantendo proximidade com nossos clientes e consultores. Somos também uma <b>Minority Owner Company </b>, com forte compromisso com diversidade, inclusão e equidade. </p><p><br></p><p><b>O que esperar de nós </b> </p><p>Pessoas estão no centro da nossa estratégia e representam nosso maior ativo. Nosso compromisso é atrair, desenvolver e reter talentos, criando conexões reais e duradouras. </p><p>Acreditamos que a combinação certa entre <b>talento, tecnologia e organizações </b> desbloqueia resultados transformadores e impulsiona o sucesso de clientes e consultores. </p><p>Nossos valores — <b>Integridade, Transparência, Autenticidade, Engenhosidade e Empatia </b> — orientam todas as nossas decisões. </p><p>Na Dexian, valorizamos a diversidade. Nosso processo seletivo é inclusivo e aberto a profissionais de todas as identidades, experiências e trajetórias. Aqui, o que importa é o talento. </p><p><br></p><p><b>Nosso Cliente </b> </p><p>Você irá atuar em um <b>cliente multinacional de grande porte </b>, do setor de petróleo e gás. </p><p><br></p><p><b>O que esperar do seu dia a dia de trabalho </b> </p><ul><li>Atuar no <b>desenvolvimento backend </b> e no <b>redesign de uma aplicação existente </b>. </li><li>Evoluir e modernizar uma solução crítica utilizada para <b>análise de dados do GitHub </b>. </li><li>Integrar dados provenientes <b>exclusivamente de APIs </b>, garantindo confiabilidade e performance. </li><li>Projetar e implementar o <b>banco de dados desde o início, </b> incluindo: </li> </ul><p> - Criação e manutenção de tabelas; </p><p> - Evolução do modelo de dados; </p><p> - Otimização de queries e performance. </p><ul><li>Trabalhar com <b>SQL ANSI e Azure SQL Server </b> em nível avançado. </li><li>Apoiar diretamente a <b>tomada de decisões técnicas e estratégicas por meio de dados </b>. </li><li>Atuar com <b>CI/CD, versionamento e segurança de código </b>, com forte uso de GitHub. </li><li>Colaborar com times internacionais (Scrum Master, stakeholders e customers globais). </li><li>Participar ativamente de um ambiente ágil, com foco em qualidade, escalabilidade e impacto de produto. </li> </ul><p><br></p><p><b>O que você precisa ter </b> </p><ul><li><b>4+ anos de experiência </b> como desenvolvedor(a) backend ou full stack. </li><li>Experiência sólida com <b>banco de dados relacional </b> </li><li>SQL ANSI </li><li>Microsoft Azure SQL Server </li><li>Criação e manutenção de tabelas </li><li>Otimização de queries </li><li>Performance e evolução de bancos de dados </li><li>Experiência com <b>desenvolvimento backend </b>, utilizando ao menos uma das linguagens: </li><li><b>JavaScript / TypeScript (Node.js) </b> </li><li><b>Python </b> </li><li>Vivência com <b>consumo de APIs </b>. </li><li>Experiência com <b>GitHub </b>, incluindo boas práticas de versionamento e segurança de código. </li><li>Conhecimento em <b>CI/CD </b> e fundamentos de automação. </li><li>Experiência em <b>Azure </b> (AWS é aceitável, mas Azure é o ambiente principal). </li><li><b>Inglês avançado ou fluente (nível 5/5) </b> — eliminatório. </li> </ul><p><br></p><p><b>Será um destaque seu perfil com </b> </p><ul><li>Experiência prévia com <b>Snowflake </b> (diferencial altamente relevante, roadmap futuro do projeto). </li><li>Conhecimento em <b>.NET </b> (ambiente Microsoft). </li><li>Experiência com <b>automação e scripts </b> (PowerShell, Bash, etc.). </li><li>Vivência em <b>projetos de redesign ou modernização de aplicações </b>. </li><li>Experiência com <b>Scrum ou metodologias ágeis </b>. </li><li>Conhecimento em práticas de <b>segurança, cloud e automação </b>. </li> </ul><p><br></p><p><b>Onde você vai trabalhar </b> </p><p>No conforto da sua casa — <b>regime 100% Home Office </b>. </p><p><br></p><p><b>Regime de Contratação </b> </p><p>CLT </p><p><br></p><p><b>Benefícios para você </b> </p><ul><li>Vale Refeição </li><li>Vale Alimentação </li><li>Assistência Médica </li><li>Assistência Odontológica </li><li>Seguro de Vida </li><li>Gym Pass </li><li>Auxílio Pet </li> </ul><p><br></p><p><b>Além disso, oferecemos: </b> </p><ul><li>Incentivo a estudo após completar 1 ano de Dexian </li><li>Programa de desenvolvimento e treinamentos </li><li>Formação através da Trilha de Liderança </li> </ul>",
-    "company": "Dexian",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1567404__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Full Stack Developer \\\"#988297\\\"",
-    "description": "<p><b>Quem Somos </b> </p><p>A Dexian, lançada em 2023, tem presença global e carrega quase 30 anos de experiência por meio de suas companhias legadas, principalmente a partir da combinação da <b>DISYS </b> e <b>Signature Consultants </b>. </p><p>Iniciamos nossas operações no Brasil em 2007 como DISYS e, desde então, atendemos mais de 50 clientes de diferentes setores da economia. Como Dexian, nos consolidamos como uma das maiores empresas de soluções e contratação em TI, entregando serviços que combinam <b>escala global, portfólio completo e agilidade tática </b>, apoiando a modernização de modelos de contratação, evolução de soluções de workforce e transformação tecnológica. </p><p>Possuímos escritórios em <b>Curitiba (PR), Porto Alegre (RS), Rio de Janeiro (RJ) </b> e <b>São Paulo (SP) </b>, mantendo proximidade com nossos clientes e consultores. Somos também uma <b>Minority Owner Company </b>, com forte compromisso com diversidade, inclusão e equidade. </p><p><br></p><p><b>O que esperar de nós </b> </p><p>Pessoas estão no centro da nossa estratégia e representam nosso maior ativo. Nosso compromisso é atrair, desenvolver e reter talentos, criando conexões reais e duradouras. </p><p>Acreditamos que a combinação certa entre <b>talento, tecnologia e organizações </b> desbloqueia resultados transformadores e impulsiona o sucesso de clientes e consultores. </p><p>Nossos valores — <b>Integridade, Transparência, Autenticidade, Engenhosidade e Empatia </b> — orientam todas as nossas decisões. </p><p>Na Dexian, valorizamos a diversidade. Nosso processo seletivo é inclusivo e aberto a profissionais de todas as identidades, experiências e trajetórias. Aqui, o que importa é o talento. </p><p><br></p><p><b>Nosso Cliente </b> </p><p>Você irá atuar em um <b>cliente multinacional de grande porte </b>, do setor de petróleo e gás. </p><p><br></p><p><b>O que esperar do seu dia a dia de trabalho </b> </p><ul><li>Atuar no <b>desenvolvimento backend </b> e no <b>redesign de uma aplicação existente </b>. </li><li>Evoluir e modernizar uma solução crítica utilizada para <b>análise de dados do GitHub </b>. </li><li>Integrar dados provenientes <b>exclusivamente de APIs </b>, garantindo confiabilidade e performance. </li><li>Projetar e implementar o <b>banco de dados desde o início, </b> incluindo: </li> </ul><p> - Criação e manutenção de tabelas; </p><p> - Evolução do modelo de dados; </p><p> - Otimização de queries e performance. </p><ul><li>Trabalhar com <b>SQL ANSI e Azure SQL Server </b> em nível avançado. </li><li>Apoiar diretamente a <b>tomada de decisões técnicas e estratégicas por meio de dados </b>. </li><li>Atuar com <b>CI/CD, versionamento e segurança de código </b>, com forte uso de GitHub. </li><li>Colaborar com times internacionais (Scrum Master, stakeholders e customers globais). </li><li>Participar ativamente de um ambiente ágil, com foco em qualidade, escalabilidade e impacto de produto. </li> </ul><p><br></p><p><b>O que você precisa ter </b> </p><ul><li><b>4+ anos de experiência </b> como desenvolvedor(a) backend ou full stack. </li><li>Experiência sólida com <b>banco de dados relacional </b> </li><li>SQL ANSI </li><li>Microsoft Azure SQL Server </li><li>Criação e manutenção de tabelas </li><li>Otimização de queries </li><li>Performance e evolução de bancos de dados </li><li>Experiência com <b>desenvolvimento backend </b>, utilizando ao menos uma das linguagens: </li><li><b>JavaScript / TypeScript (Node.js) </b> </li><li><b>Python </b> </li><li>Vivência com <b>consumo de APIs </b>. </li><li>Experiência com <b>GitHub </b>, incluindo boas práticas de versionamento e segurança de código. </li><li>Conhecimento em <b>CI/CD </b> e fundamentos de automação. </li><li>Experiência em <b>Azure </b> (AWS é aceitável, mas Azure é o ambiente principal). </li><li><b>Inglês avançado ou fluente (nível 5/5) </b> — eliminatório. </li> </ul><p><br></p><p><b>Será um destaque seu perfil com </b> </p><ul><li>Experiência prévia com <b>Snowflake </b> (diferencial altamente relevante, roadmap futuro do projeto). </li><li>Conhecimento em <b>.NET </b> (ambiente Microsoft). </li><li>Experiência com <b>automação e scripts </b> (PowerShell, Bash, etc.). </li><li>Vivência em <b>projetos de redesign ou modernização de aplicações </b>. </li><li>Experiência com <b>Scrum ou metodologias ágeis </b>. </li><li>Conhecimento em práticas de <b>segurança, cloud e automação </b>. </li> </ul><p><br></p><p><b>Onde você vai trabalhar </b> </p><p>No conforto da sua casa — <b>regime 100% Home Office </b>. </p><p><br></p><p><b>Regime de Contratação </b> </p><p>CLT </p><p><br></p><p><b>Benefícios para você </b> </p><ul><li>Vale Refeição </li><li>Vale Alimentação </li><li>Assistência Médica </li><li>Assistência Odontológica </li><li>Seguro de Vida </li><li>Gym Pass </li><li>Auxílio Pet </li> </ul><p><br></p><p><b>Além disso, oferecemos: </b> </p><ul><li>Incentivo a estudo após completar 1 ano de Dexian </li><li>Programa de desenvolvimento e treinamentos </li><li>Formação através da Trilha de Liderança </li> </ul>",
-    "company": "Dexian",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1567436__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6872,7 +6782,7 @@
     "company": "GeorgiaTEK Systems Inc.",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1569737__1953_27369ebfca6d5dc211c78a84c654cb29?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1569737__1953_f57083f4ee4809de0bcef967e687c045?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7016,7 +6926,7 @@
     "company": "Axiom Recruit",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1572192__1953_2439381fffb9fc402c9d26eb076b5916?utm_source=1953&utm_medium=feed&keyword=Payments-Product-Operations&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1572192__1953_3f407d06d9e00f2cc55b687a76f00067?utm_source=1953&utm_medium=feed&keyword=Payments-Product-Operations&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7169,7 +7079,7 @@
     "company": "Turing",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1575395__1953_bcf9ef7354a2b24df6122cfacb3875d0?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1575395__1953_595ddf325022439286be3c75224b90f6?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7394,7 +7304,7 @@
     "company": "Swissklip",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1579517__1953_4e5a62650a96b3e765f0c07fbc686ec8?utm_source=1953&utm_medium=feed&keyword=UX-UI-Designer-E-Commerce&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1579517__1953_b8d5a43c80ddd474293664972afbbcfd?utm_source=1953&utm_medium=feed&keyword=UX-UI-Designer-E-Commerce&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7466,7 +7376,7 @@
     "company": "CAST",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1582513__1953_51cedc5587f526a360cb092b12e5728a?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-NEG%C3%93CIOS&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1582513__1953_1e6e41057db1ea1500a74565ce0e8b28?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-NEG%C3%93CIOS&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7965,15 +7875,6 @@
     "tipo": ""
   },
   {
-    "title": "Product Owner",
-    "description": "<p>Procuramos um profissional talentoso e experiente para atuar como PMO (Project Management Officer) ou PO (Project Owner) em um projeto estratégico de Data Visualization de alta complexidade para nosso cliente. O projeto envolve a transformação de grandes volumes de dados em insights acionáveis através de dashboards e relatórios. O candidato deve ser fluente em inglês para gerenciar e colaborar com equipes de desenvolvimento, stakeholders e parceiros em nível global. </p><p><b>  Responsabilidades Principais </b> </p><p>Gestão de Projeto/Produto: </p><p>PMO Foco: Gerenciar o ciclo de vida completo do projeto, incluindo escopo, cronograma, orçamento, riscos e qualidade, garantindo que os objetivos estratégicos sejam alcançados dentro do prazo. </p><p>PO Foco: Definir, priorizar e manter o Product Backlog do projeto de DataViz, traduzindo as necessidades dos stakeholders e do cliente em histórias de usuário claras e critérios de aceitação. </p><p><b>Comunicação Global: Atuar como o principal ponto de contato, facilitando a comunicação clara e eficaz entre o cliente, stakeholders executivos e os times técnicos distribuídos globalmente. </b> </p><p>Análise e Requisitos de Dados: Trabalhar em estreita colaboração com analistas de dados e designers para refinar os requisitos de visualização, garantindo que os dashboards atendam às necessidades de informação e apresentem a narrativa correta. </p><p>Governança: Estabelecer e manter padrões, processos e métricas de desempenho (KPIs) para o projeto, garantindo a transparência e o alinhamento estratégico. </p><p>Mitigação de Riscos: Identificar proativamente riscos e impedimentos, desenvolvendo planos de mitigação e escalando problemas quando necessário. </p><p><b>  Requisitos Obrigatórios </b> </p><p>Experiência Comprovada: experiência atuando como PMO, Gerente de Projetos ou Product Owner em projetos de alta complexidade e grande escala. </p><p><b>Proficiência em Inglês: Fluência obrigatória (escrita e conversação) para comunicação diária com times e stakeholders internacionais. </b> </p><p>Metodologias: Forte conhecimento e experiência prática com metodologias ágeis (Scrum, Kanban) e/ou tradicionais (PMBOK). </p><p>Data & DataViz: Sólida compreensão dos conceitos de Data Visualization, Business Intelligence (BI) e Storytelling com dados. Capacidade de entender a estrutura de dados e como ela suporta a visualização final. </p><p>Habilidades de Comunicação: Excelente habilidade de comunicação, negociação e gestão de conflitos, com experiência em interagir em nível executivo. </p><p>  Conhecimentos Desejáveis (Um Diferencial) </p><p>Ferramentas de DataViz: Experiência prática com ferramentas líderes de mercado como Tableau, Power BI ou Looker Studio (Google Data Studio). </p><p>Certificações: Certificações relevantes (e.g., PMP, PSM/CSM, SAFe). </p>",
-    "company": "HVAR",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1590116__1953?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
     "title": "Sr. Full-Stack Software Engineer",
     "description": "<p><b>*Native/Bilingual English is required for this role (read/written/spoken) </b> </p><p><br></p><p><b>Please upload your CV Resume in English. </b> </p><p><br></p><p><b>Monthly salary:  </b>$5,000 - $6,000 USD </p><p><br></p><p>Along with our partner, we are seeking a highly capable and experienced Full-Stack Software Engineer to join their team. This role is ideal for a senior-level engineer who thrives on owning features end-to-end, from database schema design to frontend UI implementation. </p><p><br></p><p>This is a critical role that requires a solid grasp of modern, decoupled architecture and the ability to work effectively across the entire stack. </p><p><br></p><p><b>Key Responsibilities: </b> </p><ul><li><b>End-to-End Feature Development:  </b>Design, build, and deploy new features and services across their product suite, ensuring high performance, responsiveness, and reliability. </li><li><b>Backend Engineering:  </b>Develop and maintain core backend services using GoLang, implement efficient and scalable APIs using GraphQL, and manage their relational data infrastructure on Postgres. </li><li><b>Frontend Development:  </b>Build intuitive, performant, and engaging user interfaces using Angular and Typescript, specifically focusing on internal dashboards, content management tools, and data visualization applications. </li><li><b>Cloud Infrastructure:  </b>Utilize GCP (Google Cloud Platform) services to deploy, monitor, and scale their applications (e.g., Compute Engine, Cloud Run, Cloud SQL). </li><li><b>Architectural Contributions:  </b>Collaborate with the team on architectural decisions, ensuring their systems are secure, maintainable, and designed for long-term scalability. </li> </ul><p><br></p><p><b>Qualifications: </b> </p><p><b>Required: </b> </p><ul><li><b>Experience:  </b>6-10 years of professional software development experience, ideally in a full-stack capacity. </li><li><b>Backend Expertise:  </b>Strong proficiency with GoLang (Go) for developing performant microservices and APIs. </li><li><b>Database </b>: Deep experience with Postgres (PostgreSQL), including advanced SQL, performance tuning, and database schema design. </li><li><b>Frontend Mastery:  </b>Proven experience with JavaScript frameworks and Typescript to build complex, enterprise-grade web applications. Angular proficiency is preferred; otherwise, willingness to learn it is a must. </li><li><b>API Design:  </b>Experience designing, building, and consuming APIs, with a preference for GraphQL. </li><li><b>Cloud Platform:  </b>Hands-on experience deploying and managing applications on GCP (Google Cloud Platform) or another major cloud provider. </li> </ul><p><br></p><p><b>Preferred (Bonus Points): </b> </p><ul><li><b>Startup/Early Stage Experience: </b> Previous experience working in a small, fast-paced environment (e.g., on a team of 1-2 engineers), where independent problem-solving and wearing multiple hats were essential. </li><li><b>Media or Retail Tech:  </b>Familiarity with concepts in AdTech, digital signage, content delivery networks (CDNs), or retail/CPG data environments. </li> </ul><p><br></p><p><b>Benefits: </b> </p><ul><li>A fully remote position with a structured schedule that supports work-life balance. </li><li>The opportunity to contribute to a cutting-edge company revolutionizing in-store digital media and data-driven storytelling. </li><li>Two weeks of paid vacation per year. </li><li>10 paid days for local holidays. </li> </ul><p><br></p><p><b>*Please note our partner is only looking for full-time dedicated team members who are eager to fully integrate within their team. </b> </p>",
     "company": "Tecla",
@@ -8028,15 +7929,6 @@
     "tipo": ""
   },
   {
-    "title": "SDR - Representante de desenvolvimento de vendas",
-    "description": "<p><b>Remuneração Fixo + variável - PJ - Vaga Home Office </b> </p><p><br></p><p>Estamos em busca de um SDR (Sales Development Representative) para integrar nossa equipe de forma remota, atuando no atendimento inicial de leads via WhatsApp e chamadas de vídeo. Se você tem habilidade em comunicação, é organizado e busca uma oportunidade com potencial de crescimento em uma empresa que valoriza a meritocracia, essa vaga é para você. </p><p><br></p><p><b>⚠️ É imprescindível ter experiência prévia como SDR. </b> </p><p><br></p><p><b>Habilidades e Qualidades Necessárias: </b> </p><ul><li>Excelente capacidade de comunicação e empatia para entender as necessidades dos leads. </li><li>Disciplina e organização para gerenciar múltiplos atendimentos de forma eficiente. </li><li>Ambição e foco em resultados para alcançar e superar objetivos. </li><li>Capacidade de aprendizado rápido para assimilar os processos e ferramentas da empresa. </li><li>Resiliência e proatividade frente aos desafios. </li><li>Ser uma pessoa extremamente focada em resultados. </li><li>Experiência anterior como SDR é obrigatória. </li> </ul><p><b>Responsabilidades: </b> </p><ul><li>Receber e atender leads que chegam via WhatsApp de forma eficiente e acolhedora. </li><li>Coletar dados do lead, compreendendo suas necessidades e expectativas. </li><li>Realizar uma análise inicial para qualificar os leads de acordo com critérios estabelecidos. </li><li>Encaminhar os dados coletados e análises para o responsável, garantindo uma transição suave e eficaz. </li><li>Participar da conversa de Handoff com o closer. </li> </ul><p><b>Oferecemos </b>: </p><ul><li>Uma oportunidade de carreira em uma empresa em crescimento. </li><li>Um ambiente de trabalho meritocrático, onde seu resultado é reconhecido. </li><li>Treinamento e desenvolvimento contínuo para aprimorar suas habilidades. </li><li>Remuneração fixa + variável e bônus. </li> </ul>",
-    "company": "move.se",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1592530__1953_c904abb7c85a282076972e0613d64df5?utm_source=1953&utm_medium=feed&keyword=SDR-Representante&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "English Teacher with Advanced Portuguese Skills",
     "description": "<p>Are you a Portuguese speaker who graduated as an English Teacher? We are looking for you! </p><p>Teach fun English classes online via Zoom from the comfort of your own home! You can set your own hours and teach on the go as long as you have a solid color backdrop, a laptop, good WiFi, a webcam, and a microphone. </p><p><br></p><p>If you love teaching, but dread prepping for lessons and grading, this is the perfect job for you. We provide our teachers with all the lesson materials so all you have to do is show up for class and do what you do best, which is teach! </p><p>Whether you’re looking for a second stream of income or a full-time job, we’ve got you covered. You can work as little as 16 hours a month up to as much as 30 hours a week. </p><p><br></p><p><b>What is a typical day for an Online English Teacher at LatinHire? </b> </p><p>You will be scheduled shifts two weeks in advance according to the availability you provide us and we also offer the flexibility of dropping shifts and picking up extra shifts. </p><p>If you are busier one week, you can drop some of your shifts and have other teachers help you out or if you want to earn more $$ another week, you can pick up extra shifts and help other teachers out. </p><p>When you are on shift, you log on to our platform and teach the lessons provided as well as write short feedback for the students after class. Simple as that! </p><p><br></p><p><b>In short, here are some reasons why you will love working as an Online English Teacher with LatinHire: </b> </p><p><br></p><ul><li>Up to 30 hours of shifts available per week! </li><li>You be your own boss and set your own schedule </li><li>Work from anywhere (as long as you have good WiFi, workspace, computer, webcam, and microphone). </li><li>Depending on the number of hours you decide to teach and on your schedule, you can earn up to USD 900+ per month. </li> </ul><p><br></p><p><b>Minimum Requirements: </b> </p><p><br></p><ul><li>Portuguese as a first language. </li><li>C1 or C2 Level English Speaker </li><li>University degree in English Teaching or related area. </li><li>One year of experience in teaching English as a foreign language. </li><li>Access to a computer with a reliable, high-speed (at least 2MB) internet connection. </li><li>Must pass a criminal background check. </li><li>Teachers must provide at least ten (10) hours of weekly availability. </li> </ul><p><br></p><p><b>Who we are: </b> </p><p>Established in 2003, LatinHire recruits and manages teams of subject matter experts (SMEs) for online education companies. For over 20 years, our teams have played key roles in the backend of very successful educational startups. </p>",
     "company": "LatinHire",
@@ -8079,15 +7971,6 @@
     "city": "salvador",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_1593021__1953?utm_source=1953&utm_medium=feed&keyword=English-Teacher-with&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "SDR - Representante de desenvolvimento de vendas",
-    "description": "<p><b>Remuneração Fixo + variável - PJ - Vaga Home Office </b> </p><p><br></p><p>Estamos em busca de um SDR (Sales Development Representative) para integrar nossa equipe de forma remota, atuando no atendimento inicial de leads via WhatsApp e chamadas de vídeo. Se você tem habilidade em comunicação, é organizado e busca uma oportunidade com potencial de crescimento em uma empresa que valoriza a meritocracia, essa vaga é para você. </p><p><br></p><p><b>⚠️ É imprescindível ter experiência prévia como SDR. </b> </p><p><br></p><p><b>Habilidades e Qualidades Necessárias: </b> </p><ul><li>Excelente capacidade de comunicação e empatia para entender as necessidades dos leads. </li><li>Disciplina e organização para gerenciar múltiplos atendimentos de forma eficiente. </li><li>Ambição e foco em resultados para alcançar e superar objetivos. </li><li>Capacidade de aprendizado rápido para assimilar os processos e ferramentas da empresa. </li><li>Resiliência e proatividade frente aos desafios. </li><li>Ser uma pessoa extremamente focada em resultados. </li><li>Experiência anterior como SDR é obrigatória. </li> </ul><p><b>Responsabilidades: </b> </p><ul><li>Receber e atender leads que chegam via WhatsApp de forma eficiente e acolhedora. </li><li>Coletar dados do lead, compreendendo suas necessidades e expectativas. </li><li>Realizar uma análise inicial para qualificar os leads de acordo com critérios estabelecidos. </li><li>Encaminhar os dados coletados e análises para o responsável, garantindo uma transição suave e eficaz. </li><li>Participar da conversa de Handoff com o closer. </li> </ul><p><b>Oferecemos </b>: </p><ul><li>Uma oportunidade de carreira em uma empresa em crescimento. </li><li>Um ambiente de trabalho meritocrático, onde seu resultado é reconhecido. </li><li>Treinamento e desenvolvimento contínuo para aprimorar suas habilidades. </li><li>Remuneração fixa + variável e bônus. </li> </ul>",
-    "company": "move.se",
-    "city": "lauro de freitas",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1593070__1953?utm_source=1953&utm_medium=feed&keyword=SDR-Representante&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -8249,7 +8132,7 @@
     "company": "LatinHire",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1597142__1953_d585410a4a22663366ba0e8bf5f96fe4?utm_source=1953&utm_medium=feed&keyword=English-Teacher-with&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1597142__1953_93be23a554c5265df712e2fded79ba51?utm_source=1953&utm_medium=feed&keyword=English-Teacher-with&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8352,30 +8235,12 @@
     "tipo": ""
   },
   {
-    "title": "SDR - Representante de desenvolvimento de vendas",
-    "description": "<p><b>Remuneração Fixo + variável - PJ - Vaga Home Office </b> </p><p><br></p><p>Estamos em busca de um SDR (Sales Development Representative) para integrar nossa equipe de forma remota, atuando no atendimento inicial de leads via WhatsApp e chamadas de vídeo. Se você tem habilidade em comunicação, é organizado e busca uma oportunidade com potencial de crescimento em uma empresa que valoriza a meritocracia, essa vaga é para você. </p><p><br></p><p><b>⚠️ É imprescindível ter experiência prévia como SDR. </b> </p><p><br></p><p><b>Habilidades e Qualidades Necessárias: </b> </p><ul><li>Excelente capacidade de comunicação e empatia para entender as necessidades dos leads. </li><li>Disciplina e organização para gerenciar múltiplos atendimentos de forma eficiente. </li><li>Ambição e foco em resultados para alcançar e superar objetivos. </li><li>Capacidade de aprendizado rápido para assimilar os processos e ferramentas da empresa. </li><li>Resiliência e proatividade frente aos desafios. </li><li>Ser uma pessoa extremamente focada em resultados. </li><li>Experiência anterior como SDR é obrigatória. </li> </ul><p><b>Responsabilidades: </b> </p><ul><li>Receber e atender leads que chegam via WhatsApp de forma eficiente e acolhedora. </li><li>Coletar dados do lead, compreendendo suas necessidades e expectativas. </li><li>Realizar uma análise inicial para qualificar os leads de acordo com critérios estabelecidos. </li><li>Encaminhar os dados coletados e análises para o responsável, garantindo uma transição suave e eficaz. </li><li>Participar da conversa de Handoff com o closer. </li> </ul><p><b>Oferecemos </b>: </p><ul><li>Uma oportunidade de carreira em uma empresa em crescimento. </li><li>Um ambiente de trabalho meritocrático, onde seu resultado é reconhecido. </li><li>Treinamento e desenvolvimento contínuo para aprimorar suas habilidades. </li><li>Remuneração fixa + variável e bônus. </li> </ul>",
-    "company": "move.se",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1599607__1953?utm_source=1953&utm_medium=feed&keyword=SDR-Representante&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
     "title": "Customer Success Specialist",
     "description": "<ul><li>LOVE startups and always dreamed of working in tech? </li><li>WANT to build meaningful relationships and help ambitious entrepreneurs succeed? </li><li>BELIEVE you can use initiative and ownership to fast-track your career? </li> </ul><p><br></p><p><b>THEN READ ON! </b> </p><p><br></p><p>Oneday is an education technology platform designed to inspire and equip aspiring entrepreneurs from diverse backgrounds to turn their business dreams into reality. </p><p><br></p><p>Backed by <b>$15M in seed funding </b> from top-tier VCs in the UK and Silicon Valley, Oneday is scaling fast. Our mission: <b>redefine business education and become the largest entrepreneurship school in the world. </b> </p><p><br></p><p>Join us and help shape a world where anyone, anywhere, can build a company. </p><p><br></p>",
     "company": "Oneday",
     "city": "feira de santana",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_1599717__1953?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Specialist&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "SDR - Representante de desenvolvimento de vendas",
-    "description": "<p><b>Remuneração Fixo + variável - PJ - Vaga Home Office </b> </p><p><br></p><p>Estamos em busca de um SDR (Sales Development Representative) para integrar nossa equipe de forma remota, atuando no atendimento inicial de leads via WhatsApp e chamadas de vídeo. Se você tem habilidade em comunicação, é organizado e busca uma oportunidade com potencial de crescimento em uma empresa que valoriza a meritocracia, essa vaga é para você. </p><p><br></p><p><b>⚠️ É imprescindível ter experiência prévia como SDR. </b> </p><p><br></p><p><b>Habilidades e Qualidades Necessárias: </b> </p><ul><li>Excelente capacidade de comunicação e empatia para entender as necessidades dos leads. </li><li>Disciplina e organização para gerenciar múltiplos atendimentos de forma eficiente. </li><li>Ambição e foco em resultados para alcançar e superar objetivos. </li><li>Capacidade de aprendizado rápido para assimilar os processos e ferramentas da empresa. </li><li>Resiliência e proatividade frente aos desafios. </li><li>Ser uma pessoa extremamente focada em resultados. </li><li>Experiência anterior como SDR é obrigatória. </li> </ul><p><b>Responsabilidades: </b> </p><ul><li>Receber e atender leads que chegam via WhatsApp de forma eficiente e acolhedora. </li><li>Coletar dados do lead, compreendendo suas necessidades e expectativas. </li><li>Realizar uma análise inicial para qualificar os leads de acordo com critérios estabelecidos. </li><li>Encaminhar os dados coletados e análises para o responsável, garantindo uma transição suave e eficaz. </li><li>Participar da conversa de Handoff com o closer. </li> </ul><p><b>Oferecemos </b>: </p><ul><li>Uma oportunidade de carreira em uma empresa em crescimento. </li><li>Um ambiente de trabalho meritocrático, onde seu resultado é reconhecido. </li><li>Treinamento e desenvolvimento contínuo para aprimorar suas habilidades. </li><li>Remuneração fixa + variável e bônus. </li> </ul>",
-    "company": "move.se",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1600236__1953?utm_source=1953&utm_medium=feed&keyword=SDR-Representante&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8825,7 +8690,7 @@
     "company": "Publicis Groupe Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1607633__1953_7701d91a9beae056a580af91eb154ade?utm_source=1953&utm_medium=feed&keyword=Eng-de-Software&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1607633__1953_1d9164baccd93090996875e1766c493d?utm_source=1953&utm_medium=feed&keyword=Eng-de-Software&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8906,7 +8771,7 @@
     "company": "Framework Digital",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1608558__1953_02027b67fed261aa1284f44d924733aa?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-FullStack-S%C3%AAnior&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1608558__1953_ed866ed30dc599a0b97aa21532a83928?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-FullStack-S%C3%AAnior&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -8978,7 +8843,7 @@
     "company": "Softtek",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1609339__1953_760503d72412cb957afda6b6664abfa7?utm_source=1953&utm_medium=feed&keyword=Analista-de-Helpdesk&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1609339__1953_1e7fefe234bfec117896a6ed1495cf65?utm_source=1953&utm_medium=feed&keyword=Analista-de-Helpdesk&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8997,6 +8862,141 @@
     "city": "lauro de freitas",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_1609452__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Senior Network Implementation Engineer – Juniper/MIST",
+    "description": "<p><b>Senior Network Implementation Engineer – Juniper/MIST </b> </p><p>Remote working - report to US </p><p><br></p><p>NTT DATA Inc. is a multinational technology company offering services in software development, security, cloud, and especially IT infrastructure. According to Great Place to Work, we are among the best technology companies to work for in Brazil. We foster an inclusive work culture and highly value the freedom to improve processes, flexibility, and respect for people! </p><p>To achieve great things together, NTT DATA Inc. believes in and fully supports diversity. Our company is open to everyone, regardless of disability, gender, sexual orientation, race, ethnicity, age, origin, or appearance. </p><p><br></p><p><b>What Will You Do? </b> </p><p>As a Level 4 Juniper Route/Switch, WAN Edge, Wireless, and MIST Solutioning Engineer, you will: </p><ul><li>Design, implement, and manage advanced network solutions focused on Juniper technologies (route/switch, WAN edge, wireless, MIST, SDWAN, SSR). </li><li>Lead design and delivery projects, working closely with clients to meet complex requirements. </li><li>Mentor and guide junior engineers, ensuring high-quality work and continuous improvement. </li><li>Provide architectural guidance and consulting on best practices for network design and implementation. </li><li>Conduct hands-on installation, configuration, and maintenance of Juniper network components. </li><li>Write reports, proposals, and maintain project documentation. </li><li>Engage with vendors for priority escalations and troubleshooting. </li><li>Take ownership of relevant technologies and lead by example in project execution. </li> </ul><p><br></p><p><b>What Do We Expect From You? </b> </p><ul><li>Advanced/Fluent English – daily contact with the US is required. </li><li>Bachelor’s degree (or equivalent) in Information Technology, Computing, or related field. </li><li>Professional certification in Juniper technologies (JNCIE, JNCIP, etc.). </li><li>Knowledge of Cisco technologies and certifications (CCNP, CCIE, etc.). </li><li>Minimum 10 years of network engineering experience, with at least 7–10 years leading design and delivery for professional services. </li><li>Strong consulting, communication, and client engagement skills. </li><li>Ability to coach and mentor team members. </li><li>Extended experience in Juniper SDWAN and SSR technologies. </li><li>Excellent troubleshooting and report writing abilities. </li> </ul><p><br></p><p><b>What Do We Offer? </b> </p><ul><li>CLT employment contract </li><li>Work equipment provided </li><li>Meal/food vouchers </li><li>Home office allowance </li><li>Health and dental plans for you and your family </li><li>Group life insurance </li><li>Totalpass (gym partnership) </li><li>Maternity kit and extended paternity leave </li><li>Birthday day off </li><li>Opportunities to participate in social initiatives </li><li>Incentives for education and training </li><li>An inclusive work culture where together we achieve great things! </li> </ul><p><br></p><p><b>Location </b> </p><p>Remote Working </p>",
+    "company": "NTT DATA, Inc.",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1609506__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Network-Implementation&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Engenheiro de Dados Sênior",
+    "description": "<p>Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. </p><p>Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! </p><p>*Todas as nossas vagas são abertas para PCDs! </p><p><br></p><p><br></p><p><b>Benefícios? É claro que temos! </b> </p><p>  Vale alimentação e refeição no cartão Swile com mais de R$ 1.200,00 mensais </p><p>  Auxílio home office no valor de R$ 150,00 mensais </p>",
+    "company": "Framework Digital",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1609868__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Engenheiro de IA (LLM)",
+    "description": "<p><b>#VemPraTrinks </b> </p><p><br></p><p>A Trinks é uma plataforma SaaS líder em gestão e agendamento para salões de beleza, barbearias, clínicas estéticas e estabelecimentos de bem-estar em todo o Brasil. Estamos construindo uma nova frente de produto baseada em <b>inteligência artificial generativa </b>, com foco em automação de atendimento e gestão do ERP. </p><p><br></p><p>Buscamos um profissional com perfil técnico sênior, com vivência em IA generativa e engenharia de software, para liderar o desenvolvimento de um novo produto baseado em <b>modelos de linguagem (LLMs) </b>, integrando inteligência artificial ao core de serviços da Trinks. </p><p><br></p><p><b>Dá uma olhada no seu papel nessa #revolução: </b> </p><p><br></p><ul><li>Liderar e desenvolver a criação de um sistema conversacional com IA generativa (LLM); </li><li>Projetar arquitetura escalável e segura com integração aos sistemas da Trinks; </li><li>Trabalhar em estreita colaboração com os times de Produto, UX, Dados e Engenharia; </li><li>Implementar soluções baseadas em RAG (Retrieval-Augmented Generation) com foco em contexto e precisão; </li><li>Definir boas práticas de desenvolvimento, versionamento, testes e deploy de soluções com IA; </li><li>Acompanhar performance, custo e segurança dos modelos em produção. </li> </ul><p><br></p><p><b>O que você precisa para o #match perfeito: </b> </p><p><br></p><ul><li>Experiência consolidada em engenharia de software; </li><li>Experiência prática com LLMs (OpenAI, Claude, Mistral, etc.); </li><li>Domínio de Python (e desejável experiência com C#/.NET); </li><li>Conhecimento em LangChain, LlamaIndex, ou similares; </li><li>Conhecimento de arquitetura em nuvem (preferencialmente AWS); </li><li>Familiaridade com sistemas assíncronos/event-driven (Kafka, SQS, etc.). </li> </ul><p><br></p><p><b>Será um diferencial se você conhecer: </b> </p><p><br></p><ul><li>Ter liderado ou desenvolvido projetos com IA generativa e agentes conversacionais. </li><li>Conhecimento em prompt engineering, embeddings, vetores e fine-tuning leve. </li><li>Experiência com mecanismos de controle de alucinação e segurança em LLMs. </li> </ul><p><br></p><p><b>Saca só o que OFERECEMOS: </b> </p><p><br></p><p>  100% Home office; </p><p>⏳ Contratação CLT (40 horas semanais); </p><p>  Auxílio home office; </p><p>  Vale alimentação e vale refeição no cartão flexível; </p><p>  Plano de Saúde SulAmérica (custo zero para o colaborador); </p><p>  Plano Odonto SulAmérica (custo zero para o colaborador); </p>",
+    "company": "Trinks",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1609997__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Eng de Software NodeJS SR - 100% REMOTO",
+    "description": "<p>Referência em inovação, criatividade e respeito às diferenças, o Publicis Groupe é o grupo de comunicação mais valorizado do mercado. Com 100 mil colaboradores atuando em mais de 100 países - e interconectados pela plataforma de IA Marcel -, somos um parceiro estratégico no processo de transformação de nossos clientes. Atuamos com base na filosofia do Power of One, que permite que as marcas avancem na personalização em escala e encontrem todos os serviços de que precisam no mesmo lugar, com a possibilidade de customizá-los de acordo com suas demandas. No Brasil, o Publicis Groupe conta com 2.500 colaboradores divididos em agências de publicidade e empresas especialistas que são referências em suas áreas de atuação: DPZ, LePub, Leo, Publicis Brasil, Talent, ARC, BR Media, Epsilon, PMX, PXP e Publicis Edge. </p><p><br></p><p><br></p><p>A pessoa contratada irá atuar na <b>BR Media Group </b> é um hub de conteúdo referência no mercado para a economia de criadores, com um mindset data-driven e liderança em soluções de influência e conteúdo para as principais marcas do mundo. </p><p><br></p><p><br></p><p>A <b>BR Media Group </b> é um <b>hub de conteúdo referência no mercado para a economia de criadores </b>, com um forte <b>mindset data-driven </b>, liderando <b>soluções de influência e conteúdo </b> para algumas das maiores marcas do mundo. </p><p>Estamos em busca de uma pessoa <b>Desenvolverdora </b> <b>Fullstack Sênior </b>, com <b>foco em backend </b> e experiência sólida em <b>TypeScript </b>, para integrar nossa equipe de tecnologia e atuar no <b>núcleo de produtos e plataformas de marketing de influência </b>. </p><p>Você trabalhará lado a lado com <b>engenheiros, product managers, designers e analistas de dados </b>, em um ambiente que valoriza <b>colaboração, alinhamento técnico e comunicação constante entre pares </b>. </p><p><br></p><p>Se você é apaixonado por <b>desenvolvimento de produtos escaláveis </b>, <b>boas práticas de engenharia </b> e quer construir soluções de impacto no ecossistema de criadores, essa vaga é para você! </p><p><br></p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><ul><li>Desenvolver e manter aplicações <b>fullstack </b> utilizando <b>NestJS (backend) </b> e <b>Next.js (frontend) </b>, assegurando qualidade, performance e boas práticas de engenharia; </li><li>Contribuir para <b>decisões técnicas e arquiteturais </b>, sempre em <b>alinhamento com o time </b>; </li><li>Implementar <b>testes automatizados </b> (unitários e de integração), garantindo confiabilidade e sustentabilidade do código; </li><li>Participar ativamente de <b>code reviews </b>, <b>refinamentos técnicos </b> e <b>planejamentos de sprint </b>, mantendo sinergia com os pares; </li><li>Apoiar na evolução dos <b>pipelines CI/CD </b>, qualidade do código e observabilidade das aplicações; </li><li>Integrar sistemas internos e externos via <b>APIs REST/gRPC </b>, webhooks e mensageria; </li><li>Contribuir para o desenvolvimento e manutenção de aplicações <b>mobile </b> utilizando <b>React Native (ecossistema Expo) </b>; </li><li>Ter visão sistêmica e foco em entrega de valor, respeitando padrões e decisões técnicas estabelecidas pelo time; </li><li>Colaborar em rotinas básicas de <b>infraestrutura </b> e deploy em <b>AWS/GCP </b> ou <b>Kubernetes </b>, quando necessário. </li> </ul><p><br></p><p><br></p><p><b>Requisitos obrigatórios: </b> </p><ul><li>Experiência sólida com <b>TypeScript </b>; </li><li>Proficiência em <b>NestJS </b> e <b>Node.js </b> no backend; </li><li>Experiência com <b>Next.js </b> e desenvolvimento frontend; </li><li>Conhecimento em <b>React Native </b> e <b>Expo </b>; </li><li>Experiência com <b>testes automatizados </b> (unitários e de integração) usando <b>Jest, Vitest </b> ou similares; </li><li>Vivência com <b>bancos de dados SQL e NoSQL </b> (PostgreSQL, MongoDB, Redis, etc.); </li><li>Experiência com <b>integração de APIs </b>, mensageria (RabbitMQ, Kafka, etc.) e CI/CD (GitHub Actions, GitLab CI ou similares); </li><li>Boa comunicação e <b>alinhamento constante com pares e líderes técnicos </b>; </li><li>Capacidade de entender o contexto do produto e atuar de forma colaborativa nas decisões técnicas. </li> </ul><p><br></p><p><br></p><p><b>Requisitos desejáveis: </b> </p><ul><li>Formação completa em áreas de Tecnologia; </li><li>Conhecimento básico em <b>infraestrutura cloud (AWS/GCP) </b> e/ou <b>Kubernetes/; </b> </li><li>Familiaridade com <b>monitoramento e observabilidade </b> (Grafana, Prometheus, Datadog, etc.); </li><li>Experiência com <b>Clean Architecture </b>, <b>DDD </b> ou <b>Event-Driven Architecture </b>; </li><li>Experiência com <b>microserviços </b> e <b>mensageria assíncrona </b>; </li><li>Interesse pelo universo de <b>influência, creators e social platforms </b>. </li> </ul> <p><br></p><p><b>Benefícios </b> </p><ul><li>Vale Refeição de R$46,00 por dia útil; </li><li>Clube iFood (cupons de desconto e benefícios exclusivos); </li><li>Vale Transporte; </li><li>Parceria Totalpass e Gympass; </li><li>Day Off de aniversário; </li><li>Plano de saúde Bradesco; </li><li>Parceria Star Bem; </li><li>Parceria Avus; </li><li>Auxílio creche para crianças de até 6 anos (benefício exclusivo para mamães); </li><li>Dress Code casual; </li><li>Regime de contratação: CLT; </li><li>Auxílio home office; </li><li><b>Modelo de trabalho: 100% REMOTO </b> </li> </ul>",
+    "company": "Publicis Groupe Brasil",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610010__1953?utm_source=1953&utm_medium=feed&keyword=Eng-de-Software&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor FullStack Sênior",
+    "description": "<p>Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. </p><p>Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! </p><p>*Todas as nossas vagas são abertas para PCDs! </p><p><br></p><p><b>Benefícios? É claro que temos! </b> </p><p>  Vale alimentação e refeição no cartão Swile com mais de R$ 1.200,00 mensais </p><p>  Auxílio home office no valor de R$ 150,00 mensais </p>",
+    "company": "Framework Digital",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610476__1953_cf1d92d5a897d2967bd0856402d52c61?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-FullStack-S%C3%AAnior&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Partnership Analyst",
+    "description": "<p><b>Job Description   </b> </p><p><br></p><p>At <b>Pluria Global </b>, we continue to grow at an extraordinary pace. That’s why we’re looking for a true rockstar to join our mission of redefining how people and companies work together. We provide <b>companies and employees </b> with a disruptive solution that enables them to work from <b>any workspace affiliated with our network </b> (coworking spaces, business centers, private and flexible offices, hotels, libraries, cafés), where users can <b>find and book their workspace in just one click </b>. <b>Unlock potential through real connections. </b> </p><p><br></p><p>  <b>Pluria </b> is a multinational startup founded in Romania, with presence in Spain, Argentina, Peru, Mexico, Chile, Brazil, Portugal, and Colombia. Our goal is to become the <b>global solution that supports companies on their journey to becoming flexible organizations </b>. We operate in a market growing <b>215% in LatAm and 55% in Colombia </b>. </p><p><br></p><p>  At Pluria, we believe the true engine of progress lies in <b>real connections </b>: when teams feel connected, both people and companies thrive. That’s why our purpose is to create <b>connected teams </b> that boost engagement, innovation, and results—because better companies lead to better economies and, ultimately, a better quality of life. </p><p><br></p><p> ‍  We achieve this by bringing together three forces: </p><ul><li><b>A network of locations </b> that brings offices, hubs, and flexible spaces into one accessible network. </li><li><b>Bottom-up coordination </b>, enabling intentional encounters through bookings, invitations, and approvals. </li><li><b>Top-down intelligence </b>, delivering actionable data so leaders can make better decisions. </li> </ul><p><br></p><p>This is how we unlock true performance by transforming work into a space for <b>connection, collaboration, and shared growth </b>. </p><p><br></p><p>  <b>Some numbers that back us up: </b> </p><ul><li>Global presence in over <b>10 countries </b> </li><li>More than <b>1,000 workspaces worldwide </b> </li><li><b>20% month-over-month growth </b> </li><li>A global team of <b>30+ people </b> </li><li><b>100% remote and multicultural team </b> </li> </ul><p><br></p>",
+    "company": "Pluria",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610584__1953?utm_source=1953&utm_medium=feed&keyword=Partnership-Analyst&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Engenheiro de Dados Sênior",
+    "description": "<p>Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. </p><p>Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! </p><p>*Todas as nossas vagas são abertas para PCDs! </p><p><br></p><p><br></p><p><b>Benefícios? É claro que temos! </b> </p><p>  Vale alimentação e refeição no cartão Swile com mais de R$ 1.200,00 mensais </p><p>  Auxílio home office no valor de R$ 150,00 mensais </p>",
+    "company": "Framework Digital",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610623__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Especialista ABAP",
+    "description": "<p>Há mais de 20 anos mercado, somos uma consultoria estratégica de Inovação e Transformação Digital. Nossa especialidade é impulsionar as demandas de nossos clientes, integrando processos, pessoas e tecnologia de alta performance. </p><p>Estamos com uma oportunidade para o nosso time corporativo para:<b> Especialista ABAP </b> </p><p><br></p><p><b>Experiência Profissional </b> </p><p><br></p><p>Necessário Inglês avançado ou fluente  </p><p><br></p><ul><li>Mínimo de 10 anos de experiência </li><li>Excelente conhecimento em desenvolvimento ABAP no S/4, incluindo <b>Steampunk </b> e conceitos de <b>SAP Clean Core </b> </li><li>Conhecimento em criação de <b>CDS Views </b>, <b>ODATA & REST </b> e integração orientada por <b>APIs </b>. </li><li>Experiência em <b>ABAP on S/4 HANA </b> de 3 a 4 anos – <b>CDS </b>, <b>AMDP </b> (ABAP Managed Database Procedures) e <b>table functions </b>, <b>RAP Framework </b> (RESTful Application Programming) </li><li>Habilidades de integração no S/4 usando <b>Rest API </b> e <b>SProxy </b> </li><li>Experiência com <b>Adobe Forms </b> </li><li>Conhecimento do processo <b>SolMan Charm </b> </li><li>Conhecimento em pesquisa de <b>SAP Notes </b> como parte do tratamento de defeitos. Registrar <b>OSS-cases </b> na SAP e instalar <b>SAP Notes </b> </li><li>Conhecimento em instalação e/ou ativação de <b>versões de países do S/4 </b> </li><li>Conhecimento em instalação de <b>namespaces </b> para integração com sistemas legais </li><li>Inglês para escrita e conversação </li><li>Conhecimento em <b>tributação do Brasil </b> </li><li>Conhecimento em <b>tributação do Peru e do Chile </b> será um diferencial </li><li><b>Espanhol </b> será um diferencial </li> </ul><p><br></p><p><b>Formação Acadêmica </b> </p><p><br></p><ul><li>Graduação completa. </li> </ul><p><br></p><p><b>Idioma </b> </p><p><br></p><ul><li>Inglês - Avançado ou Fluente  </li> </ul><p><br></p><p><b>Modelo de trabalho: </b> </p><p><br></p><ul><li><b>Remoto </b> </li> </ul><p><br></p><p><b>CLT </b> </p><p><b>Benefícios CLT: </b> </p><p>  Vale Refeição </p>",
+    "company": "SIS Innov & Tech",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610743__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-ABAP&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Engenheiro de Dados Sênior",
+    "description": "<p>Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. </p><p>Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! </p><p>*Todas as nossas vagas são abertas para PCDs! </p><p><br></p><p><br></p><p><b>Benefícios? É claro que temos! </b> </p><p>  Vale alimentação e refeição no cartão Swile com mais de R$ 1.200,00 mensais </p><p>  Auxílio home office no valor de R$ 150,00 mensais </p>",
+    "company": "Framework Digital",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1610855__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Eng de Software NodeJS SR - 100% REMOTO",
+    "description": "<p>Referência em inovação, criatividade e respeito às diferenças, o Publicis Groupe é o grupo de comunicação mais valorizado do mercado. Com 100 mil colaboradores atuando em mais de 100 países - e interconectados pela plataforma de IA Marcel -, somos um parceiro estratégico no processo de transformação de nossos clientes. Atuamos com base na filosofia do Power of One, que permite que as marcas avancem na personalização em escala e encontrem todos os serviços de que precisam no mesmo lugar, com a possibilidade de customizá-los de acordo com suas demandas. No Brasil, o Publicis Groupe conta com 2.500 colaboradores divididos em agências de publicidade e empresas especialistas que são referências em suas áreas de atuação: DPZ, LePub, Leo, Publicis Brasil, Talent, ARC, BR Media, Epsilon, PMX, PXP e Publicis Edge. </p><p><br></p><p><br></p><p>A pessoa contratada irá atuar na <b>BR Media Group </b> é um hub de conteúdo referência no mercado para a economia de criadores, com um mindset data-driven e liderança em soluções de influência e conteúdo para as principais marcas do mundo. </p><p><br></p><p><br></p><p>A <b>BR Media Group </b> é um <b>hub de conteúdo referência no mercado para a economia de criadores </b>, com um forte <b>mindset data-driven </b>, liderando <b>soluções de influência e conteúdo </b> para algumas das maiores marcas do mundo. </p><p>Estamos em busca de uma pessoa <b>Desenvolverdora </b> <b>Fullstack Sênior </b>, com <b>foco em backend </b> e experiência sólida em <b>TypeScript </b>, para integrar nossa equipe de tecnologia e atuar no <b>núcleo de produtos e plataformas de marketing de influência </b>. </p><p>Você trabalhará lado a lado com <b>engenheiros, product managers, designers e analistas de dados </b>, em um ambiente que valoriza <b>colaboração, alinhamento técnico e comunicação constante entre pares </b>. </p><p><br></p><p>Se você é apaixonado por <b>desenvolvimento de produtos escaláveis </b>, <b>boas práticas de engenharia </b> e quer construir soluções de impacto no ecossistema de criadores, essa vaga é para você! </p><p><br></p><p><br></p><p><b>Responsabilidades e atribuições </b> </p><ul><li>Desenvolver e manter aplicações <b>fullstack </b> utilizando <b>NestJS (backend) </b> e <b>Next.js (frontend) </b>, assegurando qualidade, performance e boas práticas de engenharia; </li><li>Contribuir para <b>decisões técnicas e arquiteturais </b>, sempre em <b>alinhamento com o time </b>; </li><li>Implementar <b>testes automatizados </b> (unitários e de integração), garantindo confiabilidade e sustentabilidade do código; </li><li>Participar ativamente de <b>code reviews </b>, <b>refinamentos técnicos </b> e <b>planejamentos de sprint </b>, mantendo sinergia com os pares; </li><li>Apoiar na evolução dos <b>pipelines CI/CD </b>, qualidade do código e observabilidade das aplicações; </li><li>Integrar sistemas internos e externos via <b>APIs REST/gRPC </b>, webhooks e mensageria; </li><li>Contribuir para o desenvolvimento e manutenção de aplicações <b>mobile </b> utilizando <b>React Native (ecossistema Expo) </b>; </li><li>Ter visão sistêmica e foco em entrega de valor, respeitando padrões e decisões técnicas estabelecidas pelo time; </li><li>Colaborar em rotinas básicas de <b>infraestrutura </b> e deploy em <b>AWS/GCP </b> ou <b>Kubernetes </b>, quando necessário. </li> </ul><p><br></p><p><br></p><p><b>Requisitos obrigatórios: </b> </p><ul><li>Experiência sólida com <b>TypeScript </b>; </li><li>Proficiência em <b>NestJS </b> e <b>Node.js </b> no backend; </li><li>Experiência com <b>Next.js </b> e desenvolvimento frontend; </li><li>Conhecimento em <b>React Native </b> e <b>Expo </b>; </li><li>Experiência com <b>testes automatizados </b> (unitários e de integração) usando <b>Jest, Vitest </b> ou similares; </li><li>Vivência com <b>bancos de dados SQL e NoSQL </b> (PostgreSQL, MongoDB, Redis, etc.); </li><li>Experiência com <b>integração de APIs </b>, mensageria (RabbitMQ, Kafka, etc.) e CI/CD (GitHub Actions, GitLab CI ou similares); </li><li>Boa comunicação e <b>alinhamento constante com pares e líderes técnicos </b>; </li><li>Capacidade de entender o contexto do produto e atuar de forma colaborativa nas decisões técnicas. </li> </ul><p><br></p><p><br></p><p><b>Requisitos desejáveis: </b> </p><ul><li>Formação completa em áreas de Tecnologia; </li><li>Conhecimento básico em <b>infraestrutura cloud (AWS/GCP) </b> e/ou <b>Kubernetes/; </b> </li><li>Familiaridade com <b>monitoramento e observabilidade </b> (Grafana, Prometheus, Datadog, etc.); </li><li>Experiência com <b>Clean Architecture </b>, <b>DDD </b> ou <b>Event-Driven Architecture </b>; </li><li>Experiência com <b>microserviços </b> e <b>mensageria assíncrona </b>; </li><li>Interesse pelo universo de <b>influência, creators e social platforms </b>. </li> </ul> <p><br></p><p><b>Benefícios </b> </p><ul><li>Vale Refeição de R$46,00 por dia útil; </li><li>Clube iFood (cupons de desconto e benefícios exclusivos); </li><li>Vale Transporte; </li><li>Parceria Totalpass e Gympass; </li><li>Day Off de aniversário; </li><li>Plano de saúde Bradesco; </li><li>Parceria Star Bem; </li><li>Parceria Avus; </li><li>Auxílio creche para crianças de até 6 anos (benefício exclusivo para mamães); </li><li>Dress Code casual; </li><li>Regime de contratação: CLT; </li><li>Auxílio home office; </li><li><b>Modelo de trabalho: 100% REMOTO </b> </li> </ul>",
+    "company": "Publicis Groupe Brasil",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1611025__1953?utm_source=1953&utm_medium=feed&keyword=Eng-de-Software&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor full stack",
+    "description": "<p><b>Key Skills & Requirements: </b> </p><p><br></p><ul><li>Senior full-stack development experience </li><li>Angular (preferably version 17) </li><li>React </li><li>ASP.NET Core / ASP.NET </li><li>C# and VB.NET </li><li>SQL Server and PostgreSQL </li><li>Azure DevOps, Azure Data Factory, Azure Functions </li><li>Strong problem-solving skills across the stack </li><li>Fluent English (required to collaborate with global team) </li><li>Clear and proactive communication </li> </ul>",
+    "company": "Titan Clarity",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1611447__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor full stack",
+    "description": "<p><b>Key Skills & Requirements: </b> </p><p><br></p><ul><li>Senior full-stack development experience </li><li>Angular (preferably version 17) </li><li>React </li><li>ASP.NET Core / ASP.NET </li><li>C# and VB.NET </li><li>SQL Server and PostgreSQL </li><li>Azure DevOps, Azure Data Factory, Azure Functions </li><li>Strong problem-solving skills across the stack </li><li>Fluent English (required to collaborate with global team) </li><li>Clear and proactive communication </li> </ul>",
+    "company": "Titan Clarity",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1611451__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Desenvolvedor (a) de Automações Pleno",
+    "description": "<p><b>Conheça a oportunidade que temos no momento: </b> </p><p><br></p><p><b>O que esperamos de você? </b> </p><p><br></p><p>Domínio em lógica de programação e boas práticas de desenvolvimento. </p><p>Experiência com automações de processos (integrações entre sistemas). </p><p>Conhecimento em SQL Server, incluindo consultas, modelagem de dados e otimização de desempenho. </p><p>Experiência em ferramentas de automação de processos, como UiPath, Open RPA, N8N ou similares. </p><p>Experiência com plataformas como Power BI ou Tableau para criação de dashboards e relatórios interativos. </p><p>Conhecimento em plataformas de desenvolvimento como Python e ferramentas semelhantes. </p><p>Atuação em squads de projetos com participação na criação e desenvolvimento de produto/automação. </p><p><br></p><p><b>Quais serão os seus desafios? </b> </p><p><br></p><p>Análise de requisitos e desenvolvimento de soluções técnicas eficientes, atuando diretamente na manutenção de sistemas e aplicações da empresa. </p><p>Atuar na análise de necessidades propondo soluções de automações sistêmicas e RPA garantindo o melhor uso dos softwares da empresa. </p><p>Desenvolver scripts ou manipulação de dados para melhoria sistêmica e/ou segurança dos dados. </p><p>Gerenciar e configurar sites e pools de aplicativos, autenticação (SSL, HTTPS), reescritas de URL e otimização de desempenho e segurança. </p><p>Sustentação e manutenção de softwares de ERP e HCM, incluindo customizações e suporte a usuários finais. </p><p>Atuar em práticas de DevOps, incluindo pipelines CI/CD e ferramentas como Jenkins, GitLab CI ou Azure DevOps. </p><p>Atuar em squads de novas soluções propondo soluções que atenda a necessidade das áreas de negócio. </p><p>Operar em linguagens similares, como JavaScript, PowerShell ou Shell Script. </p><p><br></p><p><b>Diferenciais:  </b>Experiência em projetos de automação/RPA. </p><p>Experiências em projetos com IA. </p><p><br></p><p><b>Desejáveis:  </b>Conhecimento em ferramentas de automação de processos, como Python, UiPath, Open RPA, N8N ou similares. </p><p><br></p><p><b>Quais serão os benefícios: </b> </p><p><br></p><p>MUITAS, queremos todos felizes e realizados! </p><p>Vale refeição sem desconto; </p><p>Descontos em estabelecimentos parceiros; </p><p>Vale transporte; </p><p>Plano de saúde Unimed Nacional com 100% do subsídio do escritório da mensalidade no titular; </p><p>Plano odontológico; </p><p>Bolsa de estudos; </p><p>PPR; </p><p>Seguro de vida; </p><p>Prêmio por tempo de casa; </p><p>Folga de aniversário; </p><p>Gympass; </p><p>Ambiente de trabalho dinâmico com recursos modernos. </p><p><br></p><p><b>Todas as nossas oportunidades estão disponíveis para ambos os sexos e pessoas com deficiência. </b> </p>",
+    "company": "Martinelli Advogados",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1611527__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de Helpdesk Trainee",
+    "description": "<p><b>Descrição da Posição </b> </p><p><br></p><p>Buscamos um(a) <b>Helpdesk Support Analyst – Trainee </b> para atuar no suporte técnico de primeiro nível, auxiliando usuários na resolução de problemas, abertura e acompanhamento de chamados, além de apoiar na organização e cumprimento dos níveis de serviço (SLA). O(a) profissional terá a oportunidade de aprender e se desenvolver em um ambiente colaborativo e dinâmico. </p><p><br></p><p><b>Principais Responsabilidades </b> </p><ul><li>Realizar abertura, registro, acompanhamento e encerramento de chamados técnicos; </li><li>Atuar na tratativa de backlogs e no suporte à resolução de incidentes; </li><li>Apoiar o controle e acompanhamento de SLAs; </li><li>Prestar suporte básico a usuários em ambiente Windows; </li><li>Utilizar sistemas de gestão de tickets para organização e priorização das demandas; </li><li>Comunicar-se de forma clara e objetiva com usuários e equipe interna; </li><li>Contribuir com ideias, melhorias de processos e adaptação a mudanças. </li> </ul><p><br></p><p><b>Requisitos </b> </p><ul><li>Experiência inicial ou vivência na área de TI (suporte/helpdesk); </li><li>Conhecimento em sistemas de gestão de tickets; </li><li>Noções de acompanhamento de chamados, incidentes e SLA; </li><li>Conhecimento básico em ambiente Windows (Windows 10); </li><li>Conhecimento básico no pacote Office (Outlook, Excel, Word); </li><li>Conhecimento básico em processos ITIL; </li><li>Boa comunicação verbal e escrita; </li><li>Pontualidade, postura profissional e senso de responsabilidade; </li><li>Perfil proativo, colaborativo e com facilidade de adaptação. </li> </ul><p><br></p><p><b>Diferenciais </b> </p><ul><li>Cursos ou certificações introdutórias em ITIL ou Suporte Técnico; </li><li>Experiência acadêmica ou estágio na área de TI. </li> </ul><p><br></p><p><b>Venha se conectar conosco! </b> </p><p><br></p><p>A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. Independentemente da sua, etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer </p><p><br></p><p>Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!! </p><p><br></p><p>Quer saber mais? Acesse: </p><p><br></p><p><b>Sobre a Softtek </b>: Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore. </p><p><br></p><p>Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite </p><p> @Softtek no Twitter e seja nosso fã no Facebook  </p><p><br></p><p>Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13. </p><p>709/2018.Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para   </p><p><br></p><p>Dúvidas também podem ser enviadas ao e-mail   e   </p>",
+    "company": "Softtek",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1612050__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Helpdesk&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Analista de Helpdesk Trainee",
+    "description": "<p><b>Descrição da Posição </b> </p><p><br></p><p>Buscamos um(a) <b>Helpdesk Support Analyst – Trainee </b> para atuar no suporte técnico de primeiro nível, auxiliando usuários na resolução de problemas, abertura e acompanhamento de chamados, além de apoiar na organização e cumprimento dos níveis de serviço (SLA). O(a) profissional terá a oportunidade de aprender e se desenvolver em um ambiente colaborativo e dinâmico. </p><p><br></p><p><b>Principais Responsabilidades </b> </p><ul><li>Realizar abertura, registro, acompanhamento e encerramento de chamados técnicos; </li><li>Atuar na tratativa de backlogs e no suporte à resolução de incidentes; </li><li>Apoiar o controle e acompanhamento de SLAs; </li><li>Prestar suporte básico a usuários em ambiente Windows; </li><li>Utilizar sistemas de gestão de tickets para organização e priorização das demandas; </li><li>Comunicar-se de forma clara e objetiva com usuários e equipe interna; </li><li>Contribuir com ideias, melhorias de processos e adaptação a mudanças. </li> </ul><p><br></p><p><b>Requisitos </b> </p><ul><li>Experiência inicial ou vivência na área de TI (suporte/helpdesk); </li><li>Conhecimento em sistemas de gestão de tickets; </li><li>Noções de acompanhamento de chamados, incidentes e SLA; </li><li>Conhecimento básico em ambiente Windows (Windows 10); </li><li>Conhecimento básico no pacote Office (Outlook, Excel, Word); </li><li>Conhecimento básico em processos ITIL; </li><li>Boa comunicação verbal e escrita; </li><li>Pontualidade, postura profissional e senso de responsabilidade; </li><li>Perfil proativo, colaborativo e com facilidade de adaptação. </li> </ul><p><br></p><p><b>Diferenciais </b> </p><ul><li>Cursos ou certificações introdutórias em ITIL ou Suporte Técnico; </li><li>Experiência acadêmica ou estágio na área de TI. </li> </ul><p><br></p><p><b>Venha se conectar conosco! </b> </p><p><br></p><p>A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. Independentemente da sua, etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer </p><p><br></p><p>Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!! </p><p><br></p><p>Quer saber mais? Acesse: </p><p><br></p><p><b>Sobre a Softtek </b>: Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore. </p><p><br></p><p>Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite </p><p> @Softtek no Twitter e seja nosso fã no Facebook  </p><p><br></p><p>Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13. </p><p>709/2018.Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para   </p><p><br></p><p>Dúvidas também podem ser enviadas ao e-mail   e   </p>",
+    "company": "Softtek",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1612189__1953_eb12d73c24e760b944330e64efe6e6f6?utm_source=1953&utm_medium=feed&keyword=Analista-de-Helpdesk&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   }
 ]
