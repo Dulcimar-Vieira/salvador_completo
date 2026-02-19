@@ -1,5 +1,14 @@
 [
   {
+    "title": "Analytics Architect",
+    "description": "<p>Responsibilities: </p><ul><li><b>Lead the architecture, design, and implementation of advanced analytics solutions using Azure Databricks/ Fabric. The ideal candidate will have a deep understanding of big data technologies, data engineering, and cloud computing, with a strong focus on Azure Databricks along with Strong SQL. </b> </li><li>Work closely with business stakeholders and other IT teams to understand requirements and deliver effective solutions. </li><li>Oversee the end-to-end implementation of data solutions, ensuring alignment with business requirements and best practices. </li><li>Lead the development of data pipelines and ETL processes using Azure Databricks, PySpark, and other relevant tools. </li><li><b>Integrate Azure Databricks with other Azure services (e.g., Azure Data Lake, Azure Synapse, Azure Data Factory) and on-premise systems </b>. </li><li>Provide technical leadership and mentorship to the data engineering team, fostering a culture of continuous learning and improvement. </li><li> Ensure proper documentation of architecture, processes, and data flows, while ensuring compliance with security and governance standards. </li><li>Ensure best practices are followed in terms of code quality, data security, and scalability. </li><li>Stay updated with the latest developments in Databricks and associated technologies to drive innovation. </li> </ul> <p><br></p><p>Essential Skills: </p><ul><li>Strong experience with <b>Azure Databricks </b>, including cluster management, notebook development, and Delta Lake. </li><li>Proficiency in big data technologies (e.g., Hadoop, Spark) and data processing frameworks (e.g., PySpark). </li><li>Deep understanding of <b>Azure services like Azure Data Lake, Azure Synapse, and Azure Data Factory. Power BI, SSRS, SSAS, PSKU to F SKU. </b> </li><li>Experience with ETL/ELT processes, data warehousing, and building data lakes. </li><li>Strong SQL skills and familiarity with NoSQL databases. </li><li>Experience with CI/CD pipelines and version control systems like Git. </li><li>Knowledge of cloud security best practices. </li> </ul> <p><br></p><p>Soft Skills: </p><ul><li>Excellent communication skills, with the ability to explain complex technical concepts to non-technical stakeholders. </li><li>Strong problem-solving skills and a proactive approach to identifying and resolving issues. </li><li>Leadership skills with the ability to manage and mentor a team of data engineers. </li> </ul> <p><br></p><p>Nice to have Skills: </p><ul><li>Power BI for dashboarding and reporting. </li><li>Microsoft Fabric for analytics and integration tasks. </li><li>Spark Streaming for processing real-time data streams. </li><li>Familiarity with Azure Resource Manager (ARM) templates for infrastructure as code (IaC) practices. </li> </ul> <p><br></p> <p>Experience: </p><p>1. Demonstrated expertise of 12+ years in developing data ingestion and transformation pipelines using Databricks/Synapse notebooks and Azure Data Factory. </p><p>2. Solid understanding and hands-on experience with Delta tables, Delta Lake, and Azure Data Lake Storage Gen2. </p><p>3. Experience in efficiently using Auto Loader and Delta Live tables for seamless data ingestion and transformation. </p><p>4. Proficiency in building and optimizing query layers using Databricks SQL. </p><p>5. Demonstrated experience integrating Databricks with Azure Synapse, ADLS Gen2, and Power BI for end-to-end analytics solutions. </p><p>6. Prior experience in developing, optimizing, and deploying Power BI reports. </p><p>7. Familiarity with modern CI/CD practices, especially in the context of Databricks and cloud-native solutions. </p>",
+    "company": "GeorgiaTEK Systems Inc.",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_2499506__1953?utm_source=1953&utm_medium=feed&keyword=Analytics-Architect&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
     "title": "Graphic Designer - YouTube & Podcast Thumbnails",
     "description": "<p><b>We’re looking for a Graphic Designer who can create </b> industry-leading YouTube thumbnails and podcast assets. This task is designed to assess your creative thinking, attention to detail, and ability to design <b>for click-through rate </b>, not just aesthetics. </p><p><br></p><p>We're a leading podcast agency growing rapidly and working with <b>big  </b>brands and creators. </p><p>We work with: </p><ul><li>The High Performance Podcast (leading personal development podcast) </li><li>Ramit Sethi - Money for Couples (leading personal finance creator) </li><li>Multiple leading brand and creator podcasts we can’t talk about  </ul> </li>",
     "company": "7xContent",
@@ -86,7 +95,7 @@
     "company": "Hapvida NotreDame Intermédica",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_2511471__1953_301be589c0092cf1c0115148b402d9c6?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Enfermagem&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_2511471__1953_3b7e239ddea8aea6d7d17ff46c53fa28?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Enfermagem&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -95,7 +104,7 @@
     "company": "Hapvida NotreDame Intermédica",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_2511483__1953_6afedc14930508aef596f5cfc1d4fd8f?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Enfermagem&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_2511483__1953_05f6de300297aaa29c335b12e8dced4a?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Enfermagem&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8988,15 +8997,6 @@
     "city": "lauro de freitas",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_3124471__1953?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-Solu%C3%A7%C3%B5es&location=lauro-de-freitas&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Electrical BIM Speiclaist",
-    "description": "<p><b>Eracore </b> is an electrical engineering and BIM company delivering complex Electrical BIM models for large construction projects across the U.S. Our team brings together top talent to work on some of the most interesting and technically demanding electrical projects, including data centers, government facilities, industrial buildings, and advanced commercial projects. </p><p>We are proud of the work we do, and we invite you to take a look:   </p><p>Eracore is growing in <b>Brazil </b>, and we are excited to welcome new team members. We are building a permanent and professional team to work on Electrical BIM projects for the U.S. market. If you enjoy teamwork, learning, and doing quality work, you will feel at home with us. </p><p><br></p><p><b>Why You’ll Enjoy Working at Eracore </b> </p><p>• Competitive hourly pay </p><p>• Fully remote work </p><p>• Learning platforms for professional growth </p><p>• Supportive leadership and mentorship </p><p><br></p><p><b>Your Role </b> </p><ul><li>Perform VDC production work including electrical BIM modeling, coordination support, shop drawings, and spool/prefabrication drawings based on project requirements. </li><li>Do assigned tasks and deliverables on time and accurately. </li><li>Ensure meeting design requirements, NEC code compliance expectations, Eracore quality standards, client requirements, and project specifications. </li><li>Support coordination by identifying clashes, assisting in resolving coordination conflicts, and implementing required updates within the model and drawings. </li><li>Follow Eracore modeling standards, drawing standards, and project. </li><li>Provide regular updates on progress, raise questions when scope or design intent is unclear, communicate issues that may impact schedule or quality. </li><li>Identify missing information or unclear details and communicate clarification needs to senior staff. </li><li>Actively participate in training and apply feedback from reviews to improve technical performance overall deliverable quality. </li><li>Work collaboratively with team members to meet project deadlines, support coordination needs. </li> </ul><p><br></p><p><b> What We’re Looking For </b> </p><p>•2+ years of experience in Electrical BIM </p><p>• Experience in modeling of electrical systems </p><p>• Advanced Revit skills with an electrical focus </p><p>• Experience using Navisworks for coordination and clash detection </p><p>• Familiarity with BIM 360, ACC, and Bluebeam </p><p>• Team-oriented mindset </p><p>• Reliable, organized, and deadline-focused </p><p>• Spoken and technical written Intermediate English </p>",
-    "company": "Eracore",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3124540__1953?utm_source=1953&utm_medium=feed&keyword=Electrical-BIM-Speiclaist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   }
 ]
