@@ -131,7 +131,7 @@
     "company": "Tech Mahindra - Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3583606__1953_570ed41fba797d3483669105bf0fba1f?utm_source=1953&utm_medium=feed&keyword=Senior-Base24-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3583606__1953_f2d332757d51cc27b1f476d15b85ff33?utm_source=1953&utm_medium=feed&keyword=Senior-Base24-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -527,7 +527,7 @@
     "company": "FOURSYS",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3605188__1953_bde218b4db2036c698229034ad7aa2a7?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-Java&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3605188__1953_134722e523c20fcb852fada26321761b?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Backend-Java&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -612,21 +612,21 @@
     "tipo": ""
   },
   {
+    "title": "StarRocks Database Engineer (DBE) - Remote",
+    "description": "<p><b>Database Engineer (DBE) – Enterprise Open-Source Support </b> </p><p><b>Location </b>: Remote (preferred South / Central America or US TIme Zones) </p><p><b>Department </b>: Engineering - Open Source Database support </p><p><b>Reports to: </b> CTO / VP Engineering </p><p><br></p><p><b>About  </b><b>Deep.BI </b> </p><p>We provide enterprise support and consulting for open‑source analytics and data infrastructure platforms such as Apache Druid, Apache Flink, StarRocks and other emerging technologies.Our customers run mission‑critical, high‑volume systems and rely on us to keep them fast, stable, and available. We’re a small, world-class expert, remote‑first team working across multiple time zones (US, Brazil, Europe, India, Philippines), supporting 100+ customer environments with SLAs ranging from advisory support to 24/7 incident coverage. </p><p><br></p><p><b>Role Overview </b> </p><p>As a Database Engineer (DBE), you will be the core L3/L4 technical expert responsible for solving the most complex database problems our customers face in production with an emphasis on supporting StarRocks clusters. You’ll dive deep into query optimization, ingestion pipelines, schema design, and HA/DR configuration — ensuring that large-scale analytical systems remain reliable, scalable, and performant. </p><p><br></p><p>While your primary focus is database internals and advanced troubleshooting, we value engineers with broader skills — knowledge of DevOps, Infrastructure, security or SRE Practices is highly appreciated and will make you even more impactful.  </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li><b>Advanced troubleshooting (L3/L4): </b> Diagnose and resolve complex issues in StarRocks and other OLAP database clusters (performance Bottlenecks, ingestion failures, query regressions) </li><li><b>Performance optimization: </b> Tune queries, schemas, ingestion flows, and configs to maximize efficiency under high load. </li><li><b>Architecture & design support:  </b>Work with Solution Architects to shape data models, indexing strategies, and HA/DR approaches. </li><li><b>Incident resolution under 24/7 SLA: </b> Comfortable debugging under SLA pressure and participating in on-call rotations. Act as the escalation point for production incidents, ensuring rapid root cause analysis and fixes. </li><li><b>CVE patching:  </b>Apply, validate, and test security patches for database systems in customer environments. </li><li><b>Knowledge sharing:  </b>Document best practices, contribute to playbooks, and mentor junior engineers when needed. </li><li><b>Optional / nice-to-have: </b> </li><li>Support deployments with DevOps engineers (Kubernetes, cloud, automation) </li><li>Assist in secure configuration and compliance requirements </li><li>Collaborate with developers (DD role) on upstream OSS bug fixes or feature contributions. </li> </ul><p><br></p><p><b>Requirements </b> </p><ul><li><b>2+ years hands-on experience operating and troubleshooting StarRocks clusters in larger scale production </b> (not just querying or dashboard usage; no PoCs)  </li><li>Proven experience with <b>query optimization,indexing, schema design, and ingestion pipelines </b>. </li><li>Solid knowledge of <b>distributed systems concepts </b> (consistency, replication, failover, scaling) </li><li>Hands-on experience with <b>high availability and disaster recovery setups </b> </li><li>Comfort with <b>Linux systems, networking basics and SQL </b>. </li><li>Ability to <b>analyze logs, metrics, and configs under pressure </b> (incident scenarios) </li><li><b>Strong English language communication skills  </b>— able to explain technical decisions clearly to engineers and delivery managers both verbally and in writing </li><li><b>Bonus:  </b>Experience with Apache Druid, ClickHouse, TiDB, Apache Cassandra, or similar databases </li><li><b>Bonus </b>: Experience with Kubernetes, cloud infra (AWS/GCP/Azure), or security best practices (RBAC, encryption, IAM). </li><li><b>Bonus </b>: Contributions to open-source database projects. </li> </ul><p><br></p><p><b>What we offer </b> </p><ul><li>Work with cutting-edge open-source technologies at <b>enterprise scale </b>. </li><li>Opportunity to collaborate with top engineers across databases, communities. </li><li>Competitive salary  </li><li>Support for conference travel and OSS contributions </li><li>Flexible contract structure (direct employment or via a global payroll partner or contractor/B2B), depending on your location and preference. </li> </ul><p><br></p><p><b>Location & working style </b> </p><ul><li>Remote‑first - we collaborate online across multiple time zones. </li><li>Role requires regular overlap with European and North American business hours. </li> </ul>",
+    "company": "Deep.BI",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3607395__1953?utm_source=1953&utm_medium=feed&keyword=StarRocks-Database-Engineer&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
     "title": "Engenheiro de Dados PL",
     "description": "<p>Se você gosta de desafios e quer mostrar todo o seu potencial, queremos te conhecer! A Vericode preza por um time inclusivo e repleto de diversidade, nas suas mais variadas representações. Todas as nossas vagas estão abertas para pessoas com deficiência! </p><p><br></p><p>#VemSerVericoder  </p><p><b>Responsabilidades e atribuições: </b> </p><ul><li>Construir, evoluir e sustentar pipelines de dados em AWS (S3, Glue, EMR, Redshift), priorizando custos, confiabilidade e observabilidade. </li><li>Orquestrar cargas incrementais/idempotentes no Apache Airflow (MWAA), com SLAs, retries, backfill e alertas. </li><li> Desenvolver jobs AWS Glue (PySpark) com tratamento de schema evolution, particionamento, tuning e uso do Glue Data Catalog. </li><li>Modelar camadas Bronze/Silver/Gold (Medallion) e Dimensional (Star/Snowflake) para consumo analítico. </li><li>Atuar em SQL Server/SSIS (on‑prem) em migrações/modernizações e integrações com o lake na AWS. </li><li>Escrever código limpo em Python/PySpark, YAML para DAGs/configs e praticar CI/CD (testes, code review, versionamento). </li><li>Colaborar com times de produto/negócio, traduzindo requisitos em soluções de dados com métricas e contratos claros. </li> </ul> <p><b>Requisitos e qualificações: </b> </p><p><b>Hard Skills (Obrigatórias) </b> </p><ul><li>AWS: S3, Glue (jobs/crawlers/Catalog), EMR (Spark), Redshift, Athena (desejável). </li><li>Airflow/MWAA: DAGs parametrizadas, sensors/operators AWS, backfill e monitoramento. </li><li>SQL ANSI: joins, window functions, CTEs, `MERGE`, tuning básico. </li><li>On‑prem: SQL Server (T‑SQL), SSIS (ETL). </li><li>Modelagem: Medallion (Bronze/Silver/Gold) e Dimensional (Star Schema, Snowflake). </li><li>Python e PySpark (RDD/DataFrame API), particionamento e file sizing. </li><li>YAML para configs de pipelines e CI/CD (GitHub/GitLab, testes e deploy). </li><li>Kubernetes (básico): conceitos de pod/deployment e operação de workloads de dados (desejável). </li> </ul> <p><b>Soft Skills (com foco em clientes e resiliência) </b> </p><ul><li>Comunicação com clientes internos: explicar soluções de dados em linguagem simples e foco em valor. </li><li>Resiliência operacional: manter a calma e priorizar ações durante incidentes (falhas de pipeline/SLAs). </li><li>Colaboração e negociação com múltiplos stakeholders (produtos, risco, compliance). </li><li>Mindset investigativo e resolução de problemas com documentação clara e pós‑mortem objetivo. </li> </ul><p><b>Diferenciais </b> </p><ul><li>Experiência com Trino. </li><li>Boas práticas de FinOps e monitoramento (CloudWatch/Prometheus). </li><li>Noções de segurança/mascaramento em camadas de consumo. </li> </ul> <p><b>Benefícios: </b> </p><ul><li><b> Reembolso de Capacitações Técnicas:  </b>Cobertura de 100% para certificações profissionais, além de reembolso para cursos de capacitação técnica; </li><li><b> </ul> </li> </b>",
     "company": "Vericode",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3608190__1953_22f8e35523807e387f15735257282c17?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "ANALISTA DE SISTEMAS SR [ANALYTICS ENGINEER - DATABRICKS]",
-    "description": "<p>O <b>Grupo Petrópolis </b> é a única grande empresa do setor cervejeiro com capital 100% nacional. Produz as marcas de cerveja Itaipava, Cabaré, Crystal, Lokal, Black Princess, Petra e Weltenburger, Brassaria Ampolis com os rótulos Cacildis, Biritis, Ditriguis e Forévis, as vodkas Blue Spirit Ice e Nordka, a Cabaré Ice, os energéticos TNT Energy Drink e Magneto, o refrigerante It!, o isotônico TNT Sports Drink e a água Petra. </p><p><br></p><p>Com oito fábricas em operação e aproximadamente 160 centros de distribuição, o grupo é responsável pela geração de aproximadamente 22 mil empregos diretos. Por meio dos projetos ambientais, promove o plantio e manutenção de milhares de árvores, além de ações de sustentabilidade e programa de educação ambiental para escolas municipais. Conta também com o Saber Beber, programa comprometido em orientar as pessoas sobre os benefícios do consumo moderado e as consequências do consumo exagerado de álcool. </p><p><br></p><p>O respeito é um dos valores do Grupo Petrópolis, e por isso todas as crenças, identidades culturais, gêneros, idades, raças, opções individuais e pessoas com deficiência são respeitadas e valorizadas. Para todas as nossas vagas consideramos candidatos representados por esta ampla diversidade. </p><p><br></p><p><br></p><p><b>Sobre a oportunidade </b> </p><p>Estamos buscando uma pessoa com energia, senso de dono e muita vontade de construir para atuar como protagonista na evolução do nosso ecossistema moderno de dados. </p><p>Essa posição terá papel fundamental na consolidação e evolução da arquitetura analítica baseada em Databricks e Microsoft Fabric, garantindo integração eficiente entre engenharia, modelagem e consumo estratégico de dados. </p><p>Se você gosta de transformar ambientes complexos em soluções organizadas, escaláveis e orientadas a negócio, essa oportunidade é para você. </p><p><br></p><p><br></p><p><b>Principais responsabilidades </b> </p><p><br></p><p>· Desenvolver e manter pipelines de dados no Databricks, garantindo performance, escalabilidade e confiabilidade. </p><p>· Estruturar e evoluir arquiteturas Lakehouse (bronze, silver, gold). </p><p>· Atuar na construção e evolução do ambiente Microsoft Fabric (Data Factory, Lakehouse, Warehouse e integração com Power BI). </p><p>· Modelar dados para consumo analítico e estratégico. </p><p>· Desenvolver e otimizar modelos semânticos, garantindo governança, performance e clareza executiva. </p><p>· Integrar múltiplas fontes de dados (Oracle, SQL Server e outras). </p><p>· Garantir qualidade, padronização, rastreabilidade e documentação técnica. </p><p>· Atuar próximo às áreas de negócio, traduzindo demandas em soluções escaláveis. </p><p>· Propor melhorias contínuas na arquitetura e processos de dados. </p><p><br></p><p><br></p><p><b>Requisitos Técnicos </b> </p><p><br></p><p>· Experiência sólida com Databricks (engenharia de dados, notebooks, jobs, otimização, espelhamento de dados, governança). </p><p>· Experiência com Microsoft Fabric (Lakehouse, pipelines, integração, modelagem, DAX, performance). </p><p>· Domínio de SQL avançado. </p><p>· Experiência com Python (PySpark). </p><p>· Conhecimento em modelagem dimensional e analítica. </p><p>· Conhecimento em boas práticas de qualidade e governança de dados. </p><p><br></p><p><b>Diferenciais: </b> </p><p><br></p><p>· Experiência com CI/CD para dados. </p><p>· Experiência com Power BI (Dataviz). </p><p>· Experiência com governança (catálogo, lineage, CDEs). </p><p>· Vivência em ambientes corporativos de grande porte. </p><p>· Experiência com arquitetura orientada a produtos de dados. </p><p><br></p><p><br></p><p>CLT - 100% REMOTO (HÍBRIDO SE FOR DA REGIÃO DE BOITUVA/SP) </p><p><br></p><p><br></p><p>✅ Benefícios que fazem a diferença: </p><ul><li>  Plano de Saúde </li><li> </ul> </li>",
-    "company": "Grupo Petrópolis",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3609029__1953?utm_source=1953&utm_medium=feed&keyword=ANALISTA-DE-SISTEMAS&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3608190__1953_9011f9d7f3374e430290c1b549e2f131?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -653,7 +653,7 @@
     "company": "Kake",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3612164__1953_e6efb30a6edcfd2ca5e4d00d14cc0764?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3612164__1953_6b11d8de46ecfb9b060683ac13eb7892?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -752,7 +752,7 @@
     "company": "G4F",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3616463__1953_07d25314a28d07bf47389490642820e6?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistema&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3616463__1953_b7b0dcd0037a8f71e02344ed8fef952b?utm_source=1953&utm_medium=feed&keyword=Analista-de-sistema&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -810,6 +810,15 @@
     "tipo": ""
   },
   {
+    "title": "Arquiteto Sênior SAP Basis e Infraestrutura",
+    "description": "<p><b>Sobre a Empresa </b> </p><p><br></p><p><br></p><p>Você atuará como referência técnica em projetos estratégicos e ambientes de alta complexidade. Será responsável por impulsionar a evolução técnica do time, fortalecer o framework de conhecimento e certificações, além de apoiar iniciativas críticas e o time de Suporte (MS). </p><p><br></p><p><br></p><p><b>Sobre o Papel </b> </p><p><br></p><p><br></p><p>Procuramos um(a) profissional com visão de arquitetura, mentalidade de aprendizado contínuo e forte interesse em tecnologias emergentes como SAP BTP, IA, SAP Activate e integrações com Azure, AWS e GCP. </p><p><br></p><p><br></p><p><b>Responsabilidades </b> </p><p><br></p><p><br></p><ul><li>Liderar iniciativas técnicas SAP Basis, incluindo migrações (S/4HANA, ECC, PI/PO, etc), upgrades e projetos críticos em ambientes Cloud (Azure, AWS, GCP). </li><li>Conduzir assessments técnicos e de performance (tunning, banco de dados, arquitetura, etc) e definir recomendações de otimização. </li><li>Atuar como referência técnica e ponto de escalonamento, oferecendo suporte Nível 3 e 4, inclusive em situações de crise (war rooms) em ambientes complexos. </li><li>Desenvolver e manter arquitetura SAP, garantindo escalabilidade, segurança, alta disponibilidade e aderência às melhores práticas da SAP e dos hyperscalers. </li><li>Apoiar os times de suporte (Managed Services) e Projetos (Professional Services), incluindo manutenção, melhorias, auditorias, mudanças, atualizações e rotinas operacionais em SAP ECC, S/4 e RISE. </li><li>Colaborar com stakeholders internos/externos, garantindo alinhamento estratégico, qualidade das entregas e orientação técnica ao time Basis. </li><li>Promover inovação e aprendizagem contínua, pesquisando novas tecnologias (IA, BTP, ALM, accelerators Azure/AWS/GCP) e disseminando conhecimento para o time. </li> </ul><p><br></p> <p><b>Qualificações </b> </p><p><br></p><p><br></p><ul><li>Graduação em Ciência da Computação ou área relacionada. </li><li>Proficiência avançada em português, e espanhol (intermediário). </li><li>Experiência Sênior em SAP Basis. </li> </ul><p><br></p> <p><b>Habilidades Necessárias </b> </p><p><br></p><p><br></p><ul><li>Certificações: (certificação direta pela SAP): SAP OS/DB Migration, SAP Technology Consultant Expert, SAP HANA 2.0, SAP Certified Application Professional, Certificações SAP Solution Consultant (ex.: BTP, Implementation Consultant, etc.). </li><li>Liderança técnica e arquitetura SAP: Experiência em gestão de crises, condução de projetos complexos, desenho/arquitetura de soluções e liderança de iniciativas multidisciplinares, incluindo migração e implementação de SAP S/4HANA (Public e Private Cloud) e RISE. </li><li>Administração e otimização de ambientes SAP: Sólida atuação em upgrades (NetWeaver, Support Packages via SUM), cópias homogêneas e heterogêneas, migração de dados e troubleshooting em ambientes complexos e sob pressão. </li><li>Base técnica robusta: Conhecimentos avançados em bancos de dados (Oracle, SQL Server, DB2), sistemas operacionais (SUSE) e domínio de administração de sistemas SAP. </li><li>Ferramentas, idiomas e mindset: Experiência com ServiceNow, Azure DevOps, Grafana e Dynatrace, além de forte compromisso com aprendizado contínuo e evolução tecnológica. </li> </ul>",
+    "company": "Confidencial",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3621978__1953?utm_source=1953&utm_medium=feed&keyword=Arquiteto-S%C3%AAnior-SAP&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
     "title": "Desenvolvedor(a) Backend Java Pleno",
     "description": "<p>A Foursys é um time apaixonado por inovação, design e transformação digital. Somos globais, somos GPTW. </p><p><br></p><p>Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe. #VemSerFoursys! Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD). Caso você se enquadre ou conheça alguém com o perfil, a Foursys é a empresa ideal! </p><p><br></p><p>Que tal se juntar a nós e se tornar um(a) #FourTalent? Então se liga nessa oportunidade incrível: </p><p><br></p><p>Vaga Desenvolvedor(a) Backend Java Pleno </p><p><br></p><p>Responsabilidades e Atribuições: </p><p><br></p><p><br></p><p><br></p><p>Modelo: 100% remoto - Home-office, com exigência de residência próxima à Grande São Paulo. </p><p>Idioma: Inglês avançado </p><p><br></p><p>Requisitos técnicos </p><p>• Sólida experiência com Java 8+ </p><p>• Domínio de Spring Boot, Spring Cloud e Hibernate </p><p>• Experiência com arquitetura de microsserviços </p><p>• Desenvolvimento e consumo de APIs RESTful </p><p>• Prática com testes automatizados (JUnit, Mockito ou similares) </p><p>• Conhecimento em pipelines de CI/CD (Jenkins, GitLab CI, etc.) </p><p>• Experiência com bancos relacionais (PostgreSQL, MySQL) e/ou não-relacionais (MongoDB) </p><p>• Vivência com Git e boas práticas de versionamento </p><p>• Experiência com Google Cloud Platform (GCP) </p><p>• Uso de Docker e Kubernetes </p><p>• Atuação prévia em squads ágeis e projetos de escala global </p><p><br></p><p>Diferenciais </p><p>• Experiência com a plataforma Interconnect </p><p>• Conhecimento em mensageria (Kafka, RabbitMQ) </p><p>• Familiaridade com práticas de clean code e design patterns </p><p><br></p><p>Requisitos Comportamentais (Soft Skills) </p><p>• Boa comunicação verbal e escrita. </p><p>• Habilidade de negociação e gestão de stakeholders. </p><p>• Organização e capacidade de priorização. </p><p>• Proatividade, resiliência e senso de dono. </p><p>• Facilidade para atuar de forma colaborativa com múltiplas áreas. </p><p><br></p><p><br></p><p><br></p><p><br></p><p>Habilidades Técnicas: </p><p><br></p><p>- Java </p><p>- Spring Boot </p><p>- Spring Cloud </p><p>- Hibernate </p><p>- APIs RESTful </p><p>- JUnit </p><p>- Mockito </p><p>- CI/CD </p><p>- PostgreSQL </p><p>- MySQL </p><p>- MongoDB </p><p>- Git </p><p>- Google Cloud Platform </p><p>- Docker </p><p>- Kubernetes </p><p><br></p><p>Habilidades Comportamentais: </p><p><br></p><p>- Comunicação </p><p>- Negociação </p><p>- Organização </p><p>- Proatividade </p><p>- Resiliência </p><p>- Colaboração </p><p><br></p><p>Metodologias: </p><p><br></p><p>- PRÁTICAS SCRUM </p><p><br></p><p>Idiomas: </p><p><br></p><p>- Inglês </p><p><br></p><p><br></p><p><br></p><p>E temos também o Clube da Four que oferece ótimas vantagens! </p><p><br></p><p>Assistência médica; </p><p>VR e VA flexível; </p><p>Gympass e Wellz; </p><p>Parceria com o SESC; </p><p>Descontos em restaurantes; </p><p>Descontos em cursos técnicos e de ensinos superior; </p><p>Descontos em escolas e plataformas de idiomas. </p><p><br></p><p>E aí, aceita o desafio? Então conclua sua candidatura e #VemSerFoursys! Boa sorte! </p>",
     "company": "FOURSYS",
@@ -833,43 +842,7 @@
     "company": "Microtalent is becoming INSPYR Global Solutions",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3623750__1953_f2f32e8a603485223c7e84e046d1e8d4?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Senior Applied Scientist (AI/ML - Inbound Team)",
-    "description": "<p><b>Senior Applied Scientist – AI/ML Customer Science (Remote – Brazil) </b> </p><p><br></p><p><b>Location:  </b>100% Remote (Brazil) </p><p><b>Employment Type:  </b>PJ – Long term </p><p><br></p><p><b>About the Role </b> </p><p>We are looking for a Senior Applied Scientist to design, develop, and deploy advanced machine learning, causal inference, and optimization systems that drive Marketing and Sales decision-making. </p><p> In this role, you will transform complex customer behavior and business growth challenges into measurable objectives and scalable ML solutions across acquisition, conversion, retention, and revenue optimization. </p><p> You will work at the intersection of machine learning, experimentation, causal inference, and business strategy in a fast-paced, collaborative, and entrepreneurial environment. </p><p><br></p><p><b>What You’ll Work On </b> </p><p>You will build models and platforms that create impact across areas such as: </p><ul><li>Sales prioritization and expected value modeling </li><li>Marketing targeting and uplift modeling </li><li>Multi-touch attribution and incrementality measurement </li><li>Customer lifecycle modeling (conversion, retention, churn, LTV) </li><li>Outreach optimization and personalization systems </li> </ul><p><br></p><p><b>Responsibilities </b> </p><ul><li>Research, design, and develop machine learning, statistical, and causal models for Marketing and Sales use cases including: </li><li>Propensity and expected value modeling </li><li>Uplift and treatment effect estimation </li><li>Attribution and marketing measurement </li><li>Forecasting, optimization, and prioritization systems </li><li>Translate business growth problems into clear objectives, loss functions, and evaluation frameworks </li><li>Design feature representations capturing customer behavior, engagement, and lifecycle dynamics </li><li>Design and analyze experiments (A/B tests, geo tests, incrementality tests, diff-in-diff, causal impact) </li><li>Build and maintain robust evaluation frameworks aligned with business outcomes (ROI, CAC, conversion, retention, LTV) </li><li>Own the end-to-end ML lifecycle: data ingestion, feature engineering, training, deployment, monitoring </li><li>Develop scalable ML services integrated into business workflows (CRM, marketing platforms, internal tools) </li><li>Partner closely with <b>Product, Engineering, Marketing, Sales, and Data teams </b> </li><li>Influence technical direction and roadmap prioritization based on business impact </li><li>Clearly communicate insights and model behavior to technical and non-technical stakeholders </li><li>Mentor junior scientists and engineers and help establish best practices </li><li>Contribute to long-term data science strategy, platforms, and innovation </li> </ul><p><br></p><p><b>Minimum Qualifications </b> </p><ul><li>5+ years of industry experience in applied Machine Learning </li><li>Master’s degree or PhD in Computer Science, Machine Learning, Statistics, Operations Research, or related field </li><li>3+ years of experience building, deploying, and managing ML models in production at scale </li><li>Strong knowledge of ML best practices (feature engineering, experimentation, pipelines, model evaluation) </li><li>Experience with modern ML techniques including gradient boosting, deep learning, transformers, and optimization </li><li>Experience in Computer Vision (Causal Inference experience is a strong plus) </li><li>Proficiency in Python and SQL </li><li>Hands-on experience with ML frameworks: PyTorch, TensorFlow, Keras, Scikit-learn </li><li>Strong data engineering skills with large-scale datasets </li><li>Experience with big data tools such as Apache Beam, Kafka, Spark </li><li>Experience with cloud platforms (AWS, GCP, or Azure) </li> </ul><p><br></p><p><b>Preferred Qualifications </b> </p><ul><li>PhD in CS, ML, AI, Statistics, Operations Research, or related field </li><li>Experience applying ML in retail or commercial business contexts </li><li>Familiarity with MLOps tools and production pipelines </li><li>Strong leadership and mentoring experience </li><li>Impact-driven mindset with a focus on delivering high-quality, scalable solutions </li> </ul>",
-    "company": "Pride Global",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3626901__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Applied-Scientist&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor/Pesquisador GenAI",
-    "description": "<p>Estamos em busca de um(a) Desenvolvedor(a) / Pesquisador(a) GenAI talentoso(a) e apaixonado(a) por inovação para se juntar à nossa equipe. Neste papel, você será responsável por desenvolver e implementar soluções avançadas baseadas em inteligência artificial generativa, aplicando as melhores práticas tecnológicas e pesquisando novas metodologias que possam impulsionar inovações no setor. </p><p><br></p><p><b>Qualificações: </b> </p><ul><li><b>Doutorado  </b>na área de tecnologia ou áreas afins. </li><li> Formação em áreas relacionadas à tecnologia, experiência em projetos de transformação digital ou desenvolvimento de produtos inovadores e fluência em inglês. </li><li><b>Desenvolvimento de Software: </b> Experiência sólida em programação, design de sistemas e implementação de soluções tecnológicas robustas e escaláveis. </li><li><b>Pesquisa em IA: </b> Conhecimento aprofundado em inteligência artificial generativa, aprendizado de máquina e redes neurais. Familiaridade com ferramentas e frameworks de IA é um diferencial. </li><li><b>Integração de Sistemas: </b> Habilidade em conectar diferentes tecnologias e softwares para criar soluções integradas eficazes para desafios empresariais. </li> </ul><p><br></p><p><b>Informações adicionais </b> </p><p>  Vale-alimentação ou vale-refeição; </p><p>     Desconto em cursos, universidades e instituições de idiomas; </p><p>  Academia Stefanini — plataforma com cursos on-line, gratuitos, atualizados e com certificado; </p><p>  Mentoring; </p><p>  Clube de vantagens para consultas e exames; </p><p>  Assistência médica; </p>",
-    "company": "Stefanini Brasil",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3627120__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pesquisador-GenAI&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Brand & Copy Strategist",
-    "description": "<p>Hey, Dingus! </p><p><br></p><p>Yep—you read that right. Dingus & Zazzy is expanding, and we’re on the hunt for a Brand & Copy Strategist! </p><p><br></p><p><b>About Us </b> </p><p><br></p><p>Dingus & Zazzy is a global digital marketing agency helping brands grow across every corner of the digital landscape. We offer an “unlimited get-shit-done” subscription for our clients—from websites to social to SEO and everything in between. </p><p><br></p><p>Our team is full of creatives, strategists, tech geeks, and builders who love making brands look, feel, and perform better online. If that sounds like your vibe, keep reading. </p><p><br></p><p><b>Purpose of This Position </b> </p><p><br></p><p>As a Brand & Copy Strategist, you are responsible for writing and owning all copy for the clients within your squad, ensuring that every word reflects the brand’s voice, positioning, and intent. </p><p>You ensure that every piece of written content across websites, social media, email, and campaigns is on-brand, intentional, and delivered at a high standard. You bring together copywriting, brand awareness, practical content direction, strategy, and project management to ensure brands are represented clearly and consistently through words. </p><p><br></p><p>You act as the bridge between brand intent and execution, translating client goals and direction into clear, purposeful copy that is ready for internal review and client delivery. </p><p><br></p><p><b>Core Responsibility </b> </p><p><br></p><p>Serve as the owner of brand representation through copy for your squad’s clients. Your accountability is defined by the following questions: </p><ul><li> “Is this copy clear, on-brand, purposeful, and strong enough to confidently move forward?” </li><li>\\\"Is this project timeline possible with the resources we have for proper execution?” </li> </ul><p><br></p><p><b>Main Objectives </b> </p><p><br></p><p><b>1. Content Execution & Copywriting </b> </p><ul><li>Write high-quality, purpose-driven copy for: </li><li> -Websites </li><li> -Social media captions and post copy </li><li> -Email campaigns </li><li> -Campaign and promotional assets </li><li>Design-related copy (headlines, CTAs, supporting text) </li><li>Act as the primary writer for all copy deliverables within your squad. </li><li>Ensure every piece of copy is written with intention, clarity, and audience awareness. </li><li>Perform copyediting on your own work to maintain consistency, grammatical excellence, and brand alignment, using tools and peers as needed. </li> </ul><p><br></p><p><b>2. Strategy & Project Management </b> </p><ul><li>Create social media strategies for your clients based on their goals and audiences </li><li>Keep track of client feedback and apply them to future work </li><li>Plan content in batches for the month, ensuring: </li><li> -Consistency in writing style </li><li> -Variety in content types </li><li> -A range of related, engaging topics </li> </ul><p><br></p><p><b>3. Social Media Copy & Content Direction </b> </p><ul><li>Develop and write social media copy that reflects the brand’s voice and messaging. </li><li>When appropriate, define content themes and messaging direction for social platforms. </li><li>When deeper strategy or clarity is required, collaborate with Special Teams to receive social content strategy support or plans. </li><li>Execute all social media copy in alignment with the strategy you create and flag any gaps or unclear direction early. </li> </ul><p><br></p><p><b>4. Creative Collaboration & Brand Consistency </b> </p><ul><li>Participate in brainstorming and ideation sessions to help define the content, messaging, and assets required for campaigns and initiatives. </li><li>Provide copy-led input on creative direction to ensure consistency of brand voice, messaging, and intent across all touchpoints. </li><li>Collaborate with designers, Marketing Coordinators, and Account Managers to align written and visual assets under a cohesive brand narrative. </li><li>Contribute perspective beyond copy when needed to maintain brand clarity and consistency. </li> </ul><p><br></p><p><b>5. Brand Advocacy </b> </p><ul><li>Act as the copy owner for each assigned brand, ensuring consistent voice, tone, and messaging across all written content. </li><li>Apply brand guidelines and positioning directly within copy execution. </li><li>Review copy deliverables to ensure they meet internal quality standards and accurately represent the brand’s intent. </li> </ul><p><br></p><p><b>Reporting Relationship </b> </p><ul><li>This role reports to the designated Account Manager of your squad. </li> </ul><p><br></p><p><b>Key Performance Indicators (KPIs) </b> </p><p><br></p><p><b>1. Brand Alignment & Copy Effectiveness </b> </p><ul><li>Ensure all copy deliverables are consistently aligned with the brand’s voice, tone, and messaging. </li><li>Maintain minimal client revisions related to brand alignment, tone, or clarity. </li><li>Contribute social content ideas and messaging angles when needed, ensuring alignment with the brand’s voice, positioning, and goals. </li><li>Collaborate cross-functionally to ensure brand consistency across copy and supporting assets. </li> </ul><p><br></p><p><b>2. Content Quality & Accuracy </b> </p><ul><li>Deliver copy that meets internal quality standards for clarity, structure, and purpose. </li><li>Maintain a low rate of client dissatisfaction related to copy quality or intent. </li> </ul><p><br></p><p><b>3. Project Delivery Timeliness </b> </p><ul><li>Deliver copy-related tasks within agreed timelines. </li><li>Collaborate with the squad to support smooth handoffs and on-time delivery of content assets. </li> </ul><p><br></p><p><b>Work Details </b> </p><ul><li>Hours: 9 A.M. – 5 P.M. MST, Monday to Friday </li><li>Requires a working level of written and spoken English </li> </ul><p><br></p><p>Ready for the ride of your life? Apply now! </p>",
-    "company": "Dingus & Zazzy",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3632180__1953?utm_source=1953&utm_medium=feed&keyword=Brand-Copy&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "CLM Functional Support Analyst",
-    "description": "<p><b>About UST </b> </p><p><br></p><p>Born digital, UST transforms lives through the power of technology. We walk alongside our clients and partners, embedding innovation and agility into everything they do. We help them create transformative experiences and human-centered solutions for a better world. </p><p>UST is a mission-driven organization where people, purpose, and technology come together to create meaningful impact. With a strong people-first culture, we empower our teams to innovate, collaborate, and grow while delivering value to our clients and communities worldwide. </p><p><br></p><p><br></p><p>We 're looking for aCLM Functional Support Analyst to provides functional support for Contract Lifecycle Management platforms, handling incidents and service requests, supporting end users, and ensuring smooth contract operations across legal, procurement, and business teams. </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li>Provide functional support for CLM-related incidents and service requests (L1/L2). </li><li>Log, categorize, prioritize, and track tickets using ITSM tools. </li><li>Perform initial troubleshooting and functional analysis before escalating to L2/L3 or technical teams. </li><li>Support users with contract creation, templates, clause libraries, approval workflows, and role-based access. </li><li>Perform basic CLM system configuration (templates, fields, workflows, user roles). </li><li>Monitor CLM integrations with ERP/CRM systems and identify data synchronization issues. </li><li>Support UAT activities, regression testing, and release validation. </li><li>Maintain user documentation and knowledge base articles. </li><li>Provide end-user training and onboarding support. </li><li>Ensure SLA compliance and provide basic reporting on ticket trends. </li> </ul><p><br></p><p><b>Required Skills & Qualifications </b> </p><ul><li>4+ years of experience in CLM functional support or functional analysis roles. </li><li>Strong understanding of contract lifecycle processes and legal/procurement workflows. </li><li>Experience with CLM platforms such as Icertis, Agiloft, Conga, Sirion, SAP Ariba, or similar. </li><li>Experience working with ITSM tools (e.g., ServiceNow, Jira). </li><li>Basic understanding of ERP/CRM integrations. </li><li>Strong communication and stakeholder management skills. </li><li>Advanced in English (B2+) </li> </ul><p><br></p><p><b>Why Join UST? </b> </p><p>At UST, you will work in a collaborative and inclusive environment where innovation, learning, and personal growth are encouraged. You will have the opportunity to contribute to impactful projects, work with global teams, and build solutions that truly make a difference. </p><p><br></p><p><b>Equal Opportunity Statement </b> </p><p>UST is proud to be an <b>Equal Opportunity and Equity Employer </b>. We are committed to fostering a diverse, inclusive, and equitable workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, age, disability, veteran status, or any other legally protected status. </p>",
-    "company": "UST España & Latam",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3632237__1953?utm_source=1953&utm_medium=feed&keyword=CLM-Functional-Support&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3623750__1953_1d069b1778bd8df17d06f9ed433703fd?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -986,7 +959,7 @@
     "company": "Getronics",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3635742__1953_bc71b5769ef7ecd4a2c89f27b425718a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3635742__1953_1ce73f572e82ba702b90076c4d06824f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1175,7 +1148,7 @@
     "company": "The Methodical Group",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3641272__1953_efdecce96d75f47467252b34b7770854?utm_source=1953&utm_medium=feed&keyword=Client-Solutions-Architect-Implementation&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3641272__1953_dbcd34662a16b9c9b3a6d966b2e2649b?utm_source=1953&utm_medium=feed&keyword=Client-Solutions-Architect-Implementation&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1580,7 +1553,7 @@
     "company": "RecSel International",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3650488__1953_da2392cb6646909d8488bb79a54d4a3e?utm_source=1953&utm_medium=feed&keyword=Forensic-Manager&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3650488__1953_3fefcbabde1fcb36e466e4111d8bd983?utm_source=1953&utm_medium=feed&keyword=Forensic-Manager&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1760,7 +1733,7 @@
     "company": "Dimensa Tecnologia",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3656102__1953_404985f456f3024cb78c9a926c94237e?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3656102__1953_0a51f0e703b84bb7c1ef696bec1d3627?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1886,7 +1859,7 @@
     "company": "HIGHMED Tecnologia de Medição",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3659837__1953_2532fe40da1447e53ce719ccdb0e9a97?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3659837__1953_db037eba1e2b3f6d710b912de5c1a3e9?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-vendas&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1976,7 +1949,7 @@
     "company": "CWI Software",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3663003__1953_784234ec4485e208edbf8bdd81d107ff?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Node-S%C3%AAnior&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3663003__1953_687f6f3a9f6742f7714b96748a543f75?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Node-S%C3%AAnior&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2165,7 +2138,7 @@
     "company": "Zallpy Digital",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3668236__1953_0e781661db0a124aab45df8beb314804?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Back&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3668236__1953_f7710e2090e399819b960a769f78cf47?utm_source=1953&utm_medium=feed&keyword=Pessoa-Desenvolvedora-Back&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2264,7 +2237,7 @@
     "company": "CWI Software",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3669466__1953_fb99244731870cfe97c77b03dd94f908?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Node-S%C3%AAnior&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3669466__1953_0a3292380a56f3a34822c6f94e9e524f?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Node-S%C3%AAnior&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2417,7 +2390,7 @@
     "company": "Bluesoft Sistemas",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3675475__1953_e010ab4a3ef3af9e384cbce311bba700?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Software&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3675475__1953_fa71a0e41fa77fa0ca2af9f77fcf0af6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-Software&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2534,7 +2507,7 @@
     "company": "CMOC Brasil",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3678616__1953_0580fd194e0cdd8add937f13b9e8d6db?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3678616__1953_f56edfdc3d66d15674fa97ac4a9f5803?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2579,7 +2552,7 @@
     "company": "Sphise",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3680016__1953_6d4e0ac746a4a78f746b717ce8d98e0a?utm_source=1953&utm_medium=feed&keyword=Senior-DevOps-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3680016__1953_a5999ee3ce2b4ca03075c0350ef110d9?utm_source=1953&utm_medium=feed&keyword=Senior-DevOps-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3209,7 +3182,7 @@
     "company": "Velozient",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3694486__1953_bd21000412bfb6a22b1fae3c5742b1fa?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Net&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3694486__1953_88ad20e35556ff4dff5389173d59754a?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Net&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3308,7 +3281,7 @@
     "company": "CMOC Brasil",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3695997__1953_7782f28ae389bf57fba2a195e5e6236e?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3695997__1953_3ac67ed6688d6f730e2b9ab6b51a3d73?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3317,7 +3290,7 @@
     "company": "CMOC Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3695998__1953_3ee1f34e3548d7d05a7a1f149fa54d74?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3695998__1953_661e53d6d03fafe58f67f60ea0ee92eb?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Ventila%C3%A7%C3%A3o&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3407,7 +3380,7 @@
     "company": "Elios Talent",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3698665__1953_baed06e073ec7b832c8927646e6d3916?utm_source=1953&utm_medium=feed&keyword=UX-Data-Driven&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3698665__1953_eb41aba345cde5d44072dcce43c516ca?utm_source=1953&utm_medium=feed&keyword=UX-Data-Driven&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3704,7 +3677,7 @@
     "company": "HCLTech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3703413__1953_6d484807e5f1c0fdc871c9e101173f5f?utm_source=1953&utm_medium=feed&keyword=Analista-de-Service&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3703413__1953_042da86cd94fc162f9ac7e1630d36be7?utm_source=1953&utm_medium=feed&keyword=Analista-de-Service&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3938,7 +3911,7 @@
     "company": "ProjectMark Construction CRM",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3706408__1953_9924b7253cf6d6bce16dbb47f592af10?utm_source=1953&utm_medium=feed&keyword=Marketing-Product&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3706408__1953_c2475a0d6e6c012cb716723ee2fac82b?utm_source=1953&utm_medium=feed&keyword=Marketing-Product&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3974,7 +3947,7 @@
     "company": "Insight Global",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3707192__1953_4e712e69e21d7a7b359c77cf6504446e?utm_source=1953&utm_medium=feed&keyword=AI-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3707192__1953_169af3b6538beb3c331bf725540eb1ed?utm_source=1953&utm_medium=feed&keyword=AI-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3983,7 +3956,7 @@
     "company": "Go Visa",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3707199__1953_c6dab4b99f1464ee139f43788f2046bf?utm_source=1953&utm_medium=feed&keyword=Preparador-de-Casos&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3707199__1953_f17527f621718c7bcad9316e066925ca?utm_source=1953&utm_medium=feed&keyword=Preparador-de-Casos&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4145,7 +4118,7 @@
     "company": "Dimensa Tecnologia",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3709009__1953_8cf1156c63709c1cc45ae2a77cdefaed?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3709009__1953_d0c13ad5c88a787d90e38c074c7c61a3?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4298,7 +4271,7 @@
     "company": "Tata Consultancy Services",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3711657__1953_a0fe58df538feb0814018d86450fedf0?utm_source=1953&utm_medium=feed&keyword=Cybersecurity-Project-Manager&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3711657__1953_48e05f8e6bcf77e3623a9fbb1b688fdb?utm_source=1953&utm_medium=feed&keyword=Cybersecurity-Project-Manager&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4595,7 +4568,7 @@
     "company": "ITC Infotech",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3716888__1953_efdc0cd4cd0c2288a716266c582ba2aa?utm_source=1953&utm_medium=feed&keyword=PLM-Architect&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3716888__1953_4e2b4b9efb4a98c2fe9b8bf07464cee0?utm_source=1953&utm_medium=feed&keyword=PLM-Architect&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4658,7 +4631,7 @@
     "company": "BRQ Digital Solutions",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3719195__1953_4be5e47f6c7f227ad16c009157717b68?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3719195__1953_fb80007778605f955ab3084faa74c793?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4757,7 +4730,7 @@
     "company": "Residence Supply",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3723373__1953_ec7d3e677160e718a9df5b58bcd5d75b?utm_source=1953&utm_medium=feed&keyword=Editorial-Graphic-Designer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3723373__1953_abd21edc61f4d544a0b9aa3c4d47d3c2?utm_source=1953&utm_medium=feed&keyword=Editorial-Graphic-Designer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4911,15 +4884,6 @@
     "city": "feira de santana",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_3727743__1953?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Wordpress Plugin & Full Stack Developer",
-    "description": "<p><b>Please only apply if you are familiar with Wordpress Plugin Development, with strong PHP skills in additional to being a full stack (front and back) developer. Ideally you should also be comfortable with mobile apps and figuring out and doing different things in tech and thrive in a fast-paced fluid environment. </b> </p><p><br></p><p>Do you love technology puzzles and figuring out how to make a variety of things to work? Are you great at catching mistakes through user testing for quality assurance? Are you a dedicated, resourceful team player with strong problem solving skills? Do you have experience working with numerous different technology platforms in digital form, ranging from CRMs (like Constant Contact, Aweber, Beehiiv), Hosting (AWS, WHM), DNS (Cloudflare), Automtions (like zapier, make.com), project management (like jira.com)? </p><p><br></p><p><b>Detail oriented test and php / elementor test REQUIRED before video interview.  </b> </p><p><br></p><p><b>About Us </b> </p><p>Life Water Media specializes in digital branding and awareness campaigns for publicly traded companies in the United States stock market and other large scale projects. We started in 2019. We internally own 10 newsletter brands, a mobile app, and other digital assets. </p><p><br></p> <p><b>Responsibilities </b> </p><ul><li>Focus on building out custom wordpress plugins for internal agency needs </li><li>Focus on connecting marketing data for purposes of analysis, can range from open rates in crm, to costs on paid media platforms, to click through data on sms provider.  </li><li>Setting up CRM lists, automations, and funnels from start to finish with script, reporting and directly on the platforms. </li><li>Willing to have a flexible set of responsibilities to service whatever is required in daily operations, including posting daily new article first thing in the mornings. </li><li>Work hand-in-hand with CTO and CMO on various directives. If you see a way to do it better, we'd love to hear it.  </li><li>Handle multiple projects from start to finish, adhering to set deadlines set by CTO or CMO. </li><li>Doing or setting up manual/automated reporting related to adspend, subscriber counts, open rates, cost per lead, etc </li><li>Copying, testing, and fixing Elementor landing pages and ensuring they are properly connected to CRM, SMS, webhooks, etc. </li><li>Copying, testing, fixing PHP scripts ensuring they are properly connected to CRM, SMS provider, webhooks, postbacks, etc. </li><li>On CRM set up lists/segments, automations for the welcome emails, templates, list cleaning, </li><li>Doing specific weekly and monthly audits of our 10 newsletter landing page and script funnels. </li><li>Testing and helping manage our mobile app. </li><li><b>Test Planning and Execution: </b> Design and implement test plans, scenarios, and procedures to test software functionality.  </li><li><b>Defect Management: </b> Identify, document, and track software defects (that you can't fix), then work with developers to ensure they are corrected before release </li><li><b>Collaboration: </b> Communicate and collaborate with developers, product managers, and other team members to understand requirements and provide feedback on usability and functionality.  </li><li><b>Automation: </b> Code and implement automated test scripts using various tools and frameworks.  </li><li><b>Quality Standards: </b> Create and enforce guidelines for software quality standards within the company.  </li> </ul><p><br></p><p><b>Qualifications </b> </p><ul><li>Proficient in Wordpress, Elementor, PHP, HTML/CSS </li><li>Strong communication, conceptual thinking, problem solving skills </li><li>Deadline and detail-oriented </li><li>Self Starter who can be self-taught and work without much direction </li><li>Works well in collaboration with a team and independently. </li><li>Must have the ability to multitask, in a VERY fast paced work environment. </li><li>This position requires a personality that can accept constructive criticism, change directions rapidly and accept new assignments frequently with pressing deadlines. </li> </ul><p><br></p><p><b>Compensation </b> </p><p>Salary: based on your experience level </p><p><br></p><p>To Apply Submit: </p><ul><li>Current resume </li><li>Synopsis of recent salary history </li><li>If selected, you'll receive invite to a couple skills test before video interview </li> </ul><p><br></p><p>Requirements Before Employment </p><ul><li>Signed Confidentiality agreement </li><li>Signed Non-compete agreement </li><li>Signed Contract & W-8 BEN tax form </li> </ul><p><br></p><p>Company Culture </p><ul><li>Remote </li><li>We're playful, tight nit, friendly, family-oriented atmosphere. </li><li>We're very loyal, focused, dedicated and hard-working. </li><li>Hours 8AM - 5PM, Mon-Fri, with certain US holidays included </li> </ul>",
-    "company": "TD Media LLC (dba Life Water Media)",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3728160__1953?utm_source=1953&utm_medium=feed&keyword=Wordpress-Plugin&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5207,7 +5171,7 @@
     "company": "Clínica Experts",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3734063__1953_f04d9912b24f6b7bc71ee6b5274bb47d?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3734063__1953_c13cf177abb6493403d97a55929a931b?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-IA&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5342,7 +5306,7 @@
     "company": "HP Racing Exhaust",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3736444__1953_7ebc167bcf03bfade713df922da6183f?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-produ%C3%A7%C3%A3o&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3736444__1953_befd1b50a8bb27a98d6b4e1fe935e52d?utm_source=1953&utm_medium=feed&keyword=Auxiliar-de-produ%C3%A7%C3%A3o&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5450,7 +5414,7 @@
     "company": "Frelaa.com",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3737223__1953_2136ad3966eec204439633469e39f63a?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3737223__1953_3483316bbbdaba524b8dfb01f2e5f465?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5459,7 +5423,7 @@
     "company": "Frelaa.com",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3737225__1953_a05d20f8baa7cb1344e5cf52e2e07c52?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3737225__1953_c90e4f1784332199207d3ef33e14054e?utm_source=1953&utm_medium=feed&keyword=Auxiliar-administrativo&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5513,7 +5477,7 @@
     "company": "Luxoft",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3738668__1953_9040f07ed36a1407a63ef85fcccd7b06?utm_source=1953&utm_medium=feed&keyword=Senior-Murex-FO&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3738668__1953_9f75a53178a413677befd09da9928517?utm_source=1953&utm_medium=feed&keyword=Senior-Murex-FO&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5625,24 +5589,6 @@
     "tipo": ""
   },
   {
-    "title": "Coordenador de Arquitetura de Dados",
-    "description": "<p><b>Sobre a área: </b> A área de Arquitetura de Dados é responsável por definir, estruturar e sustentar as bases tecnológicas que permitem a coleta, o processamento, a integração e o consumo de dados de forma segura, escalável e alinhada às estratégias do negócio. Atua na definição de padrões, políticas e modelos arquiteturais, garantindo a qualidade, governança e disponibilidade das informações para apoiar análises, produtos de dados e a tomada de decisão em toda a organização. </p><p><br></p><p>Além do aspecto técnico, a área trabalha de forma colaborativa com times de TI, Analytics e áreas de negócio, antecipando necessidades, avaliando tecnologias emergentes e propondo soluções inovadoras. Seu papel é viabilizar uma arquitetura robusta e sustentável, que suporte o crescimento da empresa, promova eficiência operacional e fortaleça a cultura orientada a dados. </p><p><br></p><p><b>Principais atividades: </b> </p><p><br></p><ul><li>Coordenar atividades operacionais do time de Arquitetura e Plataforma de Dados. </li><li>Desenvolver e implementar estratégias de arquiteturas de dados alinhadas aos objetivos </li><li>organizacionais. </li><li>Participação em processos de recrutamento e desenvolvimento de talentos e desligamento de </li><li>profissionais. </li><li>Fomentar o desenvolvimento técnico da equipe, promovendo um ambiente de aprendizado contínuo </li><li>e desenvolvimento de habilidades. </li><li>Interagir com líderes de outras áreas para entender suas necessidades analíticas. </li><li>Participação na gestão de orçamentos e recursos. </li><li>Relatar os resultados para a gerência e recomendar melhorias. </li><li>Tomar decisões relacionadas à arquitetura de dados </li><li>Estabelecer e fazer cumprir padrões e políticas relacionadas ao uso de dados. </li><li>Definir estratégias de Gestão e moldar a direção técnica. </li><li>Resolver desafios complexos e inovadores. </li><li>Estabelecer parcerias estratégicas. </li><li>Fomentar a disseminação de uma cultura organizacional que valorize a utilização eficaz de dados na </li><li>tomada de decisões. </li><li>Acompanhamento de tendências em engenharia de dados e aplicação de tecnologias emergentes </li><li>Colaboração com equipes de TI e outras áreas </li><li>Participação na gestão de contratos com fornecedores </li><li>Participação nos processos de definição de novos cargos ou novas expertises necessárias às funções </li><li>do setor </li><li>Acompanhamento de registros de ponto; alinhamento das férias, folgas remuneradas e banco de </li><li>horas </li><li>Verificação e orientação sobre atestados médicos e licenças e participação em iniciativas de saúde e </li><li>suporte ao bem-estar </li><li>Contribuição para políticas de remuneração, benefícios, reconhecimento, incentivos, feedback e </li><li>mentorias </li><li>Participação no desenvolvimento de planos de carreira, treinamento e desenvolvimento individual </li><li>Abertura, acompanhamento e finalização de chamados de TI </li> </ul><p><br></p><p><br></p><p><b>Buscamos alguém que apresente: </b> </p><p><br></p><ul><li>Graduação completa ou em andamento em Ciência da Computação, Estatística, Matemática, </li><li>Engenharia ou área correlata. </li><li>Inglês intermediário (desejável avançado para leitura) </li><li>Experiência com ferramentas de gestão de projetos (Jira, Project) </li><li>Experiência com gestão de pessoas. </li><li>Experiência em liderança para recrutar, delegar e motivar um time de profissionais de dados. </li><li>Experiência em desenvolvimento de talentos e gestão de desempenho. </li><li>Experiência em gestão de orçamento para alocar recursos de maneira eficiente. </li><li>Visão estratégica de negócios e do time de dados. </li><li>Experiência em gestão de projetos de dados </li> </ul><p><br></p><p><br></p><p><b>Conhecimentos Técnicos: </b> </p><p><br></p><ul><li>Infraestrutura como Código (IaC): Expertise em ferramentas de IaC como Terraform, Pulumi e </li><li>CloudFormation. </li><li>Plataformas de Dados: Expertise em Databricks, incluindo gerenciamento e otimização de clusters. </li><li>Computação em Nuvem: Experiência avançada com AWS, incluindo serviços como EC2, S3, Lambda, </li><li>RDS, EMR, Glue, Athena e SageMaker. Conhecimento em GCP e Azure é um diferencial. </li><li>Ferramentas de CDC: Conhecimento e uso de ferramentas de CDC, entendo os tradeoffs entre as </li><li>diferentes ferramentas e quando faz sentido usar cada. </li><li>Armazenamento e Arquitetura de Dados: Conhecimento profundo em arquiteturas de data </li><li>lakehouse, incluindo Delta Lake e a estrutura Medallion. </li><li>Deploy de Modelos de Machine Learning: Experiência avançada no deploy e monitoramento de </li><li>modelos de machine learning. </li><li>Ferramentas de ETL e Orquestração: Expertise com Apache Airflow, dbt, e outras ferramentas de ETL. </li><li>Linguagens de Programação: Proficiência avançada em Python e SQL. </li><li>Boas Práticas de Engenharia de Software: Aplicação de princípios de engenharia de software, como </li><li>controle de versão, testes automatizados, integração contínua e deploy contínuo (CI/CD). </li><li>Governança de Dados: Expertise em políticas de governança de dados, incluindo a gestão de dados </li><li>sensíveis e privados, conformidade com regulamentos (ex: LGPD), e uso de catálogos de dados para </li><li>garantir a acessibilidade e qualidade dos dados. </li> </ul><p><br></p><p>Antes da inscrição na vaga, é importante verificar se você atende aos requisitos e se conecta com nosso propósito. </p><p><br></p><p><b>Nossa essência inspira o dia a dia, por isso, buscamos pessoas apaixonadas pelo que fazem, e que: </b> </p><p><br></p><p>• Estimulem um ambiente de troca de conhecimentos, compartilhando experiências, possibilitando a interdependência entre os times; </p><p>• Estejam em constante movimento, investindo em autodesenvolvimento e atuando como facilitadora no desenvolvimento das outras pessoas; </p><p>• Busquem consciência social de diversidade e inclusão, cooperando com a construção de um ambiente colaborativo; </p><p>• Identifiquem e antecipem as necessidades dos clientes, agindo prontamente para encontrar soluções adequadas e personalizadas; </p><p>• Planejem e executem o trabalho com excelência a fim de atingir os resultados esperados, com a visão de inovação e agilidade; </p><p>• Gerem e implementem novas ideias, buscando constantemente por melhorias para a experimentação de novas abordagens e a adaptação às mudanças do mercado. </p><p><br></p><p><b>Informações da vaga: </b> </p><p>Modelo de Trabalho (Home Office) </p><p>Carga Horária: 220h </p><p>Escala: Segunda a sexta </p><p>Horário de Trabalho: 08h00 ás 17h48 </p><p><br></p><p><b>Cuidamos de você em cada etapa da sua jornada! </b> </p><p><br></p><p><b>Saúde e Bem-estar: </b> </p><p>• Assistência médica e odontológica para você e sua família; </p><p>• Ambulatório com clínica médica ou atendimento por telemedicina; </p><p>• Linhas de cuidado especializadas: gestantes, adoção, obesidade, oncologia, entre outras; </p><p>• Acesso à plataforma OrienteMe para sessões de terapia e orientação nutricional; </p><p>• Licença maternidade e paternidade estendidas; </p><p>• Acesso ao Wellhub para práticas esportivas e qualidade de vida. </p><p><br></p><p><b>Proteção e estabilidade: </b> </p><p>• Previdência privada; </p><p>• Participação nos lucros; </p><p>• Seguro de vida. </p><p><br></p><p><b>Facilidades para o dia a dia: </b> </p><p>• Vale-Alimentação; </p><p>• Vale-Refeição; </p><p>• Vale-Transporte; </p><p>• Auxílio-Creche; </p><p>• Clube de Descontos com lojas, farmácias, viagem, beleza, cultura, lazer, entre outros serviços. </p><p><br></p><p><b>Desenvolvimento e educação: </b> </p><p>• Plataforma de ensino; </p><p>• Parcerias educacionais com descontos em cursos e instituições. </p><p><br></p><p><b>Aqui, o cuidado vai além dos benefícios — ele está presente em cada momento da sua trajetória. </b> </p><p><br></p><p>Promovemos uma cultura inclusiva, focada na equidade e na valorização das diferenças. Nossas vagas são abertas para todos os públicos e, simbolizando a nossa intencionalidade, oferecemos oportunidades afirmativas. </p><p><br></p><p>Nosso compromisso vai além do cumprimento das legislações que incentivam a diversidade e inclusão. Trabalhamos ativamente para ampliar a representatividade de nossas pessoas, pensando em raça, etnia, gênero, gerações, pessoas com deficiência e LGBTQIAPN+ em nosso time, além de fortalecer a representatividade de mulheres negras, indígenas, chefes de família. </p><p><br></p><p>Para conhecer mais sobre o Grupo Fleury, acesse o site:  </p>",
-    "company": "Grupo Fleury",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3742249__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Arquitetura&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "PLM Consultant",
-    "description": "<p><b>Title : PLM Consultant </b> </p><p><br></p><p><b>Location: Remote (Brazil) </b> </p><p><br></p><p>About us : </p><p>ITC Infotech is a leading global technology services and solutions provider, led by Business and Technology Consulting. ITC Infotech provides business-friendly solutions to help clients succeed and be future-ready, by seamlessly bringing together digital expertise, strong industry speciﬁc alliances and the unique ability to leverage deep domain expertise from ITC Group businesses. We provide technology solutions and services to enterprises across industries such as Banking & Financial Services, Healthcare, Manufacturing, Consumer Goods, Travel and Hospitality, through a combination of traditional and newer business models, as a long-term sustainable partner. </p><p><br></p><p><b>Responsibilities  </b> </p><ul><li>You will support consulting services and implementation projects for Product Lifecycle Management (PLM) using PTC Windchill Product suite. </li><li>You will analyze customers’ business requirements and successfully implement solutions as part of a cross-functional team. </li><li>You will participate in, assist with, or act as the facilitator in workshops/work sessions. </li><li>You will support the definition of client-specific solutions for PLM, including application and technical architecture. </li><li>You will help our customers realize value faster by optimizing OOTB solutions and redefining processes, as needed. </li><li>You will execute assigned project tasks for planning, analysis, development, and testing. </li><li>You will execute technical tasks including the installation and configuration of PLM software, assessing gaps between requirements and software functionality and define appropriate path forward debugging, data migration, infrastructure, and deployment support. </li><li>You will ensure quality through established software engineering methods and processes. </li><li>You will be a valued project team contributor by demonstrating an ability to balance independent work practices with appropriate levels of communication across a broad spectrum of project stakeholders. </li><li>You will manage commitments within a flexible work schedule and in a remote model. </li> </ul><p><br></p><p><b>Knowledge and Abilities: </b> </p><ul><li>PLM domain knowledge and System Administration </li><li>Basic knowledge on Windows Server and Linux Red Hat </li><li>Have programming skills on Java, SQL, Python, system integrations using Webservices, XML, JSON, and OData </li><li>Basic knowledge on ORACLE database and SQL Server </li><li>Proven experience on delivering or supporting PLM solutions </li><li>Strong interpersonal skills </li><li>Strong communication and presentation skills </li><li>Knowledge of PTC Windchill Product suites desired. </li><li>Be able to work autonomously and focus on goals. </li><li>Be customer service oriented. </li><li>A desire to continue your professional growth through formal and on-the-job ongoing product and consulting skills training. </li> </ul><p><br></p><p><b>Must Have Skills </b> </p><ul><li>2-5+ years’ experience in PLM, preferably PTC Windchill Product suite. </li><li>Participated in PLM Implementation projects. </li><li>Educational background in Computer Science or Engineering (bachelor’s or master’s Degree Level) </li><li>Languages: English Advanced or Fluent Proficiency level (written and spoken) required, Spanish is Plus  </li><li>Willingness to travel, as needed </li> </ul><p><br></p><p><br></p><p>ITC Infotech is an Equal Opportunity Employer. We believe that no one should be discriminated against because of their differences, such as age, disability, ethnicity, gender, gender identity and expression, religion, or sexual orientation. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. ITC infotech is committed to providing veteran employment opportunities to our service men and women </p>",
-    "company": "ITC Infotech",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3742368__1953?utm_source=1953&utm_medium=feed&keyword=PLM-Consultant&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
     "title": "Data Pipeline Engineer Sr / OT–IT Integration",
     "description": "<p>Come to one of the biggest IT Services companies in the world! Here you can transform your career! </p><p><br></p><p>Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. </p><p><br></p><p>We are looking for a <b>Data Pipeline Engineer Sr / OT–IT Integration </b>. </p><p><br></p><p><b>In this role you will: </b> </p><p>Design, build, and operate resilient OT-IT data pipelines across SCADA/MES and enterprise systems. Apply UNS (ISA 95/88), model/govern industrial data, and deliver secure batch and streaming integrations on prem and in the cloud. </p><ul><li>End to end pipelines: Design, implement, and operate batch/streaming flows from SCADA, MES, and Historians to cloud/enterprise (Azure/AWS/GCP); Experience in Azure Event Hubs/Event Grid is plus. </li><li>UNS & modeling: Apply UNS (ISA 95/88), data modeling, and metadata management; ensure data quality, lineage, and governance. </li><li>Industrial integration: Connect (Ignition, HighByte, HiveMQ advantageous) using OPC UA, MQTT, BACnet, Modbus; build/consume RESTful APIs and connectors for SCADA, MES, LIMS, Historians. </li><li>Design schemas and tune performance across SQL and NoSQL stores. </li><li>Security & reliability: implement authN/authZ best practices; Design for scalability, resilience, and cost efficiency. </li><li>Dev practices: use Git/GitHub (branching, reviews, releases) and create clear architecture diagrams, process flows, and specifications. </li> </ul><p><br></p><p><b>We have some requirements: </b> </p><ul><li>Bachelors in engineering, Instrumentation & Control, Computer Science, or equivalent experience. </li><li>Experience in manufacturing or life sciences with OT/IT interoperability; familiarity with GxP, regulated data flows, and enterprise data governance is a plus. </li><li>Strong analytical/problem solving with structured troubleshooting. </li><li>Clear communication and stakeholder management across technical and business teams. </li><li>Fluent English </li> </ul><p><br></p><p><b><<<< Please attach resume in English>>>>>> </b> </p><p><br></p><p><b>What do we offer? </b> </p><p><b>TCS Benefits – Brazil: </b> </p><ul><li>Health insurance </li><li>Dental Plan </li><li>Life insurance </li><li>Transportation vouchers </li><li>Meal/Food Voucher </li><li>Childcare assistance </li><li>Totalpass </li><li>TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates </li><li>Partnership with SESC </li><li>Reimbursement of Certifications </li><li>Free TCS Learning Portal – Online courses and live training </li><li>International experience opportunity </li><li>Discount Partnership with Universities and Language Schools </li><li>Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire </li><li>TCS Gems – Recognition for performance </li><li>Xcelerate – Free Mentoring Career Platform </li><li>Tata Consultancy Services is an equal opportunity employer, our commitment to diversity & inclusion drives our efforts to provide equal opportunity to all candidates who meet our required knowledge & competency needs, irrespective of any socio-economic background, race, color, national origin, religion, sex, gender identity/expression , age, marital status, disability, sexual orientation or any others. We encourage anyone interested to build a career in TCS to participate in our recruitment & selection process. </li> </ul><p><br></p><p><br></p><p>At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! </p><p><br></p><p><b>#Buildingonbelief </b> </p>",
     "company": "Tata Consultancy Services",
@@ -5693,7 +5639,7 @@
     "company": "TOTVS",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3744055__1953_06744e88e63b2d5e40ef56d2ae64a533?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3744055__1953_919873c7331a06905b67d28f8d845041?utm_source=1953&utm_medium=feed&keyword=Analista-de-Desenvolvimento&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5783,7 +5729,7 @@
     "company": "TOTVS",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3745669__1953_774c95a4ff72f9038219a07066ec9d24?utm_source=1953&utm_medium=feed&keyword=Tech-Engenharia-DevOps&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3745669__1953_cc6c03acf0dd7f97acaf6f0d82c5a08d?utm_source=1953&utm_medium=feed&keyword=Tech-Engenharia-DevOps&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5862,6 +5808,15 @@
     "title": "PI Developer",
     "description": "<p><b>JOB DESCRIPTION </b> </p><p>Insight Global is looking to hire a remote PI Developer working central hours. We are seeking a motivated and detail-oriented Junior PI Developer to join our team working on an Oil and Gas compressor project. The successful candidate will assist in the development, implementation, and maintenance of PI systems to ensure efficient data collection, analysis, and reporting. This role is crucial for optimizing compressor performance and ensuring operational excellence. </p><p><br></p><p><br></p><p><br></p><p><b>REQUIRED SKILLS AND EXPERIENCE </b> </p><ul><li>Education: Bachelor’s degree in Computer Science, Engineering, Information Technology, or a related field.  </li><li>Experience: 0-2 years of experience in PI system development or a related field.  </li><li>Technical Skills: Proficiency in PI System software (PI Server, PI AF, PI Vision, etc.).  </li><li>Basic understanding of data integration and ETL processes.  </li><li>Familiarity with programming languages such as Python, SQL, or similar. </li> </ul>",
     "company": "Insight Global",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3747688__1953?utm_source=1953&utm_medium=feed&keyword=PI-Developer&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "PI Developer",
+    "description": "<p><b>JOB DESCRIPTION </b> </p><p>Insight Global is looking to hire a remote PI Developer working central hours. We are seeking a motivated and detail-oriented Junior PI Developer to join our team working on an Oil and Gas compressor project. The successful candidate will assist in the development, implementation, and maintenance of PI systems to ensure efficient data collection, analysis, and reporting. This role is crucial for optimizing compressor performance and ensuring operational excellence. </p><p><br></p><p><br></p><p><br></p><p><b>REQUIRED SKILLS AND EXPERIENCE </b> </p><ul><li>Education: Bachelor’s degree in Computer Science, Engineering, Information Technology, or a related field.  </li><li>Experience: 0-2 years of experience in PI system development or a related field.  </li><li>Technical Skills: Proficiency in PI System software (PI Server, PI AF, PI Vision, etc.).  </li><li>Basic understanding of data integration and ETL processes.  </li><li>Familiarity with programming languages such as Python, SQL, or similar. </li> </ul>",
+    "company": "Insight Global",
     "city": "camaçari",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_3747743__1953?utm_source=1953&utm_medium=feed&keyword=PI-Developer&location=camaçari&geoID=1645",
@@ -5900,7 +5855,7 @@
     "company": "Tata Consultancy Services",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3748647__1953_d4b5ff4488cc98c179c69eed388db970?utm_source=1953&utm_medium=feed&keyword=Senior-Architect&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3748647__1953_5a193ee1660988db931faee2c3063ae9?utm_source=1953&utm_medium=feed&keyword=Senior-Architect&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5909,7 +5864,7 @@
     "company": "Tata Consultancy Services",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3748649__1953_db18fdfd143bddb63628d682f02bf146?utm_source=1953&utm_medium=feed&keyword=Senior-Architect&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3748649__1953_49ae9561c1e33c7a1221bef3522ca5cb?utm_source=1953&utm_medium=feed&keyword=Senior-Architect&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6287,7 +6242,7 @@
     "company": "Andela",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3757873__1953_25cb4cbc5a5a8a0d37d716f291dfad9e?utm_source=1953&utm_medium=feed&keyword=Lead-NetSuite-Sspecialist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3757873__1953_92a4132e958fd9727929f8f510851eaa?utm_source=1953&utm_medium=feed&keyword=Lead-NetSuite-Sspecialist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6368,7 +6323,7 @@
     "company": "Tata Consultancy Services",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3759403__1953_2b31bf26f3d647d08d5ee047ba43b40f?utm_source=1953&utm_medium=feed&keyword=LAB-Quality-System&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3759403__1953_7494802d47bd61e20de665c36af87877?utm_source=1953&utm_medium=feed&keyword=LAB-Quality-System&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6431,7 +6386,7 @@
     "company": "RE Partners",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3761275__1953_bb544a7533cd2a0fc732877f2d2c4685?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer-with&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3761275__1953_b7cc6b0aa662e858655042abc749f6bc?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer-with&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6575,7 +6530,7 @@
     "company": "Softtek",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3763437__1953_65e9582d0a4f707d3dd0685ab7cf1b03?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-software&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3763437__1953_3971a24867c556582330effd50cdb25d?utm_source=1953&utm_medium=feed&keyword=Arquiteto-de-software&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7349,7 +7304,7 @@
     "company": "Sphise",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3789764__1953_7e06cef8bfebb5b1e2c4e8e47aea3ab4?utm_source=1953&utm_medium=feed&keyword=Senior-Front-End&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3789764__1953_99cbae4ae71a29e9df4cbcecaefca31c?utm_source=1953&utm_medium=feed&keyword=Senior-Front-End&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7520,7 +7475,7 @@
     "company": "GRUPO SBF",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3792701__1953_fe32ae35b0833c8cda86394dfac3e9b8?utm_source=1953&utm_medium=feed&keyword=Analytics-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3792701__1953_c401a1d92ca42da48b05403765bcae14?utm_source=1953&utm_medium=feed&keyword=Analytics-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7655,7 +7610,7 @@
     "company": "RE Partners",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3795160__1953_8d85a22334c6625bb209c36506113712?utm_source=1953&utm_medium=feed&keyword=Senior-Golang-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3795160__1953_9e26b11947f9a46c6d45dbf1c0472efb?utm_source=1953&utm_medium=feed&keyword=Senior-Golang-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7817,7 +7772,7 @@
     "company": "Empresa Confidencial",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3798024__1953_081a5c61e7c1ccebd2459b6e1d6ad8e3?utm_source=1953&utm_medium=feed&keyword=ITSM-Support-Specialist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3798024__1953_75375e91388ea190212e34db641814a6?utm_source=1953&utm_medium=feed&keyword=ITSM-Support-Specialist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7889,7 +7844,7 @@
     "company": "Teddy Open Finance",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3799347__1953_a7680abe8798aa5fe6390682d0aea13e?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3799347__1953_59a03fec3715dba303d885d0b6e9d615?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8015,7 +7970,7 @@
     "company": "Fraud Deflect",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3802379__1953_872bbe616b0446a6cb537fb36f8d73c6?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3802379__1953_f788fe92f6171db77ade6425d46f5ca3?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8060,7 +8015,7 @@
     "company": "Teddy Open Finance",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3803709__1953_b73328ec2e16643a96c5e283713e0182?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3803709__1953_f2a86d6d5906c4f8ef5ecf09a1088bae?utm_source=1953&utm_medium=feed&keyword=Tech-Lead&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8123,7 +8078,7 @@
     "company": "Bee Talent Solutions",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3804952__1953_a13eb31cc1a73009c0ae745d2438c559?utm_source=1953&utm_medium=feed&keyword=Recruiting-Coordinator&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3804952__1953_0ec0bcba98ef4433282a18609ee4e076?utm_source=1953&utm_medium=feed&keyword=Recruiting-Coordinator&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8852,7 +8807,7 @@
     "company": "Vericode",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_3846095__1953_d42441299afb53f2aa33c7804dbe7a56?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3846095__1953_79c6ed708c84a6737867d6a7b05e49d0?utm_source=1953&utm_medium=feed&keyword=Senior-Site-Reliability&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8997,6 +8952,51 @@
     "city": "feira de santana",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_3849610__1953?utm_source=1953&utm_medium=feed&keyword=Executive-Headhunter&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Junior .NET Developer - Remote",
+    "description": "<p>At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. </p><p><br></p><p>Overview of the role: </p><p><br></p><p>We seek a proficient Junior .NET Developer capable of maintaining high standards of technical quality and innovation, dedicated to continuous improvement, and committed to assisting clients worldwide. Success in this role requires detailed knowledge of development techniques, excellent communication, and organizational skills. </p><p><br></p><p>Key responsibilities: </p><p><br></p><p>- Architect and develop various services and APIs </p><p>- Apply SOLID principles to craft maintainable and high-quality code </p><p>- Collaborate with product owners to ensure features/changes align with business requirements and degreed strategy </p><p>- Engage closely with designers, UX, and other developers to grasp new features, dependencies, and technical intricacies </p><p>- Fulfill other assigned duties </p><p><br></p><p>Requirements: </p><p><br></p><p>- Advanced proficiency in English (spoken and written) </p><p>- Proficiency in SQL and NoSQL Databases </p><p>- Experience with Microservices and the Cloud </p><p>- Knowledge of algorithms </p><p>- Understanding of IT infrastructure </p><p>- Proficiency in managing Agile methodologies </p><p>- Familiarity with best practices, SOLID principles, CLEAN Code, and scalable solutions </p><p>- Understanding of Design Patterns </p><p>- Experience in developing entire applications from scratch </p><p>- Proficiency in automated tests, CI/CD pipelines </p><p>- Experience with version control </p><p>- Strong skills in unit testing, integration testing, and code coverage </p><p><br></p><p>Benefits: </p><p>• Flexibility: Choose where and how you work for enhanced creativity and innovation. </p><p>• Tailored Compensation: Personalize your earnings to suit your financial goals. </p><p>• Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity. </p><p>• Autonomous Workflow: Take control of your schedule to achieve work-life balance. </p><p>• Well-being: Enjoy generous leave policies for rest and rejuvenation. </p><p>• Diversity & Inclusion: Thrive in a diverse and inclusive environment. </p><p>• Collaboration: Engage with industry leaders for collective growth. </p><p>• Development: Access mentorship and growth opportunities for continuous advancement. </p><p><br></p><p>If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply! </p>",
+    "company": "INDI Staffing Services",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3849953__1953?utm_source=1953&utm_medium=feed&keyword=Junior-NET-Developer&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "Executive Headhunter - Remote",
+    "description": "<p>At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. </p><p><br></p><p>Overview of the role: </p><p><br></p><p>The Executive Headhunter position focuses on identifying, attracting, and assessing top talent for senior-level positions. This role combines executive search methodology with talent assessment expertise to place high-performing leaders who can drive organizational success and strategic growth for clients. </p><p><br></p><p>Key responsibilities: </p><p><br></p><p>- Conducting in-depth interviews and evaluations to assess candidates' qualifications, experience, cultural fit, and potential. </p><p>- Designing and executing customized search strategies to identify high-caliber talent for executive or senior-level roles. </p><p>- Facilitating the offer process, including salary negotiations and contract discussions, to ensure smooth placements. </p><p>- Proactively identifying and attracting top-tier candidates through networking, referrals, market research, and digital platforms. </p><p><br></p><p>Requirements: </p><p><br></p><p>- Experience: At least 5 years in recruitment, preferably in executive search. </p><p>- Education: Bachelor's degree in Business, Psychology, Human Resources, or related field. </p><p>- Market Knowledge: Experience recruiting for US candidates and commercial openings. </p><p>- Assessment Skills: Excellent interviewing and candidate assessment abilities. </p><p>- Industry Understanding: Knowledge of various industries and executive roles. </p><p>- Work Style: Ability to work independently and manage multiple search assignments. </p><p>- Language Skills: Advanced level of English. </p><p><br></p><p>Benefits: </p><p>• Flexibility: Choose where and how you work for enhanced creativity and innovation. </p><p>• Tailored Compensation: Personalize your earnings to suit your financial goals. </p><p>• Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity. </p><p>• Autonomous Workflow: Take control of your schedule to achieve work-life balance. </p><p>• Well-being: Enjoy generous leave policies for rest and rejuvenation. </p><p>• Diversity & Inclusion: Thrive in a diverse and inclusive environment. </p><p>• Collaboration: Engage with industry leaders for collective growth. </p><p>• Development: Access mentorship and growth opportunities for continuous advancement. </p><p><br></p><p>If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply! </p>",
+    "company": "INDI Staffing Services",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3850188__1953?utm_source=1953&utm_medium=feed&keyword=Executive-Headhunter&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Executive Headhunter - Remote",
+    "description": "<p>At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. </p><p><br></p><p>Overview of the role: </p><p><br></p><p>The Executive Headhunter position focuses on identifying, attracting, and assessing top talent for senior-level positions. This role combines executive search methodology with talent assessment expertise to place high-performing leaders who can drive organizational success and strategic growth for clients. </p><p><br></p><p>Key responsibilities: </p><p><br></p><p>- Conducting in-depth interviews and evaluations to assess candidates' qualifications, experience, cultural fit, and potential. </p><p>- Designing and executing customized search strategies to identify high-caliber talent for executive or senior-level roles. </p><p>- Facilitating the offer process, including salary negotiations and contract discussions, to ensure smooth placements. </p><p>- Proactively identifying and attracting top-tier candidates through networking, referrals, market research, and digital platforms. </p><p><br></p><p>Requirements: </p><p><br></p><p>- Experience: At least 5 years in recruitment, preferably in executive search. </p><p>- Education: Bachelor's degree in Business, Psychology, Human Resources, or related field. </p><p>- Market Knowledge: Experience recruiting for US candidates and commercial openings. </p><p>- Assessment Skills: Excellent interviewing and candidate assessment abilities. </p><p>- Industry Understanding: Knowledge of various industries and executive roles. </p><p>- Work Style: Ability to work independently and manage multiple search assignments. </p><p>- Language Skills: Advanced level of English. </p><p><br></p><p>Benefits: </p><p>• Flexibility: Choose where and how you work for enhanced creativity and innovation. </p><p>• Tailored Compensation: Personalize your earnings to suit your financial goals. </p><p>• Tech-Driven Tools: Access cutting-edge resources for seamless collaboration and productivity. </p><p>• Autonomous Workflow: Take control of your schedule to achieve work-life balance. </p><p>• Well-being: Enjoy generous leave policies for rest and rejuvenation. </p><p>• Diversity & Inclusion: Thrive in a diverse and inclusive environment. </p><p>• Collaboration: Engage with industry leaders for collective growth. </p><p>• Development: Access mentorship and growth opportunities for continuous advancement. </p><p><br></p><p>If you are interested in being part of a team composed of the best professionals and working 100% goal-oriented in an innovative environment, but with the structure and resources of a multinational market leader, do not hesitate to apply! </p>",
+    "company": "INDI Staffing Services",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3850191__1953?utm_source=1953&utm_medium=feed&keyword=Executive-Headhunter&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Principal Data Engineer",
+    "description": "<p><b>Description </b> </p><p>We are looking for a highly skilled Principal Data Engineer to join our team. In this role, you will lead architectural decisions and set standards for how we design, build and maintain our data platform and data-driven systems. </p><p>This is a hands-on role with no direct people management, but you will act as a strong technical reference, guiding others and driving initiatives that shape the future of our data ecosystem. You will work across data engineering and personalization use cases, helping transform raw data into actionable insights and intelligent user experiences. </p><p><br></p><p><br></p><p><b>Responsibilities </b> </p><ul><li>Make architectural and design decisions for our data pipelines and infrastructure, ensuring scalability, performance and long-term maintainability. </li><li>Write production-ready TypeScript code (AWS Lambda, CDK, Zod validation) to support data and backend workflows. </li><li>Design, build and maintain data pipelines using AWS services and databases such as Aurora, Snowflake and DynamoDB. </li><li>Develop and optimize ETL/ELT processes to ingest, transform and load data efficiently. </li><li>Work with vector databases and embeddings to enable semantic search and personalization capabilities. </li><li>Apply personalization concepts such as scoring, reranking and segmentation to improve data-driven user experiences. </li><li>Optimize data models and structures within Snowflake for cost-efficiency and usability. </li><li>Ensure data quality, accuracy and consistency through validation, monitoring and testing practices. </li><li>Collaborate with engineers, analysts and product stakeholders to translate business requirements into scalable technical solutions. </li><li>Review code, contribute to architectural discussions and mentor other engineers. </li><li>Continuously evaluate new technologies and methodologies to improve our data platform. </li> </ul><p><br></p><p><br></p><p><b>Technology Requirements </b> </p><ul><li>5+ years of professional experience in data engineering or related roles. We are flexible for candidates with strong recent experience in AWS data pipelines and vector embeddings or personalization systems. </li><li>Strong experience with AWS services, especially Lambda, CDK and data-related infrastructure. </li><li>Experience writing production TypeScript. </li><li>Solid knowledge of Snowflake and relational databases such as Aurora or PostgreSQL. </li><li>Experience building and maintaining data pipelines in cloud environments. </li><li>Advanced SQL skills. </li><li>Experience working with vector databases and embeddings for semantic search or similar use cases. </li><li>Understanding of personalization concepts such as scoring, reranking and segmentation. </li><li>Experience with Git and collaborative development workflows. </li><li>Experience with BI tools or big data technologies is a plus. </li> </ul><p><br></p><p><br></p><p><b>Profile Requirements </b> </p><ul><li>Strong technical leadership and ability to make architectural decisions. </li><li>Comfortable owning complex initiatives end to end. </li><li>Strong communication skills and ability to collaborate cross-functionally. </li><li>Proactive, hands-on and comfortable in evolving environments. </li> </ul>",
+    "company": "Prosigliere",
+    "city": "camaçari",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3850299__1953?utm_source=1953&utm_medium=feed&keyword=Principal-Data-Engineer&location=camaçari&geoID=1645",
+    "tipo": ""
+  },
+  {
+    "title": "Principal Data Engineer",
+    "description": "<p><b>Description </b> </p><p>We are looking for a highly skilled Principal Data Engineer to join our team. In this role, you will lead architectural decisions and set standards for how we design, build and maintain our data platform and data-driven systems. </p><p>This is a hands-on role with no direct people management, but you will act as a strong technical reference, guiding others and driving initiatives that shape the future of our data ecosystem. You will work across data engineering and personalization use cases, helping transform raw data into actionable insights and intelligent user experiences. </p><p><br></p><p><br></p><p><b>Responsibilities </b> </p><ul><li>Make architectural and design decisions for our data pipelines and infrastructure, ensuring scalability, performance and long-term maintainability. </li><li>Write production-ready TypeScript code (AWS Lambda, CDK, Zod validation) to support data and backend workflows. </li><li>Design, build and maintain data pipelines using AWS services and databases such as Aurora, Snowflake and DynamoDB. </li><li>Develop and optimize ETL/ELT processes to ingest, transform and load data efficiently. </li><li>Work with vector databases and embeddings to enable semantic search and personalization capabilities. </li><li>Apply personalization concepts such as scoring, reranking and segmentation to improve data-driven user experiences. </li><li>Optimize data models and structures within Snowflake for cost-efficiency and usability. </li><li>Ensure data quality, accuracy and consistency through validation, monitoring and testing practices. </li><li>Collaborate with engineers, analysts and product stakeholders to translate business requirements into scalable technical solutions. </li><li>Review code, contribute to architectural discussions and mentor other engineers. </li><li>Continuously evaluate new technologies and methodologies to improve our data platform. </li> </ul><p><br></p><p><br></p><p><b>Technology Requirements </b> </p><ul><li>5+ years of professional experience in data engineering or related roles. We are flexible for candidates with strong recent experience in AWS data pipelines and vector embeddings or personalization systems. </li><li>Strong experience with AWS services, especially Lambda, CDK and data-related infrastructure. </li><li>Experience writing production TypeScript. </li><li>Solid knowledge of Snowflake and relational databases such as Aurora or PostgreSQL. </li><li>Experience building and maintaining data pipelines in cloud environments. </li><li>Advanced SQL skills. </li><li>Experience working with vector databases and embeddings for semantic search or similar use cases. </li><li>Understanding of personalization concepts such as scoring, reranking and segmentation. </li><li>Experience with Git and collaborative development workflows. </li><li>Experience with BI tools or big data technologies is a plus. </li> </ul><p><br></p><p><br></p><p><b>Profile Requirements </b> </p><ul><li>Strong technical leadership and ability to make architectural decisions. </li><li>Comfortable owning complex initiatives end to end. </li><li>Strong communication skills and ability to collaborate cross-functionally. </li><li>Proactive, hands-on and comfortable in evolving environments. </li> </ul>",
+    "company": "Prosigliere",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_3850552__1953?utm_source=1953&utm_medium=feed&keyword=Principal-Data-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   }
 ]
