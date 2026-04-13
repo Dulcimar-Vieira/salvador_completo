@@ -1,5 +1,59 @@
 [
   {
+    "title": "Senior Data Engineer",
+    "description": "<p><b>Senior Data Engineer (Oracle / ODI) – Data Warehouse & ETL Specialist </b> </p><p><b>About the Role </b> </p><p>We are looking for a <b>Senior Data Engineer with strong expertise in Oracle and ODI (Oracle Data Integrator) </b> to join our team and support enterprise-grade data initiatives. </p><p>This role is ideal for professionals who thrive in <b>complex data environments </b>, working with large-scale Data Warehouses and mission-critical systems — especially within financial services or similar industries. </p><p>You will be responsible for designing, developing, and optimizing <b>ETL/ELT pipelines </b>, ensuring high standards of <b>data quality, performance, and reliability </b>. </p><p><b>Key Responsibilities </b> </p><ul><li>Design and develop ETL/ELT processes using ODI </li><li>Build and maintain scalable Data Warehouse solutions </li><li>Develop complex SQL and PL/SQL logic (procedures, packages, functions) </li><li>Implement data quality, reconciliation, and auditing frameworks </li><li>Optimize performance (SQL tuning, indexing, partitioning) </li><li>Develop and manage ODI Load Plans and workflows </li><li>Troubleshoot and debug data pipelines and mappings </li><li>Translate business requirements into technical specifications </li><li>Integrate multiple data sources (databases, files, APIs) </li> </ul><p><b>Required Qualifications </b> </p><ul><li>6+ years of experience in Data Engineering / ETL development </li><li>3+ years of hands-on experience with <b>Oracle Data Integrator (ODI) </b> </li><li>Strong expertise in <b>Oracle SQL and PL/SQL </b> </li><li>Proven experience in <b>Data Warehouse implementations (end-to-end) </b> </li><li>Deep understanding of ETL/ELT concepts and data modeling </li><li>Experience with: </li><li>ODI Topology, Designer, Operator </li><li>Knowledge Modules (KM) </li><li>Load Plans and scheduling </li><li>Error handling and data reconciliation </li><li>Strong analytical and problem-solving skills </li><li>Ability to work independently in fast-paced environments </li><li>Fluent or advanced English communication skills </li> </ul><p><b>Nice to Have </b> </p><ul><li>Experience in financial services industry </li><li>Exposure to modern data platforms (Databricks, Snowflake, etc.) </li><li>Cloud experience (AWS, Azure, or GCP) </li> </ul><p><b>What We Offer </b> </p><ul><li>Opportunity to work on <b>high-impact enterprise data projects </b> </li><li>Collaborative and technically strong team environment </li><li>Exposure to both <b>legacy and modern data architectures </b> </li><li>Career growth aligned with evolving data technologies </li> </ul><p><b>Apply Now </b> </p><p>If you are passionate about data engineering and enjoy solving complex data challenges, we’d love to hear from you. Send to  </p>",
+    "company": "Etho IT Solutions",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4452366__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Application Support Engineer (DevOPS | Data Product Support | Brazil)",
+    "description": "<p><b>Company Description </b> </p><p><br></p><p>Amaris Consulting is an independent technology consulting firm with a global footprint, bringing together diverse talents from various backgrounds to deliver innovative solutions to clients worldwide. We are committed to excellence, collaboration, and consistently exceeding performance expectations across a wide range of industries. </p><p><br></p><p><b>Mission Description </b> </p><p><br></p><p>We are looking for an Application Support Engineer to establish and drive operational support for Data Products within a complex, data-driven environment <b>at world’s leading investment bank </b> as our customer. </p><p>You will play a key role in incident management, system stability, and knowledge transfer, while working closely with global teams across the globe. The role combines production support, data analysis, and light development to ensure high availability and performance of critical data services. </p><p><br></p><p><b>What you’ll do </b> </p><p><br></p><p>Core Responsibilities </p><ul><li>Provide <b>L2/L3 application support </b> for Data applications </li><li>Manage <b>incident resolution and service restoration </b> in production environments </li><li>Perform <b>log analysis, debugging, and root cause investigations </b> </li><li>Monitor and support <b>data pipelines and data processing workflows </b> </li><li>Execute and optimize <b>SQL queries (Snowflake and other DBs) </b> </li><li>Work with <b>Unix/Linux environments </b> for file, process, and system operations </li><li>Support <b>AWS-based services </b> (e.g., EC2, S3, Lambda) </li><li>Collaborate with <b>global teams  </b>during operational hours </li> </ul><p>Additional Responsibilities </p><ul><li>Create and maintain <b>runbooks and support documentation </b> </li><li>Support <b>knowledge transfer activities </b> from vendors or internal teams </li><li>Contribute to <b>automation and development tasks </b> (Python / Java scripting) </li><li>Assist in <b>testing and stabilization phases </b> of new product releases </li> </ul><p>  Profile Requirements </p><p><br></p><p>Mandatory </p><ul><li><b>3+ years </b> in Application Support / Production Support / Data Support roles </li><li>Strong <b>SQL skills </b> (Snowflake preferred) </li><li>Experience with <b>Python or Java </b> (scripting, automation, or support tooling) </li><li>Solid understanding of <b>incident management (ITIL processes) </b> </li><li>Hands-on experience with: </li><li><b>Unix/Linux environments </b> (CLI, file/process management) </li><li><b>Log analysis & troubleshooting </b> </li><li>Good communication skills and <b>fluent English </b> </li> </ul><p><br></p><p>Nice to have </p><ul><li>Exposure to <b>ETL pipelines / data integration workflows </b> </li><li>Experience with <b>AWS cloud services </b> </li><li>Background in banking or financial sector or <b>financial data / market data environments </b> </li><li>Familiarity with: </li><li><b>Alloy </b> </li><li><b>VLF-based query languages / Slang </b> </li><li>Experience in <b>high-availability environments </b> </li> </ul><p><br></p><p><b>What We Offer? </b> </p><ul><li>A modern, dynamic, and future-oriented environment within a top global institution </li><li>Flexible working arrangements – fully remote or hybrid options </li><li>Continuous learning and certification opportunities </li><li>Competitive salary and benefits package </li><li>Long-term career prospects with international exposure </li><li>Inclusive, multicultural team with regular knowledge-sharing and team events </li> </ul>",
+    "company": "Amaris Consulting",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4452406__1953_6b6c2f59feb531c070deeb33dd8c6aa3?utm_source=1953&utm_medium=feed&keyword=Application-Support-Engineer&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Senior Data Engineer",
+    "description": "<p><b>Senior Data Engineer (Oracle / ODI) – Data Warehouse & ETL Specialist </b> </p><p><b>About the Role </b> </p><p>We are looking for a <b>Senior Data Engineer with strong expertise in Oracle and ODI (Oracle Data Integrator) </b> to join our team and support enterprise-grade data initiatives. </p><p>This role is ideal for professionals who thrive in <b>complex data environments </b>, working with large-scale Data Warehouses and mission-critical systems — especially within financial services or similar industries. </p><p>You will be responsible for designing, developing, and optimizing <b>ETL/ELT pipelines </b>, ensuring high standards of <b>data quality, performance, and reliability </b>. </p><p><b>Key Responsibilities </b> </p><ul><li>Design and develop ETL/ELT processes using ODI </li><li>Build and maintain scalable Data Warehouse solutions </li><li>Develop complex SQL and PL/SQL logic (procedures, packages, functions) </li><li>Implement data quality, reconciliation, and auditing frameworks </li><li>Optimize performance (SQL tuning, indexing, partitioning) </li><li>Develop and manage ODI Load Plans and workflows </li><li>Troubleshoot and debug data pipelines and mappings </li><li>Translate business requirements into technical specifications </li><li>Integrate multiple data sources (databases, files, APIs) </li> </ul><p><b>Required Qualifications </b> </p><ul><li>6+ years of experience in Data Engineering / ETL development </li><li>3+ years of hands-on experience with <b>Oracle Data Integrator (ODI) </b> </li><li>Strong expertise in <b>Oracle SQL and PL/SQL </b> </li><li>Proven experience in <b>Data Warehouse implementations (end-to-end) </b> </li><li>Deep understanding of ETL/ELT concepts and data modeling </li><li>Experience with: </li><li>ODI Topology, Designer, Operator </li><li>Knowledge Modules (KM) </li><li>Load Plans and scheduling </li><li>Error handling and data reconciliation </li><li>Strong analytical and problem-solving skills </li><li>Ability to work independently in fast-paced environments </li><li>Fluent or advanced English communication skills </li> </ul><p><b>Nice to Have </b> </p><ul><li>Experience in financial services industry </li><li>Exposure to modern data platforms (Databricks, Snowflake, etc.) </li><li>Cloud experience (AWS, Azure, or GCP) </li> </ul><p><b>What We Offer </b> </p><ul><li>Opportunity to work on <b>high-impact enterprise data projects </b> </li><li>Collaborative and technically strong team environment </li><li>Exposure to both <b>legacy and modern data architectures </b> </li><li>Career growth aligned with evolving data technologies </li> </ul><p><b>Apply Now </b> </p><p>If you are passionate about data engineering and enjoy solving complex data challenges, we’d love to hear from you. Send to  </p>",
+    "company": "Etho IT Solutions",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4452577__1953_a4f18469f58df8b9b51e821c1630d3c5?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
+    "title": "SAP Technical Lead",
+    "description": "<p><b>About SEW </b> </p><p>Smart Energy Water (SEW) is the leading provider of cloud-based digital platforms that empower global energy, water, and gas providers. Our innovative AI-, ML-, and IoT-powered solutions deliver world-class Customer Experience (CX) and Workforce Experience (WX) platforms—helping billions of people Engage, Empower, and Educate themselves to save energy and water. </p><p><br></p><p><b>Quick Highlights: </b> </p><ul><li>420+ global clients across the U.S., Europe, Canada, Australia, the Middle East, and Asia Pacific </li><li>1,550+ employees and growing rapidly </li><li>Millions of users engaged monthly </li><li>150+ industry awards and global recognition from Forbes, Wall Street Journal, and LA Times </li> </ul><p><br></p><p>Searching for your dream job? We are a true global company that values building meaningful relationships and maintaining an enthusiastic work environment while fostering innovation and creativity. At SEW, we believe that everyone contributes to our success, and in return, we provide opportunities for them to learn new skills and build a rewarding professional career. </p><p><br></p><p><b>Summary </b> </p><p>We are seeking a Senior SAP Technical Leader with deep expertise across SAP’s core and cloud platforms to design and deliver scalable, future-ready solutions for utility enterprises. </p><p><br></p><p><b>Key Responsibilities </b> </p><ul><li>Lead the technical design and implementation of SAP solutions across S/4HANA, SAP BTP, SAP Service Cloud V2, and SAP IS-U </li><li>Architect clean core, upgrade-safe extensibility using ABAP, OData, RAP, and SAP-recommended extension frameworks </li><li>Define and execute integration strategies across SAP and non-SAP systems (APIs, events, middleware) </li><li>Design scalable, high-performance architectures that support enterprise and utility-specific requirements </li><li>Serve as the technical point of contact for complex initiatives, guiding development teams and solution partners </li><li>Ensure solutions align with SAP best practices, security standards, and long-term platform roadmaps </li><li>Optimize performance, reliability, and maintainability across the SAP landscape </li><li>Collaborate with functional leads, architects, and business stakeholders to translate requirements into technical solutions </li> </ul><p><br></p><p><b>Required Qualifications </b> </p><ul><li>Extensive hands-on experience with SAP ABAP </li><li>Strong expertise in OData services, REST APIs, and SAP integration patterns </li><li>Proven experience implementing clean core–compliant extensibility </li><li>Deep knowledge of SAP IS-U in utility enterprise environments </li><li>Experience with SAP Service Cloud V2 and SAP CX integrations </li><li>Solid understanding of SAP BTP, including extension, integration, and API management services </li><li>Strong background in system integration, performance tuning, and scalability </li><li>Ability to lead technical discussions and influence architectural decisions </li><li>Utility industry experience </li><li>Fluency in Portuguese and English is mandatory </li><li>Fluency in Spanish is highly required </li> </ul><p><br></p><p>\\\"SEW is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.\\\" </p>",
+    "company": "Smart Energy Water",
+    "city": "lauro de freitas",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4452933__1953?utm_source=1953&utm_medium=feed&keyword=SAP-Technical-Lead&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "title": "Ruby on Rails Developer",
+    "description": "<p><b>Senior Software Engineer I, L3 Messaging Team (Remote) </b> </p><p>We're recruiting a Senior Software Engineer I to own the technical direction of a mission-critical messaging platform serving hundreds of healthcare organizations across the United States. </p><p><br></p><p><b>THE ROLE </b> </p><p>Our client is a fast-growing, mission-driven organization transforming patient engagement at scale. They've built the leading platform powering communications for underserved populations, with proven impact reaching millions. Now they're looking for a seasoned backend engineer to lead their Messaging Team technical direction and mentor the next generation of engineering talent. </p><p><br></p><p>You'll own complex features end-to-end, drive architectural decisions that shape how millions of patient communications are delivered, and share team lead responsibilities with your peers. This is a highly visible, technically autonomous role with direct impact on health equity outcomes. </p><p><br></p><p><b>WHO WE'RE LOOKING FOR </b> </p><ul><li>5+ years hands-on backend engineering with Ruby on Rails at scale </li><li>Deep experience building, maintaining, and scaling APIs and distributed systems </li><li>Advanced SQL skills and comfort working with large, complex datasets </li><li>Proven ability to independently own complex projects end-to-end and mentor junior engineers </li><li>Data-driven mindset you rely on evidence, not intuition </li><li>Excellent communicator (especially in fully remote environments) </li><li>Passionate about mission-driven work and advancing health equity </li> </ul><p><br></p><p><b>BONUS POINTS </b> </p><ul><li>Experience with Twilio, RCS, or MMS messaging platforms </li><li>Familiarity with healthcare compliance (TCPA, consent workflows, carrier regulations) </li><li>Tech stack: React, PostgreSQL, Google Cloud, Sidekiq </li><li>Event-driven architecture or high-throughput message delivery pipelines </li> </ul><p><br></p><p><b>WHAT YOU'LL DO </b> </p><ul><li>Own and drive the technical direction of key messaging platform features </li><li>Design and build backend messaging systems (delivery pipelines, consent management, scheduling orchestration, API integrations) </li><li>Mentor L2 engineers, lead technical design discussions, and set engineering standards </li><li>Contribute to architectural decisions that shape messaging infrastructure at scale </li><li>Participate in on-call rotations (PagerDuty) and help improve team processes </li><li>Work cross-functionally with Product, Customer Success, and Data teams </li> </ul><p><br></p><p><b>YOUR IMPACT </b> </p><ul><li>Month 1: Master the platform architecture and contribute to technical design discussions </li><li>Month 3: Independently deliver complex features with meaningful impact on patient outcomes </li><li>Month 6: Be recognized as a technical leader driving strategic initiatives across the engineering department </li> </ul>",
+    "company": "Signify Technology",
+    "city": "salvador",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4453502__1953?utm_source=1953&utm_medium=feed&keyword=Ruby-on-Rails&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "title": "Consultor de Investimentos WS - Parceiros XP | Remoto",
+    "description": "<p>Essa oportunidade é para consultor de investimento nas consultorias Wealth Service parceiras da rede XP, que tem a missão de ajudar o brasileiro a investir melhor. São times apaixonados por relacionamento com cliente, aprofundamento técnico sobre alocação de recursos e prospecção de novos negócios. </p><p><br></p><p><b>Principais Responsabilidades </b> </p><ul><li>Prospecção de novos clientes; </li><li>Atuação na consultoria de investimentos, sendo responsável por orientar o cliente final na gestão de patrimônio; </li><li>Elaboração de portfólio de investimentos em linha com o perfil e objetivo dos clientes; </li><li>Análise de alocações externas e elaboração de estudos comparativos exclusivos, identificando oportunidades e apresentando de forma objetiva; </li><li>Acompanhamento de tendências de mercado, se mantendo sempre informado sobre atualidades do cenário econômico e acontecimentos relevantes. </li> </ul><p><br></p><p><b>Informações Importantes </b> </p><ul><li>Trabalho remoto em diversas praças do país </li> </ul><p><br></p><p><b>Pré-Requisito </b> </p><ul><li>Perfil comercial e fortes habilidades de comunicação; </li><li>Alto nível de intensidade e disciplina; </li><li>Conhecimento sobre cenário econômico atual; </li><li>Experiência prévia em instituições financeiras; </li><li>Certificação CEA, CPF, CFA e/ou CGA (aceitável com prova agendada) </li> </ul><p><br></p><p><b>Você pode ter destaque se: </b> </p><ul><li>Possuir carteira de clientes para prospecção; </li><li>Ter base de clientes já estabelecida é um grande diferencial; </li><li>Conhecimentos sobre produtos financeiros; </li><li>Noções básicas de macroeconomia e atualidades. </li> </ul>",
+    "company": "XP Inc.",
+    "city": "feira de santana",
+    "state": "estado da bahia",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4453544__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-de-Investimentos&location=feira-de-santana&geoID=3145",
+    "tipo": ""
+  },
+  {
     "title": "Analista de Negócios – Experiência do Cliente & Inteligência de Negócios",
     "description": "<p>O <b>Analista de Negócios  </b>é responsável pelo desenvolvimento de <b>dashboards Power BI de nível empresarial e análises Salesforce </b> que impulsionam a excelência operacional, o crescimento da receita, a rentabilidade dos serviços e a tomada de decisões executivas. Essa função atua como o motor de dados e insights para as áreas de Serviço de Campo, Suporte Técnico, Atendimento ao Cliente, Treinamento e Gerenciamento de Projetos. </p><p><b>CONHECIMENTO </b> </p><ul><li><b>Administração e Gestão  </b>— Conhecimento dos princípios de negócios e gestão envolvidos no planejamento estratégico, alocação de recursos, modelagem de recursos humanos, técnicas de liderança, métodos de produção e coordenação de pessoas e recursos. </li><li><b>Economia e Contabilidade  </b>— Conhecimento dos princípios e práticas econômicas e contábeis, dos mercados financeiros, do sistema bancário e da análise e divulgação de dados financeiros. </li><li><b>Lígua Inglesa </b> - Para está vaga é necessario inglês (avançado), pois haverá interação com todas as empresas do grupo. </li> </ul>",
     "company": "Luminator Technology Group",
@@ -32,7 +86,7 @@
     "company": "Luminator Technology Group",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4460370__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4460370__1953_efb6681b6853b466e049c5546c2141f6?utm_source=1953&utm_medium=feed&keyword=Analista-de-Neg%C3%B3cios&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -140,7 +194,7 @@
     "company": "Framework Digital",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4462752__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4462752__1953_1ab577633814f0d9e8866839978463d8?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -212,7 +266,7 @@
     "company": "Velozient",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4464656__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4464656__1953_520d4e6e4341875b856b514cf8ec3062?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -221,7 +275,7 @@
     "company": "GFT Technologies Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4464943__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4464943__1953_c6d2fbcb756f8074917fba0018178cb9?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -302,7 +356,7 @@
     "company": "BRQ Digital Solutions",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4466997__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Salesforce&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4466997__1953_8400f998b10ab7e089389f92aa9f6ea1?utm_source=1953&utm_medium=feed&keyword=Consultor-Salesforce&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -419,7 +473,7 @@
     "company": "Bradesco",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4473597__1953?utm_source=1953&utm_medium=feed&keyword=Gerente-de-relacionamento&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4473597__1953_4cb44254a61f65a17fdd3e426a6d8200?utm_source=1953&utm_medium=feed&keyword=Gerente-de-relacionamento&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -428,7 +482,7 @@
     "company": "G4F",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4473966__1953?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-EM-CLOUD&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4473966__1953_5956bb6dd9a55ab46950a4a97c808fe5?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-EM-CLOUD&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -482,7 +536,7 @@
     "company": "Sankhya",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4475282__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-FullStack-PL&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4475282__1953_527ecf3cd012ec7194e5cb8f74f2fef3?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-FullStack-PL&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -491,7 +545,7 @@
     "company": "Framework Digital",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4475350__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4475350__1953_001b9f230bb7aa94894f23f2b563ed41?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -545,7 +599,7 @@
     "company": "BRQ Digital Solutions",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4476708__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-C%2B%2B&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4476708__1953_b931eaf9d430c6fb622905e95c71541a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-C%2B%2B&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -662,7 +716,7 @@
     "company": "GFT Technologies Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482199__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482199__1953_faa113fac0b88f7aca2461df7573c90d?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -671,7 +725,7 @@
     "company": "Dexian",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482529__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4482529__1953_29a2a81ec0b6e00c857e2fa96a3e3f31?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -743,7 +797,7 @@
     "company": "Softtek",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4484549__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-S%C3%AAnior-PHP&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4484549__1953_2f07ea27c4a1b557cdab4f15b40dc44b?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-S%C3%AAnior-PHP&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -806,7 +860,7 @@
     "company": "Velozient",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4485894__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4485894__1953_dcf1471ef917af5c50d63de588755fe6?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -905,7 +959,7 @@
     "company": "GFT Technologies Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4487862__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4487862__1953_c61f37daf706ac35a06709cd052c9db9?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1058,7 +1112,7 @@
     "company": "HCLTech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493067__1953?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493067__1953_523f1fc53bd638215bdf04dcf72abf58?utm_source=1953&utm_medium=feed&keyword=Business-Analyst&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1067,7 +1121,7 @@
     "company": "Tata Consultancy Services",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493150__1953?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-FIORI&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493150__1953_c7d4f2aabce3d9c34ed86cebe7edcb6a?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-FIORI&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1076,7 +1130,7 @@
     "company": "Dexian",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493417__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4493417__1953_0450ca2b8c06eace0b74e767ee7d5aa6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-full-stack&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1112,7 +1166,7 @@
     "company": "FOURSYS",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4494700__1953?utm_source=1953&utm_medium=feed&keyword=TEAM-PRODUCT-Flutter&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4494700__1953_a807834b3b285983131eead868340bfc?utm_source=1953&utm_medium=feed&keyword=TEAM-PRODUCT-Flutter&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1157,7 +1211,7 @@
     "company": "Compass UOL",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4496672__1953?utm_source=1953&utm_medium=feed&keyword=AWS-Azure&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4496672__1953_3635a7ff219ce10efb58d9f4fd84a1a5?utm_source=1953&utm_medium=feed&keyword=AWS-Azure&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1166,7 +1220,7 @@
     "company": "Bizneo HR",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4496790__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4496790__1953_032b64f634812f9e756f2f145923c01a?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1193,7 +1247,7 @@
     "company": "Stefanini Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4498961__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4498961__1953_f5a3b57df9eb79a4f0212d2073cec706?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1247,7 +1301,7 @@
     "company": "Klooks",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4507336__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Produto&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4507336__1953_79e4d41ac222fae9e13d802b52b8f3eb?utm_source=1953&utm_medium=feed&keyword=Analista-de-Produto&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1256,7 +1310,7 @@
     "company": "Hire Now Company ®",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4507624__1953?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Analyst&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4507624__1953_7e0f2fb6b31db5f9b82fb2fdd2b51295?utm_source=1953&utm_medium=feed&keyword=Customer-Success-Analyst&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1355,7 +1409,7 @@
     "company": "Klooks",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4538790__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Produto&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4538790__1953_08ea71e5a1659d06ae22d59516dcf3e4?utm_source=1953&utm_medium=feed&keyword=Analista-de-Produto&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1418,7 +1472,7 @@
     "company": "CriticalRiver Inc.",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4548726__1953?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4548726__1953_03d81fbdb41216aae63000d7292e8c72?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1427,7 +1481,7 @@
     "company": "CriticalRiver Inc.",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4549659__1953?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4549659__1953_087e218cae404368a6b78d331f526201?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1436,7 +1490,7 @@
     "company": "CriticalRiver Inc.",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4549667__1953?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4549667__1953_09ecb839f099d4ec81d4f0b54dabaa4a?utm_source=1953&utm_medium=feed&keyword=Salesforce-Administrator&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1553,7 +1607,7 @@
     "company": "Encora Inc.",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4597121__1953?utm_source=1953&utm_medium=feed&keyword=NET-React&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4597121__1953_fa4a59a2c86331e265eeb0faeeb6c3a7?utm_source=1953&utm_medium=feed&keyword=NET-React&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1562,7 +1616,7 @@
     "company": "BRQ Digital Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4598976__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-SR&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4598976__1953_c481bf75059ac06803e4839cb0e01572?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-SR&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1616,7 +1670,7 @@
     "company": "CloudSEK",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4613704__1953?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4613704__1953_32face7ce94623b861c6b15cf270315a?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1670,7 +1724,7 @@
     "company": "BRQ Digital Solutions",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4634152__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-SR&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4634152__1953_c4125e958e6eab11e3a49f0c40d07d3e?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-SR&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -1679,7 +1733,7 @@
     "company": "CloudSEK",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4634205__1953?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4634205__1953_b9b101d77194bfe3c49faa250d870e50?utm_source=1953&utm_medium=feed&keyword=Business-Development-Representative&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1778,7 +1832,7 @@
     "company": "TOTVS",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4643477__1953?utm_source=1953&utm_medium=feed&keyword=Governan%C3%A7a-Especialista-em&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4643477__1953_5478b79ee0c9bb77a2e8f364ba0a63e0?utm_source=1953&utm_medium=feed&keyword=Governan%C3%A7a-Especialista-em&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -1841,7 +1895,7 @@
     "company": "SIS Innov & Tech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4666748__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-front-end&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4666748__1953_146e094450185108329ebdf14bbf28b5?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-de-front-end&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1850,7 +1904,7 @@
     "company": "SIS Innov & Tech",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4667939__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Eixir&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4667939__1953_878fdab194532871f6fc01aec28e27c1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Eixir&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -1904,7 +1958,7 @@
     "company": "TerraMagna",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4678078__1953?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4678078__1953_ab850d21a5cf37d9c69b8fb7ab9c541c?utm_source=1953&utm_medium=feed&keyword=Cientista-de-dados&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -1967,7 +2021,7 @@
     "company": "OSF Digital",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4679932__1953?utm_source=1953&utm_medium=feed&keyword=Service-Manager&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4679932__1953_b12cff681729d67bfe40d4a2e0ef55f0?utm_source=1953&utm_medium=feed&keyword=Service-Manager&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2030,7 +2084,7 @@
     "company": "OSF Digital",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4681899__1953?utm_source=1953&utm_medium=feed&keyword=Service-Manager&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4681899__1953_6599affc7de512d7c02a32d145fc0284?utm_source=1953&utm_medium=feed&keyword=Service-Manager&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2084,7 +2138,7 @@
     "company": "TerraMagna",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4683688__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4683688__1953_42332015a321a9eaa0ac20a7549ac792?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2129,7 +2183,7 @@
     "company": "Atos",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4686149__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4686149__1953_ea0993efc8e4c2d1f3209b2e2f705090?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2210,7 +2264,7 @@
     "company": "Velozient",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4689530__1953?utm_source=1953&utm_medium=feed&keyword=Data-Specialist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4689530__1953_e20fb988e1f13bb77258d9b77318244c?utm_source=1953&utm_medium=feed&keyword=Data-Specialist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2219,7 +2273,7 @@
     "company": "Framework Digital",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4689609__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce-Pleno&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4689609__1953_80cf59cc6d50771be5cb1a5e66e38da6?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce-Pleno&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2282,7 +2336,7 @@
     "company": "TurnKey Tech Staffing",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4692906__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Node&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4692906__1953_361c0734bdd70fbbf5b1a525641c9cd7?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Node&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2291,7 +2345,7 @@
     "company": "NeoPerformance",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4692947__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo-Foco&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4692947__1953_6d8b84359326f7096395a3c33e2526f7?utm_source=1953&utm_medium=feed&keyword=Assistente-Administrativo-Foco&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2435,7 +2489,7 @@
     "company": "Ibope",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4698971__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4698971__1953_0c6d9f4cdc89a42d22db65b32432f040?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2588,7 +2642,7 @@
     "company": "Luxoft",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4703761__1953?utm_source=1953&utm_medium=feed&keyword=System-Architect&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4703761__1953_81e0d1ef48e0dcd15d262c1fb35194ee?utm_source=1953&utm_medium=feed&keyword=System-Architect&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2597,7 +2651,7 @@
     "company": "Ibope",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4703850__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4703850__1953_a0175ca620a053cb925c224acd05c4d2?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2678,7 +2732,7 @@
     "company": "GRUPO SBF",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4708291__1953?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4708291__1953_c9da953a66c3fa4ee06a6123f6af36cc?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -2723,7 +2777,7 @@
     "company": "GRUPO SBF",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4710095__1953?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4710095__1953_da2ef6b2d2f764db88d96906dc85b7d8?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2732,7 +2786,7 @@
     "company": "Luxoft",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4711317__1953?utm_source=1953&utm_medium=feed&keyword=System-Architect&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4711317__1953_dee2313f950964c03eb82fa5cd3e7d49?utm_source=1953&utm_medium=feed&keyword=System-Architect&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2804,7 +2858,7 @@
     "company": "SUNSET TIRES CORPORATION LIMITED",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712723__1953?utm_source=1953&utm_medium=feed&keyword=Rubber-Engineers-Tyre&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712723__1953_b100060a32bb3561bcf077821a195348?utm_source=1953&utm_medium=feed&keyword=Rubber-Engineers-Tyre&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -2813,7 +2867,7 @@
     "company": "SUNSET TIRES CORPORATION LIMITED",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712867__1953?utm_source=1953&utm_medium=feed&keyword=Rubber-Engineers-Tyre&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712867__1953_93e27bfd071d7f932d3ff044e4ee51ce?utm_source=1953&utm_medium=feed&keyword=Rubber-Engineers-Tyre&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -2822,7 +2876,7 @@
     "company": "GRUPO SBF",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712873__1953?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4712873__1953_6ecf013b7a2c9a4ff8ebd68e72f6b281?utm_source=1953&utm_medium=feed&keyword=Data-Scientist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2894,7 +2948,7 @@
     "company": "Framework Digital",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4714620__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce-S%C3%AAnior&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4714620__1953_dd263ab5f75f3f75d3c3268dfb28c70b?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce-S%C3%AAnior&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -2957,7 +3011,7 @@
     "company": "Ourbit Exchange",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4736163__1953?utm_source=1953&utm_medium=feed&keyword=LatAm-Business-Development-web3-CEX&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4736163__1953_612529c035ab93f772961564a5a1285a?utm_source=1953&utm_medium=feed&keyword=LatAm-Business-Development-web3-CEX&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3029,7 +3083,7 @@
     "company": "Luxoft",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752227__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752227__1953_3295ebb79b2d4693729e24713049e70e?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3038,7 +3092,7 @@
     "company": "Compass UOL",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752257__1953?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Scientist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752257__1953_d8367c35c94aad527e4d0179f10e084a?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Scientist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3047,7 +3101,7 @@
     "company": "Luxoft",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752289__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4752289__1953_d4635e2943a1deb0760de061f7ead74b?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3128,7 +3182,7 @@
     "company": "HCLTech",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4758911__1953?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Analyst&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4758911__1953_8d5723aeb4331fc185cc15ad41105626?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Analyst&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3209,7 +3263,7 @@
     "company": "ATRA",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4766897__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4766897__1953_97fa8a2ce159ad7ba6e4408201f7ae49?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3254,7 +3308,7 @@
     "company": "NTT DATA Business Solutions",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4770948__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-fiscal&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4770948__1953_cdbd3aa3b3e7488fba49586342824a5d?utm_source=1953&utm_medium=feed&keyword=Consultor-fiscal&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3317,7 +3371,7 @@
     "company": "Bracell Papéis",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4779035__1953?utm_source=1953&utm_medium=feed&keyword=Eletricista-de-manuten%C3%A7%C3%A3o&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4779035__1953_d2db50b9ee7636267c61df9b0217ce15?utm_source=1953&utm_medium=feed&keyword=Eletricista-de-manuten%C3%A7%C3%A3o&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3326,7 +3380,7 @@
     "company": "Framework Digital",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4781320__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-iOS&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4781320__1953_b02a67b2ac33331b447c08ae1566b1d1?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-iOS&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3380,7 +3434,7 @@
     "company": "Grupo Petrópolis",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790435__1953?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790435__1953_32a0934a06bfea4a724c3f46d7470095?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3389,7 +3443,7 @@
     "company": "Grupo Petrópolis",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790463__1953?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790463__1953_492a653768b8a724a1f3724290c330f3?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3398,7 +3452,7 @@
     "company": "Grupo Petrópolis",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790620__1953?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4790620__1953_f8d56f5af59ced75df0aedab20a0300d?utm_source=1953&utm_medium=feed&keyword=ESPECIALISTA-SISTEMAS-TECH&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3407,7 +3461,7 @@
     "company": "Lean Tech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4791712__1953?utm_source=1953&utm_medium=feed&keyword=Site-Reliability-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4791712__1953_ce81e40ab088c9e0580dd4e8b979fd64?utm_source=1953&utm_medium=feed&keyword=Site-Reliability-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3416,7 +3470,7 @@
     "company": "HCLTech",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4791813__1953?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Analyst&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4791813__1953_9abf1974c21e59c8cad6cdc64ab7c178?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Analyst&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3452,7 +3506,7 @@
     "company": "Signify Technology",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4796880__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4796880__1953_defa66b27569726b6761e8f5135000e4?utm_source=1953&utm_medium=feed&keyword=Senior-Software-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3524,7 +3578,7 @@
     "company": "Stefanini Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802632__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java-Angular&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802632__1953_7d3dcf6ab99e24bcfac7d5ed9a7d57f8?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java-Angular&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3533,7 +3587,7 @@
     "company": "Amaris Consulting",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802898__1953?utm_source=1953&utm_medium=feed&keyword=Market-Data-Infrastructure&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802898__1953_00ea420135ef748b878388772f55a1f5?utm_source=1953&utm_medium=feed&keyword=Market-Data-Infrastructure&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3542,7 +3596,7 @@
     "company": "Stefanini Brasil",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802928__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java-Angular&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4802928__1953_f482918a9fdf42d927ec1757a902a21a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Fullstack-Java-Angular&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3551,7 +3605,7 @@
     "company": "FOURSYS",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4803073__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4803073__1953_0bbe3776cc1f702e273c4bd07c2cc590?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3587,7 +3641,7 @@
     "company": "FOURSYS",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4809548__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4809548__1953_00424306d71236bc7055fbdad352cfe3?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3596,7 +3650,7 @@
     "company": "Compass UOL",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4810424__1953?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4810424__1953_78acbcea80d9835f9dd2a23a636d084f?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3659,7 +3713,7 @@
     "company": "Bracell Papéis",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4817392__1953?utm_source=1953&utm_medium=feed&keyword=Eletricista-de-manuten%C3%A7%C3%A3o&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4817392__1953_4e19482d500f25185965c9246e7596b4?utm_source=1953&utm_medium=feed&keyword=Eletricista-de-manuten%C3%A7%C3%A3o&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -3668,7 +3722,7 @@
     "company": "Innodata Inc.",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4821154__1953?utm_source=1953&utm_medium=feed&keyword=Quality-Specialist&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4821154__1953_e608178828f0441a48aea977bae24327?utm_source=1953&utm_medium=feed&keyword=Quality-Specialist&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3740,7 +3794,7 @@
     "company": "Ibope",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4835496__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4835496__1953_0af006a5c8bac50f5d4514dadfc503ad?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3749,7 +3803,7 @@
     "company": "Ibope",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4835504__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4835504__1953_f675835e851578c813167b497424fd4b?utm_source=1953&utm_medium=feed&keyword=Analista-de-P&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3821,7 +3875,7 @@
     "company": "ATRA",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4840731__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4840731__1953_0dd465fa5af35a7c77ebc5872a2a7eb4?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -3830,7 +3884,7 @@
     "company": "ATRA",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4840930__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4840930__1953_548fe928684482bfeb397397edca50ab?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-Dados&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3902,7 +3956,7 @@
     "company": "FOURSYS",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4846742__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4846742__1953_df0b71a06317f85fc108c5487e65274c?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3911,7 +3965,7 @@
     "company": "FOURSYS",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4846775__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4846775__1953_ac778ce164d90b4fc700a8d087103e91?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Cobol-Mainframe&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -3983,7 +4037,7 @@
     "company": "Velozient",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4856078__1953?utm_source=1953&utm_medium=feed&keyword=Jr-Partnerships-Specialist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4856078__1953_095cbbfae3729c89cfef757080de9833?utm_source=1953&utm_medium=feed&keyword=Jr-Partnerships-Specialist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -3992,7 +4046,7 @@
     "company": "Hays",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4856994__1953?utm_source=1953&utm_medium=feed&keyword=Sr-DevOps-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4856994__1953_60ef7cf1a7f3769a4862db50b2debdd9?utm_source=1953&utm_medium=feed&keyword=Sr-DevOps-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4127,7 +4181,7 @@
     "company": "Compass UOL",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4872359__1953?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Scientist&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4872359__1953_0b99e3fbc59c1f77a425dd41f1d6601c?utm_source=1953&utm_medium=feed&keyword=AWS-Data-Scientist&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4136,7 +4190,7 @@
     "company": "MM Management Consultant",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4872665__1953?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4872665__1953_ea32eed594aa308e899c8435cab80626?utm_source=1953&utm_medium=feed&keyword=Software-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -4262,7 +4316,7 @@
     "company": "Dexian",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4884935__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Web&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4884935__1953_e961b99bbd4d182a29becfdcd46fcea0?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Web&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4334,7 +4388,7 @@
     "company": "ALLSTARSIT",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4893008__1953?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4893008__1953_e9889c4ae3fb557cf9e69ef882688bf1?utm_source=1953&utm_medium=feed&keyword=Technical-Support-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4478,7 +4532,7 @@
     "company": "Tata Consultancy Services",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4912822__1953?utm_source=1953&utm_medium=feed&keyword=Mean-Stack-Developer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4912822__1953_b8c0e568305fa679151dd30ac46c4b31?utm_source=1953&utm_medium=feed&keyword=Mean-Stack-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4604,7 +4658,7 @@
     "company": "Radiant Systems Inc",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4929895__1953?utm_source=1953&utm_medium=feed&keyword=Power-BI-Developer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4929895__1953_bae7dff0924d03fdf924964b3f19828d?utm_source=1953&utm_medium=feed&keyword=Power-BI-Developer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4757,7 +4811,7 @@
     "company": "Next Ventures",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4947200__1953?utm_source=1953&utm_medium=feed&keyword=SAP-Basis-Upgrades&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4947200__1953_4b61d4a8f52465611017ccd514cb7972?utm_source=1953&utm_medium=feed&keyword=SAP-Basis-Upgrades&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4856,7 +4910,7 @@
     "company": "Grupo OLX",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4961775__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Machine-Learning&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4961775__1953_9edc83bfc8aa5aa5438a406ba9e60e58?utm_source=1953&utm_medium=feed&keyword=Staff-Machine-Learning&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -4865,7 +4919,7 @@
     "company": "Tata Consultancy Services",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4962964__1953?utm_source=1953&utm_medium=feed&keyword=Mean-Stack-Developer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4962964__1953_5cf66c1d4a1872a7a5b7fc88e2493313?utm_source=1953&utm_medium=feed&keyword=Mean-Stack-Developer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -4991,7 +5045,7 @@
     "company": "The TEFL Academy - Leading EFL Teacher Trainer Provider",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4974470__1953?utm_source=1953&utm_medium=feed&keyword=Director-of-Studies&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4974470__1953_a9e23888f75acd2f80da34c01600ddf0?utm_source=1953&utm_medium=feed&keyword=Director-of-Studies&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5153,7 +5207,7 @@
     "company": "Bizapp",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977526__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977526__1953_80534f233dd4d36ac28a031f03955cfc?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5162,7 +5216,7 @@
     "company": "Bizapp",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977545__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977545__1953_c79e39e15fa5a50617ef993e82cab8a7?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5171,7 +5225,7 @@
     "company": "Empresa Confidencial",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977574__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-em-sistemas&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4977574__1953_06ef1ee2380fd8a618efb50e6b679304?utm_source=1953&utm_medium=feed&keyword=Especialista-em-sistemas&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5297,7 +5351,7 @@
     "company": "HCLTech",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4978737__1953?utm_source=1953&utm_medium=feed&keyword=ABAP-Developer-CPI&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4978737__1953_491e47f0c97ed24536dcaa31035f7e7f?utm_source=1953&utm_medium=feed&keyword=ABAP-Developer-CPI&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5432,7 +5486,7 @@
     "company": "HCLTech",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4982041__1953?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Lead&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4982041__1953_7015d90541ab97a93742c789c8eb4ea9?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Lead&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5441,7 +5495,7 @@
     "company": "HCLTech",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4982049__1953?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Lead&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4982049__1953_71f8066889acbb42d5b3dde06cc7d68f?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Lead&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5540,7 +5594,7 @@
     "company": "Encora Inc.",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983185__1953?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983185__1953_f50aaee83b80fa577e70009d5a45f4bc?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5549,7 +5603,7 @@
     "company": "PrimeIT",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983189__1953?utm_source=1953&utm_medium=feed&keyword=Siebel-Consultant&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983189__1953_4b4e57a40b9b5cb5e304cd05828e4bbd?utm_source=1953&utm_medium=feed&keyword=Siebel-Consultant&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5558,7 +5612,7 @@
     "company": "Encora Inc.",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983268__1953?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983268__1953_2f2143ab9a0560c5639ff730d00041f9?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5567,7 +5621,7 @@
     "company": "Temu",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983283__1953?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4983283__1953_992ebcaedf1ce964c50bf308048b9a06?utm_source=1953&utm_medium=feed&keyword=Business-Development-Manager&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5639,7 +5693,7 @@
     "company": "VILT",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4984167__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4984167__1953_04ec2f15040d4dcc065f47fdc02f0224?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Full-Stack&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5693,7 +5747,7 @@
     "company": "HCLTech",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4984999__1953?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Senior&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4984999__1953_f78626242ee41ead3f98e6872abacafd?utm_source=1953&utm_medium=feed&keyword=SAP-ABAP-Senior&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5702,7 +5756,7 @@
     "company": "Luxoft",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985075__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Principal-Software&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985075__1953_a6a5cb5c00e395e36d1e6a84176bd988?utm_source=1953&utm_medium=feed&keyword=Senior-Principal-Software&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5747,7 +5801,7 @@
     "company": "Grupo Fleury",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985861__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985861__1953_39e7dd4701bb9c3805108cbe19c3d7bf?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5756,7 +5810,7 @@
     "company": "Grupo Fleury",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985903__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985903__1953_281214543b5bcdf994f4a67838d77d92?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5765,7 +5819,7 @@
     "company": "PrimeIT",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985914__1953?utm_source=1953&utm_medium=feed&keyword=Siebel-Consultant&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985914__1953_0409cbba4addde06d9b74c3392712405?utm_source=1953&utm_medium=feed&keyword=Siebel-Consultant&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5774,7 +5828,7 @@
     "company": "Affinity",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985971__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4985971__1953_2a5554194785dcbcf05d6fee41fa12c3?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -5873,7 +5927,7 @@
     "company": "Pride Global",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4987412__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4987412__1953_74e5a497cd1c2c6d32c2a7d1f2d930ac?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -5900,7 +5954,7 @@
     "company": "Decskill",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988373__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988373__1953_f5e683891522e73082c5040e3230700a?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5909,7 +5963,7 @@
     "company": "GFT Technologies",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988382__1953?utm_source=1953&utm_medium=feed&keyword=DevOps-Specialist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988382__1953_ed268eaf014cf5cb393a38d7e617d515?utm_source=1953&utm_medium=feed&keyword=DevOps-Specialist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -5918,7 +5972,7 @@
     "company": "Luxoft",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988426__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Principal-Software&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988426__1953_1b62d9428a24e0f612bacf7f7350417a?utm_source=1953&utm_medium=feed&keyword=Senior-Principal-Software&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5927,7 +5981,7 @@
     "company": "Compass UOL",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988522__1953?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Golang&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4988522__1953_3f858338eb7faf69a7b71dcbfec3de28?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Golang&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5972,7 +6026,7 @@
     "company": "Eightpoint",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4989336__1953?utm_source=1953&utm_medium=feed&keyword=Cloud-Operations-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4989336__1953_d04802074c828f69a97f7d53fde68c62?utm_source=1953&utm_medium=feed&keyword=Cloud-Operations-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -5981,7 +6035,7 @@
     "company": "Dexian",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4989406__1953?utm_source=1953&utm_medium=feed&keyword=SAP-Basis-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4989406__1953_0fc83357e052fe30708ca9b691eba5e9?utm_source=1953&utm_medium=feed&keyword=SAP-Basis-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6044,7 +6098,7 @@
     "company": "Elumini Outdoing IT",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4990153__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4990153__1953_562195fef299d2d69c3d7a8101bf71a8?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6116,7 +6170,7 @@
     "company": "Ledelsea",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4991732__1953?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4991732__1953_69fccb160e9764527e63a1848778caee?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6197,7 +6251,7 @@
     "company": "Innodata Inc.",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4993894__1953?utm_source=1953&utm_medium=feed&keyword=Content-Reviewer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4993894__1953_d4413e8a01fc138316675e359fdd3b50?utm_source=1953&utm_medium=feed&keyword=Content-Reviewer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6278,7 +6332,7 @@
     "company": "Engineering Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4994944__1953?utm_source=1953&utm_medium=feed&keyword=Senior-DevOps-Engineer&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4994944__1953_9e575cfef02a5615d76a2f29981ca95d?utm_source=1953&utm_medium=feed&keyword=Senior-DevOps-Engineer&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6287,7 +6341,7 @@
     "company": "LTM",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4994959__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Collections-Policy&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4994959__1953_9e0e33356cd52b0c8de10584e2dbd060?utm_source=1953&utm_medium=feed&keyword=Senior-Collections-Policy&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6341,7 +6395,7 @@
     "company": "HCLTech",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4996079__1953?utm_source=1953&utm_medium=feed&keyword=ABAP-Developer-CPI&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4996079__1953_a07c2ba8799ddd889e6a106aefa8d181?utm_source=1953&utm_medium=feed&keyword=ABAP-Developer-CPI&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6395,7 +6449,7 @@
     "company": "Decskill",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997205__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997205__1953_338c8392e7778902758f97dc73fa6a89?utm_source=1953&utm_medium=feed&keyword=Senior-Backend-Developer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6458,7 +6512,7 @@
     "company": "Compass UOL",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997976__1953?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Golang&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997976__1953_2fbab1b5fa8b61d340dbe1f421208bc0?utm_source=1953&utm_medium=feed&keyword=Back-End-Developer-Golang&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6467,7 +6521,7 @@
     "company": "HCLTech",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997981__1953?utm_source=1953&utm_medium=feed&keyword=SAP-MM-Lead&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4997981__1953_7356f765ec4c2ca4ce062c37ec51a916?utm_source=1953&utm_medium=feed&keyword=SAP-MM-Lead&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6476,7 +6530,7 @@
     "company": "Grupo Fleury",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4998004__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4998004__1953_2ece67f99ab087b6c1ee1315605836e4?utm_source=1953&utm_medium=feed&keyword=Especialista-de-Infraestrutura&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6512,7 +6566,7 @@
     "company": "Encora Inc.",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4998861__1953?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4998861__1953_23475f518843459b36af7a36b79e4df4?utm_source=1953&utm_medium=feed&keyword=Senior-AirTable-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6593,7 +6647,7 @@
     "company": "SleekFlow",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_4999847__1953?utm_source=1953&utm_medium=feed&keyword=Onboarding-Specialist&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_4999847__1953_8da707183135ba7f26990b602117f05f?utm_source=1953&utm_medium=feed&keyword=Onboarding-Specialist&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6665,7 +6719,7 @@
     "company": "Ledelsea",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5000831__1953?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5000831__1953_ed54a7fa830859b5221907e18f21b35b?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6674,7 +6728,7 @@
     "company": "Ledelsea",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5001017__1953?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5001017__1953_e614b6188e7c274132a6b0642579e290?utm_source=1953&utm_medium=feed&keyword=Cloud-Architect-brazil&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6683,7 +6737,7 @@
     "company": "Bizapp",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5001072__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5001072__1953_ba77e543bfe3d42a411cd124d731d40a?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Pleno-Dynamics&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6737,7 +6791,7 @@
     "company": "SysManager",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5002164__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-ABAP&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5002164__1953_4317f643db4ea0a70190e169cfb9db14?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-ABAP&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -6773,7 +6827,7 @@
     "company": "Engineering Brasil",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5004101__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-Middleware&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5004101__1953_09e7c144a28835e665fa273d21de61c7?utm_source=1953&utm_medium=feed&keyword=Analista-de-Middleware&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6782,7 +6836,7 @@
     "company": "Doerly Works",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5004139__1953?utm_source=1953&utm_medium=feed&keyword=Talent-Manager&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5004139__1953_e6e94648165b69aed4bddbf6a27c0c9f?utm_source=1953&utm_medium=feed&keyword=Talent-Manager&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -6872,7 +6926,7 @@
     "company": "Brooks Law",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005575__1953?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005575__1953_ebf2d6b10db1c1e40c4a20a62f4fc8de?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6881,7 +6935,7 @@
     "company": "Ambush",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005617__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005617__1953_22bcca841ec83eb3799d9d6b57e845c6?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6890,7 +6944,7 @@
     "company": "Confidential",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005689__1953?utm_source=1953&utm_medium=feed&keyword=Engineering-Design-Specialist&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5005689__1953_4abecad6dba77d3f06aa53aa07b86ba3?utm_source=1953&utm_medium=feed&keyword=Engineering-Design-Specialist&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -6953,7 +7007,7 @@
     "company": "BRQ Digital Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5006713__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Kotlin-AWS-S%C3%AAnior&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5006713__1953_69c957445dc494ac698f5f220bc69185?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Kotlin-AWS-S%C3%AAnior&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6989,7 +7043,7 @@
     "company": "Confidential",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5008405__1953?utm_source=1953&utm_medium=feed&keyword=Engineering-Design-Specialist&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5008405__1953_1ba763eab04edfb7c1038297e3221875?utm_source=1953&utm_medium=feed&keyword=Engineering-Design-Specialist&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -6998,7 +7052,7 @@
     "company": "Valuement",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5008445__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-Financeiro&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5008445__1953_e46693bb6a669d71c051c08bbdf79f81?utm_source=1953&utm_medium=feed&keyword=Coordenador-Financeiro&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7070,7 +7124,7 @@
     "company": "Cloud Target",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009748__1953?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Power&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009748__1953_fcf9496849567dca19ff66c0229dbcea?utm_source=1953&utm_medium=feed&keyword=Especialista-em-Power&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7079,7 +7133,7 @@
     "company": "T-Systems do Brasil",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009858__1953?utm_source=1953&utm_medium=feed&keyword=Fullstack-SR-Dev&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009858__1953_525d460ce346a93b422596f47e1fe1a8?utm_source=1953&utm_medium=feed&keyword=Fullstack-SR-Dev&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7088,7 +7142,7 @@
     "company": "T-Systems do Brasil",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009869__1953?utm_source=1953&utm_medium=feed&keyword=Fullstack-SR-Dev&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5009869__1953_3f05401ed6aad5f944b005b024004a71?utm_source=1953&utm_medium=feed&keyword=Fullstack-SR-Dev&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7124,7 +7178,7 @@
     "company": "Brooks Law",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011176__1953?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011176__1953_e41eb9c796bdc9a0cb6e46999c4612ee?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7133,7 +7187,7 @@
     "company": "Brooks Law",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011183__1953?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011183__1953_fe0f21d73893181a45046c6509993009?utm_source=1953&utm_medium=feed&keyword=Immigration-Paralegal-PORTUGUESE&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7142,7 +7196,7 @@
     "company": "KYNISKA",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011288__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5011288__1953_05b83cf2536f270d9e494a01d3dda53d?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7241,7 +7295,7 @@
     "company": "Doerly Works",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5012377__1953?utm_source=1953&utm_medium=feed&keyword=Talent-Manager&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5012377__1953_2f18868f5c2184ae5a43d4169cb7c7bc?utm_source=1953&utm_medium=feed&keyword=Talent-Manager&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7277,7 +7331,7 @@
     "company": "KYNISKA",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5013640__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5013640__1953_5338102f00ec1d4184830f943972bee6?utm_source=1953&utm_medium=feed&keyword=Senior-Account-Executive&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7286,7 +7340,7 @@
     "company": "Web3DXB",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5013659__1953?utm_source=1953&utm_medium=feed&keyword=Web3-Al&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5013659__1953_619913f7124a9ac5709405eaec017e74?utm_source=1953&utm_medium=feed&keyword=Web3-Al&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7430,7 +7484,7 @@
     "company": "Genesis Consulting Partners, LLC",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5018235__1953?utm_source=1953&utm_medium=feed&keyword=Data-AI&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5018235__1953_5458e4fd52901582fb6243237dda10aa?utm_source=1953&utm_medium=feed&keyword=Data-AI&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7484,7 +7538,7 @@
     "company": "Ambush",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019150__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019150__1953_a366cfa687e01630bd8ba76a5fd76763?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -7493,7 +7547,7 @@
     "company": "Ambush",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019159__1953?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019159__1953_7e63bd6329f830df151e8b5e8fb56a95?utm_source=1953&utm_medium=feed&keyword=Staff-Software-Engineer&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7502,7 +7556,7 @@
     "company": "BingX",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019282__1953?utm_source=1953&utm_medium=feed&keyword=Risk-Control-Specialist&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5019282__1953_130a6ef0b05d9c6eb5484f5c3b59ad45?utm_source=1953&utm_medium=feed&keyword=Risk-Control-Specialist&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7556,7 +7610,7 @@
     "company": "Metrobi",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5020037__1953?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5020037__1953_5690c37dd45581fff535a601590c1b3b?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7583,7 +7637,7 @@
     "company": "GFT Technologies",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5021618__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Salesforce&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5021618__1953_2dda63335fe434471b04a4c67d74816f?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Salesforce&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7691,7 +7745,7 @@
     "company": "Sankhya",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023065__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023065__1953_8d3f8e84b6c349f41a030fbeacf131a5?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7700,7 +7754,7 @@
     "company": "Metrobi",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023082__1953?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023082__1953_04bb1ddace95e38d6254dd61c24c492d?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -7709,7 +7763,7 @@
     "company": "Sankhya",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023140__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5023140__1953_1d9321f24c3366ffbdad2a9587c761fa?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7772,7 +7826,7 @@
     "company": "BRQ Digital Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5024394__1953?utm_source=1953&utm_medium=feed&keyword=Analista-de-BI&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5024394__1953_e8ea3f37f1fc3ad59e710d2f4b45c4ab?utm_source=1953&utm_medium=feed&keyword=Analista-de-BI&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -7781,7 +7835,7 @@
     "company": "Valuement",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5024558__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-compras&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5024558__1953_a654d5a4802678486576bc2e402db4b6?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-compras&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7898,7 +7952,7 @@
     "company": "Âncora Consórcios",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5026092__1953?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5026092__1953_65effa26b39b378da22cb76f94957ae9?utm_source=1953&utm_medium=feed&keyword=Vendedor&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -7934,7 +7988,7 @@
     "company": "Dingus & Zazzy",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5027507__1953?utm_source=1953&utm_medium=feed&keyword=Multidisciplinary-Creative&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5027507__1953_58ca78aca72064fb54a4232f04fc45c6?utm_source=1953&utm_medium=feed&keyword=Multidisciplinary-Creative&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8015,7 +8069,7 @@
     "company": "GFT Technologies",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029254__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Salesforce&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029254__1953_a5f072e80b2c22c95fee31ccfb9a1f29?utm_source=1953&utm_medium=feed&keyword=Desenvolvimento-Salesforce&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8060,7 +8114,7 @@
     "company": "Sankhya",
     "city": "lauro de freitas",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029903__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=lauro-de-freitas&geoID=4835",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029903__1953_ca18674473d229953815b43c9fe3e465?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Java-Jr&location=lauro-de-freitas&geoID=4835",
     "tipo": ""
   },
   {
@@ -8069,7 +8123,7 @@
     "company": "Metrobi",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029930__1953?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5029930__1953_ce38e0790bb15bf49a132bf8b043dfab?utm_source=1953&utm_medium=feed&keyword=Product-Owner&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8132,7 +8186,7 @@
     "company": "Runtalent",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5031852__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-RPA&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5031852__1953_013a2000fb9fd278065ec703d46ca909?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-RPA&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8141,7 +8195,7 @@
     "company": "Runtalent",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5032032__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-RPA&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5032032__1953_6ad43b2565dfe39699314b9b8f56dfc3?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-RPA&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8213,7 +8267,7 @@
     "company": "United Hub Digital Solutions",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5033607__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Analytics-Engineer&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5033607__1953_86bfaa0aeb9d83f8b9ba5bfd849b3598?utm_source=1953&utm_medium=feed&keyword=Senior-Analytics-Engineer&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8258,7 +8312,7 @@
     "company": "Arauc",
     "city": "camaçari",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036497__1953?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Desenvolvimento&location=camaçari&geoID=1645",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036497__1953_4f3d669dea2db74316958b575b5a2062?utm_source=1953&utm_medium=feed&keyword=Coordenador-de-Desenvolvimento&location=camaçari&geoID=1645",
     "tipo": ""
   },
   {
@@ -8267,7 +8321,7 @@
     "company": "On Tap Digital",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036548__1953?utm_source=1953&utm_medium=feed&keyword=Virtual-Assistant&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036548__1953_1e4c49459875a198d0953e1d1593d6a3?utm_source=1953&utm_medium=feed&keyword=Virtual-Assistant&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8276,7 +8330,7 @@
     "company": "DeepLLMData",
     "city": "feira de santana",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036636__1953?utm_source=1953&utm_medium=feed&keyword=Medical-Transcription-Evaluators&location=feira-de-santana&geoID=3145",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036636__1953_aea83bd2fbb8b5b9768ceb2be165ffb2?utm_source=1953&utm_medium=feed&keyword=Medical-Transcription-Evaluators&location=feira-de-santana&geoID=3145",
     "tipo": ""
   },
   {
@@ -8285,7 +8339,7 @@
     "company": "DeepLLMData",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036660__1953?utm_source=1953&utm_medium=feed&keyword=Medical-Transcription-Evaluators&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5036660__1953_162c42f14c7ecbda521fd4065a31e5ef?utm_source=1953&utm_medium=feed&keyword=Medical-Transcription-Evaluators&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8393,7 +8447,7 @@
     "company": "Cogna Educação",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5040632__1953?utm_source=1953&utm_medium=feed&keyword=Editor-de-Matem%C3%A1tica&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5040632__1953_2e8dfb5c6805c7cb1a0616d9b8a8dc75?utm_source=1953&utm_medium=feed&keyword=Editor-de-Matem%C3%A1tica&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8456,7 +8510,7 @@
     "company": "Russell Bedford Brasil",
     "city": "salvador",
     "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5041397__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Fiscal&location=salvador&geoID=7530",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_5041397__1953_f8006e0f50430eef5ac3e1e3d8e9d8c5?utm_source=1953&utm_medium=feed&keyword=Analista-Fiscal&location=salvador&geoID=7530",
     "tipo": ""
   },
   {
@@ -8943,60 +8997,6 @@
     "city": "camaçari",
     "state": "estado da bahia",
     "url": "https://br.whatjobs.com/coopob__cpl___4913_5061190__1953?utm_source=1953&utm_medium=feed&keyword=Consultor-Basis&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Strategic Partnership & Alliance",
-    "description": "<p><b>About RateGain </b> </p><p>RateGain Travel Technologies Limited is a global provider of AI-powered SaaS solutions for travel and hospitality that works with 3,200+ customers and 700+ partners in 100+ countries helping them accelerate revenue generation through acquisition, retention, and wallet share expansion. RateGain today is one of the world’s largest processors of electronic transactions, price points, and travel intent data helping revenue management, distribution and marketing teams across hotels, airlines, meta-search companies, package providers, car rentals, travel management companies, cruises and ferries drive better outcomes for their business.  </p><p>Founded in 2004 and headquartered in India, today RateGain works with 26 of the Top 30 Hotel Chains, 25 of the Top 30 Online Travel Agents, 4 of the Top 5 Airlines, and all the top car rentals, including 16 Global Fortune 500 companies in unlocking new revenue every day. </p><p><br></p><p><b>Exploring the role  </b> </p><p>RateGain is privileged to partner with hotels of every size and type around the world to achieve their commercial objectives – from independent, luxury, lifestyle, and boutique hotels, to the world’s largest chains. Chains - and multi-site operators - have unique business requirements, additional complexity, and often use more diverse technology solutions. As a partner of choice for global and regional chains, RateGain is looking to further serve this important segment of the hospitality industry and seeks an experienced Director focused on European markets, to further scale this essential unit of our business. </p><p>The ideal candidate will understand how Latam hotel chains function and operate, and will be familiar with the technology solutions adopted by these chains to achieve their commercial objectives. The role requires a trusted advisor, able to assist chains to manage through the complexities of the travel technology eco system to guide them to the right decisions in the areas of distribution, business intelligence, marketing technologies, and beyond.  </p><p>This is an individual contributor role and, as such, the candidate is expected to be a self-started and self-driven, ready to innovate to find new values for our hotel chain clients whilst keeping the company goals and the bigger picture firmly in mind. This position can be based anywhere in Latam and needs to have the ability to travel within the Latam without limitations.  </p><p><br></p><p><b>How your day will look like/Job responsibility </b> </p><ul><li>Build and manage strategic alliances with regional and local partners (e.g. RMS, PMS, booking engines, OTAs) </li><li>Define and execute a partnership roadmap aligned with RateGain’s GTM strategy in LATAM </li><li>Identify co-marketing, co-selling, and integration opportunities with key players in the hospitality and travel ecosystem </li><li>Collaborate with internal teams (Sales, Marketing, Product, Legal) to structure and execute partnership agreements </li><li>Represent RateGain in industry events and partnership meetings to promote our brand and solutions </li><li>Monitor partner performance, engagement, and contribution to pipeline and revenue </li><li>Provide regular reporting and insights on partnership outcomes and market trends </li> </ul><p><br></p><p><b>Education & Work Experience </b> </p><ul><li>Bachelor’s degree in business, Marketing, or a related field </li><li>5+ years of experience in business development or strategic partnerships </li> </ul><p><br></p><p><b>Knowledge: </b> </p><ul><li>In-depth understanding of the LATAM hospitality and travel technology ecosystem </li><li>Knowledge of SaaS business models and partnership structures </li><li>Awareness of regional trends, customer behavior, and competitive landscape in the travel and hospitality sectors </li> </ul><p><br></p><p><b>Skills: </b> </p><ul><li>Strong negotiation and deal-closing capabilities </li><li>Excellent relationship management skills with ability to engage partners at all levels </li><li>Advanced verbal and written communication skills in <b>Spanish, Portuguese, and English </b> </li><li>Ability to identify, pitch, and convert strategic partnership opportunities </li><li>Proficiency in using CRM and sales enablement tools </li><li>Skilled in cross-functional collaboration with internal teams (Sales, Marketing, Legal, Product, etc.) </li> </ul><p><br></p><p><b>Attitude: </b> </p><ul><li>Proactive and results-oriented, with a strong drive to exceed targets </li><li>Entrepreneurial mindset with a passion for growth and innovation </li><li>Culturally sensitive and collaborative, with the ability to work effectively in a global, remote team </li><li>High level of integrity, professionalism, and ownership </li><li>Resilient and adaptable in a fast-paced and evolving environment </li> </ul> <p><b>Equal Opportunity Employer </b> </p><p>We are proud to be an equal opportunity employer and are committed to providing a diverse and inclusive workplace. We welcome and encourage applications from all qualified individuals, regardless of race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. </p>",
-    "company": "RateGain",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5061614__1953?utm_source=1953&utm_medium=feed&keyword=Strategic-Partnership&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Desenvolvedor(a) Salesforce Marketing Cloud Sênior",
-    "description": "<p>Somos a Framework! Evoluímos grandes marcas em todo o mundo com transformação digital e crescemos continuamente através de agilidade, design e tecnologia. </p><p><br></p> <p>Fazer parte do nosso time é saber que a sua jornada será de desafios reais, de crescimento contínuo e de contato diário com referências em tecnologia. Vem com a gente! </p><p><br></p> <p>*Todas as nossas vagas são abertas para PCDs! </p><p><br></p><p><br></p><p>Benefícios? É claro que temos! </p><p><br></p><p>  Vale alimentação e refeição no cartão Sólides Benefícios com mais de R$ 1.200,00 mensais </p><p>  Auxílio home office no valor de R$ 150,00 mensais </p>",
-    "company": "Framework Digital",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5062286__1953?utm_source=1953&utm_medium=feed&keyword=Desenvolvedor-Salesforce-Marketing&location=camaçari&geoID=1645",
-    "tipo": ""
-  },
-  {
-    "title": "Operador de Plataforma - Remoto",
-    "description": "<p><b>Operador de Plataforma </b> </p><p><br></p><p><b>Quem Somos </b> </p><p>Somos uma plataforma de tecnologia em plena expansão. Detalhes sobre nosso segmento de atuação e informações institucionais específicas serão compartilhados exclusivamente com os candidatos selecionados para a primeira fase de entrevistas. </p><p><br></p><p><b>O que oferecemos </b> </p><ul><li>Salário fixo PJ a combinar </li><li>Trabalho 100% remoto </li><li>Ambiente e clima de trabalho agradável e colaborativo </li><li>Grandes oportunidades de crescimento </li> </ul><p><br></p><p><b>Título da Posição: Operador de Plataforma (iGaming) </b> </p><p><br></p><p><b>Objetivo </b>  </p><p>Atuar na linha de frente da operação diária, sendo o responsável direto pelo monitoramento em tempo real, integridade dos mercados e coordenação ágil de respostas a incidentes para garantir uma experiência de jogo ininterrupta. </p><p><br></p><p><b>Responsabilidades </b> </p><ul><li>Monitorar a plataforma em tempo real, identificando anomalias em mercados, odds e comportamentos suspeitos. </li><li>Analisar relatórios transacionais, de gameplay e performance em sistemas de back-office (diários, semanais e mensais). </li><li>Executar procedimentos de contingência em falhas de feeds ou gateways de pagamento, realizando a escalada técnica necessária. </li><li>Garantir o compliance (KYC, AML e Jogo Responsável) através de ferramentas de autoexclusão e limites. </li><li>Atuar como interface estratégica entre as equipes de Tech, Produto, Marketing e Financeiro. </li> </ul><p><br></p><p><b>Requisitos </b> </p><p><b>Obrigatórios </b> </p><ul><li>Experiência prévia em operações de plataformas de apostas (iGaming) ou ambientes de alto volume. </li><li>Domínio de mercados esportivos e estrutura de apostas (Pré-jogo e Ao vivo). </li><li>Disponibilidade total para escala 24/7 (incluindo noites, finais de semana e feriados). </li><li>Excel/Google Sheets intermediário para análises operacionais. </li><li>Possuir todos os equipamentos necessários (computador, internet estável, etc.) para atuação 100% remota. </li> </ul><p><br></p><p><b>Desejáveis </b> </p><ul><li>Experiência com plataformas B2B (Digitain, Betconstruct, Altenar, etc.). </li><li>Conhecimento em processos de pagamento (PIX) e regulamentação brasileira (Lei 14.790/2023). </li><li>Familiaridade com Jira e Inglês intermediário. </li> </ul><p><br></p><p><b>Comportamentais </b> </p><ul><li>Perfil analítico e alta capacidade de resolução de problemas sob pressão. </li><li>Excelente comunicação escrita para reporte e escalada de incidentes. </li> </ul><p><br></p><p><b>Etapas do Processo </b> </p><ul><li>Inscrição; </li><li>Triagem; </li><li>Entrevista RH; </li><li>Entrevista Gestor; </li><li>Offer; </li><li>Assinatura de Contrato. </li> </ul><p><br></p><p><b>INFORMAÇÃO IMPORTANTE: SÓ VAMOS CONSIDERAR E AVANÇAR COM PROFISSIONAIS QUE ATENDAM TODOS OS REQUISITOS BÁSICOS DA VAGA. </b> </p><p><br></p><p>Se você tem o perfil dinâmico que buscamos e quer crescer em uma estrutura de alta performance, candidate-se agora ou compartilhe esta vaga com aquele contato que é referência no mercado!  </p>",
-    "company": "Confidential",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5063143__1953?utm_source=1953&utm_medium=feed&keyword=Operador-de-Plataforma&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Representante de atendimento ao cliente corporativo",
-    "description": "<p>Procuramos um(a) BDR para atuar na prospecção ativa via ligações, e-mails e mensagens no WhatsApp, com foco em alimentar o funil de vendas e manter o CRM sempre atualizado. </p><p>Responsabilidades: </p><ul><li>Realizar 100 a 150 tarefas diárias (ligações, envio de e-mails e mensagens no WhatsApp). </li><li>Prospecção de leads, qualificação de contatos e agendamento de reuniões para a equipe de vendas. </li><li>Preencher e atualizar o CRM com informações de contatos, atividades e status do funil. </li><li>Manter comunicação clara, cortês e profissional com os contatos. </li><li>Acompanhar métricas de desempenho e cumprir metas condicionais. </li> </ul><p>Requisitos: </p><ul><li>Experiência prévia como BDR ou função semelhante é inconveniente. </li><li>Excelente comunicação verbal e escrita. </li><li>Familiaridade com CRM e ferramentas de automação/comunicação. </li><li>Organização, disciplina e foco em resultados. </li><li>Disponibilidade para trabalhar conforme necessidade da empresa (horário a combinar). </li> </ul><p>Remuneração: </p><ul><li>Fixo de R$ 1.000,00 (mensal). </li><li>Comissão adversa sobre resultados (detalhes a combinação). Favor esclarecer como é calculado e o regime de trabalho (presencial/ remoto). </li> </ul><p>Benefícios: </p><ul><li>Oportunidade de desenvolvimento na área de vendas. </li><li>Treinamento inicial e acompanhamento de desempenho. </li> </ul><p>Como se™: </p><ul><li>Envie mensagem pelo WhatsApp:   com seu currículo e uma breve apresentação  </li> </ul><p><br></p>",
-    "company": "Consultoria S.K.Y",
-    "city": "feira de santana",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5063766__1953?utm_source=1953&utm_medium=feed&keyword=Representante-de-atendimento&location=feira-de-santana&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Analista Digital Analytics - Junior | Varejo",
-    "description": "<p><b>Descrição da vaga </b> </p><p>A FCamara está em busca de uma Pessoa com perfil de Digital Analytics Junior, para apoiar a construção e evolução de mapeamento de coleta de dados WEB e APP, implementação e manutenção de tags de parceiros de Mídia e CRM no GTM, além ajudar em investigações e análises no dia a dia na interface do GA4 e em dados brutos, em parceria com uma das maiores empresas de solução digital, voltada ao E-commerce que tem atuação em mais de 60 anos de história, com mais de 1.000 lojas físicas, 28 centros de distribuição e mais de 33 milhões de produtos no marketplace. </p><p><b>Responsabilidades e atribuições </b> </p><p><br></p><ul><li>Apoiar a execução e documentação de mapas de coleta (GA4 / Mixpanel) </li><li>Ajudar na implementação e validação de eventos via GTM </li><li>Apoiar análises simples de funil, conversão e comportamento no e-commerce </li><li>Trabalhar junto com times de Marketing, Produto e Growth </li> </ul><p><br></p><p><b>Requisitos e qualificações </b> </p><p><b>Skills Essenciais:  </b> </p><ul><li>Ser proativo, receptivo e esforçado; </li><li>Ser organizado para lidar com entregas; </li><li>Conhecimento básico em GA4 e/ou Mixpanel </li><li>Noções de Google Tag Manager </li><li>Mentalidade analítica e interesse em dados e métricas </li><li>Vontade real de aprender e se desenvolver em Digital Analytics / Dados  </li> </ul> <p><b>Diferenciais (nao obrigatório) </b> </p><ul><li>Noções de <b>SQL </b> </li><li>Interesse ou contato com <b>CRO / testes A/B </b> </li><li>Experiência acadêmica ou projetos pessoais em dados ou analytics </li> </ul>",
-    "company": "FCamara",
-    "city": "salvador",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5064149__1953?utm_source=1953&utm_medium=feed&keyword=Analista-Digital-Analytics&location=salvador&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Account Executive",
-    "description": "<p>A Accountfy está crescendo e estamos buscando um(a) AE que queira crescer junto. </p><p>Se você sabe conduzir conversas complexas com tomadores de decisão, transformar dores em argumentos de valor e fechar negócios com consistência, essa pode ser a sua próxima casa. </p><p><br></p><p><b>O que você vai fazer </b> </p><p>Você será o ponto central entre o cliente e a solução, do primeiro diagnóstico ao contrato assinado. Seu trabalho não é empurrar software: é entender o contexto do cliente e mostrar, com clareza, como a Accountfy muda o jogo para ele. </p><p><br></p><p>Na prática, isso significa: </p><ul><li>Conduzir o ciclo completo de vendas, da prospecção ao fechamento; </li><li>Mapear dores e construir propostas com foco em ROI, produtividade e inteligência financeira; </li><li>Apresentar para C-levels e tomadores de decisão com confiança e profundidade; </li><li>Colaborar com pré-vendas, produto e implantação para garantir uma jornada sem atritos; </li><li>Usar o CRM com disciplina e orientar suas decisões por dados. </li> </ul><p><br></p><p><b>O que esperamos de você </b> </p><ul><li>Experiência comprovada em vendas B2B de soluções complexas ou customizáveis; </li><li>Histórico com clientes Enterprise ou Mid-Market; </li><li>Capacidade de conduzir o funil completo com autonomia; </li><li>Comunicação clara, escuta ativa e habilidade de influenciar sem pressionar. </li> </ul><p><br></p><p><b>Diferenciais </b> </p><ul><li>Experiência com vendas consultivas; </li><li>Familiaridade com o universo financeiro: DRE, FP&A, fechamento contábil (não precisa ser contador, precisa saber conversar com um); </li><li>Experiência com SaaS financeiro, ERP ou soluções de gestão para escritórios contábeis ou departamentos financeiros. </li> </ul>",
-    "company": "Accountfy",
-    "city": "camaçari",
-    "state": "estado da bahia",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_5064344__1953?utm_source=1953&utm_medium=feed&keyword=Account-Executive&location=camaçari&geoID=1645",
     "tipo": ""
   }
 ]
