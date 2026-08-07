@@ -1,5 +1,205 @@
 [
   {
+    "id": "c9fb4d441c2f5cc97c130d51fc5a8ba2",
+    "title": "Full Stack Engineer ID74267",
+    "description": "Confira esta oportunidade para Full Stack Engineer ID74267 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Full Stack Engineer to help modernize a Menu Platform — one of the core systems powering thousands of restaurants worldwide — using a modern TypeScript stack across Node.js, NestJS, and React. You will rebuild backend services, develop shared business logic consumed across web, mobile, and backend applications, and participate in platform migration initiatives affecting pricing, promotions, ordering, and menu management. The role applies AI-assisted development practices in a collaborative Agile environment. <br><br><br><br>WHAT YOU WILL DO <br><br>- Design and develop backend services using Node.js and NestJS; <br><br>- Build web applications using React and contribute to React Native applications when needed; <br><br>- Develop shared business logic across web, mobile, and backend; <br><br>- Modernize legacy services and participate in platform migration initiatives; <br><br>- Design scalable APIs and data models; <br><br>- Write clean, maintainable TypeScript code; <br><br>- Participate in architecture discussions, code reviews, testing, and Agile ceremonies; <br><br>- Use AI-assisted development tools to improve engineering product",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_808117__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "04e9dbbb111ae9c2fbb2017d142f7a42",
+    "title": "Senior Full Stack Engineer ID67841",
+    "description": "Confira esta oportunidade para Senior Full Stack Engineer ID67841 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Middle/Senior Full Stack Engineer to build robust server-side solutions for a SaaS platform operating at scale, working across Java, React, SQL, Redis, and Elasticsearch. You will contribute to architecture decisions, design reusable client integration systems following secure cloud best practices, and participate in code reviews and CI/CD processes as a trusted technical resource for the team. The role offers significant ownership from day one in a product built from the ground up. <br><br><br><br>WHAT YOU WILL DO <br><br>- Build a cleanly designed, reusable client integration system adhering to secure cloud software best practices from start to finish; <br><br>- Collaborate with design and product teams to understand requirements, create estimates, plan sprints, and meet delivery timelines; <br><br>- Plan and accurately estimate construction and delivery timelines; <br><br>- Contribute to technical documentation and automated build and deployment processes designed to increase engineer efficiency; <br><br>- Review code submitted by other software engineers and submit your own code for review as part of the pull-request deployment process. <br><br><br><br>MUST",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_810151__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Full-Stack&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "d40e9cecf2d9565242569df7d69e7030",
+    "title": "DevOps Engineer ID69155",
+    "description": "Confira esta oportunidade para DevOps Engineer ID69155 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Platform Engineer to provide hands-on engineering support for an internal audit and code-modification platform built on GitLab CI/CD pipelines and LLM-powered agentic workflows. You will execute against an existing backlog, improve system reliability and observability, support telemetry and run management, and enhance the developer experience for reviewing AI-generated merge requests using Python. This is a three-month project engagement. <br><br><br><br>WHAT YOU WILL DO <br><br>- Provide hands-on engineering support for an internal audit and code-modification platform; <br><br>- Execute against an existing backlog and deliver tactical platform improvements; <br><br>- Improve system reliability, observability, and operational visibility; <br><br>- Support telemetry, logging, debugging, and run management processes; <br><br>- Enhance the developer experience for reviewing AI-generated merge requests using Python ; <br><br>- Support system maintenance, operational improvements, and GitLab CI/CD pipeline execution; <br><br>- Work with LLM-powered and agentic workflows, ensuring reliability and usability;",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_810155__1953?utm_source=1953&utm_medium=feed&keyword=DevOps-Engineer-ID69155&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "16c12f20c270d315250fa7499688f5b6",
+    "title": "Senior/Lead QA Automation Engineer ID71661",
+    "description": "Confira esta oportunidade para Senior/Lead QA Automation Engineer ID71661 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.               WHY JOIN US         If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!               ABOUT THE ROLE         We are looking for a Senior/Lead QA Automation Engineer to own and evolve automated testing frameworks, introduce AI-assisted QA practices, and define quality engineering strategy across an AI-driven product development environment. You will architect automation across the full testing stack — unit, integration, API, UI, performance, and security — integrate quality gates into CI/CD pipelines, design evaluation frameworks for LLM-based features, and mentor engineers in modern automation and AI-augmented workflows.               WHAT YOU WILL DO         - Own and evolve the organization’s automated testing framework and QA tooling ecosystem;         - Define and standardize AI-assisted testing practices, including test case/data generation, coverage discovery, and responsible AI guardrails;         - Implement intelligent test selection, regression analysis, and measurable quality metrics to optimize release quality and reduce risk;         - Ensure AI-augmented tests remain deterministic, maintainable, production-ready, and supported by traceability, validation, and drift detection;         - Architect and scale automation across unit, integration, API, UI, contract, performance, and security testing;       <d",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_811193__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Lead-QA-Automation&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "c1dd7b8a695f4585cf829aba7ec3ab46",
+    "title": "Senior Application Security Engineer ID70122",
+    "description": "Confira esta oportunidade para Senior Application Security Engineer ID70122 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Application Security Engineer to develop AI-enabled secure code scanning and integrate security tooling directly into SDLC and agentic developer workflows within a large-scale financial services environment. You will deploy and tune SAST, DAST, and SCA tools to eliminate noise and deliver high-confidence alerts, provide code-level remediation guidance to Java and Python engineering teams, and leverage LLMs and AI agents to automate vulnerability triage and secure coding pattern adoption. <br><br><br><br>WHAT YOU WILL DO <br><br>- Develop AI-enabled secure code scanning and deliver “Golden Images” to drive secure-from-the-start adoption; <br><br>- Continuously tune security scanning tools (SAST, DAST, SCA) to eliminate noise and deliver high-confidence alerts; <br><br>- Enable automated development of secure coding patterns and integrate them with traditional and agentic SDLC workflows; <br><br>- Work directly with software engineers in Java/Python to provide code-level remediation guidance. <br><br><br><br>MUST HAVES <br><br>- 5+ years of experience; <br><br>- Deep, hands-on expertise deploying and tuning modern application",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_818298__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Application-Security&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "c892cff2b8b1dc1e8871efa886efd84e",
+    "title": "Senior Help Desk Technician ID70746",
+    "description": "Confira esta oportunidade para Senior Help Desk Technician ID70746 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Site Reliability Engineer to maintain operational resilience and 24/7 stability across a multi-cloud security program spanning Azure, AWS, and GCP. You will engineer automated security guardrails using Terraform, design and optimize enterprise CI/CD pipelines for continuous ASPM ingestion, and act on CSPM telemetry using Wiz to secure cloud workloads under Zero Trust and federated IAM principles. The role requires deep compliance experience in PCI-DSS or SOC2 environments. <br><br><br><br>WHAT YOU WILL DO <br><br>- Scale and maintain the ability to drive operational stability across multi-cloud environments (Azure, AWS, GCP); <br><br>- Engineer unified security policies and configuration baselines using IaC (Terraform) to prevent misconfigurations; <br><br>- Design, maintain, and optimize enterprise CI/CD pipelines to support continuous ASPM ingestion and deployment; <br><br>- Act on continuous monitoring alerts, utilizing Cloud Security Posture Management (CSPM) tools like Wiz to secure workloads. <br><br><br><br>MUST HAVES <br><br>- You must be authorized to work for ANY employer in the US (e.g., Green card holders, TN visa holders, GC EAD, H4 EAD,",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_818300__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Help-Desk&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "5daf919d2220d6bae8ae40d7f6aa770e",
+    "title": "Full Stack Engineer (backend-focused) ID70140",
+    "description": "Confira esta oportunidade para Full Stack Engineer (backend-focused) ID70140 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards.               WHY JOIN US         If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you!               ABOUT THE ROLE         We are looking for a Senior Full Stack Engineer with a strong backend focus to design and build Java and Spring Boot services while maintaining supporting Angular frontend components. You will lead the transition toward domain-driven architecture, architect clean RESTful APIs, and work within cross-functional squads — with approximately 70–80% of your time dedicated to server-side logic, performance, and system design.               WHAT YOU WILL DO         - Spend the majority of your time (approximately 70–80%) designing and implementing robust backend services using Java and Spring Boot ;         - Build and maintain supporting Angular frontend components, ensuring seamless integration with backend services;         - Lead the transition from traditional database-centric designs toward a Domain-Driven Design (DDD) architecture;         - Architect and implement clean, scalable RESTful APIs that follow modern API standards and best practices;         - Work within cross-functional squads to deliver high-quality features and technical solutions;         - Contribute to backend performance, scalability, and system architecture improvements;   <b",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_818315__1953?utm_source=1953&utm_medium=feed&keyword=Full-Stack-Engineer&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "f3eedec62dfacfea689c115d5f03b1c8",
+    "title": "Senior Data Scientist ID70128",
+    "description": "Confira esta oportunidade para Senior Data Scientist ID70128 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Data Scientist to develop predictive models and quantitative analytics that power risk-based vulnerability prioritization within a large-scale enterprise security program. You will structure and analyze massive security telemetry datasets, build machine learning algorithms to eliminate scanning noise and false positives, and establish unified dashboards that drive adoption of data-driven security governance. The role requires extensive data science experience applied to cybersecurity, vulnerability management, or financial risk modeling. <br><br><br><br>WHAT YOU WILL DO <br><br>- Develop predictive models and quantitative analytics to prioritize vulnerabilities based on contextual risk and business impact; <br><br>- Structure and analyze massive outputs of security data from across the enterprise ecosystem to support the ASPM framework; <br><br>- Create machine learning algorithms and statistical models to automatically identify and filter scanning noise and false positives; <br><br>- Establish unified data delivery structures, reporting frameworks, and dashboards to support data-driven security governance; <br><br>- Analyze large-scale security telemetry datasets to generate actionable insight",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_818333__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Scientist&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "ea521a200c3a0a2803d898457dee2da4",
+    "title": "Lead Product Designer ID69623",
+    "description": "Confira esta oportunidade para Lead Product Designer ID69623 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Lead Product Designer to own product design strategy end to end — from discovery and information architecture through final UI and production — for a B2B SaaS platform. You will build and maintain production-ready sites using Framer , integrate AI tools including Claude, Midjourney, and Firefly into your standard design workflow, and collaborate closely with product, engineering, and business stakeholders to align on priorities and drive ambiguity to resolution. <br><br><br><br>WHAT YOU WILL DO <br><br>- Develop a working understanding of the product, its users, business model, competitive landscape, and opportunities, translating insights into a coherent design strategy; <br><br>- Define design principles, information architecture, and UX patterns aligned with product goals; <br><br>- Lead discovery efforts by identifying what needs to be designed, not just how to design it; <br><br>- Collaborate with product, engineering, and business stakeholders to align priorities and communicate design rationale clearly; <br><br>- Own design from concept to delivery, including research, wireframes, prototypes, and final UI; <br><br>- Build and maintain production-ready sites and landing p",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_818385__1953?utm_source=1953&utm_medium=feed&keyword=Lead-Product-Designer&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "b6d6ba65182ff66a79b042f3cd7e16ef",
+    "title": "Senior Product Owner ID70119",
+    "description": "Confira esta oportunidade para Senior Product Owner ID70119 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Product Owner to own the strategic vision and backlog prioritization for internal security tools, developer portals, and platform artifacts within a large-scale enterprise security program. You will define and prioritize user stories across multiple engineering workstreams, drive developer experience improvements across ASPM and AI-SDLC scanning products, and bridge executive security mandates with Agile delivery pods. The role requires 5+ years of technical product ownership in developer platforms, security tooling, or DevSecOps products. <br><br><br><br>WHAT YOU WILL DO <br><br>- Define and prioritize user stories and epics across multiple workstreams to ensure engineering efforts directly reduce systemic risk; <br><br>- Drive the adoption framework for Business Unit Architecture Champions, focusing on policy modernization and content uplift; <br><br>- Ensure built solutions, including ASPM ingestion and AI-enabled SDLC scanning, reduce developer friction and enhance the internal user journey; <br><br>- Bridge the gap between executive security mandates and Agile execution teams. <br><br><br><br>MUST HAVES <br><br>- 5+ years in Technical Product Man",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859465__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Product-Owner&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "29d5b1eccad530f959e4fef64600c2ef",
+    "title": "Senior Data Scientist (MMM) ID71005",
+    "description": "Confira esta oportunidade para Senior Data Scientist (MMM) ID71005 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Data Scientist to lead the implementation of a Marketing Mix Modeling framework into a cross-channel optimization product, building client-specific MMM models using Bayesian frameworks including Meridian and Robin. You will develop scalable, production-ready models using Python, SQL, and AWS infrastructure, design human-in-the-loop feedback systems to improve model accuracy over time, and collaborate with MLOps teams to define the foundational infrastructure for ML deployment. The role requires 5+ years of data science experience with autonomous, end-to-end model ownership. <br><br><br><br>WHAT YOU WILL DO <br><br>- Develop and scale client-specific Marketing Mix Modeling (MMM) models using Meridian or Robin rather than a single monolithic model; <br><br>- Build pragmatic baseline models to handle noisy marketing data and thin data tiers for new clients; <br><br>- Treat ML training as an operations problem by utilizing AWS tools to train and deploy models; <br><br>- Collaborate with internal MLOps teams to define the foundational infrastructure for deploying machine learning models to production. <br><br><br><br>MUST HAVES <br><br>- 5+ years of commer",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859466__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Data-Scientist&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "50f7d9efac22e0ff1478ae9b7f4f8f88",
+    "title": "Senior Business Analyst ID77078",
+    "description": "Confira esta oportunidade para Senior Business Analyst ID77078 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Business Analyst to support Indeed’s strategic migration from a legacy MDM platform to a fresh implementation of Salesforce Data Cloud, working closely with marketing stakeholders and product managers to gather and translate requirements into scalable solutions. You will design and optimize data flows within Salesforce Data Cloud, validate data pipelines using SQL and Snowflake, and bridge technical and business needs across data teams, Salesforce admins, and marketing leadership. The role requires proven hands-on Salesforce Data Cloud experience and strong communication skills across both technical and non-technical audiences. <br><br><br><br>WHAT YOU WILL DO <br><br>- Work directly with marketing and product managers to gather requirements and translate them into Salesforce Data Cloud use cases; <br><br>- Design and optimize data flows and integrations within Salesforce Data Cloud; <br><br>- Support analytics and reporting by ensuring high-quality, reliable data pipelines; <br><br>- Collaborate closely with data teams, Salesforce admins, and business stakeholders to bridge technical and business requirements; <br><br>- Contribute to a fresh start implementation of Salesforce Data Cloud.",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859523__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Business-Analyst&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "545a178de2267b7090fa4e7a2639b55c",
+    "title": "Senior Program Manager (Japanese fluency) ID75064",
+    "description": "Confira esta oportunidade para Senior Program Manager (Japanese fluency) ID75064 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Program Manager with advanced Japanese language skills to support an Application Security team by coordinating code hygiene and operational ownership programs. You will lead team meetings, create project documentation, manage change initiatives, and track and communicate progress, risks, and key results across PMO teams and leadership. The role requires 8+ years of program management experience and strong SQL or IQL analytical ability. <br><br><br><br>MUST HAVES <br><br>- 8+ years of experience in Program Management roles or similar; <br><br>- Strong project management and communication skills; <br><br>- Ability to work with PMO teams across the organization to track, report, and communicate progress, risks, blockers, and key results (KRs); <br><br>- Experience setting up program meetings and communicating effectively with leadership and stakeholders; <br><br>- Experience with IQL or SQL and strong analytical skills; <br><br>- Advanced Japanese skills; <br><br>- Strong ability to work as a self-starter; <br><br>- Ability to proactively and independently research, experiment, and solve problems with rapid iteration cycles to del",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859531__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Program-Manager&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "f85a9ee72862dd5e88cea606f505d026",
+    "title": "Senior Technical Program Manager ID70121",
+    "description": "Confira esta oportunidade para Senior Technical Program Manager ID70121 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17 industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Technical Program Manager to orchestrate global delivery of a large-scale enterprise security program across distributed teams. You will align five workstreams, manage cross-regional dependencies, run Agile ceremonies, and provide executive-level reporting on velocity, budget, and milestones — with experience in vulnerability management lifecycles or cloud security architectures required. The role demands 5 years managing complex, multi-region enterprise IT programs in regulated environments. <br><br><br><br>WHAT YOU WILL DO <br><br>- Orchestrate global delivery across follow-the-sun hubs, aligning execution across multiple workstreams, managing cross-regional dependencies, and ensuring transparent reporting; <br><br>- Global Coordination: Manage project timelines, dependencies, and Agile ceremonies across USA, EU, LatAm, and India pods to ensure seamless 24×7 progression; <br><br>- Workstream Alignment: Track the delivery of discrete milestones, from ASPM enablement to automated evidence attestation; <br><br>- Risk Mitigation: Identify and proactively resolve blockers spanning technical, operational, and resourcing domains; <br><br>- Governance & Reporting: Provide executive-level visibility into",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859536__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Technical-Program&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "87af5168d71a6bfd113d239ce821b899",
+    "title": "Senior Scrum Master ID71660",
+    "description": "Confira esta oportunidade para Senior Scrum Master ID71660 em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nAgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17+ industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. <br><br><br><br>WHY JOIN US <br><br>If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! <br><br><br><br>ABOUT THE ROLE <br><br>We are looking for a Senior Scrum Master to serve as the dedicated Agile facilitator for a global DevSecOps engineering program operating across distributed teams in a follow-the-sun model. You will facilitate Agile ceremonies, resolve cross-regional blockers, and optimize Agile processes for DevSecOps, SRE, and Data Science workflows — requiring fluency in CI/CD, ASPM, and vulnerability management terminology. Advanced Agile certifications are required. <br><br><br><br>WHAT YOU WILL DO <br><br>- Facilitate Agile ceremonies, including planning, stand-ups, and retrospectives, adapting to a follow-the-sun model to minimize meeting fatigue and maximize cross-regional alignment; <br><br>- Identify, mitigate, and escalate delivery blockers, working closely with TPMs and SDMs to ensure engineers are not stalled at shift boundaries; <br><br>- Continuously evolve Agile processes tailored for DevSecOps, SRE, and Data Science workflows; <br><br>- Maintain a collaborative work atmosphere across diverse cultural hubs, ensuring psychological safety and continuous improvement. <br><br><br><br>MUST HAVES <br><br>- 5+ years as a dedicated Scrum Master for highly technical infrastructure or plat",
+    "company": "AgileEngine",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_859537__1953?utm_source=1953&utm_medium=feed&keyword=Senior-Scrum-Master&location=salvador&geoID=7530",
+    "tipo": "full_time"
+  },
+  {
+    "id": "cbecd3eaea9e1ff6dd9ed497c576cb79",
+    "title": "Estágio: Psicologia - Lauro de Freitas - BA",
+    "description": "Confira esta oportunidade para Estágio: Psicologia - Lauro de Freitas - BA em lauro de freitas. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: PSICOLOGIA - 2 VAGA(S) - LAURO DE FREITAS - BA <br>Local da Vaga: Escola | Lauro de Freitas/BA | Empresa Confidencial Carga Horária: 05 horas/dia das 07:00 às 12:00 ou das 13:00 às 18:00 | Segunda à Sexta-feira Bolsa Auxílio: R$ 700,00 <br>Atividades: Auxiliar no acompanhamento de alunos atípicos que apresentem episódios de desregulação emocional e comportamental no ambiente escolar; Oferecer suporte durante crises, promovendo estratégias de acolhimento, contenção emocional e organização do comportamento, sempre sob supervisão do psicólogo responsável; Observar e registrar comportamentos, gatilhos, respostas emocionais e estratégias que favoreçam a autorregulação dos alunos; Colaborar na aplicação de estratégias de regulação emocional previamente definidas pela equipe pedagógica e psicológica; Apoiar os professores e auxiliares em sala de aula, orientando quanto a práticas inclusivas e manejo comportamental adequado; Suporte na adaptação de rotinas, atividades e ambientes para favorecer o bem-estar e a inclusão dos alunos atípicos. <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Psicologia | A partir do 1º Semestre <br>Será um diferencial curso ABA. <br><br>Benefícios <br>Vale Transporte",
+    "company": "UP ESTÁGIO",
+    "city": "lauro de freitas",
+    "state": "lauro de freitas",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_865845__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Psicologia&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "id": "1b6edb96e087d19aa4619a7dbd8f6f5e",
+    "title": "Estágio: Pedagogia - Buraquinho - Lauro de Freitas - BA",
+    "description": "Confira esta oportunidade para Estágio: Pedagogia - Buraquinho - Lauro de Freitas - BA em lauro de freitas. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: PEDAGOGIA - 1 VAGA(S) - BURAQUINHO - LAURO DE FREITAS - BA <br>Local da Vaga: Escola | Buraquinho - Lauro de Freitas/BA | Empresa Confidencial Carga Horária: 06 horas/dia das 12:00 às 18:00 | Segunda à Sexta-feira Bolsa Auxílio: R$ 700,00 Atividades: Monitoria Pedagógica <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Pedagogia | A partir do 1º Semestre <br><br>Benefícios <br>Vale Transporte de 10,40/dia",
+    "company": "UP ESTÁGIO",
+    "city": "lauro de freitas",
+    "state": "lauro de freitas",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_865847__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Pedagogia&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "id": "de5779288b3a7c89889671f92d288536",
+    "title": "Estágio: Nível Médio - Lauro de Freitas - BA",
+    "description": "Confira esta oportunidade para Estágio: Nível Médio - Lauro de Freitas - BA em lauro de freitas. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: NÍVEL MÉDIO - 3 VAGA(S) - LAURO DE FREITAS - BA <br>Local da Vaga: Escola | Lauro de Freitas/BA | Empresa Confidencial <br>Carga Horária: 05 horas/dia das 07:00 às 12:00 ou das 13:00 às 18:00 | Segunda à Sexta-feira Bolsa Auxílio: R$ 500,00 <br>Atividades: Monitoria Pedagógica <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Ensino Médio | A partir do 1º Ano <br><br>Benefícios <br>Vale Transporte",
+    "company": "UP ESTÁGIO",
+    "city": "lauro de freitas",
+    "state": "lauro de freitas",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_865853__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-N%C3%ADvel-M%C3%A9dio&location=lauro-de-freitas&geoID=4835",
+    "tipo": ""
+  },
+  {
+    "id": "451458d5c053296172cea0b076a0ddbe",
+    "title": "Estágio: Pedagogia - Imbuí - BA",
+    "description": "Confira esta oportunidade para Estágio: Pedagogia - Imbuí - BA em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: PEDAGOGIA - 3 VAGA(S) - IMBUÍ - BA <br>Local da Vaga: Escola | Imbuí/BA | Empresa Confidencial Carga Horária: 06 horas/dia das 06:30 às 12:30 | Segunda à Sexta-feira Bolsa Auxílio: R$ 800,00 Atividades: Monitoria pedagógica. <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Pedagogia | A partir do 1º Semestre <br><br>Benefícios <br>Vale Transporte de R$ 5,90/dia",
+    "company": "UP ESTÁGIO",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_865854__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Pedagogia&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
+    "id": "128365bf74ee5cc95b117ff8d9f215c9",
+    "title": "Estágio: Pedagogia - Salvador - BA",
+    "description": "Confira esta oportunidade para Estágio: Pedagogia - Salvador - BA em salvador. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: PEDAGOGIA - 1 VAGA(S) - SALVADOR - BA <br>Local da Vaga: Escola | Salvador/BA | Empresa Confidencial Carga Horária: 06 horas/dia das 08:00 às 14:00 | Segunda à Sexta-feira Bolsa Auxílio: R$ 1.000,00 Atividades: Monitoria pedagógica. <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Pedagogia | A partir do 5º Semestre <br><br>Benefícios <br>Vale Transporte de R$ 5,90/dia",
+    "company": "UP ESTÁGIO",
+    "city": "salvador",
+    "state": "salvador",
+    "url": "https://br.whatjobs.com/coopob__cpl___5288_865855__1953?utm_source=1953&utm_medium=feed&keyword=Est%C3%A1gio-Pedagogia&location=salvador&geoID=7530",
+    "tipo": ""
+  },
+  {
     "id": "a38c12b869afdc8de3c8bd913bc18e9d",
     "title": "Estágio: Psicopedagogia - Lauro de Freitas - BA",
     "description": "Confira esta oportunidade para Estágio: Psicopedagogia - Lauro de Freitas - BA em lauro de freitas. Veja os detalhes da vaga, requisitos e como se candidatar.\n\nESTÁGIO: PSICOPEDAGOGIA - 1 VAGA(S) - LAURO DE FREITAS - BA <br>Local da Vaga: Escola | Lauro de Freitas/BA | Empresa Confidencial Carga Horária: 05 horas/dia das 13:00 às 18:00 | Segunda à Sexta-feira Bolsa Auxílio: R$ 700,00 Atividades: Auxiliar no processo de inclusão de alunos; Acompanhar as intervenções que favoreçam o aprendizado do aluno; Orientar o aluno nas atividades em sala de aula. <br>Se inscreva agora! <br>Muito sucesso pra você! <br><br>Requisitos <br>Candidato Cursando: Psicopedagogia ou Pedagogia | A partir do 1º Semestre <br>Será um diferencial ter vivência com crianças neurodivergentes. <br><br>Benefícios <br>Vale Transporte",
