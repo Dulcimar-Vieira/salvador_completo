@@ -8,6 +8,7 @@ import json
 import os
 import random
 import re
+import unicodedata
 import xml.etree.ElementTree as ET
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -19,6 +20,66 @@ OUTPUT_FOLDER = "json_parts"
 STATE_FILE = "daily_jobs_state.json"
 MAX_JOBS_PER_DAY = 100
 TIMEZONE = ZoneInfo("America/Sao_Paulo")
+
+
+# Extração de remuneração inspirada na validação do repositório rio-de-janeiro.
+MONEY_NUMBER = (
+    r"(?:"
+    r"\d{1,3}(?:\.\d{3})+(?:,\d{2})?"
+    r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
+    r"|\d+(?:,\d{2}|\.\d{2})?"
+    r")"
+)
+SALARY_AMOUNT_RE = re.compile(
+    rf"\b(?:faixa salarial|piso salarial|sal[aá]rios?|remunera[cç][aã]o|proventos)\b"
+    rf"(?:\s+(?:fixo|base|mensal(?:\s+de)?|bruto|inicial|m[ií]nimo garantido|"
+    rf"oferecido|oferecida|oferecidos|oferecidas|de at[eé]|a partir de|entre)){{0,3}}"
+    rf"\s*(?:[:：=–—-]\s*)?"
+    rf"(?:(?:a partir de|de|entre)\s+)?"
+    rf"(?P<amount>(?:R\$\s*)?{MONEY_NUMBER})(?![\d.,])",
+    re.IGNORECASE,
+)
+
+def normalize_salary_text(text):
+    text = unicodedata.normalize("NFKD", text or "")
+    text = "".join(char for char in text if not unicodedata.combining(char))
+    return re.sub(r"\s+", " ", text).strip().lower()
+
+def has_real_salary(salary):
+    value = normalize_salary_text(salary)
+    if not value:
+        return False
+    placeholders = (
+        "a combinar", "nao informado", "nao informada",
+        "nao divulgado", "nao divulgada", "confidencial",
+        "negociavel", "sob consulta", "salario nao informado",
+        "salario a combinar",
+    )
+    if any(marker in value for marker in placeholders):
+        return False
+    if not re.search(r"\d", value):
+        return False
+    if not re.search(r"(?:R\$|[$€£])", value) and re.fullmatch(r"\d+", value):
+        return False
+    return True
+
+def extract_salary(structured_salary, description):
+    """Prioriza <salary>; no fallback aceita somente valor ligado a rótulo salarial."""
+    structured_salary = re.sub(r"\s+", " ", structured_salary or "").strip()
+    if has_real_salary(structured_salary):
+        return structured_salary
+
+    text = re.sub(r"<[^>]+>", " ", description or "")
+    text = re.sub(r"\s+", " ", text).strip()
+    for match in SALARY_AMOUNT_RE.finditer(text):
+        amount = re.sub(r"\s+", " ", match.group("amount")).strip()
+        raw_number = re.sub(r"^R\$\s*", "", amount, flags=re.IGNORECASE).strip()
+        has_currency = amount.upper().startswith("R$")
+        if not has_currency and re.fullmatch(r"\d{1,2}", raw_number):
+            continue
+        return amount
+    return ""
+
 
 CIDADES = {"lauro de freitas", "salvador", "simões filho", "camaçari", "feira de santana"}
 
@@ -86,6 +147,7 @@ def build_job(elem):
     company = elem.findtext("company/name", "").strip() or "Confidencial"
     url = elem.findtext("urlDeeplink", "").strip() or elem.findtext("link", "").strip()
     job_type = elem.findtext("jobType", "").strip()
+    source_salary = elem.findtext("salary", "").strip()
     location_elem = elem.find("locations/location")
     city = location_elem.findtext("city", "").strip() if location_elem is not None else elem.findtext("city", "").strip()
     state = location_elem.findtext("state", "").strip() if location_elem is not None else elem.findtext("state", "").strip()
@@ -105,6 +167,10 @@ def build_job(elem):
     if not job_matches(city, title, description):
         return None
 
+    salary = extract_salary(source_salary, description)
+    if not salary:
+        return None
+
     description = clean_html(description)
     if True:
         description = gerar_intro(title, city) + "\n\n" + description
@@ -114,6 +180,7 @@ def build_job(elem):
         "title": title,
         "description": description,
         "company": company,
+        "salary": salary,
         "city": city,
         "state": state,
         "url": url,
@@ -131,6 +198,8 @@ def main():
     print(f"📅 Data de referência: {today}")
 
     selected = load_state(today)
+    # Não reutilizar registros antigos sem remuneração validada.
+    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", ""))}
 
     print("📥 Baixando feed do WhatJobs...")
     try:
@@ -173,6 +242,8 @@ def main():
         selected[job_key(job)] = job
 
     jobs = list(selected.values())[:MAX_JOBS_PER_DAY]
+    if not jobs:
+        raise SystemExit("ERRO: nenhuma vaga com remuneração válida; os arquivos anteriores serão preservados.")
 
     # Um único JSON por execução: no máximo 100 vagas novas por dia,
     # mantendo as mesmas vagas para atualização a cada 6 horas.
