@@ -18,7 +18,7 @@ import requests
 FEED_URL = "https://feeds.whatjobs.com/sinerj/sinerj_pt_BR.xml.gz"
 OUTPUT_FOLDER = "json_parts"
 STATE_FILE = "daily_jobs_state.json"
-MAX_JOBS_PER_DAY = 100
+MAX_JOBS_PER_DAY = 1000
 TIMEZONE = ZoneInfo("America/Sao_Paulo")
 
 
@@ -29,6 +29,7 @@ MONEY_NUMBER = (
     r"|\d{1,3}(?:,\d{3})+(?:\.\d{2})?"
     r"|\d+(?:,\d{2}|\.\d{2})?"
     r")"
+    r"(?:\s*(?:mil|k)\b)?"
 )
 SALARY_AMOUNT_RE = re.compile(
     rf"\b(?:faixa salarial|piso salarial|sal[aá]rios?|remunera[cç][aã]o|proventos)\b"
@@ -63,6 +64,73 @@ def has_real_salary(salary):
         return False
     return True
 
+MAX_SALARY_BRL = 10000.0
+
+# Reconhece valores monetários em formatos brasileiros e internacionais.
+SALARY_VALUE_RE = re.compile(
+    rf"(?<![\w])(?:R\$\s*|[$€£]\s*)?{MONEY_NUMBER}(?![\d.,])",
+    re.IGNORECASE,
+)
+
+def parse_salary_amount(raw_amount):
+    """Converte um valor salarial para número e reconhece sufixos mil/k."""
+    raw_value = str(raw_amount or "").strip()
+    multiplier = 1000.0 if re.search(r"\s*(?:mil|k)\b", raw_value, re.IGNORECASE) else 1.0
+    value = re.sub(r"\s*(?:mil|k)\b", "", raw_value, flags=re.IGNORECASE)
+    value = re.sub(r"^(?:R\$|[$€£])\s*", "", value, flags=re.IGNORECASE)
+    value = re.sub(r"[^\d.,]", "", value)
+    if not value:
+        return None
+
+    if "." in value and "," in value:
+        if value.rfind(",") > value.rfind("."):
+            value = value.replace(".", "").replace(",", ".")
+        else:
+            value = value.replace(",", "")
+    elif "," in value:
+        left, _, right = value.rpartition(",")
+        if len(right) == 3 and left:
+            value = value.replace(",", "")
+        else:
+            value = left.replace(",", "") + "." + right
+    elif "." in value:
+        parts = value.split(".")
+        if len(parts) > 1 and len(parts[0]) <= 3 and all(len(part) == 3 for part in parts[1:]):
+            value = "".join(parts)
+        else:
+            value = "".join(parts[:-1]) + "." + parts[-1]
+
+    try:
+        return float(value) * multiplier
+    except ValueError:
+        return None
+
+
+def salary_exceeds_limit(salary, description=""):
+    """Retorna True quando algum limite salarial informado passa de R$ 10 mil."""
+    for match in SALARY_VALUE_RE.finditer(salary or ""):
+        amount = parse_salary_amount(match.group(0))
+        if amount is not None and amount > MAX_SALARY_BRL:
+            return True
+
+    text = re.sub(r"<[^>]+>", " ", description or "")
+    text = re.sub(r"\s+", " ", text).strip()
+    range_tail_re = re.compile(
+        rf"\s*(?:-|–|—|\ba\b|\bat[eé]\b)\s*(?:R\$\s*)?({MONEY_NUMBER})(?![\d.,])",
+        re.IGNORECASE,
+    )
+    for match in SALARY_AMOUNT_RE.finditer(text):
+        amount = parse_salary_amount(match.group("amount"))
+        if amount is not None and amount > MAX_SALARY_BRL:
+            return True
+        range_match = range_tail_re.match(text[match.end():match.end() + 100])
+        if range_match:
+            upper_amount = parse_salary_amount(range_match.group(1))
+            if upper_amount is not None and upper_amount > MAX_SALARY_BRL:
+                return True
+    return False
+
+
 def extract_salary(structured_salary, description):
     """Prioriza <salary>; no fallback aceita somente valor ligado a rótulo salarial."""
     structured_salary = re.sub(r"\s+", " ", structured_salary or "").strip()
@@ -81,10 +149,11 @@ def extract_salary(structured_salary, description):
     return ""
 
 
-CIDADES = {"lauro de freitas", "salvador", "simões filho", "camaçari", "feira de santana"}
+CIDADES = {"lauro de freitas", "salvador", "simoes filho", "camacari", "feira de santana"}
 
 def normalize(text):
-    return (text or "").strip().lower()
+    text = unicodedata.normalize("NFKD", (text or "").strip().lower())
+    return "".join(char for char in text if not unicodedata.combining(char))
 
 def clean_html(text):
     text = re.sub(r"<[^>]+>", " ", text or "")
@@ -161,14 +230,12 @@ def build_job(elem):
         return None
 
     today = datetime.now(TIMEZONE).date()
-    if pub_dt.date() != today:
-        return None
 
     if not job_matches(city, title, description):
         return None
 
     salary = extract_salary(source_salary, description)
-    if not salary:
+    if not salary or salary_exceeds_limit(salary, description):
         return None
 
     description = clean_html(description)
@@ -199,7 +266,7 @@ def main():
 
     selected = load_state(today)
     # Não reutilizar registros antigos sem remuneração validada.
-    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", ""))}
+    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", "")) and not salary_exceeds_limit(job.get("salary", ""), job.get("description", ""))}
 
     print("📥 Baixando feed do WhatJobs...")
     try:
