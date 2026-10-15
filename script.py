@@ -232,7 +232,7 @@ def build_job(elem):
     pub_dt = parse_date(pub_raw)
     updated_dt = parse_date(updated_raw)
 
-    if not title or not url or not city or not state or not pub_dt:
+    if not title or not url or not city or not state:
         return None
 
     today = datetime.now(TIMEZONE).date()
@@ -258,7 +258,7 @@ def build_job(elem):
         "state": state,
         "url": url,
         "tipo": job_type,
-        "data_publicacao": pub_dt.date().isoformat(),
+        "data_publicacao": pub_dt.date().isoformat() if pub_dt else datetime.now(TIMEZONE).date().isoformat(),
         "data_atualizacao": updated_dt.date().isoformat() if updated_dt else "",
         "origem": "WhatJobs",
     }
