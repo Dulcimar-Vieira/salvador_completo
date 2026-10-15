@@ -11,6 +11,7 @@ import re
 import unicodedata
 import xml.etree.ElementTree as ET
 from datetime import datetime
+from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 import requests
@@ -179,6 +180,11 @@ def parse_date(value):
     try:
         return datetime.fromisoformat(value.replace("Z", "+00:00"))
     except ValueError:
+        pass
+    # Suporta datas RSS/RFC 822, comuns em feeds XML.
+    try:
+        return parsedate_to_datetime(value)
+    except (TypeError, ValueError, OverflowError):
         return None
 
 def job_key(job):
