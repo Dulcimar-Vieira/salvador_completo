@@ -287,7 +287,7 @@ def main():
 
     candidates = {}
 
-    with gzip.open(io.BytesIO(response.content), "rt", encoding="utf-8") as f:
+    with gzip.open(io.BytesIO(response.content), "rb") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
             if elem.tag != "job":
                 continue
