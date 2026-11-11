@@ -241,8 +241,9 @@ def build_job(elem):
         return None
 
     salary = extract_salary(source_salary, description)
-    if not salary or salary_exceeds_limit(salary, description):
+    if salary_exceeds_limit(salary, description):
         return None
+    salary_value = salary if has_real_salary(salary) else "A combinar"
 
     description = clean_html(description)
     if True:
@@ -253,7 +254,7 @@ def build_job(elem):
         "title": title,
         "description": description,
         "company": company,
-        "salary": salary,
+        "salary": salary_value,
         "city": city,
         "state": state,
         "url": url,
@@ -271,8 +272,8 @@ def main():
     print(f"📅 Data de referência: {today}")
 
     selected = load_state(today)
-    # Não reutilizar registros antigos sem remuneração validada.
-    selected = {key: job for key, job in selected.items() if has_real_salary(job.get("salary", "")) and not salary_exceeds_limit(job.get("salary", ""), job.get("description", ""))}
+    # Preserva vagas do dia, inclusive as marcadas como "A combinar".
+    selected = {key: job for key, job in selected.items() if (has_real_salary(job.get("salary", "")) or normalize_salary_text(job.get("salary", "")) == "a combinar") and not salary_exceeds_limit(job.get("salary", ""), job.get("description", ""))}
 
     print("📥 Baixando feed do WhatJobs...")
     try:
@@ -285,7 +286,8 @@ def main():
     except requests.RequestException as e:
         raise SystemExit(f"❌ Erro ao baixar o feed: {e}")
 
-    candidates = {}
+    candidates_with_salary = {}
+    candidates_without_salary = {}
 
     with gzip.open(io.BytesIO(response.content), "rb") as f:
         for event, elem in ET.iterparse(f, events=("end",)):
@@ -294,27 +296,48 @@ def main():
             job = build_job(elem)
             if job:
                 key = job_key(job)
-                candidates[key] = job
+                if has_real_salary(job.get("salary", "")):
+                    target = candidates_with_salary
+                    other = candidates_without_salary
+                else:
+                    target = candidates_without_salary
+                    other = candidates_with_salary
+                if key in other:
+                    if has_real_salary(job.get("salary", "")):
+                        other.pop(key, None)
+                    else:
+                        elem.clear()
+                        continue
+                if key not in target:
+                    target[key] = job
             elem.clear()
 
-    # Atualiza o conteúdo dos jobs que já foram selecionados hoje.
-    for key in list(selected):
-        if key in candidates:
-            selected[key] = candidates[key]
+    # Atualiza os registros do dia. Uma informação salarial nova sempre prevalece.
+    all_candidates = {**candidates_without_salary, **candidates_with_salary}
+    all_selected = dict(selected)
+    for key, incoming in all_candidates.items():
+        existing = all_selected.get(key)
+        if (
+            existing is None
+            or has_real_salary(incoming.get("salary", ""))
+            or not has_real_salary(existing.get("salary", ""))
+        ):
+            all_selected[key] = incoming
 
-    # Completa a cota diária com as vagas mais novas do dia.
-    novos = [
-        job for key, job in candidates.items()
-        if key not in selected
-    ]
-    novos.sort(key=lambda j: (j.get("data_publicacao", ""), j.get("data_atualizacao", "")), reverse=True)
+    # Primeiro as vagas com salário; depois as vagas "A combinar".
+    salary_selected = sorted(
+        ((key, job) for key, job in all_selected.items() if has_real_salary(job.get("salary", ""))),
+        key=lambda item: (item[1].get("data_publicacao", ""), item[1].get("data_atualizacao", "")),
+        reverse=True,
+    )
+    no_salary_selected = sorted(
+        ((key, job) for key, job in all_selected.items() if not has_real_salary(job.get("salary", ""))),
+        key=lambda item: (item[1].get("data_publicacao", ""), item[1].get("data_atualizacao", "")),
+        reverse=True,
+    )
+    selected = dict((salary_selected + no_salary_selected)[:MAX_JOBS_PER_DAY])
+    jobs = list(selected.values())
 
-    for job in novos:
-        if len(selected) >= MAX_JOBS_PER_DAY:
-            break
-        selected[job_key(job)] = job
-
-    jobs = list(selected.values())[:MAX_JOBS_PER_DAY]
     if not jobs:
         raise SystemExit("ERRO: nenhuma vaga com remuneração válida; os arquivos anteriores serão preservados.")
 
@@ -331,7 +354,8 @@ def main():
 
     save_state(today, selected)
 
-    print(f"✅ Vagas encontradas hoje: {len(candidates)}")
+    print(f"✅ Candidatas com salário: {len(candidates_with_salary)}")
+    print(f"✅ Candidatas A combinar: {len(candidates_without_salary)}")
     print(f"✅ Vagas selecionadas na cota do dia: {len(jobs)}")
     print(f"📄 Gerado: {output_path}")
 
